@@ -1,0 +1,22 @@
+{
+  "name": "Climbable Ropes for Create Aeronautics",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "curseforge",
+  "sources": {
+    "curseforge": {
+      "id": "1528764",
+      "slug": "create-aeronautics-climbable-ropes",
+      "versionId": "8037462",
+      "versionNumber": "[1.4.1] Climbable Ropes",
+      "filename": "climbable_ropes-1.4.1.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/8037/462/climbable_ropes-1.4.1.jar",
+      "sha1": "a239428e27e8307e9f2b77eceae92f775e787ae4",
+      "fileSize": 24117
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Cosmetic Armor Reworked",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "curseforge",
+  "sources": {
+    "curseforge": {
+      "id": "237307",
+      "slug": "cosmetic-armor-reworked",
+      "versionId": "5610814",
+      "versionNumber": "cosmeticarmorreworked-1.21.1-v1-neoforge.jar",
+      "filename": "cosmeticarmorreworked-1.21.1-v1-neoforge.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/5610/814/cosmeticarmorreworked-1.21.1-v1-neoforge.jar",
+      "sha1": "5f1e699cd0888b857ec63f01adaeb3571848bfea",
+      "fileSize": 92722
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

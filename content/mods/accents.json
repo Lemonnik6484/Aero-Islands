@@ -1,0 +1,23 @@
+{
+  "name": "Accents",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "fALx4O2Q",
+      "slug": "accents",
+      "versionId": "djiz0JhA",
+      "versionNumber": "2.0.3",
+      "filename": "accents-neoforge-1.21.1-2.0.3.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/fALx4O2Q/versions/djiz0JhA/accents-neoforge-1.21.1-2.0.3.jar",
+      "sha1": "88e4a101f35d7c3c4e0e6859aaf5473327eb8f39",
+      "sha512": "b1b2947e95c4fea1ebd34cfc9b71c3f2821eec4f33785941c6d8799a6d7c5893b48185715a7df0d153e345f8d45ff699aa072ded427c968a85d8b64bbe8ea092",
+      "fileSize": 671144
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

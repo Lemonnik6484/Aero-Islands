@@ -1,0 +1,23 @@
+{
+  "name": "Chat Notify",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "Iudurxl8",
+      "slug": "chatnotify",
+      "versionId": "7wyQk14P",
+      "versionNumber": "2.6.9+1.21.1",
+      "filename": "chatnotify-neoforge-2.6.9+1.21.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/Iudurxl8/versions/7wyQk14P/chatnotify-neoforge-2.6.9%2B1.21.1.jar",
+      "sha1": "d77a70b27bee9d16f29b68d7bf1f45059fbbed30",
+      "sha512": "d1ec4bba2d715fa601c67597a3c82e7b718e6c959177d3d5a78f37f100d8cfbfa96529c224974481c1a813816bf85e35c2313cf59734cb88c6af62e0f1bf869b",
+      "fileSize": 386273
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

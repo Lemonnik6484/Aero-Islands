@@ -1,0 +1,23 @@
+{
+  "name": "Create Aeronautics: Portable Engine Liquid Fuel",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "HLbPoouI",
+      "slug": "create-aeronautics-portable-engine-liquid-fuel",
+      "versionId": "L6KPVFxI",
+      "versionNumber": "2.0.0",
+      "filename": "portable_engine_liquid_fuel-2.0.0-neoforge-1.21.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/HLbPoouI/versions/L6KPVFxI/portable_engine_liquid_fuel-2.0.0-neoforge-1.21.1.jar",
+      "sha1": "f9602c7f9a8268507a835bfa47db1512d356dae7",
+      "sha512": "f262adfdc441cf718d01549de2f52b81d71492825c4e24e42d5cf87fb02787e8f81a28071995124271caf42eb61840b47beaff6a86e709f74be221572748f7b1",
+      "fileSize": 133486
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

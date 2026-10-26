@@ -1,0 +1,23 @@
+{
+  "name": "Nirvana",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "7vLeZs9H",
+      "slug": "nirvana-mod",
+      "versionId": "OBzDqD6s",
+      "versionNumber": "2.0.11",
+      "filename": "nirvana-forge-2.0.11.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/7vLeZs9H/versions/OBzDqD6s/nirvana-forge-2.0.11.jar",
+      "sha1": "95915c4f41ff1b7880155fe383d37b0e296be202",
+      "sha512": "09409041e7bb4c0a53162491347fa2f140818f7b1ce0846661d24949a20eb02b55faafeb7f69bf417699fcc44211183499a19efe891f4002a2364e12cd90bb41",
+      "fileSize": 3963759
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

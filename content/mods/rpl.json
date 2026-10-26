@@ -1,0 +1,25 @@
+{
+  "name": "Ritchie's Projectile Library",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "B3pb093D",
+      "slug": "rpl",
+      "versionId": "hZ6B2Z0x",
+      "versionNumber": "2.1.2",
+      "filename": "ritchiesprojectilelib-2.1.2+mc.1.21.1-neoforge.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/B3pb093D/versions/hZ6B2Z0x/ritchiesprojectilelib-2.1.2%2Bmc.1.21.1-neoforge.jar",
+      "sha1": "ec2e4996f8bee8714173e603e379fef8a6901765",
+      "sha512": "6d64c84505a5a8fbb96d106603065465c5a2314ec09636900c5c1a31014c12fa68f1a41e758313cbf0d6f95d9a1f53bd67339020f7d8db0e184c23f66aee0330",
+      "fileSize": 76369
+    }
+  },
+  "dependents": [
+    "GWp4jCJj"
+  ],
+  "clientSide": "required",
+  "serverSide": "required"
+}

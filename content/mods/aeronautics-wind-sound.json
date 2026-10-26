@@ -1,0 +1,23 @@
+{
+  "name": "Aeronautics Wind Sound",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "XU9MYvTx",
+      "slug": "aeronautics-wind-sound",
+      "versionId": "9p7pjRKb",
+      "versionNumber": "1.0.1",
+      "filename": "aeronautics_windsound-1.0.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/XU9MYvTx/versions/9p7pjRKb/aeronautics_windsound-1.0.1.jar",
+      "sha1": "85217302bce01231cbed608a2edfecc1f2cb2a81",
+      "sha512": "2a0cab5a1ca696443677a8b9b41c4ebf4a92deffde8c61ae7a02ebb576690161f7c19daab9cf7b95a52628d017ef6b25304354997d3893410363c6b1b0e32ee9",
+      "fileSize": 2090769
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

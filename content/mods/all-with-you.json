@@ -1,0 +1,23 @@
+{
+  "name": "All with You",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "NMsnUhE6",
+      "slug": "all-with-you",
+      "versionId": "HnYtIP48",
+      "versionNumber": "1.3.2",
+      "filename": "all_with_you-1.3.2.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/NMsnUhE6/versions/HnYtIP48/all_with_you-1.3.2.jar",
+      "sha1": "9923721a3515db00f5599e83716ed50814c19200",
+      "sha512": "6aaf75dc6cef5b2c4735e0dfabbe052e857dee54c63cf25fc08cb6ad6e4f3fac012de8a66604d4cd6ee563e3618c65cf7c17fed290734ebbddd50b70aaeb6c56",
+      "fileSize": 98293
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

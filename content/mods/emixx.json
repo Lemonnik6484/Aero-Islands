@@ -1,0 +1,23 @@
+{
+  "name": "EMI++",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "AWMWYMwC",
+      "slug": "emixx",
+      "versionId": "AwvnugPB",
+      "versionNumber": "2.1.0",
+      "filename": "emixx-2.1.0.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/AWMWYMwC/versions/AwvnugPB/emixx-2.1.0.jar",
+      "sha1": "e7b9188675a1acfe6b7132cab2f941a3f2766208",
+      "sha512": "a44d9a9f3fd6a3112cafd84facbed8fc330ac7498f8be102d0ea1e12bb669b04728c8f89396d9225369bfe9141253429094c2bb23d548a0f7d79da0f24fd463a",
+      "fileSize": 136465
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

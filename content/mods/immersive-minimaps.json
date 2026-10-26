@@ -1,0 +1,23 @@
+{
+  "name": "Immersive Minimaps",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "CbCN2Azx",
+      "slug": "immersive-minimaps",
+      "versionId": "Khh4xFug",
+      "versionNumber": "1.2.4+1.21.1-fabric",
+      "filename": "immersiveminimaps-1.2.4+1.21.1-fabric.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/CbCN2Azx/versions/Khh4xFug/immersiveminimaps-1.2.4%2B1.21.1-fabric.jar",
+      "sha1": "7c3593c34c20096ad9b35b6e95ac9e85eca30f73",
+      "sha512": "42a3b9e7ba7b36503f233bb13b287b5da077d8b82a6c487e9463b8c53bed9622460eab13f7788b1ed96fd8aafcbc9e4bbef5cdd6b84e4672bc269f8341494b23",
+      "fileSize": 351827
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

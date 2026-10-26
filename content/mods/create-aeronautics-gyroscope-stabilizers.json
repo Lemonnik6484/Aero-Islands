@@ -1,0 +1,23 @@
+{
+  "name": "Create Aeronautics: Gyro Stabilizers",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "JcEFpckH",
+      "slug": "create-aeronautics-gyroscope-stabilizers",
+      "versionId": "9P9dNVUn",
+      "versionNumber": "1.2.2",
+      "filename": "Create Aeronautics Gyroscope Stabilizers.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/JcEFpckH/versions/9P9dNVUn/Create%20Aeronautics%20Gyroscope%20Stabilizers.jar",
+      "sha1": "2629c09571cf4378c99b76dad57780e04ae9f619",
+      "sha512": "5f763963b5e11863980494b9e140437512d91f7033adc0cb80af8a784579792f34c6691ed2787d02160c3a1dabc07a509d7109e62d7d7535ad53309426d774cb",
+      "fileSize": 300793
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

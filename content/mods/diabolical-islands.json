@@ -1,0 +1,23 @@
+{
+  "name": "Diabolical Islands",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "t9gPp1Gu",
+      "slug": "diabolical-islands",
+      "versionId": "MonIzXwI",
+      "versionNumber": "1.0.0+mod",
+      "filename": "diabolical-islands-1.0.0.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/t9gPp1Gu/versions/MonIzXwI/diabolical-islands-1.0.0.jar",
+      "sha1": "31c9067be88e3fc603724c73ee7f0151ae7f0bc8",
+      "sha512": "8bcbd8b3c00817eb1b67cb9fdc39ad3ac89fecfc30760544fb8b61f6acdba8a11762f984c12a48b8fe1bdd90641c6cae42f13cf8abf11ecccffd0f0a55179dec",
+      "fileSize": 297053
+    }
+  },
+  "dependents": [],
+  "clientSide": "optional",
+  "serverSide": "required"
+}

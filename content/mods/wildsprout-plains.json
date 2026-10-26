@@ -1,0 +1,23 @@
+{
+  "name": "WildSprout: Plains",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "3g5zxVME",
+      "slug": "wildsprout-plains",
+      "versionId": "HrNDpu2z",
+      "versionNumber": "1.3.0",
+      "filename": "wildsprout-plains-1.3.0.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/3g5zxVME/versions/HrNDpu2z/wildsprout-plains-1.3.0.jar",
+      "sha1": "0d778b50eb675072f878aec041a00fa465248cf4",
+      "sha512": "73f28b2e675b0b56f67a6fee3fd9b481fc39f687b14b0e85b10614ec2bd52828b983e31c8668dee2d8097707f58c58c0bb105e54e53e57bcb05c06335afa754a",
+      "fileSize": 2434601
+    }
+  },
+  "dependents": [],
+  "clientSide": "unsupported",
+  "serverSide": "required"
+}

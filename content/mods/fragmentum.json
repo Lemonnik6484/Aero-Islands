@@ -1,0 +1,25 @@
+{
+  "name": "Fragmentum",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "49C5QgTK",
+      "slug": "fragmentum",
+      "versionId": "kCXNhuIV",
+      "versionNumber": "5.4.0",
+      "filename": "fragmentum-5.4.0+1.21.1-neoforge.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/49C5QgTK/versions/kCXNhuIV/fragmentum-5.4.0%2B1.21.1-neoforge.jar",
+      "sha1": "711f46b591cbee203e68cf023277dae9060725f8",
+      "sha512": "426b3a7f2085266ae231d7ef81092baabb0409bbf222b9220472dd3ba482840a0850047aabc4b59d20fd65170ec9920559d29df6527d8119ecf02c69cfa78e53",
+      "fileSize": 7815344
+    }
+  },
+  "dependents": [
+    "fALx4O2Q"
+  ],
+  "clientSide": "required",
+  "serverSide": "required"
+}

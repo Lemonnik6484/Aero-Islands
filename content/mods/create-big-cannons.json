@@ -1,0 +1,25 @@
+{
+  "name": "Create Big Cannons",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "GWp4jCJj",
+      "slug": "create-big-cannons",
+      "versionId": "bOiDu0LS",
+      "versionNumber": "5.11.7",
+      "filename": "createbigcannons-5.11.7+mc.1.21.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/GWp4jCJj/versions/bOiDu0LS/createbigcannons-5.11.7%2Bmc.1.21.1.jar",
+      "sha1": "c90ee0b2142e2c58d233e150cb3a24c7cb07eb2d",
+      "sha512": "24f414dfbb973a0f4d9c9b2aa059edc7bed4d23b4f39eb1f7d23a1d6b437e3b5d64cca6e4b85ff7eb2815743fa711d54ad652bffe96d1eb1234544716006440d",
+      "fileSize": 3771506
+    }
+  },
+  "dependents": [
+    "BLu2Yqfq"
+  ],
+  "clientSide": "required",
+  "serverSide": "required"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Sable: Ragdoll Corpse",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "uetGbPKW",
+      "slug": "sable-ragdoll-corpse",
+      "versionId": "DwA6a1pT",
+      "versionNumber": "0.3.0",
+      "filename": "ragdoll_corpse-1.21.1-0.3.0.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/uetGbPKW/versions/DwA6a1pT/ragdoll_corpse-1.21.1-0.3.0.jar",
+      "sha1": "de18acfec47517ec51c3d6692e5d5167661da7d4",
+      "sha512": "1a65ea95bbaa171611f57a4ef448064a9f0d8c6a13f2d6ef56c1001ef0df469ff42eb471e3d6d6fe3e23141f57f09fae64cc18175db60e8e32bb792531ff82b4",
+      "fileSize": 885971
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

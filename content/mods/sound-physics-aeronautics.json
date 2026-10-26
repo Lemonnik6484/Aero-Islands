@@ -1,0 +1,23 @@
+{
+  "name": "Sound Physics: Aeronautics",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "JHKPj7kB",
+      "slug": "sound-physics-aeronautics",
+      "versionId": "MDdwFCrR",
+      "versionNumber": "2.0.1",
+      "filename": "sound-physics-aeronautics-2.0.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/JHKPj7kB/versions/MDdwFCrR/sound-physics-aeronautics-2.0.1.jar",
+      "sha1": "0f711a13f2b0360eb0a54a1a7d6db71570c5f4d3",
+      "sha512": "6094e12d5c4ef8957e20867153872b3bdbcea202a4924296c8767672d3aeb7a34354d13fa78eb6b80dacd1b1fbb4e9fb13e5b3f2585644813b0a6decaa8d3fb1",
+      "fileSize": 6075478
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "optional"
+}
