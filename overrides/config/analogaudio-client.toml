@@ -1,0 +1,7 @@
+[visuals]
+	#Enables the cassette block (cassette deck + radio) animation.
+	enableCassetteAnimation = true
+	#Enables the speaker block animation.
+	enableSpeakerAnimation = true
+	#Enables text rendering on cassettes in the deck/radio.
+	renderCassetteText = true

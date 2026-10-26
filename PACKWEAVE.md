@@ -27,7 +27,7 @@
 - [Chunky](https://modrinth.com/project/chunky) `1.4.23`
 - [Clear Void](https://modrinth.com/project/clear-void) `1.3.1`
 - [Client Sort](https://modrinth.com/project/clientsort) `3.89.2+1.21.1`
-- Climbable Ropes for Create Aeronautics `[1.4.1] Climbable Ropes` (curseforge)
+- Climbable Ropes for Create Aeronautics `[2.2.0] Climbable Ropes` (curseforge)
 - [Cloth Config API](https://modrinth.com/project/cloth-config) `15.0.140+neoforge`
 - [Concurrent Chunk Management Engine (NeoForge)](https://modrinth.com/project/c2me-neoforge) `0.4.0-alpha.0.123+1.21.1`
 - [Controlling](https://modrinth.com/project/controlling) `19.0.5`
@@ -122,7 +122,7 @@
 - [Strut Your Stuff (Struts)](https://modrinth.com/project/strut-your-stuff) `1.3.1`
 - [SuperMartijn642's Config Lib](https://modrinth.com/project/supermartijn642s-config-lib) `1.1.8-neoforge-mc1.21`
 - [Supplementaries](https://modrinth.com/project/supplementaries) `1.21.1-4.0.2`
-- [Surveyor Map Framework](https://modrinth.com/project/surveyor) `1.2.1+1.21`
+- [Surveyor Map Framework](https://modrinth.com/project/surveyor) `1.2.4+1.21`
 - [Tree Physics](https://modrinth.com/project/tree-physics) `neoforge-2.4`
 - [vista](https://modrinth.com/project/vista_tv) `1.21.1-5.5.7`
 - [voxy](https://modrinth.com/project/voxy) `0.2.16-beta`

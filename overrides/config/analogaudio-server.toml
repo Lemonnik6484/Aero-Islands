@@ -1,0 +1,7 @@
+[general]
+	#Enables the filter and static for walkie talkies and speakers.
+	enableWalkieFiltering = true
+	#List of domains for audio URLs. Used as a whitelist by default, or a blacklist if 'whitelistAsBlacklist' is true.
+	whitelistedUrls = ["youtube.com", "youtu.be", "soundcloud.com", "bandcamp.com", "catbox.moe"]
+	#If true, the 'whitelistedUrls' list will be treated as a blacklist instead of a whitelist.
+	whitelistAsBlacklist = false

@@ -1,0 +1,4 @@
+#Minimum skylight level (0-15). Visible brightness still fades with vanilla dawn and dusk darkness.
+# Default: 10
+# Range: 0 ~ 15
+minSkylightLevel = 10

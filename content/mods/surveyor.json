@@ -8,13 +8,13 @@
     "modrinth": {
       "id": "4KjqhPc9",
       "slug": "surveyor",
-      "versionId": "6UH2PpaK",
-      "versionNumber": "1.2.1+1.21",
-      "filename": "surveyor-1.2.1+1.21.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/4KjqhPc9/versions/6UH2PpaK/surveyor-1.2.1%2B1.21.jar",
-      "sha1": "892e8facea99750150354c00981e99dd807baf47",
-      "sha512": "72f3f999cf4d8311e821652d82eafbce1e87e22d7734c80b8cfde504c7a28cf1081dde92aacea6c6d9669a3047eef85b5d9c6ff95b80a6e88b8e3676df4e81fa",
-      "fileSize": 602331
+      "versionId": "egJBsDTn",
+      "versionNumber": "1.2.4+1.21",
+      "filename": "surveyor-1.2.4+1.21.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/4KjqhPc9/versions/egJBsDTn/surveyor-1.2.4%2B1.21.jar",
+      "sha1": "77e9d3996c11eed104fe224c3ba706be1c759303",
+      "sha512": "3a91efbc596db7192792de069e814aeb3e9e1d771267ea5a5d4371b1311bef26a7f9bd02a28619026c23e4df702d99a1bbaaf732e06179dd4999dbd01aaf920c",
+      "fileSize": 602264
     }
   },
   "dependents": [

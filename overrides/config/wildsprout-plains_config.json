@@ -1,0 +1,36 @@
+{
+	"config_version": 2,
+	// -----------Enable and disable biomes-----------
+	"PlainsEnabled": true,
+	"SunFlowerPlainsEnabled": true,
+	"SnowyPlainsEnabled": true,
+	// -----------Disable features-----------
+	//
+	// Enables or disables Snow being able to generate on ice
+	// It is not recommended to disable this after world generation
+	"SnowOnIceEnabled": true,
+	// Enables or disables snow generating in layers in the snowy plains
+	"LayeredSnowEnabled": true,
+	// Enables or disables wheat fields generating in the plains and sunflower plains
+	"WheatFieldsEnabled": true,
+	// Enables or disables berry patches generating in the snowy plains
+	"BerryPatchesEnabled": true,
+	// Enables or disables bushes generating in all the plains biomes
+	"BushesEnabled": true,
+	// Enables or disables dirt patches generating in all the plains biomes
+	"DirtPatchesEnabled": true,
+	// Enables or disables boulders generating all the plains biomes
+	"BouldersEnabled": true,
+	// Enables or disables rocks generating in all the plains biomes
+	"RocksEnabled": true,
+	// Enables or disables random paths generating in the plains and sunflower plains
+	"RandomPathsEnabled": true,
+	// Enables or disables lakes generating in the plains and sunflower plains
+	"LakesEnabled": true,
+	// Enables or disables improved pumpkin patches generating in the plains and sunflower plains
+	"ImprovedPumpkinPatch": true,
+	// Enables or disables lava generating in all the plains biomes (lava lakes and springs)
+	"AllowLavaGenInPlains": false,
+	// Enables or disables flower generation in the snowy plains
+	"AllowFlowerGenInSnowyPlains": false
+}
