@@ -1,6 +1,6 @@
 # Aero Islands
 
-**Minecraft 1.21.1 · neoforge 21.1.265**, 125 mods (3 dependencies)
+**Minecraft 1.21.1 · neoforge 21.1.265**, 126 mods (4 dependencies), 1 resource pack
 
 ## Contents
 
@@ -74,6 +74,7 @@
 - [Jade Addons (Neo/Forge)](https://modrinth.com/project/jade-addons-forge) `6.1.2+neoforge`
 - [Jade Sable Compat](https://modrinth.com/project/jade-sable-compat) `1.3.0`
 - [Jade 🔍](https://modrinth.com/project/jade) `15.10.6+neoforge`
+- [JB Mono](https://modrinth.com/project/jb-mono) `1.0`
 - [Just Enough Items (JEI)](https://modrinth.com/project/jei) `19.70.0.460`
 - [Just Zoom](https://modrinth.com/project/just-zoom) `3.1.0-1.21.1-neoforge`
 - [Konkrete](https://modrinth.com/project/konkrete) `1.9.9-1.21-neoforge`
@@ -92,6 +93,7 @@
 - [No Chat Reports](https://modrinth.com/project/no-chat-reports) `NeoForge-1.21.1-v2.9.1`
 - [No Man's Land](https://modrinth.com/project/no-mans-land) `1.6.3`
 - [No Void Structures](https://modrinth.com/project/no-void-structures) `2.0.1+mod`
+- [Paxi](https://modrinth.com/project/paxi) `1.21.1-NeoForge-5.1.3`
 - [Polymorph](https://modrinth.com/project/polymorph) `1.2.0+1.21.1`
 - [Presence Footsteps (NeoForge)](https://modrinth.com/project/pf-neoforge) `1.21.1-1.12.0-beta.1`
 - [Presence Footsteps x Sable (Aeronautics Compat)](https://modrinth.com/project/presence-footsteps-x-sable) `1.0`

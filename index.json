@@ -365,6 +365,10 @@
       "sha1": "0d89f4f22df91f44115f74ccb6d558499eeb9a54"
     },
     {
+      "path": "content/mods/paxi.json",
+      "sha1": "f53a13964a16c88e195f202608cb26afe1559f54"
+    },
+    {
       "path": "content/mods/pf-neoforge.json",
       "sha1": "5a95a252d79a63d12ce0c72f3e193b0818fa26cc"
     },
@@ -507,6 +511,14 @@
     {
       "path": "content/mods/yacl.json",
       "sha1": "bffddbefc31b5e8ee83bb832ddf2fbd278f352de"
+    },
+    {
+      "path": "content/mods/yungs-api.json",
+      "sha1": "abb2cba4b9c88bf0bc630bd3e7fd03285680c83f"
+    },
+    {
+      "path": "content/resourcepacks/jb-mono.json",
+      "sha1": "76d25e3edf7059fa3c75fdeb616a97f02da4441d"
     },
     {
       "path": "overrides/config/CoroUtil/General.toml",

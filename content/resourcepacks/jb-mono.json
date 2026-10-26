@@ -1,0 +1,23 @@
+{
+  "name": "JB Mono",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "BJxeGeoF",
+      "slug": "jb-mono",
+      "versionId": "lLrQaTwo",
+      "versionNumber": "1.0",
+      "filename": "JetBrains Mono.zip",
+      "downloadUrl": "https://cdn.modrinth.com/data/BJxeGeoF/versions/lLrQaTwo/JetBrains%20Mono.zip",
+      "sha1": "c35012c534767a8f4efa897596338406c3e8d75e",
+      "sha512": "3da3a8ac0caae0ad89b926b62e2fcb7c1b595d7b26a30a1d948bfbf011c86f6f613bafe4d5863163b5e3fed0a1b38dd199f5290810fd136866b0ed186026efb7",
+      "fileSize": 133870
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

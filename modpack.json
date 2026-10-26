@@ -5,5 +5,6 @@
   "loader": "neoforge",
   "loaderVersion": "21.1.265",
   "channel": "release",
+  "datapacks": "datapacks",
   "formatVersion": 1
 }
