@@ -171,12 +171,12 @@
 		#How many autocannon rounds the Autocannon Ammo Container can store.
 		# Default: 64
 		# Range: 1 ~ 128
-		autocannonAmmoContainerAutocannonRoundCapacity = 16
+		autocannonAmmoContainerAutocannonRoundCapacity = 64
 		#.
 		#How many machine gun rounds the Autocannon Ammo Container can store.
 		# Default: 128
 		# Range: 1 ~ 128
-		autocannonAmmoContainerMachineGunRoundCapacity = 64
+		autocannonAmmoContainerMachineGunRoundCapacity = 128
 		#.
 		#The strength multiplier of autocannon projectile impacts (excluding machine gun rounds) on physics objects (i.e. from Sable, Valkyrien Skies).
 		# Default: 0.10000000149011612
@@ -210,7 +210,7 @@
 	#.
 	# Default: 1.0
 	# Range: 0.0 ~ 3.4028234663852886E38
-	bigCannonRecoilScale = 4.0
+	bigCannonRecoilScale = 1.0
 	#.
 	# Default: 0.5
 	# Range: 0.0 ~ 3.4028234663852886E38

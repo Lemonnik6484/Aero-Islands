@@ -1,6 +1,5 @@
 {
   "enabledIntegrations": {
-    "farmersdelight": true,
-    "chipped": true
+    "farmersdelight": true
   }
 }

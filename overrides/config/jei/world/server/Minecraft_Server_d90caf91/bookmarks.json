@@ -1,6 +1,0 @@
-[
-  {"version":2},
-  {"ingredient":{"id":"simulated:laser_pointer"},"type":"item_stack","bookmarkType":"INGREDIENT"},
-  {"ingredient":{"id":"offroad:large_tire"},"type":"item_stack","bookmarkType":"INGREDIENT"},
-  {"ingredient":{"id":"aeronautics:mounted_potato_cannon"},"type":"item_stack","bookmarkType":"INGREDIENT"}
-]

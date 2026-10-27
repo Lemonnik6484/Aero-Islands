@@ -28,9 +28,3 @@ enablePlayerSuppliedAudio = false
 
 # Enables disclaimers for different audio types on cassette tapes.
 cassetteTapeDisclaimers = true
-
-# Disables the welcome screen prompting you to install Lavaplayer. Highly recommended you don't disable this unless you know what you're doing.
-lavaplayerWelcomeScreen = true
-
-# Whether a lavaplayer download attempt has been made.
-lavaplayerDownloadAttempted = true

@@ -47,12 +47,6 @@
 	# Default: 300
 	# Range: 0 ~ 5000
 	minStartDistance = 300
-	#Quest generation mode. Controls how quest information (name, reward, schematic, weight) is selected:
-	#  - 'CUSTOM': Loads full, structured quests directly from 'config/aeronautics_delivery_quests/custom_quests.json'. These are spawned exactly as defined by the server administrator.
-	#  - 'PROCEDURAL': Dynamically mixes and matches components. It randomly picks names, descriptions, weights, schematics, and rewards from different templates in 'custom_quests.json'.
-	#  - Fallback: If 'custom_quests.json' is missing, empty, or invalid, both modes auto-fallback to procedural generation drawing from 6+ default schematics and 5+ default balanced template definitions.
-	#Allowed Values: CUSTOM, PROCEDURAL
-	questGenerationMode = "CUSTOM"
 	#Enables the sparse-terrain RANDOM search used by floating-island worlds.
 	#The search checks several positions in each candidate chunk and processes only one chunk at a time.
 	#Water is rejected in every mode regardless of this setting.
@@ -62,6 +56,12 @@
 	# Default: 96
 	# Range: 20 ~ 512
 	randomSearchAttempts = 96
+	#Quest generation mode. Controls how quest information (name, reward, schematic, weight) is selected:
+	#  - 'CUSTOM': Loads full, structured quests directly from 'config/aeronautics_delivery_quests/custom_quests.json'. These are spawned exactly as defined by the server administrator.
+	#  - 'PROCEDURAL': Dynamically mixes and matches components. It randomly picks names, descriptions, weights, schematics, and rewards from different templates in 'custom_quests.json'.
+	#  - Fallback: If 'custom_quests.json' is missing, empty, or invalid, both modes auto-fallback to procedural generation drawing from 6+ default schematics and 5+ default balanced template definitions.
+	#Allowed Values: CUSTOM, PROCEDURAL
+	questGenerationMode = "CUSTOM"
 
 [announcements]
 	#Whether to broadcast to the server when a player accepts a quest.

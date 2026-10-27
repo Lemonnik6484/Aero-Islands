@@ -1,4 +1,10 @@
 ["Backpack Settings"]
+	#Should skeletons have a chance to spawn with a backpack on their back?
+	enableZombieSpawnWithBackpack = true
+	#The chance that a skeleton will spawn with a backpack.
+	# Default: 0.02
+	# Range: 0.0 ~ 1.0
+	zombieBackpackSpawnChance = 0.02
 	#Maximum capacity (weight) of the backpack. Vanilla bundle is 64. Default is 256 (4 stacks).
 	# Default: 256
 	# Range: 64 ~ 1024
@@ -21,9 +27,3 @@
 	# Default: 8
 	# Range: 4 ~ 36
 	weight_4 = 8
-	#Should skeletons have a chance to spawn with a backpack on their back?
-	enableZombieSpawnWithBackpack = true
-	#The chance that a skeleton will spawn with a backpack.
-	# Default: 0.02
-	# Range: 0.0 ~ 1.0
-	zombieBackpackSpawnChance = 0.02

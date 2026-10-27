@@ -30,6 +30,3 @@ streamOverlap = false
 # Tolerance window in ticks for identifying whether multiple emitters are part of the same broadcast session.
 transmissionMergeThresholdTicks = 100
 
-# Disables the welcome screen prompting you to install audio dependencies. Highly recommended you don't disable this unless you know what you're doing.
-dependencyWelcomeScreen = true
-

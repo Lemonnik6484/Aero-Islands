@@ -6,9 +6,5 @@
 	"smartHeuristics": true,
 	"handleSystemMessages": true,
 	"drawShadow": true,
-	"nameAliases": {
-		"<Haxalotl>": "wired",
-		"<Matthew_Bug>": "it",
-		"<Lemonniik>": "it"
-	}
+	"nameAliases": { }
 }

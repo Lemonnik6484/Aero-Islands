@@ -90,10 +90,6 @@
     "block_properties": false,
     "mod_name": true
   },
-  "petrolpark": {
-    "drying_rack": true,
-    "contamination": true
-  },
   "balm": {
     "jade": true
   }

@@ -125,9 +125,7 @@
         "matchTransferPolicy": "KEYBIND",
         "transferPolicy": "KEYBIND_BUTTON",
         "autoOpOther": false,
-        "ignoredSlots": [
-          0
-        ]
+        "ignoredSlots": []
       },
       "net.minecraft.world.inventory.PlayerEnderChestContainer": {
         "className": "net.minecraft.world.inventory.PlayerEnderChestContainer",

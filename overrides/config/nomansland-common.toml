@@ -1,5 +1,7 @@
 #For configuring the mob remodels, go to the mixed litter startup config!
 [overrides]
+	#If using a hoe/shovel on plants tills/paths the blocks below it
+	farmlandPathTweaks = true
 	#If grass or mycelium spread to nearby dirt.
 	grassSpreads = true
 	myceliumSpreads = true
@@ -11,8 +13,6 @@
 	torchExtinguishing = true
 	#If snow and grass can combine to form snowlogged frosted grass.
 	allowGrassFrosting = true
-	#If using a hoe/shovel on plants tills/paths the blocks below it
-	farmlandPathTweaks = true
 
 [biomes]
 	#If any custom biomes are enabled

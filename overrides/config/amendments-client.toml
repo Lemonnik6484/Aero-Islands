@@ -54,6 +54,10 @@
 	#Makes tipped arrows show their colors when loaded with a crossbow
 	crossbows_colors = true
 
+[buckets]
+	#Axolotl buckets show the color of the axolotl inside
+	axolotl_variants = true
+
 [tripwire_hook]
 	#Makes hooks render faster using a block model instead of tile renderer. Cost is that animated and enchanted items will appear static
 	fast_hooks = false
@@ -80,6 +84,8 @@
 [lantern]
 	#Makes wall lantern use a simple block model instead of the animated tile entity renderer. This will make them render much faster but will also remove the animationNote that this option only affect lanterns close by as the one far away render as fast by default
 	fast_lanterns = false
+	#Shades swinging wall lanterns like an item instead of like a block. Makes them look the same on every wall, but loses ambient occlusion
+	entity_shading = true
 	#Size lanterns when held in hand
 	# Default: 0.625
 	# Range: 0.0 ~ 2.0
@@ -88,8 +94,6 @@
 	lantern_item_holding = true
 	#Makes lantern holding animation have the arm angled more upwards. Looks better if you have dynamic lights on
 	lantern_item_holding_up = false
-	#Shades swinging wall lanterns like an item instead of like a block. Makes them look the same on every wall, but loses ambient occlusion
-	entity_shading = true
 
 	[lantern.swing_physics]
 		min_angle = 0.7999999523162842
@@ -117,6 +121,8 @@
 	# Default: 1.0
 	# Range: 0.0 ~ 2.0
 	torch_item_size = 1.0
+	#Renders a flame particle on top of held torches
+	torch_item_flame = false
 	#Gives a special animation to supplementaries candle holders when held in hand
 	candle_holder_item_holding = true
 	#Size lanterns when held in hand
@@ -127,15 +133,9 @@
 	fixed_holding_animations = false
 	#Prevents campfire smoke from rendering if there is a solid block above it
 	campfire_smoke_through_blocks = false
-	#Renders a flame particle on top of held torches
-	torch_item_flame = false
 	#Gives the villager trade buttons the same look loom and stonecutter buttons have
 	villager_trade_buttons = true
 	#Makes the selected hotbar slot slide to its new position. Higher is faster, 0 for vanilla behavior
 	# Default: 2.5
 	# Range: 0.0 ~ 5.0
 	hotbar_slot_animation_speed = 2.5
-
-[buckets]
-	#Axolotl buckets show the color of the axolotl inside
-	axolotl_variants = true

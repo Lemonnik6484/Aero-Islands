@@ -1,6 +1,5 @@
 {
   "balm:jade": null,
-  "create_mobile_packages:bee_port": null,
   "exposure:lightroom": null,
   "exposure:photograph_frame": null,
   "jade:block_face": null,
@@ -75,8 +74,6 @@
   "minecraft:villager_profession": null,
   "minecraft:waxed": null,
   "minecraft:zombie_villager": null,
-  "petrolpark:contamination": null,
-  "petrolpark:drying_rack": null,
   "sable_player_ragdoll:mob_ragdoll_part": null,
   "sable_player_ragdoll:mob_ragdoll_part_data": null,
   "sable_player_ragdoll:ragdoll_part": null,

@@ -18,9 +18,6 @@ version = 3
 # 
 defaultGlobalExecutorParallelismExpression = "default"
 # ================================================================
-# (Default: 5) Configures the parallelism of global executor
-globalExecutorParallelism = "default"
-# ================================================================
 # (Default: LOW) Sets the thread priority preset for worker threads
 # 
 # Available presets:
@@ -51,6 +48,9 @@ globalExecutorParallelism = "default"
 # Please preserve quotes so the config don't break
 # 
 threadPoolPriorityPreset = "default"
+# ================================================================
+# (Default: 5) Configures the parallelism of global executor
+globalExecutorParallelism = "default"
 
 [fixes]
 	# ================================================================
@@ -73,17 +73,6 @@ threadPoolPriorityPreset = "default"
 	# 
 	disableLoggingShutdownHook = "default"
 
-[ioSystem]
-	# ================================================================
-	# (Default: true) Whether to use the optimized implementation of IO system
-	replaceImpl = "default"
-	# ================================================================
-	# (Default: 8192) Soft limit for io worker nbt cache
-	chunkDataCacheSoftLimit = "default"
-	# ================================================================
-	# (Default: 32678) Hard limit for io worker nbt cache
-	chunkDataCacheLimit = "default"
-
 [vanillaWorldGenOptimizations]
 	# ================================================================
 	# (Default: true) Whether to use density function compiler to accelerate world generation
@@ -100,6 +89,12 @@ threadPoolPriorityPreset = "default"
 	# 
 	useDensityFunctionCompiler = "default"
 	# ================================================================
+	# (Default: true) Enables the built-in integrations with other worldgen mods in density function compiler.
+	# 
+	# Depends on vanillaWorldGenOptimizations.useDensityFunctionCompiler
+	# 
+	enableBuiltinDFCIntegrations = "default"
+	# ================================================================
 	# (Default: true) Whether to enable aquifer optimizations to accelerate overworld worldgen
 	# (may cause incompatibility with other mods)
 	optimizeAquifer = "default"
@@ -115,12 +110,6 @@ threadPoolPriorityPreset = "default"
 	# (Default: true) Whether to enable StructureWeightSampler optimizations to accelerate world generation
 	# 
 	optimizeStructureWeightSampler = "default"
-	# ================================================================
-	# (Default: true) Enables the built-in integrations with other worldgen mods in density function compiler.
-	# 
-	# Depends on vanillaWorldGenOptimizations.useDensityFunctionCompiler
-	# 
-	enableBuiltinDFCIntegrations = "default"
 
 [chunkSystem]
 	# ================================================================
@@ -264,3 +253,14 @@ threadPoolPriorityPreset = "default"
 		# Note: The server must advertise support this protocol for this to work
 		# 
 		enableExtRenderDistanceProtocol = "default"
+
+[ioSystem]
+	# ================================================================
+	# (Default: true) Whether to use the optimized implementation of IO system
+	replaceImpl = "default"
+	# ================================================================
+	# (Default: 8192) Soft limit for io worker nbt cache
+	chunkDataCacheSoftLimit = "default"
+	# ================================================================
+	# (Default: 32678) Hard limit for io worker nbt cache
+	chunkDataCacheLimit = "default"

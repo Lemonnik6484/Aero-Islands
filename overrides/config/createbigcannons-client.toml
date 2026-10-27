@@ -24,6 +24,8 @@
 	#- Adaptive debris particles (splinters, leaves, glass shards)
 	useShaderCompatibleGraphics = false
 	#.
+	enableEmissiveTracers = false
+	#.
 	#The vision range though molten metal will be multiplied by this factor.
 	# Default: 1.0
 	# Range: 0.125 ~ 256.0
@@ -35,8 +37,6 @@
 	blastEffectDelaySpeed = 320.0
 	#.
 	highlightFuzeInputOnShellBlocks = true
-	#.
-	enableEmissiveTracers = false
 
 	#.
 	#Projectile Flyby Sounds

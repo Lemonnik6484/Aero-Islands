@@ -121,6 +121,14 @@
 	#Allow banners to be placed on ceilings
 	ceiling_banners = true
 
+[connections]
+	#Makes fences connect to walls, panes and iron bars
+	fences_to_walls_and_bars = true
+	#Makes wooden fences connect to nether brick fences
+	wooden_to_nether_fences = true
+	#Makes fences, walls, panes and bars connect to wall signs attached to them
+	wall_signs = true
+
 [misc]
 	#Allows dying blocks by right clicking them with dye
 	dye_blocks = false
@@ -142,11 +150,3 @@
 [lily_pad]
 	#Allows lilypads to have any block placed ontop
 	better_lilypads = true
-
-[connections]
-	#Makes fences connect to walls, panes and iron bars
-	fences_to_walls_and_bars = true
-	#Makes wooden fences connect to nether brick fences
-	wooden_to_nether_fences = true
-	#Makes fences, walls, panes and bars connect to wall signs attached to them
-	wall_signs = true

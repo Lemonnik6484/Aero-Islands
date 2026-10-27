@@ -525,10 +525,6 @@
       "sha1": "3bd7d98616d2c4ff4ee7c8e12257bf7e5891d955"
     },
     {
-      "path": "overrides/config/DistantHorizons.toml",
-      "sha1": "750018ae55f49c89c00048f857e6de6ecec8b4d3"
-    },
-    {
       "path": "overrides/config/MouseTweaks.cfg",
       "sha1": "651b3e4db2d430dc1da3566b2984b264061a6794"
     },
@@ -553,44 +549,8 @@
       "sha1": "75d98286a0aa3e180708523c8f582a2d23e590b3"
     },
     {
-      "path": "overrides/config/Weather2/Debug.toml",
-      "sha1": "83d93fc8b2c9be0203b814eb1f74c12e46bc1a49"
-    },
-    {
-      "path": "overrides/config/Weather2/Misc.toml",
-      "sha1": "fe13bf5292a23cd1f0cbde7331f18fd4c7fda298"
-    },
-    {
-      "path": "overrides/config/Weather2/Particle.toml",
-      "sha1": "07dbcd8cbc2379d163c3b2b3a9db42feb14ae255"
-    },
-    {
-      "path": "overrides/config/Weather2/Sand.toml",
-      "sha1": "13823df52f374719c781ef0515bcd0caf6a5b97c"
-    },
-    {
-      "path": "overrides/config/Weather2/Snow.toml",
-      "sha1": "98a7c31d5de85f655b1464b557ebe33c6220b473"
-    },
-    {
-      "path": "overrides/config/Weather2/Sound.toml",
-      "sha1": "bad6c75d14720bb44290b667814d5bb17768c4bc"
-    },
-    {
-      "path": "overrides/config/Weather2/Storm.toml",
-      "sha1": "e4140126e920c570ac66297a0ce8204a9f23674b"
-    },
-    {
-      "path": "overrides/config/Weather2/Tornado.toml",
-      "sha1": "05ece4d15975b509c171633c54376515af09b2e5"
-    },
-    {
-      "path": "overrides/config/Weather2/Wind.toml",
-      "sha1": "475d0537b996c731c6c6e7160cf9071880223c18"
-    },
-    {
       "path": "overrides/config/aero_cam_sync-client.toml",
-      "sha1": "3fce43f0daa63ea8949797658db260ada2fbd38c"
+      "sha1": "e4312be45623c3d34816cc7d2ed069aeef578c56"
     },
     {
       "path": "overrides/config/aeronautics-server.toml",
@@ -598,7 +558,7 @@
     },
     {
       "path": "overrides/config/aeronautics_delivery_quests.toml",
-      "sha1": "75679f31b1c78cc64b34823519389aa4ab91b37a"
+      "sha1": "d98804633778350f1f77d38e786330cdedb9c257"
     },
     {
       "path": "overrides/config/aeronautics_delivery_quests/custom_quests.json",
@@ -610,27 +570,19 @@
     },
     {
       "path": "overrides/config/all_with_you-server.toml",
-      "sha1": "f9fdc71b1f717a3b5114e62bd4441ac1944ed705"
+      "sha1": "db887d45e205e8833d8fda369bafe8e3c038ca31"
     },
     {
       "path": "overrides/config/amendments-client.toml",
-      "sha1": "bdcfca0301c0c1200d68f8f83172972d514f1407"
+      "sha1": "68b2768e2684fb956dbd87929a8628992e82628d"
     },
     {
       "path": "overrides/config/amendments-common.toml",
-      "sha1": "90be93d61e598ff4466a402ccb3d0204bad6f983"
-    },
-    {
-      "path": "overrides/config/analogaudio-client.toml",
-      "sha1": "45b8dc1f867634b832862c7d70dc12952b3e073e"
-    },
-    {
-      "path": "overrides/config/analogaudio-server.toml",
-      "sha1": "8812ca8af9f79e961258418dcc2d54b24496aaae"
+      "sha1": "4fdc3e84b8fea78c932674f3db21c37735b9d0bd"
     },
     {
       "path": "overrides/config/analogaudio/analogaudio.client.toml",
-      "sha1": "b60105b4d27edbd93f0654933dc27394240baec1"
+      "sha1": "1607583e5aae51b993b5b2bb590273ad9d8a4c5a"
     },
     {
       "path": "overrides/config/analogaudio/analogaudio.fileserver.toml",
@@ -650,7 +602,7 @@
     },
     {
       "path": "overrides/config/analoglib/analoglib.client.toml",
-      "sha1": "df44747d08c75f8d94461cef95ee0e15041c4994"
+      "sha1": "6767989a870805efce0a31e8c8698835fd7232fc"
     },
     {
       "path": "overrides/config/appleskin-client.toml",
@@ -669,52 +621,28 @@
       "sha1": "03a239160da1dcb089a4311388241d94d6e474be"
     },
     {
-      "path": "overrides/config/barehanded-client.json.backup",
-      "sha1": "714dfa854be250f223b7c98a21fefb11e2beadd0"
-    },
-    {
       "path": "overrides/config/barehanded-server.json",
       "sha1": "e26a9e7c6ec6493fa4e277f1d85c53a09082fe61"
-    },
-    {
-      "path": "overrides/config/barehanded-server.json.backup",
-      "sha1": "27f5a8210604c4241e0c066aa2d79bd26a6b526f"
     },
     {
       "path": "overrides/config/better-advanced-tooltips-client.toml",
       "sha1": "02b1eb43cb55013ca0316287eb7f2f88eaacf4fb"
     },
     {
-      "path": "overrides/config/bits_n_bobs-common.toml",
-      "sha1": "c45ef83620c6d2c3326efb689499d5589fa29840"
-    },
-    {
-      "path": "overrides/config/bits_n_bobs-server.toml",
-      "sha1": "331834923aac6c532aa42d31296f0719e6ccca0f"
-    },
-    {
       "path": "overrides/config/c2me.toml",
-      "sha1": "3af665dd5ee5907910c13af50922ea2395236fb8"
-    },
-    {
-      "path": "overrides/config/cccbridge/client.toml",
-      "sha1": "fe7e03a5917145bafb829925f9b122b73f39f159"
+      "sha1": "b739beb0c3ec32eda0b673fa42572fa69660b260"
     },
     {
       "path": "overrides/config/chat_heads.json5",
-      "sha1": "1e1db5b4bbda3815e6164c7dd44cca4141cc5ce5"
+      "sha1": "1fbe7a72d52b51ca9a8a598cf67ed28caa3ed87f"
     },
     {
       "path": "overrides/config/chatnotify.json",
-      "sha1": "090b93630a8772a93cba8fdfd6198a476390c210"
+      "sha1": "dc006a1ad97b4cea033d220ed6f53e4f38254982"
     },
     {
       "path": "overrides/config/chunky/config.json",
       "sha1": "a8157f2e1e649b891aaccb8ec83d38c84429c82a"
-    },
-    {
-      "path": "overrides/config/chunky/tasks/minecraft/overworld.properties",
-      "sha1": "5bde9b0affeb524e1be9e5846f026d63ec25f24c"
     },
     {
       "path": "overrides/config/clientsort-server.json",
@@ -722,7 +650,7 @@
     },
     {
       "path": "overrides/config/clientsort.json",
-      "sha1": "65ecf861aafd38651876200b4567bbc518939d3d"
+      "sha1": "9f15736e07efd15af109afa229b5424dbdbac8f5"
     },
     {
       "path": "overrides/config/climbable_ropes-client.toml",
@@ -731,18 +659,6 @@
     {
       "path": "overrides/config/climbable_ropes-server.toml",
       "sha1": "0adfdb54f604924b407b01ee0f6789c4bb713b52"
-    },
-    {
-      "path": "overrides/config/colorwheel-client.toml",
-      "sha1": "cb7e7f333afac86a0a06fb9b8e8b96a19231b90b"
-    },
-    {
-      "path": "overrides/config/computercraft-client.toml",
-      "sha1": "1622bff013a1613741ee2b597477e84c20baa031"
-    },
-    {
-      "path": "overrides/config/computercraft-server.toml",
-      "sha1": "980270e06a6b2d804d7b8059505ebc6149d2373a"
     },
     {
       "path": "overrides/config/connector.json",
@@ -770,7 +686,7 @@
     },
     {
       "path": "overrides/config/create-client.toml",
-      "sha1": "748f5f9f7fcf94e9eb1fa2ad15483a0ebe5cf13a"
+      "sha1": "498fc51a3ee2b9b97479c5da3761eac070e5be69"
     },
     {
       "path": "overrides/config/create-common.toml",
@@ -785,24 +701,12 @@
       "sha1": "1b2c68f72955724f8377cb35c148a617b95eb851"
     },
     {
-      "path": "overrides/config/create_aeronautics_throwable_rope_connector-common.toml",
-      "sha1": "481239a900d06a7db9017db9acf26893a65b4050"
-    },
-    {
-      "path": "overrides/config/create_central_kitchen-client.toml",
-      "sha1": "b406d1943e6f91ffd0be0fba8f24c77f6752d540"
-    },
-    {
-      "path": "overrides/config/create_central_kitchen-common.toml",
-      "sha1": "a8b4c48db19f837afe667c48f771c1bf5d3fb5ed"
-    },
-    {
       "path": "overrides/config/create_connected-common.toml",
-      "sha1": "7b9922d6a462579ebaebc500495e89e57a811bea"
+      "sha1": "0db83d6d67c43bf777278f91ca949f962579f7c9"
     },
     {
       "path": "overrides/config/create_connected-server.toml",
-      "sha1": "1aa22ca75a9c615bb72ab091941f54918aa0d422"
+      "sha1": "148622942dcfaccf4362dfab841576dc2ae25969"
     },
     {
       "path": "overrides/config/create_dragons_plus-client.toml",
@@ -810,39 +714,15 @@
     },
     {
       "path": "overrides/config/create_dragons_plus-common.toml",
-      "sha1": "8e95d9068d1ad270d7949b22d9f86714320974c1"
+      "sha1": "c25806d759072a5f2fa2d64e48fef7fc13f22617"
     },
     {
       "path": "overrides/config/create_dragons_plus-server.toml",
       "sha1": "b586ba29380c4ff331d266c60315bf16f271c102"
     },
     {
-      "path": "overrides/config/create_dragons_plus-simulated-extension-common.toml",
-      "sha1": "cd1c7d44e0e7dc003b10655f46feefea22997781"
-    },
-    {
       "path": "overrides/config/create_dragons_plus-simulated-extension-server.toml",
-      "sha1": "383cd285b03b0daa0b033a0dc97cf72ed2e31ba7"
-    },
-    {
-      "path": "overrides/config/create_enchantment_industry-client.toml",
-      "sha1": "8e85d31752eaa9e931fcab5427a7c1a3f86f6c30"
-    },
-    {
-      "path": "overrides/config/create_enchantment_industry-server.toml",
-      "sha1": "12ec8e0fd2191186ce6d2250c651f16f53144007"
-    },
-    {
-      "path": "overrides/config/create_factory_logistics-server.toml",
-      "sha1": "73089204a1f5259e7a2b10c71f97c88fef77e841"
-    },
-    {
-      "path": "overrides/config/create_hypertube-client.toml",
-      "sha1": "010a5b3a5187a7ce1aee117b52a19c973555c101"
-    },
-    {
-      "path": "overrides/config/create_integrated_farming-server.toml",
-      "sha1": "ed56067c26109c6cb9d99eeca2161f47c60bb711"
+      "sha1": "826cbf510b974d9f40e2c699dc14c6e5520995e2"
     },
     {
       "path": "overrides/config/create_radar-client.toml",
@@ -850,59 +730,15 @@
     },
     {
       "path": "overrides/config/create_radar-server.toml",
-      "sha1": "8dfa58b7cc2f9bf37b85f4306014a304e5a651df"
-    },
-    {
-      "path": "overrides/config/create_stats-common.toml",
-      "sha1": "371a6fc5f60058e3ca3e6dc4957a7fb75d56bcfa"
+      "sha1": "4e243d09ea3a9d54cf59e37cbb83884b551bcb98"
     },
     {
       "path": "overrides/config/createbigcannons-client.toml",
-      "sha1": "7566f18d32fb9d1187bec0481122d20f00c61674"
+      "sha1": "d850d2a039420a06416eeb19713b33a4c907b9ab"
     },
     {
       "path": "overrides/config/createbigcannons-server.toml",
-      "sha1": "258e03f7cd50fe757aa247d823c656cd3adc99a9"
-    },
-    {
-      "path": "overrides/config/createcasing-common.toml",
-      "sha1": "65d3c91e1e11c41c129d1a77a4c4ce9d4c0cd4a0"
-    },
-    {
-      "path": "overrides/config/createcobblestone-common.toml",
-      "sha1": "e95e2f054459f90ad6bc174a583b2ababa970da2"
-    },
-    {
-      "path": "overrides/config/createdynlight-client.toml",
-      "sha1": "c59b78951dafc417a3ff93c4d1950bed327b6b9a"
-    },
-    {
-      "path": "overrides/config/createdynlight-server.toml",
-      "sha1": "11b560aaf437bf9a6f1759a2bab62b219e726854"
-    },
-    {
-      "path": "overrides/config/createidlx-client.toml",
-      "sha1": "9fad8e94f1d3d7013b40dc0376fb0c40d280a9d1"
-    },
-    {
-      "path": "overrides/config/createidlx-server.toml",
-      "sha1": "41cb05804a74b523c37d91ff69305522961f0784"
-    },
-    {
-      "path": "overrides/config/createrailwaysnavigator-client.toml",
-      "sha1": "e36003b067232d29a8a382501eecc6aed9ad6ae6"
-    },
-    {
-      "path": "overrides/config/createrailwaysnavigator-common.toml",
-      "sha1": "0f2875e0fb3c7194684840ec69af69cd6060fd1e"
-    },
-    {
-      "path": "overrides/config/createtweakedcontrollers-client.toml",
-      "sha1": "f342b9a5338f2c45757f33bbac3778c00d189e81"
-    },
-    {
-      "path": "overrides/config/cubes_without_borders.json",
-      "sha1": "f98c95a5ebb920be656b5a777d07b22a896444b5"
+      "sha1": "4bf6eb6d04a58a4d82c6b74897e14fbcb9416e99"
     },
     {
       "path": "overrides/config/curios-client.toml",
@@ -922,15 +758,15 @@
     },
     {
       "path": "overrides/config/dndecor-server.toml",
-      "sha1": "7656e2bc46d93cd1260a89a1434a2fb13aa51fa6"
+      "sha1": "b3f504a9f9810fea1fa4e6837cbb9e922137b537"
     },
     {
       "path": "overrides/config/dragonlib-common.toml",
-      "sha1": "86cab91227b478cf8431d7fb291e1a6dd75f11a4"
+      "sha1": "3faf5cef1a2b2ccadb1eb9b8e70f97efb3b1e54e"
     },
     {
       "path": "overrides/config/dragonlib-server.toml",
-      "sha1": "c9df3497ccc2a7507107de0723582d04f37fcb6f"
+      "sha1": "3f6165e771731c29a8489a40417d822df93ef73c"
     },
     {
       "path": "overrides/config/durabilitytooltip-common.toml",
@@ -942,11 +778,7 @@
     },
     {
       "path": "overrides/config/emi.css",
-      "sha1": "7c5135a0715e70e022a3b7347702375acb1d00cb"
-    },
-    {
-      "path": "overrides/config/emixx/emixx-client.toml",
-      "sha1": "6b6447ab6f900d7f9fbcfd575e40e27fd12d696d"
+      "sha1": "ce0fedbfa2556c8c1f1e320eb82af032ba81e8c3"
     },
     {
       "path": "overrides/config/enchdesc.json",
@@ -954,19 +786,15 @@
     },
     {
       "path": "overrides/config/entityculling.json",
-      "sha1": "866a03f94a24d1efb19aa56cc5dd1da52cda4f8d"
-    },
-    {
-      "path": "overrides/config/escalated-server.toml",
-      "sha1": "1355f431bc2c6cad0537d07990a43f445b0d70eb"
+      "sha1": "71d872172923ba0b593d8654bfd596f9520ddc8b"
     },
     {
       "path": "overrides/config/exmi/enable_config.json",
-      "sha1": "bd384e61f0c684a40fb643eb288c9e3359040119"
+      "sha1": "bdf5872b733ae7cd759db2c520b31c38b19b49b9"
     },
     {
       "path": "overrides/config/exposure-client.toml",
-      "sha1": "bea2cf7541132b51a373b6a36d13c4a5b4c75272"
+      "sha1": "26d098ff16aa7fa5421ed77e0d8b046bcecc9387"
     },
     {
       "path": "overrides/config/exposure-common.toml",
@@ -977,28 +805,8 @@
       "sha1": "caf8c717995367850ecee88d695a8807d71f0bad"
     },
     {
-      "path": "overrides/config/exposure_polaroid-client.toml",
-      "sha1": "42e6de44a042685088fb3fab9ecf640473eea61e"
-    },
-    {
-      "path": "overrides/config/exposure_polaroid-server.toml",
-      "sha1": "efdd5b20d949c8162f42744939ec4b6e3c0e55dc"
-    },
-    {
-      "path": "overrides/config/extra_gauges-client.toml",
-      "sha1": "96e91a369d0e9e9acc92d77f38568f7f5e7bd01e"
-    },
-    {
-      "path": "overrides/config/extra_gauges-common.toml",
-      "sha1": "88cca71d3f4a813129a3d680d5aae4c755dc14f8"
-    },
-    {
       "path": "overrides/config/fabric/indigo-renderer.properties",
-      "sha1": "b5e9a0cfa4d77bd5c2f2262ab907f58681c9979c"
-    },
-    {
-      "path": "overrides/config/fallthrough-common.toml",
-      "sha1": "9d04877639bd5557dee627ef829024ae78cbf938"
+      "sha1": "fb025fb358ca6733393a671539fd1d7a16a5cb9a"
     },
     {
       "path": "overrides/config/farmersdelight-client.toml",
@@ -1006,7 +814,7 @@
     },
     {
       "path": "overrides/config/farmersdelight-common.toml",
-      "sha1": "2a9b6ed2e3249942e609cee192f19e50580fb563"
+      "sha1": "7600f1899a7704d0cc4f0a81f4694b8c47026bcf"
     },
     {
       "path": "overrides/config/ferritecore-mixin.toml",
@@ -1029,22 +837,6 @@
       "sha1": "812a1b5b12d79b7397d09c4722904a772ef0ec42"
     },
     {
-      "path": "overrides/config/gamepad_profiles/gamepad_profile_0",
-      "sha1": "cf4c7e01f1c13c4d4a71d0b596dce09a30c6430e"
-    },
-    {
-      "path": "overrides/config/grapplemod-client.json",
-      "sha1": "0bf1d8805115fa3b9126cfa7f75a08c2bab5585b"
-    },
-    {
-      "path": "overrides/config/grapplemod-common.json",
-      "sha1": "c94a89d2611c52625a6ea5dc1c491de97e31f97b"
-    },
-    {
-      "path": "overrides/config/grapplemod-properties.json",
-      "sha1": "ce560c8c732e724f5c7f3404da9a523e99806570"
-    },
-    {
       "path": "overrides/config/gyro-client.toml",
       "sha1": "62728962616213a97b58f0e655dc0190bc1685b8"
     },
@@ -1057,28 +849,12 @@
       "sha1": "09ae5422590fe547936a678215bc35d98fdcff92"
     },
     {
-      "path": "overrides/config/immersive_paintings/client_config.toml",
-      "sha1": "6eabd4a34b92e5113b1f0c57f9729a25d9927d21"
-    },
-    {
-      "path": "overrides/config/immersive_paintings/common_config.toml",
-      "sha1": "f6b7c528acbc49701dc342f06544483063665534"
-    },
-    {
       "path": "overrides/config/immersiveminimaps.toml",
       "sha1": "87805660c9f7839f2e1aac34c9ca176545935673"
     },
     {
       "path": "overrides/config/immersiveoverlays.json",
       "sha1": "e2e68b818b7201d1de665dcf3a757feabfc27c13"
-    },
-    {
-      "path": "overrides/config/iris-excluded.json",
-      "sha1": "20bd3420b5c911402ac289c154b56ac1dd8f84ba"
-    },
-    {
-      "path": "overrides/config/iris.properties",
-      "sha1": "55ebfe4345c1de3e46314e00723a42a70248e52d"
     },
     {
       "path": "overrides/config/jade/hide-blocks.json",
@@ -1090,19 +866,15 @@
     },
     {
       "path": "overrides/config/jade/jade.json",
-      "sha1": "02593f65484021e522140fd9bab305bd657f90de"
+      "sha1": "ae3ef97881081e510963e5d173907f9488880e13"
     },
     {
       "path": "overrides/config/jade/plugins.json",
-      "sha1": "6883d486a28c631ed37115ac56f26c7418f8417b"
+      "sha1": "fc03992651b1918225e4d40554cb288acf25f1fa"
     },
     {
       "path": "overrides/config/jade/sort-order.json",
-      "sha1": "1cd68602180e1dc1a70f35d671482b200deba721"
-    },
-    {
-      "path": "overrides/config/jei-server.toml",
-      "sha1": "07363b086ec2af8c224fbb4a762ad3c59633835c"
+      "sha1": "c611068f394e1bbb01f49697c8f97c90ce37c9da"
     },
     {
       "path": "overrides/config/jei/blacklist.json",
@@ -1125,88 +897,16 @@
       "sha1": "a78ca513a5da04416aff948ed306253b15a2710a"
     },
     {
-      "path": "overrides/config/jei/client/jei-client.ini",
-      "sha1": "db2a3f5b4ba09deab6f67e440706e4442b327b06"
-    },
-    {
-      "path": "overrides/config/jei/client/jei-colors.ini",
-      "sha1": "a0b5388f559355560719adc93408da864a72d3e8"
-    },
-    {
-      "path": "overrides/config/jei/client/jei-debug.ini",
-      "sha1": "21114b8d222eb2a62d43404e1496664037119b8d"
-    },
-    {
-      "path": "overrides/config/jei/client/jei-mod-id-format.ini",
-      "sha1": "a78ca513a5da04416aff948ed306253b15a2710a"
-    },
-    {
       "path": "overrides/config/jei/client/recipe-category-sort-order.ini",
-      "sha1": "418becf6b6bba1f4f8900ad7d49309403a7791c2"
-    },
-    {
-      "path": "overrides/config/jei/ingredient-list-mod-sort-order.ini",
-      "sha1": "f15c951c2a7e93193d13e1a694031d3e167bd174"
-    },
-    {
-      "path": "overrides/config/jei/ingredient-list-type-sort-order.ini",
-      "sha1": "d7850b8d8b7ee7696b55c8808100d612d1deead9"
-    },
-    {
-      "path": "overrides/config/jei/jei-client.ini",
-      "sha1": "cb79c002595b7dde0338ca888848638ddf5a645e"
-    },
-    {
-      "path": "overrides/config/jei/jei-client.ini.bak.1",
-      "sha1": "cb79c002595b7dde0338ca888848638ddf5a645e"
-    },
-    {
-      "path": "overrides/config/jei/jei-colors.ini",
-      "sha1": "3acac72b07b43c2d60220fb454a50fca76cebe2c"
-    },
-    {
-      "path": "overrides/config/jei/jei-colors.ini.bak.1",
-      "sha1": "3acac72b07b43c2d60220fb454a50fca76cebe2c"
-    },
-    {
-      "path": "overrides/config/jei/jei-debug.ini",
-      "sha1": "0de55fc523ba22df6a48ce29ed96a512fb25a1e9"
-    },
-    {
-      "path": "overrides/config/jei/jei-debug.ini.bak.1",
-      "sha1": "0de55fc523ba22df6a48ce29ed96a512fb25a1e9"
-    },
-    {
-      "path": "overrides/config/jei/jei-mod-id-format.ini",
-      "sha1": "1fce6f1486a1514d04bfd84632449ca35ccde225"
-    },
-    {
-      "path": "overrides/config/jei/jei-mod-id-format.ini.bak.1",
-      "sha1": "1fce6f1486a1514d04bfd84632449ca35ccde225"
-    },
-    {
-      "path": "overrides/config/jei/recipe-category-sort-order.ini",
-      "sha1": "df6c89bf0fe3337f649e9bdb1089a5e9f75cf59c"
-    },
-    {
-      "path": "overrides/config/jei/recipe-category-sort-order.ini.bak.1",
-      "sha1": "df6c89bf0fe3337f649e9bdb1089a5e9f75cf59c"
+      "sha1": "baeba9427e6abefc5869539369e3a0202dc642a6"
     },
     {
       "path": "overrides/config/jei/server/world/default/jei-server.ini",
       "sha1": "e8b195526ded143c1666adfab8f11f4015c5c911"
     },
     {
-      "path": "overrides/config/jei/world/server/Minecraft_Server_d90caf91/bookmarks.json",
-      "sha1": "c1b7b2f7fb75ec8620033865ea8923dc262a7130"
-    },
-    {
       "path": "overrides/config/justzoom/config.json",
       "sha1": "0117035309cf2993781757f1ef30d61f8131f8a7"
-    },
-    {
-      "path": "overrides/config/justzoom/config.txt",
-      "sha1": "f40073524bb4bd11c01f04d0b1cbfacf7e5e6b00"
     },
     {
       "path": "overrides/config/konkrete/locals/de_de.local",
@@ -1242,7 +942,7 @@
     },
     {
       "path": "overrides/config/mcqoy.toml",
-      "sha1": "e060d81d6c0e6048c81aac633d4ef5b2fc595cc8"
+      "sha1": "fbe2ffaf7f0f105faf85db3030c6aa4436ed1c6d"
     },
     {
       "path": "overrides/config/mezz_config/client/default/settings.ini",
@@ -1290,7 +990,7 @@
     },
     {
       "path": "overrides/config/nomansland-common.toml",
-      "sha1": "1bec05534239ec7dac87b11096324ddac0d7a334"
+      "sha1": "e8b981bd21943cbcc3afc79a63048c766c0af9b7"
     },
     {
       "path": "overrides/config/nomansland-startup.toml",
@@ -1305,56 +1005,20 @@
       "sha1": "1dc8951f873e490ae81989d878cb8b5101455d49"
     },
     {
-      "path": "overrides/config/petrolpark-client.toml",
-      "sha1": "287c0af80b311f76a93171e9690dc68301f72e87"
+      "path": "overrides/config/paxi-neoforge-1_21.toml",
+      "sha1": "da0b8958a88a601a7ded957dda627f0977625713"
     },
     {
-      "path": "overrides/config/petrolpark-common.toml",
-      "sha1": "d498059e9203221b28932d57bac5b38dff7957a0"
+      "path": "overrides/config/paxi/datapack_load_order.json",
+      "sha1": "6aff9afed05022c305c8ef2a81a7bb8208144068"
     },
     {
-      "path": "overrides/config/petrolpark-server.toml",
-      "sha1": "ed92264bbc7a4d4d5f6df12d5d23e640b2bb7a8c"
-    },
-    {
-      "path": "overrides/config/petrolsparts-common.toml",
-      "sha1": "8f8952d81d755710f26bc4158b98cfc363eee361"
-    },
-    {
-      "path": "overrides/config/petrolsparts-server.toml",
-      "sha1": "6007968913746922b7bd8256dc5fab5f2546cc19"
-    },
-    {
-      "path": "overrides/config/pipeorgans-client.toml",
-      "sha1": "e13dcf0f8c3d59b12a50a1ce00483b966aa1a797"
-    },
-    {
-      "path": "overrides/config/pipeorgans-server.toml",
-      "sha1": "bfde4518c061df4fdeba5f1ea77a3f85bf78d340"
-    },
-    {
-      "path": "overrides/config/pipesnphysics-client.toml",
-      "sha1": "9b836991f7148be122128591458f934f20594f79"
-    },
-    {
-      "path": "overrides/config/pipesnphysics-server.toml",
-      "sha1": "80740bb6c274fb84b31b2eee8e29b11bd79abbd6"
+      "path": "overrides/config/paxi/resourcepack_load_order.json",
+      "sha1": "6aff9afed05022c305c8ef2a81a7bb8208144068"
     },
     {
       "path": "overrides/config/ponder-client.toml",
       "sha1": "deddc6f67e212577af0151dd6e0ddf7830a65d3e"
-    },
-    {
-      "path": "overrides/config/powergrid-client.toml",
-      "sha1": "98ea2f5dd75d32fd152bfb9a182ea1ba011db353"
-    },
-    {
-      "path": "overrides/config/powergrid-common.toml",
-      "sha1": "53ed219bf85acd61358e29bb31af27b64b8511c2"
-    },
-    {
-      "path": "overrides/config/powergrid-server.toml",
-      "sha1": "8fd5a87672557e8168e7b027829a546b5a45b93d"
     },
     {
       "path": "overrides/config/presencefootsteps/userconfig.json",
@@ -1373,12 +1037,8 @@
       "sha1": "e5aac16ed27fb9595de76cdd20e25a9e223152b2"
     },
     {
-      "path": "overrides/config/reliable_recipes/recipe_example.json.disabled",
-      "sha1": "0a43e209f514da5904521394375e8ea1ec0d890d"
-    },
-    {
       "path": "overrides/config/reliable_remover.json",
-      "sha1": "d63f528f9ee1d3aaaec6f299d5f0d708f659e544"
+      "sha1": "89178df4f58ef3f4f8dbd8a5510535de188fe82e"
     },
     {
       "path": "overrides/config/reliable_remover/removal_example.json.disabled",
@@ -1394,11 +1054,11 @@
     },
     {
       "path": "overrides/config/sable-client.toml",
-      "sha1": "37415fb05de2ed0f9707e9a45461007aa8d7aacd"
+      "sha1": "e8f806b583ccda048e84a0bb6294e01968beea9e"
     },
     {
       "path": "overrides/config/sable-common.toml",
-      "sha1": "e8334fbef492559f10658980ecf51fccc27c86b8"
+      "sha1": "00dc7fcbb01ea87c7020307e5481e174977f4d79"
     },
     {
       "path": "overrides/config/sable-server.toml",
@@ -1417,10 +1077,6 @@
       "sha1": "a986931a1ee29a36c074b37dedd5b8efba8fa553"
     },
     {
-      "path": "overrides/config/sablecollisiondamage-common.toml",
-      "sha1": "feab9937b78d546845c2f6f6a0bc1d7a185b30ea"
-    },
-    {
       "path": "overrides/config/sablejade-client.toml",
       "sha1": "e1e08f16467b8c4fcbf39e97f8dea6c2e14eb787"
     },
@@ -1437,14 +1093,6 @@
       "sha1": "08f9caabfcee61dc06016d0f3713ea7cdffc949c"
     },
     {
-      "path": "overrides/config/sliceanddice-client.toml",
-      "sha1": "f77b038e492020549823f5ab5978858ff88a61a5"
-    },
-    {
-      "path": "overrides/config/sliceanddice-common.toml",
-      "sha1": "a511f7e2fff2da3bf7263b288fb00725e3ad9697"
-    },
-    {
       "path": "overrides/config/sodium-extra-options.json",
       "sha1": "353428c5411f2bd9fa4063d545619f002d15bb22"
     },
@@ -1459,10 +1107,6 @@
     {
       "path": "overrides/config/sodium-options.json",
       "sha1": "d765f2ae5a5f66d8959683081dcb56142cf861fa"
-    },
-    {
-      "path": "overrides/config/sodiumdynamiclights-client.toml",
-      "sha1": "b9fa2f860583c210f1295131fa19e77e11de8876"
     },
     {
       "path": "overrides/config/sound_physics_aeronautics/.spra-config-schema.properties",
@@ -1482,27 +1126,11 @@
     },
     {
       "path": "overrides/config/sound_physics_aeronautics/sound_rates.properties",
-      "sha1": "5ed1c276b62a6b6a751cceea49e5e4e0c995ff22"
+      "sha1": "ad806eecc0e05dbd53ad72eb88f7437baff2c6ea"
     },
     {
       "path": "overrides/config/sound_physics_aeronautics/soundphysics.properties",
       "sha1": "c5176721798aebefb703f2c3e300ce5bc7f2c768"
-    },
-    {
-      "path": "overrides/config/sound_physics_remastered/occlusion.properties",
-      "sha1": "f8219c0aed393b8a9631d0ffdc16c77c0d6190d4"
-    },
-    {
-      "path": "overrides/config/sound_physics_remastered/reflectivity.properties",
-      "sha1": "d0b72f27baa0c4a88c0b96da7e3a399581ea710f"
-    },
-    {
-      "path": "overrides/config/sound_physics_remastered/sound_rates.properties",
-      "sha1": "c3adcd9d3b8ae495a5b04b60fac8b2da1721c03a"
-    },
-    {
-      "path": "overrides/config/sound_physics_remastered/soundphysics.properties",
-      "sha1": "1f5fdbc6bc0a9ae5e09dc9b963f34dd46486b053"
     },
     {
       "path": "overrides/config/spark/config.json",
@@ -1513,52 +1141,20 @@
       "sha1": "4b398e9c25b22a4612d63df48f7468e9eeaa0df2"
     },
     {
-      "path": "overrides/config/ssrd-common.toml",
-      "sha1": "2e155ce6ed86ca3558a92c408be57a54d349eba1"
-    },
-    {
       "path": "overrides/config/supplementaries-client.toml",
-      "sha1": "cae9c1385986946583c6f54e0e748b41cb09c6ff"
+      "sha1": "a2229fda11749beda7dfe9fbe4725135c2eff762"
     },
     {
       "path": "overrides/config/supplementaries-common.toml",
-      "sha1": "a13657289fff19c4c6714f8cb1f5c36cb31bab1c"
+      "sha1": "3b32112ce623058616a70046ceb45a642556a811"
     },
     {
       "path": "overrides/config/surveyor.toml",
-      "sha1": "79f3d012683d133654d66ff31bed7600a7eb17af"
-    },
-    {
-      "path": "overrides/config/tacz-client.toml",
-      "sha1": "58c147204d0d39f0bb7faa9c995c75f3e483a4a0"
-    },
-    {
-      "path": "overrides/config/tacz-common.toml",
-      "sha1": "a11d53cf9248fc4cb377616b8cb1950c72314cf1"
-    },
-    {
-      "path": "overrides/config/tacz-pre.toml",
-      "sha1": "775d0e5dc03319d6abe53cf547bf9628a3e3e88e"
-    },
-    {
-      "path": "overrides/config/tacz-server.toml",
-      "sha1": "a9875c28c328edd52ba89c451a4a77ebb29c2463"
-    },
-    {
-      "path": "overrides/config/torchmaster.toml",
-      "sha1": "ab09c2e0fc5db3094fb8eaa90450075cde8e601d"
-    },
-    {
-      "path": "overrides/config/tornadophysics-common.toml",
-      "sha1": "61b619f72e57c8303083a573d84fe56e03b711c1"
-    },
-    {
-      "path": "overrides/config/tracks-server.toml",
-      "sha1": "17f945c24c41206eb52b12cb0b3ebce4f5016b31"
+      "sha1": "56a5fca380ec4cfcc1769526fe6664ac25d3767e"
     },
     {
       "path": "overrides/config/transition.json",
-      "sha1": "175ef27df07234a2e37dfbda9766f8c947122e12"
+      "sha1": "8b50cd4b9956dc3443acd38e47f80e23ff7712f5"
     },
     {
       "path": "overrides/config/treephysics-client.toml",
@@ -1566,7 +1162,7 @@
     },
     {
       "path": "overrides/config/treephysics-common.toml",
-      "sha1": "78f6dccbfb963db4793dd586d5db4ac45f77a62b"
+      "sha1": "fbb923616e59e073f621d92e5fff49579599b1e4"
     },
     {
       "path": "overrides/config/trender.json",
@@ -1574,7 +1170,7 @@
     },
     {
       "path": "overrides/config/vista-client.toml",
-      "sha1": "d1c2797e5bde16c8fcef380275b3131377e2e434"
+      "sha1": "a8d51564ca6128336cee4d17851019baccf33dc7"
     },
     {
       "path": "overrides/config/vista-common.toml",
@@ -1598,15 +1194,15 @@
     },
     {
       "path": "overrides/config/voicechat/voicechat-client.properties",
-      "sha1": "81f18bcc8ab925a392fd610551d7c7d3a5421abd"
+      "sha1": "c729e21262f6e8756addf7d2b8f55cb638a26c91"
     },
     {
       "path": "overrides/config/voicechat/voicechat-server.properties",
-      "sha1": "d792374f607e05b65768599700d57b810b5df9fb"
+      "sha1": "d39ea2e8b69a3262bf90b057f689483844f9f60f"
     },
     {
       "path": "overrides/config/voxy-config.json",
-      "sha1": "9f26086e3d9b1c9791aeab2d3ed7e309863d1128"
+      "sha1": "d2f24ad2ba00aaa6b52738db75d75bad196b0926"
     },
     {
       "path": "overrides/config/voxyworldgenv2.json",
@@ -1617,84 +1213,8 @@
       "sha1": "183940e7b158272e6986a686c4fd25a8232477fc"
     },
     {
-      "path": "overrides/config/xaero/lib/client.cfg",
-      "sha1": "45cccfb3eb8a7a784bd4c29539e5558445f90bcf"
-    },
-    {
-      "path": "overrides/config/xaero/lib/common.cfg",
-      "sha1": "8ae8d6ea0330bec2c0db28b109a12443708f1e7b"
-    },
-    {
-      "path": "overrides/config/xaero/lib/profiles/default.cfg",
-      "sha1": "253bac0f5181c8db8e488832c46a8d40018650cf"
-    },
-    {
-      "path": "overrides/config/xaero/lib/server_profiles/default.cfg",
-      "sha1": "8efdb5a6c4f4f41a36b531d54592321012491fb2"
-    },
-    {
-      "path": "overrides/config/xaero/minimap/client.cfg",
-      "sha1": "a18a4a75d6f033c35ecde56c14306760715a3a19"
-    },
-    {
-      "path": "overrides/config/xaero/minimap/common.cfg",
-      "sha1": "de09f45b29b264432b80d34bb0c336bd552fb9ee"
-    },
-    {
-      "path": "overrides/config/xaero/minimap/default_radar_categories_client.json",
-      "sha1": "1ecdae76584f3c99c3d4b7b6edfcd302714de29c"
-    },
-    {
-      "path": "overrides/config/xaero/minimap/default_radar_categories_server.json",
-      "sha1": "c247867b018103357eb4015059fe209cc562de51"
-    },
-    {
-      "path": "overrides/config/xaero/minimap/profiles/default.cfg",
-      "sha1": "7ff6a73aed030321923e463e85458ccbbcf8ec7c"
-    },
-    {
-      "path": "overrides/config/xaero/minimap/profiles/entity_radar_categories/default.cfg.json",
-      "sha1": "3523d6db6b0543a9de55286e914bc748f7fc68d9"
-    },
-    {
-      "path": "overrides/config/xaero/minimap/profiles/info_display_config/default.cfg.txt",
-      "sha1": "2b8d12369471b57bfa6426254b2170bc8e6b3b88"
-    },
-    {
-      "path": "overrides/config/xaero/minimap/server_profiles/default.cfg",
-      "sha1": "8efdb5a6c4f4f41a36b531d54592321012491fb2"
-    },
-    {
-      "path": "overrides/config/xaero/world-map/client.cfg",
-      "sha1": "27b70648a1bccd0561ae94c0a1a978f283893dea"
-    },
-    {
-      "path": "overrides/config/xaero/world-map/common.cfg",
-      "sha1": "c3c64f24c8d33940264147473e4a1c8ba5c219ff"
-    },
-    {
-      "path": "overrides/config/xaero/world-map/profiles/default.cfg",
-      "sha1": "2f1680b1a14bf8cc756c5911c9b9f90e119a365e"
-    },
-    {
-      "path": "overrides/config/xaero/world-map/server_profiles/default.cfg",
-      "sha1": "8efdb5a6c4f4f41a36b531d54592321012491fb2"
-    },
-    {
-      "path": "overrides/config/xaerohud.txt",
-      "sha1": "9ae119479223e5a3ea686bed21e00431bbc4e6dd"
-    },
-    {
-      "path": "overrides/config/xaeropatreon.txt",
-      "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
-    },
-    {
       "path": "overrides/config/yacl.json5",
       "sha1": "622920f29084efcd3a8d0b2a0ea0756fece182d2"
-    },
-    {
-      "path": "overrides/config/yigd.json",
-      "sha1": "6175addecb1a09c9e1b62985dd7ac34a43989e66"
     },
     {
       "path": "overrides/defaultconfigs/biolith/general.json",
@@ -1703,6 +1223,10 @@
     {
       "path": "overrides/icon.png",
       "sha1": "31bcc47fbc1725a6b4312c22e4d210f50cf82a01"
+    },
+    {
+      "path": "overrides/justzoom_instance_data/persistence_data.json",
+      "sha1": "f41cedf68ec00e312fc22c09c361adee79d4e921"
     },
     {
       "path": "overrides/mods/coolpeplaero-1.1.3.jar",
@@ -1718,7 +1242,7 @@
     },
     {
       "path": "overrides/options.txt",
-      "sha1": "7b8a723db786f46d0bdf8d447c08a586cc368081"
+      "sha1": "9c4793d084a30d476c78700e45189dfea0fd7859"
     }
   ]
 }

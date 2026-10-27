@@ -1,8 +1,0 @@
-#Percentage of max health taken as damage when falling from the void (0.0 to 1.0). Default: 0.5 (50%).
-# Default: 0.5
-# Range: 0.0 ~ 1.0
-damagePercentage = 0.5
-#Minimum health left after void fall damage (in half-hearts). Default: 1 (1 half-heart = 0.5 hearts).
-# Default: 1
-# Range: 0 ~ 1000
-minHealthLeft = 1
