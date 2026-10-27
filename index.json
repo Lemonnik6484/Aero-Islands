@@ -317,6 +317,10 @@
       "sha1": "17f2f9ce6f5a4194a551cd647c4f4ec7ecebd518"
     },
     {
+      "path": "content/mods/libjf.json",
+      "sha1": "69376ab1024e7229dece31b18af7322c4081ef3f"
+    },
+    {
       "path": "content/mods/lithium.json",
       "sha1": "51309bafcbab940efe3f2100171a6f673f901d90"
     },
@@ -365,6 +369,10 @@
       "sha1": "0d89f4f22df91f44115f74ccb6d558499eeb9a54"
     },
     {
+      "path": "content/mods/nuit.json",
+      "sha1": "b5fa661760812d10280526e873706566c3d7ad21"
+    },
+    {
       "path": "content/mods/paxi.json",
       "sha1": "f53a13964a16c88e195f202608cb26afe1559f54"
     },
@@ -375,6 +383,10 @@
     {
       "path": "content/mods/polymorph.json",
       "sha1": "6bbed6678ad9526449032f3b8e566367faefd9e7"
+    },
+    {
+      "path": "content/mods/polytone.json",
+      "sha1": "e2d5a492a3d454220a97764735645e9e97e9633d"
     },
     {
       "path": "content/mods/presence-footsteps-x-sable.json",
@@ -403,6 +415,10 @@
     {
       "path": "content/mods/resourceful-lib.json",
       "sha1": "383f74269505f422d1033c0f007b997baf3fc7cd"
+    },
+    {
+      "path": "content/mods/respackopts.json",
+      "sha1": "2548519c25d2f0e02fb22eea59e0519400c98ff7"
     },
     {
       "path": "content/mods/rhino.json",
@@ -517,8 +533,16 @@
       "sha1": "abb2cba4b9c88bf0bc630bd3e7fd03285680c83f"
     },
     {
+      "path": "content/resourcepacks/foggypalegarden-rp.json",
+      "sha1": "203b0f5043e60c03d9b081c53f7c34a1478ce0f6"
+    },
+    {
       "path": "content/resourcepacks/jb-mono.json",
       "sha1": "76d25e3edf7059fa3c75fdeb616a97f02da4441d"
+    },
+    {
+      "path": "content/resourcepacks/sunbathing-godrays.json",
+      "sha1": "6016d004076c9d4478fbfa93e7e744bd9353a672"
     },
     {
       "path": "overrides/config/CoroUtil/General.toml",
@@ -550,7 +574,7 @@
     },
     {
       "path": "overrides/config/aero_cam_sync-client.toml",
-      "sha1": "e4312be45623c3d34816cc7d2ed069aeef578c56"
+      "sha1": "347463c9de0e20742ecb9935ea2cf36b7d0ede51"
     },
     {
       "path": "overrides/config/aeronautics-server.toml",
@@ -806,7 +830,7 @@
     },
     {
       "path": "overrides/config/fabric/indigo-renderer.properties",
-      "sha1": "fb025fb358ca6733393a671539fd1d7a16a5cb9a"
+      "sha1": "5c479c63ee8005428b804fae40919bc86258e784"
     },
     {
       "path": "overrides/config/farmersdelight-client.toml",
@@ -933,6 +957,18 @@
       "sha1": "b3bae70e60e79d9a41a387352ca3289006491e6c"
     },
     {
+      "path": "overrides/config/libjf_config_core_v2.json5",
+      "sha1": "2fa1a32880c95b62e832e8c90376c75939b79057"
+    },
+    {
+      "path": "overrides/config/libjf_translate_v1.json5",
+      "sha1": "97da61ca27a23ff8a312cf493253feb2db4ceba9"
+    },
+    {
+      "path": "overrides/config/libjf_web_v1.json5",
+      "sha1": "aa2fc2bfa12d96ea2142dbf9c7693984414a95f9"
+    },
+    {
       "path": "overrides/config/lithium.properties",
       "sha1": "38f2993a7d80d0a6a25eb6182bd6898af24a16eb"
     },
@@ -942,7 +978,7 @@
     },
     {
       "path": "overrides/config/mcqoy.toml",
-      "sha1": "fbe2ffaf7f0f105faf85db3030c6aa4436ed1c6d"
+      "sha1": "e060d81d6c0e6048c81aac633d4ef5b2fc595cc8"
     },
     {
       "path": "overrides/config/mezz_config/client/default/settings.ini",
@@ -997,6 +1033,10 @@
       "sha1": "3cadc314a7670122172bb760631912b958c2ed01"
     },
     {
+      "path": "overrides/config/nuit-config.json",
+      "sha1": "ef030b004b48e03bc41f6ef475ae5b2679203382"
+    },
+    {
       "path": "overrides/config/obscuria/accents-common.toml",
       "sha1": "27610208e51e2c3e126bfc2d237ca2e18ec2e775"
     },
@@ -1043,6 +1083,10 @@
     {
       "path": "overrides/config/reliable_remover/removal_example.json.disabled",
       "sha1": "c24a0c8204ebf3f29a475b8157416b0fb233f1ba"
+    },
+    {
+      "path": "overrides/config/respackopts/_respackopts.conf",
+      "sha1": "2f86c375605ccaaa40e96eb3c959f75a41454326"
     },
     {
       "path": "overrides/config/ritchiesprojectilelib-server.toml",
@@ -1150,7 +1194,7 @@
     },
     {
       "path": "overrides/config/surveyor.toml",
-      "sha1": "56a5fca380ec4cfcc1769526fe6664ac25d3767e"
+      "sha1": "5aada439f8d0ed90d1960a6c2f855812b83341f1"
     },
     {
       "path": "overrides/config/transition.json",
@@ -1242,7 +1286,7 @@
     },
     {
       "path": "overrides/options.txt",
-      "sha1": "9c4793d084a30d476c78700e45189dfea0fd7859"
+      "sha1": "3bac125ae35d69dce17d0874a39a0f853a38a9dc"
     }
   ]
 }

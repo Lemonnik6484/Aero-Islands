@@ -48,7 +48,7 @@ mouseSensitivity:0.5
 damageTiltStrength:1.0
 highContrast:false
 narratorHotkey:true
-resourcePacks:["fabric"]
+resourcePacks:["vanilla","fabric","generated/fragmentum_layer","mod_resources","moonlight:merged_pack","mod/sound_physics_remastered:resourcepacks/amplified_aeronautics_propellers","mod/sound_physics_remastered:resourcepacks/create_train_long_range","file/JetBrains Mono.zip","file/sunbathing-v1.11.zip","file/Foggy Pale Garden.zip"]
 incompatibleResourcePacks:[]
 lastServer:
 lang:en_us
@@ -199,6 +199,8 @@ key_key.immersiveoverlays.toggle:key.keyboard.unknown
 key_key.immersiveoverlays.settings:key.keyboard.unknown
 key_key.ponder.ponder:key.keyboard.w
 key_cos.key.opencosarmorinventory:key.keyboard.unknown
+key_key.nuit.toggle:key.keyboard.unknown
+key_key.nuit.toggle.debug_hud:key.keyboard.unknown
 key_key.all_with_you.store_in_backpack:key.keyboard.q:ALT
 key_simulated.keyinfo.rotate_mode:key.keyboard.tab
 key_simulated.keyinfo.scroll_up:key.keyboard.unknown

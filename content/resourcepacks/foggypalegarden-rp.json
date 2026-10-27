@@ -1,0 +1,23 @@
+{
+  "name": "Foggy Pale Garden (FPG) x Polytone",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "yKYDbWbQ",
+      "slug": "foggypalegarden-rp",
+      "versionId": "SjoIXOvG",
+      "versionNumber": "1.1.0",
+      "filename": "Foggy Pale Garden.zip",
+      "downloadUrl": "https://cdn.modrinth.com/data/yKYDbWbQ/versions/SjoIXOvG/Foggy%20Pale%20Garden.zip",
+      "sha1": "936f96e390ca3bdf46cbe1a824951414459a81e0",
+      "sha512": "ce7d7b1306a2167db7d63fc38878c760df997b93261fd3ddf652561691c778378ebedcedca1eb6ea2e4188432d275a796ab6df994fb581ca8178d33c846f0778",
+      "fileSize": 616394
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

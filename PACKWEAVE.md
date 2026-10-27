@@ -1,6 +1,6 @@
 # Aero Islands
 
-**Minecraft 1.21.1 · neoforge 21.1.265**, 126 mods (4 dependencies), 1 resource pack
+**Minecraft 1.21.1 · neoforge 21.1.265**, 128 mods (6 dependencies), 3 resource packs
 
 ## Contents
 
@@ -64,6 +64,7 @@
 - [Farmer's Delight](https://modrinth.com/project/farmers-delight) `1.21.1-1.3.4`
 - [Fast IP Ping](https://modrinth.com/project/fast-ip-ping) `v1.0.12-mc1.21.1-neoforge`
 - [FerriteCore](https://modrinth.com/project/ferrite-core) `7.0.3-neoforge`
+- [Foggy Pale Garden (FPG) x Polytone](https://modrinth.com/project/foggypalegarden-rp) `1.1.0`
 - [Forgified Fabric API](https://modrinth.com/project/forgified-fabric-api) `0.116.15+2.3.6+1.21.1`
 - [Fragmentum](https://modrinth.com/project/fragmentum) `5.4.0`
 - [Fzzy Config](https://modrinth.com/project/fzzy-config) `0.7.7+fix1+1.21+neoforge`
@@ -93,8 +94,10 @@
 - [No Chat Reports](https://modrinth.com/project/no-chat-reports) `NeoForge-1.21.1-v2.9.1`
 - [No Man's Land](https://modrinth.com/project/no-mans-land) `1.6.3`
 - [No Void Structures](https://modrinth.com/project/no-void-structures) `2.0.1+mod`
+- [Nuit](https://modrinth.com/project/nuit) `mc1.21.1-1.0.0-beta.6+neoforge`
 - [Paxi](https://modrinth.com/project/paxi) `1.21.1-NeoForge-5.1.3`
 - [Polymorph](https://modrinth.com/project/polymorph) `1.2.0+1.21.1`
+- [Polytone](https://modrinth.com/project/polytone) `1.21-5.3.1`
 - [Presence Footsteps (NeoForge)](https://modrinth.com/project/pf-neoforge) `1.21.1-1.12.0-beta.1`
 - [Presence Footsteps x Sable (Aeronautics Compat)](https://modrinth.com/project/presence-footsteps-x-sable) `1.0`
 - [Prickle](https://modrinth.com/project/prickle) `21.1.11`
@@ -122,6 +125,7 @@
 - [Sound Physics: Aeronautics](https://modrinth.com/project/sound-physics-aeronautics) `2.0.1`
 - [spark](https://modrinth.com/project/spark) `1.10.124-neoforge-1.21.1`
 - [Strut Your Stuff (Struts)](https://modrinth.com/project/strut-your-stuff) `1.3.1`
+- [Sunbathing Godrays](https://modrinth.com/project/sunbathing-godrays) `1.11`
 - [SuperMartijn642's Config Lib](https://modrinth.com/project/supermartijn642s-config-lib) `1.1.8-neoforge-mc1.21`
 - [Supplementaries](https://modrinth.com/project/supplementaries) `1.21.1-4.0.2`
 - [Surveyor Map Framework](https://modrinth.com/project/surveyor) `1.2.4+1.21`
