@@ -146,7 +146,7 @@
     },
     {
       "path": "content/mods/create-big-cannons.json",
-      "sha1": "3339d3114aba34dcb50f3e9e49e3e612f885f6ae"
+      "sha1": "097d411c5613e691224823d4017c56a284f58083"
     },
     {
       "path": "content/mods/create-connected.json",
@@ -166,7 +166,7 @@
     },
     {
       "path": "content/mods/create-radars.json",
-      "sha1": "9c6f39fd9a0ba6a0b42ab30b33c51ca7f6f4c307"
+      "sha1": "3bf1c074de90100af37befbe9934ca2050b14036"
     },
     {
       "path": "content/mods/create-smart-bounds.json",
@@ -178,7 +178,7 @@
     },
     {
       "path": "content/mods/create.json",
-      "sha1": "5990258fa9af811b114b65708742c08716f32843"
+      "sha1": "7de86addd232c88c319740a1b4ecc17ec3c58375"
     },
     {
       "path": "content/mods/cubes-without-borders.json",
@@ -1711,6 +1711,10 @@
     {
       "path": "overrides/mods/fallthrough-1.0.0.jar",
       "sha1": "c85c57106deefdc7b016305539aa130a2495d541"
+    },
+    {
+      "path": "overrides/mods/skylight-1.0.0.jar",
+      "sha1": "4afe8879f5daf0c099ce08104c5c3f36a2a08b5a"
     },
     {
       "path": "overrides/options.txt",

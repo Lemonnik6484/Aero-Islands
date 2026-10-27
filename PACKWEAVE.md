@@ -47,7 +47,7 @@
 - [Create: Dragons Plus](https://modrinth.com/project/create-dragons-plus) `1.11.9`
 - [Create: Framed](https://modrinth.com/project/create-framed) `1.8.2+1.21.1`
 - [Create: Interiors](https://modrinth.com/project/interiors) `0.6.1`
-- [Create: Radars](https://modrinth.com/project/create-radars) `5.0.1-1.21.1`
+- [Create: Radars](https://modrinth.com/project/create-radars) `5.0.2-1.21.1`
 - [Cubes Without Borders](https://modrinth.com/project/cubes-without-borders) `5.0.0+1.21.0.neoforge`
 - [Curios API](https://modrinth.com/project/curios) `9.5.1+1.21.1`
 - [Diabolical Islands](https://modrinth.com/project/diabolical-islands) `1.0.0+mod`
