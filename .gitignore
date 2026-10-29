@@ -69,3 +69,4 @@ overrides/analogaudio_internal/lavaplayer.jar
 overrides/ponders_watched_azimuth.json
 overrides/vista_ffmpeg_sources.json
 .idea/
+overrides/config/fabric/indigo-renderer.properties

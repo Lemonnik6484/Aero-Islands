@@ -45,6 +45,10 @@
       "sha1": "4c94aa358dc730c1d7af2e97122b2de01b60777c"
     },
     {
+      "path": "content/mods/async.json",
+      "sha1": "d105b13b372a2a08d44bea071573b7b3e246b1ac"
+    },
+    {
       "path": "content/mods/athena-ctm.json",
       "sha1": "512e32f80fb889770224ab4db951a4839f4bfd41"
     },
@@ -78,7 +82,7 @@
     },
     {
       "path": "content/mods/c2me-neoforge.json",
-      "sha1": "c5f827fd4634e9bc9f26ac048ed7f79e7467bfda"
+      "sha1": "f91861d6685167dc426a897fb1967985eed2068a"
     },
     {
       "path": "content/mods/chat-heads.json",
@@ -322,7 +326,7 @@
     },
     {
       "path": "content/mods/lithium.json",
-      "sha1": "51309bafcbab940efe3f2100171a6f673f901d90"
+      "sha1": "730b1f9359f7f72a2b822bf0125c86d3025c9d02"
     },
     {
       "path": "content/mods/lithostitched.json",
@@ -489,6 +493,10 @@
       "sha1": "b879eaeff51979bf2cb0754458f163c4abd5d783"
     },
     {
+      "path": "content/mods/structurify.json",
+      "sha1": "fa54d1a6d04686f3a23ffaba101b51f5534382db"
+    },
+    {
       "path": "content/mods/strut-your-stuff.json",
       "sha1": "eeb633227487d90335dd1502a4e7a1fe157e42c1"
     },
@@ -526,7 +534,7 @@
     },
     {
       "path": "content/mods/yacl.json",
-      "sha1": "bffddbefc31b5e8ee83bb832ddf2fbd278f352de"
+      "sha1": "ec6eb92693a39addacc501ab303d38fc9e185ef0"
     },
     {
       "path": "content/mods/yungs-api.json",
