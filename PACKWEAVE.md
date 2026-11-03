@@ -1,6 +1,6 @@
 # Aero Islands
 
-**Minecraft 1.21.1 · neoforge 21.1.265**, 133 mods (7 dependencies), 3 resource packs, 1 shader, 1 data pack
+**Minecraft 1.21.1 · neoforge 21.1.265**, 133 mods (5 dependencies), 3 resource packs, 1 shader, 1 data pack
 
 ## Contents
 
@@ -66,7 +66,6 @@
 - [Fast IP Ping](https://modrinth.com/project/fast-ip-ping) `v1.0.12-mc1.21.1-neoforge`
 - [Fast Noise](https://modrinth.com/project/zfastnoise) `1.0.13+1.21.1+neoforge`
 - [FerriteCore](https://modrinth.com/project/ferrite-core) `7.0.3-neoforge`
-- [Foggy Pale Garden (FPG) x Polytone](https://modrinth.com/project/foggypalegarden-rp) `1.1.0`
 - [Forgified Fabric API](https://modrinth.com/project/forgified-fabric-api) `0.116.15+2.3.6+1.21.1`
 - [Fragmentum](https://modrinth.com/project/fragmentum) `5.4.0`
 - [Fzzy Config](https://modrinth.com/project/fzzy-config) `0.7.7+fix1+1.21+neoforge`
@@ -102,6 +101,7 @@
 - [Nuit](https://modrinth.com/project/nuit) `mc1.21.1-1.0.0-beta.6+neoforge`
 - [Paxi](https://modrinth.com/project/paxi) `1.21.1-NeoForge-5.1.3`
 - [Peaceful Nights](https://modrinth.com/project/peaceful-nights) `0.1.0`
+- [PolyLight -  Simple Colored Lights](https://modrinth.com/project/polylight) `1.6`
 - [Polymorph](https://modrinth.com/project/polymorph) `1.2.0+1.21.1`
 - [Polytone](https://modrinth.com/project/polytone) `1.21-5.3.4`
 - [Presence Footsteps (NeoForge)](https://modrinth.com/project/pf-neoforge) `1.21.1-1.12.0-beta.1`

@@ -48,7 +48,7 @@ mouseSensitivity:0.5
 damageTiltStrength:1.0
 highContrast:false
 narratorHotkey:true
-resourcePacks:["vanilla","fabric","generated/fragmentum_layer","mod_resources","moonlight:merged_pack","mod/sound_physics_remastered:resourcepacks/amplified_aeronautics_propellers","mod/sound_physics_remastered:resourcepacks/create_train_long_range","file/JetBrains Mono.zip","file/sunbathing-v1.11.zip","file/Foggy Pale Garden.zip"]
+resourcePacks:["vanilla","fabric","generated/fragmentum_layer","mod_resources","moonlight:merged_pack","mod/sound_physics_remastered:resourcepacks/amplified_aeronautics_propellers","mod/sound_physics_remastered:resourcepacks/create_train_long_range","file/JetBrains Mono.zip","file/colored_lights-v1.6.zip","file/sunbathing-v1.11.zip"]
 incompatibleResourcePacks:[]
 lastServer:
 lang:en_us

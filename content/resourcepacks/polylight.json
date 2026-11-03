@@ -1,0 +1,23 @@
+{
+  "name": "PolyLight -  Simple Colored Lights",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "3x5H5NXc",
+      "slug": "polylight",
+      "versionId": "9T6qE8Bp",
+      "versionNumber": "1.6",
+      "filename": "colored_lights-v1.6.zip",
+      "downloadUrl": "https://cdn.modrinth.com/data/3x5H5NXc/versions/9T6qE8Bp/colored_lights-v1.6.zip",
+      "sha1": "cbe496ae369187f0b8d93eed78a8e0e01b411e8c",
+      "sha512": "9543f1d0bc5ee7590e9db39b4471d69905c49da0adfe1badf2925593063bb8d3aee1f7f6dd1210d26c437d644fcb602f56dc5df8f08bf4fb2cd493128c61c93f",
+      "fileSize": 291516
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

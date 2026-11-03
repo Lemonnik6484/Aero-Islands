@@ -337,10 +337,6 @@
       "sha1": "17f2f9ce6f5a4194a551cd647c4f4ec7ecebd518"
     },
     {
-      "path": "content/mods/libjf.json",
-      "sha1": "69376ab1024e7229dece31b18af7322c4081ef3f"
-    },
-    {
       "path": "content/mods/lithium.json",
       "sha1": "51309bafcbab940efe3f2100171a6f673f901d90"
     },
@@ -406,7 +402,7 @@
     },
     {
       "path": "content/mods/polytone.json",
-      "sha1": "89a89f5510948c39a6621de2b0c0562982e497fb"
+      "sha1": "9162bec6c5e08b2d97d7cfab9ee8936e7d2afa1d"
     },
     {
       "path": "content/mods/presence-footsteps-x-sable.json",
@@ -431,10 +427,6 @@
     {
       "path": "content/mods/resourceful-lib.json",
       "sha1": "383f74269505f422d1033c0f007b997baf3fc7cd"
-    },
-    {
-      "path": "content/mods/respackopts.json",
-      "sha1": "2548519c25d2f0e02fb22eea59e0519400c98ff7"
     },
     {
       "path": "content/mods/rhino.json",
@@ -561,12 +553,12 @@
       "sha1": "757320931c822e7a1e38edb991436e7f96d9123a"
     },
     {
-      "path": "content/resourcepacks/foggypalegarden-rp.json",
-      "sha1": "203b0f5043e60c03d9b081c53f7c34a1478ce0f6"
-    },
-    {
       "path": "content/resourcepacks/jb-mono.json",
       "sha1": "76d25e3edf7059fa3c75fdeb616a97f02da4441d"
+    },
+    {
+      "path": "content/resourcepacks/polylight.json",
+      "sha1": "7e6dddc686375bfacfe4c3c557ca427138291735"
     },
     {
       "path": "content/resourcepacks/sunbathing-godrays.json",
@@ -938,7 +930,7 @@
     },
     {
       "path": "overrides/config/iris.properties",
-      "sha1": "e29d83dae4a1b4154b34fdc9d27415fe97949ff7"
+      "sha1": "4482ede55d4aa8b9f50c549788d3ff473426fe23"
     },
     {
       "path": "overrides/config/iris_bonk.properties",
@@ -1354,7 +1346,7 @@
     },
     {
       "path": "overrides/config/zfastnoise.mixin.properties",
-      "sha1": "43b1ac5efc2297a1d64d7aac7001beeaceff1985"
+      "sha1": "d765e0a041923af469205485496d63488353e738"
     },
     {
       "path": "overrides/datapacks/void_c.zip",
@@ -1386,7 +1378,11 @@
     },
     {
       "path": "overrides/options.txt",
-      "sha1": "b5a95c80c71256004d85198bbb115ab55ade3897"
+      "sha1": "61325fb8c96b849c5c21c7d350c8e145b8e59bf3"
+    },
+    {
+      "path": "overrides/polytone_popup.json",
+      "sha1": "465df2be527176a4535273fc999dcf2622d31ae6"
     },
     {
       "path": "overrides/servers.dat",
