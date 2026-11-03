@@ -1,6 +1,6 @@
 # Aero Islands
 
-**Minecraft 1.21.1 · neoforge 21.1.265**, 133 mods (7 dependencies), 3 resource packs, 1 shader
+**Minecraft 1.21.1 · neoforge 21.1.265**, 134 mods (7 dependencies), 3 resource packs, 1 shader
 
 ## Contents
 
@@ -76,6 +76,7 @@
 - [Immersive Overlays](https://modrinth.com/project/immersive-overlays) `1.8.6+1.21.1-neoforge`
 - [Improved Village Placement](https://modrinth.com/project/improved-village-placement) `1.2.0-neoforge-21.1`
 - [Inventorio](https://modrinth.com/project/inventorio) `1.11.0+1.21.1`
+- Iris core shaders compat fix `iris_bonk-1.21.1-0.1.1-neoforge` (curseforge)
 - [Iris Shaders](https://modrinth.com/project/iris) `1.8.14-beta.1+1.21.1-neoforge`
 - [Jade Addons (Neo/Forge)](https://modrinth.com/project/jade-addons-forge) `6.1.2+neoforge`
 - [Jade Sable Compat](https://modrinth.com/project/jade-sable-compat) `1.3.0`
