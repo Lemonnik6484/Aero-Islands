@@ -1109,10 +1109,6 @@
       "sha1": "6aff9afed05022c305c8ef2a81a7bb8208144068"
     },
     {
-      "path": "overrides/config/paxi/datapacks/void_c.zip",
-      "sha1": "cbfd7f39d539344b46094bf56aeb2a165b186f63"
-    },
-    {
       "path": "overrides/config/paxi/resourcepack_load_order.json",
       "sha1": "6aff9afed05022c305c8ef2a81a7bb8208144068"
     },
@@ -1335,6 +1331,10 @@
     {
       "path": "overrides/config/zfastnoise.mixin.properties",
       "sha1": "7face8e6bdf2b00cb7d137e9a03df18b6703d923"
+    },
+    {
+      "path": "overrides/datapacks/void_c.zip",
+      "sha1": "34df0ca43389a6b736fda3e3a38ae3b5489bc974"
     },
     {
       "path": "overrides/defaultconfigs/biolith/general.json",
