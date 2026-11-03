@@ -1,6 +1,6 @@
 # Aero Islands
 
-**Minecraft 1.21.1 · neoforge 21.1.265**, 134 mods (7 dependencies), 3 resource packs, 1 shader
+**Minecraft 1.21.1 · neoforge 21.1.265**, 133 mods (7 dependencies), 3 resource packs, 1 shader, 1 data pack
 
 ## Contents
 
@@ -74,7 +74,6 @@
 - [Hoofprint](https://modrinth.com/project/hoofprint) `1.3.0+1.21`
 - [Immersive Minimaps](https://modrinth.com/project/immersive-minimaps) `1.2.4+1.21.1-fabric`
 - [Immersive Overlays](https://modrinth.com/project/immersive-overlays) `1.8.6+1.21.1-neoforge`
-- [Improved Village Placement](https://modrinth.com/project/improved-village-placement) `1.2.0-neoforge-21.1`
 - [Inventorio](https://modrinth.com/project/inventorio) `1.11.0+1.21.1`
 - Iris core shaders compat fix `iris_bonk-1.21.1-0.1.1-neoforge` (curseforge)
 - [Iris Shaders](https://modrinth.com/project/iris) `1.8.14-beta.1+1.21.1-neoforge`
@@ -97,11 +96,12 @@
 - [MRU](https://modrinth.com/project/mru) `1.0.41+1.21.1-neoforge`
 - [NetherPortalFix](https://modrinth.com/project/netherportalfix) `21.1.1+neoforge-1.21.1`
 - [Nirvana](https://modrinth.com/project/nirvana-mod) `2.0.11`
+- [No Bat ❌](https://modrinth.com/project/no-bat) `1.0`
 - [No Chat Reports](https://modrinth.com/project/no-chat-reports) `NeoForge-1.21.1-v2.9.1`
 - [No Man's Land](https://modrinth.com/project/no-mans-land) `1.6.3`
-- [No Void Structures](https://modrinth.com/project/no-void-structures) `2.0.1+mod`
 - [Nuit](https://modrinth.com/project/nuit) `mc1.21.1-1.0.0-beta.6+neoforge`
 - [Paxi](https://modrinth.com/project/paxi) `1.21.1-NeoForge-5.1.3`
+- [Peaceful Nights](https://modrinth.com/project/peaceful-nights) `0.1.0`
 - [Polymorph](https://modrinth.com/project/polymorph) `1.2.0+1.21.1`
 - [Polytone](https://modrinth.com/project/polytone) `1.21-5.3.4`
 - [Presence Footsteps (NeoForge)](https://modrinth.com/project/pf-neoforge) `1.21.1-1.12.0-beta.1`

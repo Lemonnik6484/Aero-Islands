@@ -1,13 +1,12 @@
-- [ ] remove NML structures
-- [ ] no monster on surface
+- [X] fix NML structures
+- [X] no monster on surface
 - [ ] double pressure
-- [ ] void sea in all dimensions
+- [X] void sea in overworld
 - [ ] rich ores & stones
 - [ ] levitation on void
 - [ ] more spread islands & height
-- [ ] fix village gen
+- [X] fix village gen
 - [ ] less lakes
 - [ ] oil lakes
 - [ ] diesel gens/super heat blazes with oil
 - [ ] throwable ropes
-- [ ] 

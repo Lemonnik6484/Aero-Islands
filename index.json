@@ -1,6 +1,10 @@
 {
   "files": [
     {
+      "path": "content/datapacks/no-bat.json",
+      "sha1": "f41eaa65597ff2b1660da94a55e8015ec49632b1"
+    },
+    {
       "path": "content/mods/accents.json",
       "sha1": "924a52e521edd1e93abbeab4d35795d8c9c8b7ca"
     },
@@ -277,10 +281,6 @@
       "sha1": "7c78dbdcb580909dd7832b344bdbac6486f52cb6"
     },
     {
-      "path": "content/mods/improved-village-placement.json",
-      "sha1": "cc18fd76f3ada3d241f0130b50a6888b8db68f5d"
-    },
-    {
       "path": "content/mods/interiors.json",
       "sha1": "e19c760e4ab8c1bfe66b4266574dbfac4f5090b2"
     },
@@ -346,7 +346,7 @@
     },
     {
       "path": "content/mods/lithostitched.json",
-      "sha1": "8fcc8fd41199b0dc96a685076e3584db91fd17ed"
+      "sha1": "97600a81312d33e0aa1aeae4a1d168b841668ae1"
     },
     {
       "path": "content/mods/mcqoy.json",
@@ -385,16 +385,16 @@
       "sha1": "7de1733fbc548a0d978ff4bf46278d1fb268d50a"
     },
     {
-      "path": "content/mods/no-void-structures.json",
-      "sha1": "0d89f4f22df91f44115f74ccb6d558499eeb9a54"
-    },
-    {
       "path": "content/mods/nuit.json",
       "sha1": "b5fa661760812d10280526e873706566c3d7ad21"
     },
     {
       "path": "content/mods/paxi.json",
       "sha1": "f53a13964a16c88e195f202608cb26afe1559f54"
+    },
+    {
+      "path": "content/mods/peaceful-nights.json",
+      "sha1": "c44b8932ebe9fcb16ccc14db2fcb15d1a58c3520"
     },
     {
       "path": "content/mods/pf-neoforge.json",
@@ -578,7 +578,7 @@
     },
     {
       "path": "overrides/TODO.md",
-      "sha1": "f8272d50b16b8b50f699257f787f9ae2f1d9c5fc"
+      "sha1": "109f7784f22b25a453bd9605cf003f91d06d3106"
     },
     {
       "path": "overrides/config/CoroUtil/General.toml",
@@ -702,7 +702,7 @@
     },
     {
       "path": "overrides/config/chatnotify.json",
-      "sha1": "dc006a1ad97b4cea033d220ed6f53e4f38254982"
+      "sha1": "b5c6718ef808ad6ed7b407c2348cb7ebf45a9dcd"
     },
     {
       "path": "overrides/config/chunky/config.json",
@@ -938,7 +938,11 @@
     },
     {
       "path": "overrides/config/iris.properties",
-      "sha1": "39ca7d8cb03728a4f92d5b875d6cb31f1a2465c1"
+      "sha1": "e29d83dae4a1b4154b34fdc9d27415fe97949ff7"
+    },
+    {
+      "path": "overrides/config/iris_bonk.properties",
+      "sha1": "885107084c9ccd044167679c3c4179eb78e675dc"
     },
     {
       "path": "overrides/config/jade/hide-blocks.json",
@@ -1054,7 +1058,7 @@
     },
     {
       "path": "overrides/config/moonlight-client.toml",
-      "sha1": "19f7d0b2a4b6010de875446aa41d51734fb31b40"
+      "sha1": "92460613624ad8dbca5c2525971969b650f43bf1"
     },
     {
       "path": "overrides/config/moonlight-common.toml",
@@ -1246,11 +1250,27 @@
     },
     {
       "path": "overrides/config/structurify.json",
-      "sha1": "2593df6daac7ed4a9c6d3518710de857b8295463"
+      "sha1": "813d30d6343a9835104ea5a904acc3c823892692"
     },
     {
-      "path": "overrides/config/structurify/structurify_backup_2026-11-03_21-18-43.json",
-      "sha1": "859269db880e4d27beba485b22fb7f6e385e9bec"
+      "path": "overrides/config/structurify/structurify_backup_2026-11-03_23-30-56.json",
+      "sha1": "9dc8766829704233f855669bb594887c570f296a"
+    },
+    {
+      "path": "overrides/config/structurify/structurify_backup_2026-11-03_23-32-33.json",
+      "sha1": "5933945a685ba4c2952a5d4f5d03fdc2332c5c7b"
+    },
+    {
+      "path": "overrides/config/structurify/structurify_backup_2026-11-03_23-32-43.json",
+      "sha1": "946be6e4be19c6f92be0d7857019502b55bb7743"
+    },
+    {
+      "path": "overrides/config/structurify/structurify_backup_2026-11-03_23-41-16.json",
+      "sha1": "fae766e6f9161e8233fbcf32129b569990d539b4"
+    },
+    {
+      "path": "overrides/config/structurify/structurify_backup_2026-11-03_23-49-20.json",
+      "sha1": "a4f31c77b1ccee996d7363509af5caca947e330b"
     },
     {
       "path": "overrides/config/supplementaries-client.toml",
@@ -1334,7 +1354,7 @@
     },
     {
       "path": "overrides/config/zfastnoise.mixin.properties",
-      "sha1": "f92634000974eb951a4d1436477a70126fa31654"
+      "sha1": "43b1ac5efc2297a1d64d7aac7001beeaceff1985"
     },
     {
       "path": "overrides/datapacks/void_c.zip",

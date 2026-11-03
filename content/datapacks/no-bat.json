@@ -1,0 +1,23 @@
+{
+  "name": "No Bat ❌",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "w5htmJLB",
+      "slug": "no-bat",
+      "versionId": "8V3wD0to",
+      "versionNumber": "1.0",
+      "filename": "no-bat.zip",
+      "downloadUrl": "https://cdn.modrinth.com/data/w5htmJLB/versions/8V3wD0to/no-bat.zip",
+      "sha1": "3371a4aebe31e561b01545b268e95b9c42e1204a",
+      "sha512": "4cb73d02b9ba0096ae432532a35d177cf949609cc1fccb983416459e77a6fd725ed61beb4c5b5ecbfd6bb14c600d2a1b790fb5c1a599e679b332a1f94b996cbe",
+      "fileSize": 1622
+    }
+  },
+  "dependents": [],
+  "clientSide": "optional",
+  "serverSide": "required"
+}
