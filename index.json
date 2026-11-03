@@ -934,7 +934,7 @@
     },
     {
       "path": "overrides/config/iris.properties",
-      "sha1": "5d8dd52dd74fb2d778ee2caa9792a84ac54220a9"
+      "sha1": "e8fed8c3c2ec8437f9f59eb55cf9984b484bed19"
     },
     {
       "path": "overrides/config/jade/hide-blocks.json",
@@ -1286,7 +1286,7 @@
     },
     {
       "path": "overrides/config/vista-client.toml",
-      "sha1": "aa8f47509d8233cff1197c4307128a22a483fcdd"
+      "sha1": "c0569fb6b042657719a9e2e70e1329cab2ec2212"
     },
     {
       "path": "overrides/config/vista-common.toml",
@@ -1334,7 +1334,7 @@
     },
     {
       "path": "overrides/config/zfastnoise.mixin.properties",
-      "sha1": "0fb2e03b91ecdad4fa0531a59371530dcb06cab3"
+      "sha1": "7face8e6bdf2b00cb7d137e9a03df18b6703d923"
     },
     {
       "path": "overrides/defaultconfigs/biolith/general.json",

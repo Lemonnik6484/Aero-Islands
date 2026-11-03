@@ -109,6 +109,6 @@
 
 [general]
 	#Disables the warning screen shown when Iris is installed without Iris Bonk
-	no_iris_warn_screen = false
+	no_iris_warn_screen = true
 	#Disables the warning screen shown when Veil is installed without Veil Bonk
 	no_veil_warn_screen = true
