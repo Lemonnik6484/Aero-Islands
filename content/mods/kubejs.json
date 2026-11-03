@@ -8,13 +8,13 @@
     "modrinth": {
       "id": "umyGl7zF",
       "slug": "kubejs",
-      "versionId": "THIGFPwf",
-      "versionNumber": "2101.7.2-build.377",
-      "filename": "kubejs-neoforge-2101.7.2-build.377.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/umyGl7zF/versions/THIGFPwf/kubejs-neoforge-2101.7.2-build.377.jar",
-      "sha1": "7313fcd99318834c642ee9f3a05ed7fd7bcb6ef4",
-      "sha512": "fcdbee8790f8f39c106ab4bf606808c9c5bf0f13a41e216207a6fe4d15bf4a5722ce57078781e3a1823e7fdd2928e8e042d104d8ae255a36db8f12a9f46d8089",
-      "fileSize": 2294111
+      "versionId": "GDXCpKlp",
+      "versionNumber": "2101.7.2-build.381",
+      "filename": "kubejs-neoforge-2101.7.2-build.381.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/umyGl7zF/versions/GDXCpKlp/kubejs-neoforge-2101.7.2-build.381.jar",
+      "sha1": "b282ba250cdd247f319c016df02ff9e600caadb1",
+      "sha512": "f8286f9f371d0c1fb2b37e56b1dbb359dcfc5a9064a7384cbf6722450f5b5a77f05f55688d7a338b500a6f49590d51e3d3541664dfc0296e50fe573a34e5a529",
+      "fileSize": 2295092
     }
   },
   "dependents": [],

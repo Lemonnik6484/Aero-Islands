@@ -11,14 +11,14 @@
 - [Aeronautics Wind Sound](https://modrinth.com/project/aeronautics-wind-sound) `1.0.1`
 - [Aetherial Islands](https://modrinth.com/project/aetherial-islands) `2.0.2+mod`
 - [All with You](https://modrinth.com/project/all-with-you) `1.3.2`
-- [Amendments](https://modrinth.com/project/amendments) `1.21-2.2.2`
+- [Amendments](https://modrinth.com/project/amendments) `1.21-2.2.7`
 - [Analog Audio](https://modrinth.com/project/analog-audio) `0.1.5-hotfix.1+1.21.1`
 - [AppleSkin](https://modrinth.com/project/appleskin) `3.0.9+mc1.21`
 - [Architectury API](https://modrinth.com/project/architectury-api) `13.0.11+neoforge`
 - [Async](https://modrinth.com/project/async) `0.2.0+alpha-1.21.1`
 - [Athena](https://modrinth.com/project/athena-ctm) `4.0.6`
 - [Azimuth API](https://modrinth.com/project/azimuth-api) `1.4.10`
-- [Balm](https://modrinth.com/project/balm) `21.0.66+neoforge-1.21.1`
+- [Balm](https://modrinth.com/project/balm) `21.0.67+neoforge-1.21.1`
 - [Barehanded](https://modrinth.com/project/barehanded) `1.6.6`
 - [Better ModList](https://modrinth.com/project/better-modlist) `21.1.5`
 - [Biolith](https://modrinth.com/project/biolith) `3.0.14`
@@ -48,7 +48,7 @@
 - [Create: Dragons Plus](https://modrinth.com/project/create-dragons-plus) `1.11.9`
 - [Create: Framed](https://modrinth.com/project/create-framed) `1.8.2+1.21.1`
 - [Create: Interiors](https://modrinth.com/project/interiors) `0.6.1`
-- [Create: Radars](https://modrinth.com/project/create-radars) `5.0.2-1.21.1`
+- [Create: Radars](https://modrinth.com/project/create-radars) `5.0.3-1.21.1`
 - [Cubes Without Borders](https://modrinth.com/project/cubes-without-borders) `5.0.0+1.21.0.neoforge`
 - [Curios API](https://modrinth.com/project/curios) `9.5.1+1.21.1`
 - [Diabolical Islands](https://modrinth.com/project/diabolical-islands) `1.0.0+mod`
@@ -82,7 +82,7 @@
 - [Just Zoom](https://modrinth.com/project/just-zoom) `3.1.0-1.21.1-neoforge`
 - [Konkrete](https://modrinth.com/project/konkrete) `1.9.9-1.21-neoforge`
 - [Kotlin for Forge](https://modrinth.com/project/kotlin-for-forge) `5.12.0`
-- [KubeJS](https://modrinth.com/project/kubejs) `2101.7.2-build.377`
+- [KubeJS](https://modrinth.com/project/kubejs) `2101.7.2-build.381`
 - [LambDynamicLights - Dynamic Lights](https://modrinth.com/project/lambdynamiclights) `4.8.11+1.21.1`
 - [Lever drugster](https://modrinth.com/project/lever-drugster) `1.8.8`
 - [Lithium](https://modrinth.com/project/lithium) `mc1.21.1-0.15.4-neoforge`
@@ -99,13 +99,13 @@
 - [Nuit](https://modrinth.com/project/nuit) `mc1.21.1-1.0.0-beta.6+neoforge`
 - [Paxi](https://modrinth.com/project/paxi) `1.21.1-NeoForge-5.1.3`
 - [Polymorph](https://modrinth.com/project/polymorph) `1.2.0+1.21.1`
-- [Polytone](https://modrinth.com/project/polytone) `1.21-5.3.1`
+- [Polytone](https://modrinth.com/project/polytone) `1.21-5.3.4`
 - [Presence Footsteps (NeoForge)](https://modrinth.com/project/pf-neoforge) `1.21.1-1.12.0-beta.1`
 - [Presence Footsteps x Sable (Aeronautics Compat)](https://modrinth.com/project/presence-footsteps-x-sable) `1.0`
 - [Prickle](https://modrinth.com/project/prickle) `21.1.11`
 - [Reese's Sodium Options](https://modrinth.com/project/reeses-sodium-options) `mc1.21.1-2.2.4+neoforge`
-- [Reliable Recipes](https://modrinth.com/project/reliable-recipes) `3.8.2+1.21.1-neoforge`
-- [Reliable Remover](https://modrinth.com/project/reliable-remover) `3.8.3+1.21.1-neoforge`
+- [Reliable Recipes](https://modrinth.com/project/reliable-recipes) `3.8.3+1.21.1-neoforge`
+- [Reliable Remover](https://modrinth.com/project/reliable-remover) `3.8.4+1.21.1-neoforge`
 - [Resourceful Lib](https://modrinth.com/project/resourceful-lib) `3.0.12`
 - [Rhino](https://modrinth.com/project/rhino) `2101.2.8-build.91+Rhino-1.21`
 - [Ritchie's Projectile Library](https://modrinth.com/project/rpl) `2.1.2`
@@ -132,7 +132,7 @@
 - [Supplementaries](https://modrinth.com/project/supplementaries) `1.21.1-4.0.2`
 - [Surveyor Map Framework](https://modrinth.com/project/surveyor) `1.2.4+1.21`
 - [Tree Physics](https://modrinth.com/project/tree-physics) `neoforge-2.4`
-- [vista](https://modrinth.com/project/vista_tv) `1.21.1-5.5.7`
+- [vista](https://modrinth.com/project/vista_tv) `1.21.1-5.6.2`
 - [voxy](https://modrinth.com/project/voxy) `0.2.16-beta`
 - [Voxygen](https://modrinth.com/project/voxy-worldgen) `2.4.2`
 - [WildSprout: Plains](https://modrinth.com/project/wildsprout-plains) `1.3.0`

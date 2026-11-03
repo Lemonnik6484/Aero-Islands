@@ -30,7 +30,7 @@
     },
     {
       "path": "content/mods/amendments.json",
-      "sha1": "470825c76d0849a580c9b6c444b71e8399d9e135"
+      "sha1": "5b0a449655e3836aa68a07fdba61e0fefee03419"
     },
     {
       "path": "content/mods/analog-audio.json",
@@ -58,7 +58,7 @@
     },
     {
       "path": "content/mods/balm.json",
-      "sha1": "a45dafd9647ed2ecdeca9160597d0ae34c141188"
+      "sha1": "ca683f8c21f85f0385904d6474a3dab5ef940fdd"
     },
     {
       "path": "content/mods/barehanded.json",
@@ -170,7 +170,7 @@
     },
     {
       "path": "content/mods/create-radars.json",
-      "sha1": "3bf1c074de90100af37befbe9934ca2050b14036"
+      "sha1": "a007dc72bb9f31fd456993e3d677b92cf2be4fc5"
     },
     {
       "path": "content/mods/create-smart-bounds.json",
@@ -310,7 +310,7 @@
     },
     {
       "path": "content/mods/kubejs.json",
-      "sha1": "615e815fdfb1ad98f51ddc97fe05bd7c6cd4582e"
+      "sha1": "53cf25c5a3b11b4cd89d429c2225c7550c3d2685"
     },
     {
       "path": "content/mods/lambdynamiclights.json",
@@ -390,7 +390,7 @@
     },
     {
       "path": "content/mods/polytone.json",
-      "sha1": "e2d5a492a3d454220a97764735645e9e97e9633d"
+      "sha1": "89a89f5510948c39a6621de2b0c0562982e497fb"
     },
     {
       "path": "content/mods/presence-footsteps-x-sable.json",
@@ -406,11 +406,11 @@
     },
     {
       "path": "content/mods/reliable-recipes.json",
-      "sha1": "7a53c91c6387e6d68b5d2f141c3cc180e1ad8f35"
+      "sha1": "5f80d26a49378c58e7eecd053e8b07ec1f63c1ed"
     },
     {
       "path": "content/mods/reliable-remover.json",
-      "sha1": "eb2bf44dac8b106d9848444dbdb7d6a6c3957340"
+      "sha1": "b14136965954fa0a634bcb878b1790de521a930b"
     },
     {
       "path": "content/mods/resourceful-lib.json",
@@ -454,7 +454,7 @@
     },
     {
       "path": "content/mods/sable.json",
-      "sha1": "242f3e306a5c4fe1b63d71342d5494149f657ac3"
+      "sha1": "78ea78fd21b78a1564a9cbe729fcf48bd27a5281"
     },
     {
       "path": "content/mods/screenshot-to-clipboard.json",
@@ -514,7 +514,7 @@
     },
     {
       "path": "content/mods/vista_tv.json",
-      "sha1": "5e885546cced2bf0ec564eec66bc75842995fcf7"
+      "sha1": "038d9ecc44a57880f5967d3e304ec47a9cba0f26"
     },
     {
       "path": "content/mods/voxy-worldgen.json",
