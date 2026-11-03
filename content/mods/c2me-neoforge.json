@@ -8,19 +8,16 @@
     "modrinth": {
       "id": "COlSi5iR",
       "slug": "c2me-neoforge",
-      "versionId": "avwWYPbG",
-      "versionNumber": "0.4.0-alpha.0.123+1.21.1",
-      "filename": "c2me-neoforge-mc1.21.1-0.4.0-alpha.0.123.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/COlSi5iR/versions/avwWYPbG/c2me-neoforge-mc1.21.1-0.4.0-alpha.0.123.jar",
-      "sha1": "50fe2e38c6369b51e4dee1106d0295185e6251c4",
-      "sha512": "c7c485d856fa0118694ae8484e85a714db92ce7886195dbc355257d59d4254da2ce537ac18da8e05c9786c3a98f70cc5ffdfd089ad23b6822f854d72f3caa62d",
-      "fileSize": 3717365
+      "versionId": "VACgDPOc",
+      "versionNumber": "0.4.0-alpha.0.124+1.21.1",
+      "filename": "c2me-neoforge-mc1.21.1-0.4.0-alpha.0.124.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/COlSi5iR/versions/VACgDPOc/c2me-neoforge-mc1.21.1-0.4.0-alpha.0.124.jar",
+      "sha1": "469497c209e77742a85020845a361851f14d99e2",
+      "sha512": "ad5675893a856663659b4d73285d154615e6c1924fef0f52513e3f07895ba474e3629778087aa8ec0edcfd802c21ee773f6483397bde858ff30a2b62887b208b",
+      "fileSize": 3717706
     }
   },
   "dependents": [],
-  "optionalDependents": [
-    "vEC2jm6I"
-  ],
   "clientSide": "optional",
   "serverSide": "required"
 }

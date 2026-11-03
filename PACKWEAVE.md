@@ -1,6 +1,6 @@
 # Aero Islands
 
-**Minecraft 1.21.1 · neoforge 21.1.265**, 130 mods (6 dependencies), 3 resource packs
+**Minecraft 1.21.1 · neoforge 21.1.265**, 133 mods (7 dependencies), 3 resource packs, 1 shader
 
 ## Contents
 
@@ -15,7 +15,6 @@
 - [Analog Audio](https://modrinth.com/project/analog-audio) `0.1.5-hotfix.1+1.21.1`
 - [AppleSkin](https://modrinth.com/project/appleskin) `3.0.9+mc1.21`
 - [Architectury API](https://modrinth.com/project/architectury-api) `13.0.11+neoforge`
-- [Async](https://modrinth.com/project/async) `0.2.0+alpha-1.21.1`
 - [Athena](https://modrinth.com/project/athena-ctm) `4.0.6`
 - [Azimuth API](https://modrinth.com/project/azimuth-api) `1.4.10`
 - [Balm](https://modrinth.com/project/balm) `21.0.67+neoforge-1.21.1`
@@ -30,7 +29,7 @@
 - [Client Sort](https://modrinth.com/project/clientsort) `3.89.2+1.21.1`
 - Climbable Ropes for Create Aeronautics `[2.2.0] Climbable Ropes` (curseforge)
 - [Cloth Config API](https://modrinth.com/project/cloth-config) `15.0.140+neoforge`
-- [Concurrent Chunk Management Engine (NeoForge)](https://modrinth.com/project/c2me-neoforge) `0.4.0-alpha.0.123+1.21.1`
+- [Concurrent Chunk Management Engine (NeoForge)](https://modrinth.com/project/c2me-neoforge) `0.4.0-alpha.0.124+1.21.1`
 - [Controlling](https://modrinth.com/project/controlling) `19.0.5`
 - [CoroUtil](https://modrinth.com/project/coroutil) `1.21.0-1.3.8`
 - Cosmetic Armor Reworked `cosmeticarmorreworked-1.21.1-v1-neoforge.jar` (curseforge)
@@ -49,6 +48,7 @@
 - [Create: Framed](https://modrinth.com/project/create-framed) `1.8.2+1.21.1`
 - [Create: Interiors](https://modrinth.com/project/interiors) `0.6.1`
 - [Create: Radars](https://modrinth.com/project/create-radars) `5.0.3-1.21.1`
+- [Create: Tracks+](https://modrinth.com/project/create-tracks-plus) `1.0.6b7`
 - [Cubes Without Borders](https://modrinth.com/project/cubes-without-borders) `5.0.0+1.21.0.neoforge`
 - [Curios API](https://modrinth.com/project/curios) `9.5.1+1.21.1`
 - [Diabolical Islands](https://modrinth.com/project/diabolical-islands) `1.0.0+mod`
@@ -74,11 +74,14 @@
 - [Hoofprint](https://modrinth.com/project/hoofprint) `1.3.0+1.21`
 - [Immersive Minimaps](https://modrinth.com/project/immersive-minimaps) `1.2.4+1.21.1-fabric`
 - [Immersive Overlays](https://modrinth.com/project/immersive-overlays) `1.8.6+1.21.1-neoforge`
+- [Improved Village Placement](https://modrinth.com/project/improved-village-placement) `1.2.0-neoforge-21.1`
+- [Inventorio](https://modrinth.com/project/inventorio) `1.11.0+1.21.1`
+- [Iris Shaders](https://modrinth.com/project/iris) `1.8.14-beta.1+1.21.1-neoforge`
 - [Jade Addons (Neo/Forge)](https://modrinth.com/project/jade-addons-forge) `6.1.2+neoforge`
 - [Jade Sable Compat](https://modrinth.com/project/jade-sable-compat) `1.3.0`
 - [Jade 🔍](https://modrinth.com/project/jade) `15.10.6+neoforge`
 - [JB Mono](https://modrinth.com/project/jb-mono) `1.0`
-- [Just Enough Items (JEI)](https://modrinth.com/project/jei) `19.70.0.460`
+- [Just Enough Items (JEI)](https://modrinth.com/project/jei) `19.70.0.469`
 - [Just Zoom](https://modrinth.com/project/just-zoom) `3.1.0-1.21.1-neoforge`
 - [Konkrete](https://modrinth.com/project/konkrete) `1.9.9-1.21-neoforge`
 - [Kotlin for Forge](https://modrinth.com/project/kotlin-for-forge) `5.12.0`
@@ -88,7 +91,7 @@
 - [Lithium](https://modrinth.com/project/lithium) `mc1.21.1-0.15.4-neoforge`
 - [Lithostitched](https://modrinth.com/project/lithostitched) `1.8.1-neoforge-21.1`
 - [McQoy](https://modrinth.com/project/mcqoy) `0.4.1+neo-1.21`
-- [Moonlight Lib](https://modrinth.com/project/moonlight) `1.21.1-3.7.2`
+- [Moonlight Lib](https://modrinth.com/project/moonlight) `1.21.1-3.8.0`
 - [Mouse Tweaks](https://modrinth.com/project/mouse-tweaks) `1.21-2.26.1-neoforge`
 - [MRU](https://modrinth.com/project/mru) `1.0.41+1.21.1-neoforge`
 - [NetherPortalFix](https://modrinth.com/project/netherportalfix) `21.1.1+neoforge-1.21.1`
@@ -118,7 +121,7 @@
 - [Sable: Ragdolls](https://modrinth.com/project/sable-ragdolls) `0.7.5`
 - [Screenshot to Clipboard](https://modrinth.com/project/screenshot-to-clipboard) `1.0.10+neoforge`
 - [Searchables](https://modrinth.com/project/searchables) `1.0.2`
-- [Simple Voice Chat](https://modrinth.com/project/simple-voice-chat) `neoforge-1.21.1-2.6.26`
+- [Simple Voice Chat](https://modrinth.com/project/simple-voice-chat) `neoforge-1.21.1-2.6.27`
 - [Sinytra Connector](https://modrinth.com/project/connector) `2.0.0-beta.17+1.21.1`
 - [Sodium](https://modrinth.com/project/sodium) `mc1.21.1-0.8.13-neoforge`
 - [Sodium Extra](https://modrinth.com/project/sodium-extra) `mc1.21.1-0.9.5+neoforge`
@@ -131,6 +134,7 @@
 - [SuperMartijn642's Config Lib](https://modrinth.com/project/supermartijn642s-config-lib) `1.1.8-neoforge-mc1.21`
 - [Supplementaries](https://modrinth.com/project/supplementaries) `1.21.1-4.0.2`
 - [Surveyor Map Framework](https://modrinth.com/project/surveyor) `1.2.4+1.21`
+- [TAA-Voxy Port](https://modrinth.com/project/taa-voxy-port) `1.4`
 - [Tree Physics](https://modrinth.com/project/tree-physics) `neoforge-2.4`
 - [vista](https://modrinth.com/project/vista_tv) `1.21.1-5.6.2`
 - [voxy](https://modrinth.com/project/voxy) `0.2.16-beta`

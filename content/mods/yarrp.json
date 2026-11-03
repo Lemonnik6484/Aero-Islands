@@ -1,0 +1,25 @@
+{
+  "name": "YARRP",
+  "side": "auto",
+  "explicit": false,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "Z2RtCqwR",
+      "slug": "yarrp",
+      "versionId": "t1rtOqca",
+      "versionNumber": "0.2.0+1.21.1",
+      "filename": "yarrp-mc1.21.1-neoforge-v0.2.0.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/Z2RtCqwR/versions/t1rtOqca/yarrp-mc1.21.1-neoforge-v0.2.0.jar",
+      "sha1": "c05ded82628db6f5c90e4fe1dc66f137c9ddd8cd",
+      "sha512": "461331d28d34bdff69cd971dea5b19a2b15a22e9b5726d8a5c096401226d0180b4c92be7e4db5cd13d34ae928b0ee9fb22cf0c968eb323e569e50ad54fb69c21",
+      "fileSize": 395210
+    }
+  },
+  "dependents": [
+    "LcafSQPm"
+  ],
+  "clientSide": "optional",
+  "serverSide": "optional"
+}

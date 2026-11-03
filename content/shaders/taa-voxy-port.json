@@ -1,0 +1,23 @@
+{
+  "name": "TAA-Voxy Port",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "E4OF11ZZ",
+      "slug": "taa-voxy-port",
+      "versionId": "tdhguEjD",
+      "versionNumber": "1.4",
+      "filename": "TAA Voxy 1.4.zip",
+      "downloadUrl": "https://cdn.modrinth.com/data/E4OF11ZZ/versions/tdhguEjD/TAA%20Voxy%201.4.zip",
+      "sha1": "2b13b0f45ab6771b4aaf3b6adc32133c0683237d",
+      "sha512": "b5f8bbe9c431f98343b7a4c3912d6f6b3a216a92de4c4647e433f5bd191c642ebe5ee0fefeb240e4dc141ca28758ab6ca2964ff88cd92e801e48d10cf61db932",
+      "fileSize": 24329
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

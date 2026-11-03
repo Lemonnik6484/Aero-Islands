@@ -45,10 +45,6 @@
       "sha1": "4c94aa358dc730c1d7af2e97122b2de01b60777c"
     },
     {
-      "path": "content/mods/async.json",
-      "sha1": "d105b13b372a2a08d44bea071573b7b3e246b1ac"
-    },
-    {
       "path": "content/mods/athena-ctm.json",
       "sha1": "512e32f80fb889770224ab4db951a4839f4bfd41"
     },
@@ -82,7 +78,7 @@
     },
     {
       "path": "content/mods/c2me-neoforge.json",
-      "sha1": "f91861d6685167dc426a897fb1967985eed2068a"
+      "sha1": "1ba00aec2a4c3968b64b76d55df5c3ce63898779"
     },
     {
       "path": "content/mods/chat-heads.json",
@@ -106,7 +102,7 @@
     },
     {
       "path": "content/mods/cloth-config.json",
-      "sha1": "caae7d28f9e4a464a63dceeef239f065f59854b7"
+      "sha1": "8ce1941e83cbc02efa2af1c15b822456bb1cbbc4"
     },
     {
       "path": "content/mods/connector.json",
@@ -130,7 +126,7 @@
     },
     {
       "path": "content/mods/create-aeronautics-climbable-ropes.json",
-      "sha1": "6c69b45924d4ad62b1eeb6b7c2680111ba5deedb"
+      "sha1": "655a85cbf5d860e6ce5d5bf57169adcee21157e6"
     },
     {
       "path": "content/mods/create-aeronautics-gyroscope-stabilizers.json",
@@ -146,7 +142,7 @@
     },
     {
       "path": "content/mods/create-aeronautics.json",
-      "sha1": "4c616da07252f8cbb7a96cdd439c9f8cc2706c0e"
+      "sha1": "4a50bdb44b4aca3b506bb8aa64d61a6681b49645"
     },
     {
       "path": "content/mods/create-big-cannons.json",
@@ -181,8 +177,12 @@
       "sha1": "fe778fd5042802ded7977ffe4427fb2b7375afdb"
     },
     {
+      "path": "content/mods/create-tracks-plus.json",
+      "sha1": "08d834ce95e7255968be9224b951c87ac5a7b0a1"
+    },
+    {
       "path": "content/mods/create.json",
-      "sha1": "7de86addd232c88c319740a1b4ecc17ec3c58375"
+      "sha1": "31ab56b2050daf68913b6bd86838395a95491946"
     },
     {
       "path": "content/mods/cubes-without-borders.json",
@@ -277,8 +277,20 @@
       "sha1": "7c78dbdcb580909dd7832b344bdbac6486f52cb6"
     },
     {
+      "path": "content/mods/improved-village-placement.json",
+      "sha1": "cc18fd76f3ada3d241f0130b50a6888b8db68f5d"
+    },
+    {
       "path": "content/mods/interiors.json",
       "sha1": "e19c760e4ab8c1bfe66b4266574dbfac4f5090b2"
+    },
+    {
+      "path": "content/mods/inventorio.json",
+      "sha1": "e51d65225df4c6737919778576bb0ff028b344c2"
+    },
+    {
+      "path": "content/mods/iris.json",
+      "sha1": "e8b1d931a60766947c40c58a4ee01d5ca1fc9911"
     },
     {
       "path": "content/mods/jade-addons-forge.json",
@@ -294,7 +306,7 @@
     },
     {
       "path": "content/mods/jei.json",
-      "sha1": "3eae358e02bc267ba63662735fff0c1f609a38d7"
+      "sha1": "48f546bc66e6aba7cefb345893fe5e08c9373a59"
     },
     {
       "path": "content/mods/just-zoom.json",
@@ -306,7 +318,7 @@
     },
     {
       "path": "content/mods/kotlin-for-forge.json",
-      "sha1": "2132d5e633b2b34e66d9afaecd8faa2e7223c174"
+      "sha1": "8426442f66a18d4f03a29c0b2a2b652e60bb29cb"
     },
     {
       "path": "content/mods/kubejs.json",
@@ -326,11 +338,11 @@
     },
     {
       "path": "content/mods/lithium.json",
-      "sha1": "730b1f9359f7f72a2b822bf0125c86d3025c9d02"
+      "sha1": "51309bafcbab940efe3f2100171a6f673f901d90"
     },
     {
       "path": "content/mods/lithostitched.json",
-      "sha1": "30b3f72cf7d864116ccc4318240dcf4fe7687a01"
+      "sha1": "8fcc8fd41199b0dc96a685076e3584db91fd17ed"
     },
     {
       "path": "content/mods/mcqoy.json",
@@ -342,7 +354,7 @@
     },
     {
       "path": "content/mods/moonlight.json",
-      "sha1": "ab8fbba18f5fc23ed0ab31ff8ac51b3b91d353e6"
+      "sha1": "317f91d7a62c17874339f6da95863e92e3dd633c"
     },
     {
       "path": "content/mods/mouse-tweaks.json",
@@ -454,7 +466,7 @@
     },
     {
       "path": "content/mods/sable.json",
-      "sha1": "78ea78fd21b78a1564a9cbe729fcf48bd27a5281"
+      "sha1": "eeeb17c87663686d69a8e7ed4fc85315ffddef75"
     },
     {
       "path": "content/mods/screenshot-to-clipboard.json",
@@ -466,7 +478,7 @@
     },
     {
       "path": "content/mods/simple-voice-chat.json",
-      "sha1": "001d7ddc7feedf441471380006e8f99cb8f01f42"
+      "sha1": "a9a984137d743d07ddb25b307f23cea5e303daf9"
     },
     {
       "path": "content/mods/sodium-extra.json",
@@ -474,7 +486,7 @@
     },
     {
       "path": "content/mods/sodium.json",
-      "sha1": "e557b5ffdbd8977ed4cc493e4dc92f71e2fa30a6"
+      "sha1": "2266f40834df4173c57d60784edc37c72cf61bc8"
     },
     {
       "path": "content/mods/sound-physics-aeronautics.json",
@@ -533,6 +545,10 @@
       "sha1": "ec6eb92693a39addacc501ab303d38fc9e185ef0"
     },
     {
+      "path": "content/mods/yarrp.json",
+      "sha1": "e6657a67b30af201966e4541a36843aefd8c825c"
+    },
+    {
       "path": "content/mods/yungs-api.json",
       "sha1": "abb2cba4b9c88bf0bc630bd3e7fd03285680c83f"
     },
@@ -551,6 +567,14 @@
     {
       "path": "content/resourcepacks/sunbathing-godrays.json",
       "sha1": "6016d004076c9d4478fbfa93e7e744bd9353a672"
+    },
+    {
+      "path": "content/shaders/taa-voxy-port.json",
+      "sha1": "b2798e22e28ee04229b8952a90f63c534cc51add"
+    },
+    {
+      "path": "overrides/TODO.md",
+      "sha1": "f8272d50b16b8b50f699257f787f9ae2f1d9c5fc"
     },
     {
       "path": "overrides/config/CoroUtil/General.toml",
@@ -606,11 +630,11 @@
     },
     {
       "path": "overrides/config/amendments-client.toml",
-      "sha1": "68b2768e2684fb956dbd87929a8628992e82628d"
+      "sha1": "93a629638998542dad070e1e3835d19cb2a193df"
     },
     {
       "path": "overrides/config/amendments-common.toml",
-      "sha1": "4fdc3e84b8fea78c932674f3db21c37735b9d0bd"
+      "sha1": "416240fe58cbde05826bbfade3868f609835d238"
     },
     {
       "path": "overrides/config/analogaudio/analogaudio.client.toml",
@@ -766,7 +790,7 @@
     },
     {
       "path": "overrides/config/create_radar-server.toml",
-      "sha1": "4e243d09ea3a9d54cf59e37cbb83884b551bcb98"
+      "sha1": "272fb9cd840fc934a22ad169554a5bb65bbc9967"
     },
     {
       "path": "overrides/config/createbigcannons-client.toml",
@@ -891,6 +915,26 @@
     {
       "path": "overrides/config/immersiveoverlays.json",
       "sha1": "e2e68b818b7201d1de665dcf3a757feabfc27c13"
+    },
+    {
+      "path": "overrides/config/improved_village_placement.json",
+      "sha1": "794041ae692c93b8d7c52605ac8176ec0975ed4c"
+    },
+    {
+      "path": "overrides/config/inventorio.json",
+      "sha1": "fb9cd885f3f90fa9a88679223206c105857206ee"
+    },
+    {
+      "path": "overrides/config/inventorio_shared.json",
+      "sha1": "e81a3e92806e17acb2bd97aa56e8cb8f0f52e30a"
+    },
+    {
+      "path": "overrides/config/iris-excluded.json",
+      "sha1": "20bd3420b5c911402ac289c154b56ac1dd8f84ba"
+    },
+    {
+      "path": "overrides/config/iris.properties",
+      "sha1": "5d8dd52dd74fb2d778ee2caa9792a84ac54220a9"
     },
     {
       "path": "overrides/config/jade/hide-blocks.json",
@@ -1065,6 +1109,10 @@
       "sha1": "6aff9afed05022c305c8ef2a81a7bb8208144068"
     },
     {
+      "path": "overrides/config/paxi/datapacks/void_c.zip",
+      "sha1": "cbfd7f39d539344b46094bf56aeb2a165b186f63"
+    },
+    {
       "path": "overrides/config/paxi/resourcepack_load_order.json",
       "sha1": "6aff9afed05022c305c8ef2a81a7bb8208144068"
     },
@@ -1198,6 +1246,10 @@
     },
     {
       "path": "overrides/config/structurify.json",
+      "sha1": "2593df6daac7ed4a9c6d3518710de857b8295463"
+    },
+    {
+      "path": "overrides/config/structurify/structurify_backup_2026-11-03_21-18-43.json",
       "sha1": "859269db880e4d27beba485b22fb7f6e385e9bec"
     },
     {
@@ -1211,6 +1263,10 @@
     {
       "path": "overrides/config/surveyor.toml",
       "sha1": "5aada439f8d0ed90d1960a6c2f855812b83341f1"
+    },
+    {
+      "path": "overrides/config/tracks-server.toml",
+      "sha1": "7094e1e0cef2963a6e8ac274903213453fa941d1"
     },
     {
       "path": "overrides/config/transition.json",
@@ -1230,7 +1286,7 @@
     },
     {
       "path": "overrides/config/vista-client.toml",
-      "sha1": "a8d51564ca6128336cee4d17851019baccf33dc7"
+      "sha1": "aa8f47509d8233cff1197c4307128a22a483fcdd"
     },
     {
       "path": "overrides/config/vista-common.toml",
@@ -1254,11 +1310,11 @@
     },
     {
       "path": "overrides/config/voicechat/voicechat-client.properties",
-      "sha1": "5895eb0eaaeb1b900a8d352d7160382e6f011d13"
+      "sha1": "4bc4e22a33991469985a5284eb0473e404c769a1"
     },
     {
       "path": "overrides/config/voicechat/voicechat-server.properties",
-      "sha1": "d39ea2e8b69a3262bf90b057f689483844f9f60f"
+      "sha1": "2570b1ed4ed70d43e874a58a4e9c2685b930e1ca"
     },
     {
       "path": "overrides/config/voxy-config.json",
@@ -1278,7 +1334,7 @@
     },
     {
       "path": "overrides/config/zfastnoise.mixin.properties",
-      "sha1": "79667ab697e57a0fcb73f89f6e9689f899d268b0"
+      "sha1": "0fb2e03b91ecdad4fa0531a59371530dcb06cab3"
     },
     {
       "path": "overrides/defaultconfigs/biolith/general.json",
@@ -1290,7 +1346,7 @@
     },
     {
       "path": "overrides/justzoom_instance_data/persistence_data.json",
-      "sha1": "f41cedf68ec00e312fc22c09c361adee79d4e921"
+      "sha1": "c720f58271d1c88171b3cefb92863e3b04bb41c2"
     },
     {
       "path": "overrides/mods/coolpeplaero-1.1.3.jar",
@@ -1306,7 +1362,7 @@
     },
     {
       "path": "overrides/options.txt",
-      "sha1": "ba8ff33d4bafa8d479d99197135ebc0128b72488"
+      "sha1": "b5a95c80c71256004d85198bbb115ab55ade3897"
     },
     {
       "path": "overrides/servers.dat",

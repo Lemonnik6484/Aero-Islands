@@ -1,9 +1,17 @@
 {
   "config_version": "2.0.43",
-  "config_datetime": "2026-10-29_16-28-47",
+  "config_datetime": "2026-11-03_21-18-43",
   "general": {},
   "structure_namespaces": [],
-  "structures": [],
+  "structures": [
+    {
+      "name": "minecraft:mineshaft",
+      "enable_flatness_check": true,
+      "flatness_check_allow_non_solid_blocks": true,
+      "flatness_check_mode": "MANUAL",
+      "flatness_check_max_height_difference": 20
+    }
+  ],
   "structure_sets": [],
   "structure_template_pools": []
 }

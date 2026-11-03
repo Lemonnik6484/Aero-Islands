@@ -122,6 +122,17 @@ key_key.hotbar.7:key.keyboard.7
 key_key.hotbar.8:key.keyboard.8
 key_key.hotbar.9:key.keyboard.9
 key_lambdynlights.key.toggle_fps_dynamic_lighting:key.keyboard.unknown
+key_inventorio.keys.use_utility:key.keyboard.unknown
+key_inventorio.keys.next_utility:key.mouse.4
+key_inventorio.keys.prev_utility:key.mouse.5
+key_inventorio.keys.empty_utility:key.keyboard.unknown
+key_inventorio.keys.rocket_boost:key.keyboard.unknown
+key_inventorio.keys.open_player_settings:key.keyboard.i
+key_inventorio.keys.open_global_settings:key.keyboard.o
+key_iris.keybind.reload:key.keyboard.r
+key_iris.keybind.toggleShaders:key.keyboard.k
+key_iris.keybind.shaderPackSelection:key.keyboard.o
+key_iris.keybind.wireframe:key.keyboard.unknown
 key_key.clientsort.edit:key.keyboard.unknown
 key_key.clientsort.cancelAuto:key.keyboard.unknown
 key_key.clientsort.op.sort:key.mouse.middle
@@ -226,6 +237,7 @@ key_key.aero_cam_sync.toggle:key.keyboard.i
 key_key.aero_cam_sync.open_config:key.keyboard.unknown
 key_key.aero_cam_sync.add_mainhand_item_client:key.keyboard.unknown
 key_key.climbable_ropes.lock_rope_camera:key.keyboard.left.alt
+key_key.tracks.open_tuning:key.keyboard.j
 key_key.sablecleanup.open_list:key.keyboard.unknown
 key_key.jade.config:key.keyboard.keypad.0
 key_key.jade.show_overlay:key.keyboard.keypad.1

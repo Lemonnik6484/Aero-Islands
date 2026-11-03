@@ -18,9 +18,6 @@
     }
   },
   "dependents": [],
-  "optionalDependents": [
-    "vEC2jm6I"
-  ],
   "clientSide": "optional",
   "serverSide": "optional"
 }
