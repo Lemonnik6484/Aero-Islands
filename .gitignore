@@ -70,3 +70,9 @@ overrides/ponders_watched_azimuth.json
 overrides/vista_ffmpeg_sources.json
 .idea/
 overrides/config/fabric/indigo-renderer.properties
+/overrides/.analogaudio/
+/overrides/.analoglib/
+/overrides/analogaudio_internal/
+/overrides/justzoom_instance_data/
+/overrides/tacz_backup/
+/overrides/XaeroWaypoints_BACKUP240807/

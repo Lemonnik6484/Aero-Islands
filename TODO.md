@@ -6,7 +6,7 @@
 - [ ] levitation on void
 - [X] ~~more spread islands & height~~
 - [X] fix village gen
-- [ ] less lakes
+- [ ] fewer lakes
 - [ ] oil lakes
 - [ ] diesel gens/super heat blazes with oil
 - [ ] throwable ropes
