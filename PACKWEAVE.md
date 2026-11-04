@@ -1,6 +1,6 @@
 # Aero Islands
 
-**Minecraft 1.21.1 · neoforge 21.1.265**, 133 mods (5 dependencies), 3 resource packs, 1 shader, 1 data pack
+**Minecraft 1.21.1 · neoforge 21.1.265**, 137 mods (5 dependencies), 3 resource packs, 1 shader, 1 data pack
 
 ## Contents
 
@@ -74,7 +74,7 @@
 - [Immersive Minimaps](https://modrinth.com/project/immersive-minimaps) `1.2.4+1.21.1-fabric`
 - [Immersive Overlays](https://modrinth.com/project/immersive-overlays) `1.8.6+1.21.1-neoforge`
 - [Inventorio](https://modrinth.com/project/inventorio) `1.11.0+1.21.1`
-- Iris core shaders compat fix `iris_bonk-1.21.1-0.1.1-neoforge` (curseforge)
+- Iris core shaders compat fix `iris_bonk-1.21.1-0.1.3-neoforge` (curseforge)
 - [Iris Shaders](https://modrinth.com/project/iris) `1.8.14-beta.1+1.21.1-neoforge`
 - [Jade Addons (Neo/Forge)](https://modrinth.com/project/jade-addons-forge) `6.1.2+neoforge`
 - [Jade Sable Compat](https://modrinth.com/project/jade-sable-compat) `1.3.0`
@@ -87,6 +87,7 @@
 - [KubeJS](https://modrinth.com/project/kubejs) `2101.7.2-build.381`
 - [LambDynamicLights - Dynamic Lights](https://modrinth.com/project/lambdynamiclights) `4.8.11+1.21.1`
 - [Lever drugster](https://modrinth.com/project/lever-drugster) `1.8.8`
+- [LibJF](https://modrinth.com/project/libjf) `3.17.7+forge`
 - [Lithium](https://modrinth.com/project/lithium) `mc1.21.1-0.15.4-neoforge`
 - [Lithostitched](https://modrinth.com/project/lithostitched) `1.8.1-neoforge-21.1`
 - [McQoy](https://modrinth.com/project/mcqoy) `0.4.1+neo-1.21`
@@ -111,6 +112,7 @@
 - [Reliable Recipes](https://modrinth.com/project/reliable-recipes) `3.8.3+1.21.1-neoforge`
 - [Reliable Remover](https://modrinth.com/project/reliable-remover) `3.8.4+1.21.1-neoforge`
 - [Resourceful Lib](https://modrinth.com/project/resourceful-lib) `3.0.12`
+- [Respackopts](https://modrinth.com/project/respackopts) `4.14.0+1.21.1.forge.4`
 - [Rhino](https://modrinth.com/project/rhino) `2101.2.8-build.91+Rhino-1.21`
 - [Ritchie's Projectile Library](https://modrinth.com/project/rpl) `2.1.2`
 - [Roxy](https://modrinth.com/project/roxy) `0.4.1-neoforge+mc1.21.1`
@@ -137,6 +139,8 @@
 - [Surveyor Map Framework](https://modrinth.com/project/surveyor) `1.2.4+1.21`
 - [TAA-Voxy Port](https://modrinth.com/project/taa-voxy-port) `1.4`
 - [Tree Physics](https://modrinth.com/project/tree-physics) `neoforge-2.4`
+- [Veil](https://modrinth.com/project/veil) `4.5.2`
+- Veil Bonk `veil_bonk-1.21.1-0.3.0-neoforge` (curseforge)
 - [vista](https://modrinth.com/project/vista_tv) `1.21.1-5.6.2`
 - [voxy](https://modrinth.com/project/voxy) `0.2.16-beta`
 - [Voxygen](https://modrinth.com/project/voxy-worldgen) `2.4.2`
