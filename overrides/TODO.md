@@ -4,7 +4,7 @@
 - [X] void sea in overworld
 - [ ] rich ores & stones
 - [ ] levitation on void
-- [ ] more spread islands & height
+- [X] ~~more spread islands & height~~
 - [X] fix village gen
 - [ ] less lakes
 - [ ] oil lakes
