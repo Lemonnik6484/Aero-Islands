@@ -2,7 +2,7 @@
   "files": [
     {
       "path": "TODO.md",
-      "sha1": "418a4998c262c9fa05206c5a0bde972464808600"
+      "sha1": "a953e4e6d5312dc2858000ca7990c192dbd996e1"
     },
     {
       "path": "content/datapacks/no-bat.json",
@@ -173,16 +173,16 @@
       "sha1": "8e3aaf716e2fa21c718a9786088ba99e0bfbc4e2"
     },
     {
+      "path": "content/mods/create-liquid-fuel.json",
+      "sha1": "4ffe8b337e408dd2c3362900eb3599675b5d6713"
+    },
+    {
       "path": "content/mods/create-radars.json",
       "sha1": "a007dc72bb9f31fd456993e3d677b92cf2be4fc5"
     },
     {
       "path": "content/mods/create-smart-bounds.json",
       "sha1": "0647dc0610f57da053a4317823514d9e675dd9f2"
-    },
-    {
-      "path": "content/mods/create-stuff-additions.json",
-      "sha1": "fe778fd5042802ded7977ffe4427fb2b7375afdb"
     },
     {
       "path": "content/mods/create-tracks-plus.json",
@@ -291,14 +291,6 @@
     {
       "path": "content/mods/inventorio.json",
       "sha1": "e51d65225df4c6737919778576bb0ff028b344c2"
-    },
-    {
-      "path": "content/mods/iris-bonk.json",
-      "sha1": "7139d296ddee419d1f6836a1615b6a8b3b53fb69"
-    },
-    {
-      "path": "content/mods/iris.json",
-      "sha1": "e8b1d931a60766947c40c58a4ee01d5ca1fc9911"
     },
     {
       "path": "content/mods/jade-addons-forge.json",
@@ -494,7 +486,7 @@
     },
     {
       "path": "content/mods/sodium.json",
-      "sha1": "668b36bfc4455d94fa3683213b9fff7e0f4fe490"
+      "sha1": "8edab9b17fa1ff12bd4f100f4897479947f719f4"
     },
     {
       "path": "content/mods/sound-physics-aeronautics.json",
@@ -533,16 +525,16 @@
       "sha1": "1b223658d0554da7ff01b486c29bfe043eeb92fd"
     },
     {
-      "path": "content/mods/veil-bonk.json",
-      "sha1": "3aee0dc083affe3b1903a1f851f9783d93f46f96"
-    },
-    {
       "path": "content/mods/veil.json",
-      "sha1": "a2f886a299671208589ca7f84b4f5d2c72adbd70"
+      "sha1": "6b445cd9e6c725e13c339c8de389ce076dc60755"
     },
     {
       "path": "content/mods/vista_tv.json",
       "sha1": "038d9ecc44a57880f5967d3e304ec47a9cba0f26"
+    },
+    {
+      "path": "content/mods/void-water.json",
+      "sha1": "2e72f0bf22f75ef71cbbe41cc65248ba4d0b6ac0"
     },
     {
       "path": "content/mods/voxy-worldgen.json",
@@ -946,7 +938,11 @@
     },
     {
       "path": "overrides/config/iris.properties",
-      "sha1": "4482ede55d4aa8b9f50c549788d3ff473426fe23"
+      "sha1": "8827df63c06f96c67dedbe0d1ff477accf80a25c"
+    },
+    {
+      "path": "overrides/config/iris_bonk-client.toml",
+      "sha1": "038813fbe0592c22b6f569155f67b9d36d5621a8"
     },
     {
       "path": "overrides/config/iris_bonk.properties",
@@ -994,7 +990,7 @@
     },
     {
       "path": "overrides/config/jei/client/recipe-category-sort-order.ini",
-      "sha1": "baeba9427e6abefc5869539369e3a0202dc642a6"
+      "sha1": "ca5e2c251107ae80492200dd8eed50b1357e2260"
     },
     {
       "path": "overrides/config/jei/server/world/default/jei-server.ini",
@@ -1150,7 +1146,7 @@
     },
     {
       "path": "overrides/config/reliable_remover.json",
-      "sha1": "89178df4f58ef3f4f8dbd8a5510535de188fe82e"
+      "sha1": "a7ca2333a13269b36e1d4f1dffec82abbb5b3ca7"
     },
     {
       "path": "overrides/config/reliable_remover/removal_example.json.disabled",
@@ -1258,11 +1254,7 @@
     },
     {
       "path": "overrides/config/structurify.json",
-      "sha1": "813d30d6343a9835104ea5a904acc3c823892692"
-    },
-    {
-      "path": "overrides/config/structurify/structurify_backup_2026-11-03_23-30-56.json",
-      "sha1": "9dc8766829704233f855669bb594887c570f296a"
+      "sha1": "3e26e8c0dc56f9378d46256435a3239360fa4d13"
     },
     {
       "path": "overrides/config/structurify/structurify_backup_2026-11-03_23-32-33.json",
@@ -1279,6 +1271,10 @@
     {
       "path": "overrides/config/structurify/structurify_backup_2026-11-03_23-49-20.json",
       "sha1": "a4f31c77b1ccee996d7363509af5caca947e330b"
+    },
+    {
+      "path": "overrides/config/structurify/structurify_backup_2026-11-04_22-02-28.json",
+      "sha1": "813d30d6343a9835104ea5a904acc3c823892692"
     },
     {
       "path": "overrides/config/supplementaries-client.toml",
@@ -1314,7 +1310,7 @@
     },
     {
       "path": "overrides/config/vista-client.toml",
-      "sha1": "c0569fb6b042657719a9e2e70e1329cab2ec2212"
+      "sha1": "a7bee8db869da43822536bbbe635c99a0c30c9a7"
     },
     {
       "path": "overrides/config/vista-common.toml",
@@ -1345,6 +1341,10 @@
       "sha1": "2570b1ed4ed70d43e874a58a4e9c2685b930e1ca"
     },
     {
+      "path": "overrides/config/void_water-server.toml",
+      "sha1": "f58811184daa1213b6adbf7bd609fd1d16b6f796"
+    },
+    {
       "path": "overrides/config/voxy-config.json",
       "sha1": "d2f24ad2ba00aaa6b52738db75d75bad196b0926"
     },
@@ -1362,15 +1362,131 @@
     },
     {
       "path": "overrides/config/zfastnoise.mixin.properties",
-      "sha1": "d765e0a041923af469205485496d63488353e738"
+      "sha1": "97ebd5df7c90f680532885cb6582787a788303e6"
     },
     {
       "path": "overrides/datapacks/void_c.zip",
       "sha1": "34df0ca43389a6b736fda3e3a38ae3b5489bc974"
     },
     {
+      "path": "overrides/defaultconfigs/biolith/general.json",
+      "sha1": "67fc13adf7658431900e6a4a8c686644764dfb1e"
+    },
+    {
       "path": "overrides/icon.png",
       "sha1": "31bcc47fbc1725a6b4312c22e4d210f50cf82a01"
+    },
+    {
+      "path": "overrides/kubejs/README.txt",
+      "sha1": "3e56c097cd0c5be61b767a9a9ae73ae083d2eca9"
+    },
+    {
+      "path": "overrides/kubejs/assets/kubejs/lang/en_us.json",
+      "sha1": "afa51bb03d6b926be83492ab853b1d12f9628f10"
+    },
+    {
+      "path": "overrides/kubejs/assets/kubejs/models/item/oil_bucket.json",
+      "sha1": "fa3da9779d57d30345427ed32b27470c2d7f5ecb"
+    },
+    {
+      "path": "overrides/kubejs/assets/kubejs/textures/block/example_block.png",
+      "sha1": "87f5ec8c26493050fc83543af8d33f2d28a98766"
+    },
+    {
+      "path": "overrides/kubejs/assets/kubejs/textures/block/oil_flow.png",
+      "sha1": "d9abd9a66c8d272b187b24ba1d5e76dd26217f2a"
+    },
+    {
+      "path": "overrides/kubejs/assets/kubejs/textures/block/oil_flow.png.mcmeta",
+      "sha1": "8cb091d76f92a88a6d50afb1be443e54e4518da8"
+    },
+    {
+      "path": "overrides/kubejs/assets/kubejs/textures/block/oil_still.png",
+      "sha1": "c64c7d62e3137bd2cda9cdbd5720e8c6379dd759"
+    },
+    {
+      "path": "overrides/kubejs/assets/kubejs/textures/block/oil_still.png.mcmeta",
+      "sha1": "8cb091d76f92a88a6d50afb1be443e54e4518da8"
+    },
+    {
+      "path": "overrides/kubejs/assets/kubejs/textures/item/example_item.png",
+      "sha1": "d9912cb709ad496b10f19f8b2c66d1e419eb760c"
+    },
+    {
+      "path": "overrides/kubejs/assets/kubejs/textures/item/oil_bucket.png",
+      "sha1": "ce6b9dab20801bfe29ac8582058d0a074cdb8e4f"
+    },
+    {
+      "path": "overrides/kubejs/client_scripts/main.js",
+      "sha1": "e6f23e21b25a366f2216fbf7da00ed7d34542f20"
+    },
+    {
+      "path": "overrides/kubejs/config/client.json",
+      "sha1": "18d170bc6daff2b3c297a920cbb0f35d05d04a73"
+    },
+    {
+      "path": "overrides/kubejs/config/common.json",
+      "sha1": "72bc0862d970e44dd5075bef3e74110f69d65a7d"
+    },
+    {
+      "path": "overrides/kubejs/config/web_server.json",
+      "sha1": "dbf7fea30b42f5c7d30c601bc07c660563e527c6"
+    },
+    {
+      "path": "overrides/kubejs/data/c/tags/fluid/crude_oil.json",
+      "sha1": "c80962f1c3d447b551913509c6a791a84e889fa7"
+    },
+    {
+      "path": "overrides/kubejs/data/c/tags/fluid/oil.json",
+      "sha1": "c80962f1c3d447b551913509c6a791a84e889fa7"
+    },
+    {
+      "path": "overrides/kubejs/data/c/tags/item/crude_oil_bucket.json",
+      "sha1": "255f5d633a83adb22e03c52c8bb85e0f58d761a8"
+    },
+    {
+      "path": "overrides/kubejs/data/c/tags/item/oil_bucket.json",
+      "sha1": "255f5d633a83adb22e03c52c8bb85e0f58d761a8"
+    },
+    {
+      "path": "overrides/kubejs/data/createliquidfuel/blaze_burner_fuel/oil.json",
+      "sha1": "58d792daf45c26361e8951aa7ad91899f67da385"
+    },
+    {
+      "path": "overrides/kubejs/data/createliquidfuel/compat/flowing_oil.json",
+      "sha1": "1f910f16af97835221578f9b3c6aea2556147456"
+    },
+    {
+      "path": "overrides/kubejs/data/createliquidfuel/compat/oil.json",
+      "sha1": "7f3be9ec432d1ab07621f455808999880c7e2052"
+    },
+    {
+      "path": "overrides/kubejs/data/createliquidfuel/data_maps/fluid/liquid_fuel.json",
+      "sha1": "2fa09e4c46155231a69ce6b13c1cbbfa043bb93c"
+    },
+    {
+      "path": "overrides/kubejs/data/kubejs/neoforge/biome_modifier/add_oil_lakes.json",
+      "sha1": "958db099225aa5f654f4d747acd3d3580f002f55"
+    },
+    {
+      "path": "overrides/kubejs/data/kubejs/worldgen/configured_feature/oil_lake.json",
+      "sha1": "f58ee37a796f09c0535f7e88f40704db66a36bff"
+    },
+    {
+      "path": "overrides/kubejs/data/kubejs/worldgen/placed_feature/oil_lake.json",
+      "sha1": "c69410d147a36f1a8e6b8165cfba9c2f2da31720"
+    },
+    {
+      "path": "overrides/kubejs/data/portable_engine_liquid_fuel/data_maps/fluid/engine_fuel.json",
+      "sha1": "a50ee741fb30105bc9d2a1da2874c6bdf9d6636c"
+    },
+    {
+      "path": "overrides/kubejs/server_scripts/main.js",
+      "sha1": "4576ab4ac5ebc77dfe85213d8aea6368f45fcb32"
+    },
+    {
+      "path": "overrides/kubejs/startup_scripts/main.js",
+      "sha1": "82af51a4fdb652b246c20d608c937ef7cdc12f0f"
     },
     {
       "path": "overrides/mods/coolpeplaero-1.1.3.jar",
@@ -1386,7 +1502,7 @@
     },
     {
       "path": "overrides/options.txt",
-      "sha1": "61325fb8c96b849c5c21c7d350c8e145b8e59bf3"
+      "sha1": "f489ff16fa879866941b116a974a36c794e017f1"
     },
     {
       "path": "overrides/polytone_popup.json",

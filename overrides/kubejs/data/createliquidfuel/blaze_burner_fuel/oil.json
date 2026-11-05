@@ -1,0 +1,8 @@
+{
+  "fluid": "kubejs:oil",
+  "superHeat": true,
+  "superheat": true,
+  "burnTime": 32,
+  "burn_time": 640,
+  "amountConsumedPerTick": 1
+}

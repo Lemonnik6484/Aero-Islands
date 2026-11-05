@@ -1,0 +1,23 @@
+{
+  "name": "Create: Liquid Fuel",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "sH9tXU9f",
+      "slug": "create-liquid-fuel",
+      "versionId": "rLn2bDVE",
+      "versionNumber": "3.0.0-1.21.1",
+      "filename": "createliquidfuel-3.0.0-1.21.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/sH9tXU9f/versions/rLn2bDVE/createliquidfuel-3.0.0-1.21.1.jar",
+      "sha1": "c061215a48f76d909675894aab165f1261267ab2",
+      "sha512": "3925e0f7e7b883d719c12c2cdd409fa954fbd53cbb63295764fdf06d57f63553b5dd99f94ae69b071a2aa17fb5bff53817e3394191d8933f7916220861e1bc76",
+      "fileSize": 21815
+    }
+  },
+  "dependents": [],
+  "clientSide": "unsupported",
+  "serverSide": "required"
+}

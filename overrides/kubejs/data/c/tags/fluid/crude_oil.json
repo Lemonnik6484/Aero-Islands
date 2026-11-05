@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    "kubejs:oil",
+    "kubejs:flowing_oil"
+  ]
+}

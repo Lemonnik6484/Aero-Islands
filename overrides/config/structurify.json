@@ -1,6 +1,6 @@
 {
   "config_version": "2.0.43",
-  "config_datetime": "2026-11-03_23-49-20",
+  "config_datetime": "2026-11-04_23-36-58",
   "general": {
     "prevent_structure_overlap": true
   },
@@ -13,6 +13,7 @@
   "structures": [
     {
       "name": "minecraft:ancient_city",
+      "is_disabled": true,
       "terrain_adaptation": "bury",
       "size": 2
     },
@@ -33,7 +34,31 @@
       "is_disabled": true
     },
     {
+      "name": "minecraft:trail_ruins",
+      "is_disabled": true
+    },
+    {
       "name": "minecraft:trial_chambers",
+      "is_disabled": true
+    },
+    {
+      "name": "minecraft:village_desert",
+      "is_disabled": true
+    },
+    {
+      "name": "minecraft:village_plains",
+      "is_disabled": true
+    },
+    {
+      "name": "minecraft:village_savanna",
+      "is_disabled": true
+    },
+    {
+      "name": "minecraft:village_snowy",
+      "is_disabled": true
+    },
+    {
+      "name": "minecraft:village_taiga",
       "is_disabled": true
     },
     {

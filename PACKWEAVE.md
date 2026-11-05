@@ -1,6 +1,6 @@
 # Aero Islands
 
-**Minecraft 1.21.1 · neoforge 21.1.265**, 137 mods (5 dependencies), 3 resource packs, 1 shader, 1 data pack
+**Minecraft 1.21.1 · neoforge 21.1.265**, 135 mods (5 dependencies), 3 resource packs, 1 shader, 1 data pack
 
 ## Contents
 
@@ -40,13 +40,13 @@
 - [Create Aeronautics: Portable Engine Liquid Fuel](https://modrinth.com/project/create-aeronautics-portable-engine-liquid-fuel) `2.0.0`
 - [Create Big Cannons](https://modrinth.com/project/create-big-cannons) `5.11.7`
 - [Create Smart Bounds](https://modrinth.com/project/create-smart-bounds) `1.0.0`
-- [Create Stuff 'N Additions](https://modrinth.com/project/create-stuff-additions) `2.1.4.b`
 - [Create: Connected](https://modrinth.com/project/create-connected) `1.3.3-mc1.21.1`
 - [Create: Copycats+](https://modrinth.com/project/copycats) `3.0.9+mc.1.21.1-neoforge`
 - [Create: Design n' Decor](https://modrinth.com/project/create-design-n-decor) `2.2b`
 - [Create: Dragons Plus](https://modrinth.com/project/create-dragons-plus) `1.11.9`
 - [Create: Framed](https://modrinth.com/project/create-framed) `1.8.2+1.21.1`
 - [Create: Interiors](https://modrinth.com/project/interiors) `0.6.1`
+- [Create: Liquid Fuel](https://modrinth.com/project/create-liquid-fuel) `3.0.0-1.21.1`
 - [Create: Radars](https://modrinth.com/project/create-radars) `5.0.3-1.21.1`
 - [Create: Tracks+](https://modrinth.com/project/create-tracks-plus) `1.0.6b7`
 - [Cubes Without Borders](https://modrinth.com/project/cubes-without-borders) `5.0.0+1.21.0.neoforge`
@@ -74,8 +74,6 @@
 - [Immersive Minimaps](https://modrinth.com/project/immersive-minimaps) `1.2.4+1.21.1-fabric`
 - [Immersive Overlays](https://modrinth.com/project/immersive-overlays) `1.8.6+1.21.1-neoforge`
 - [Inventorio](https://modrinth.com/project/inventorio) `1.11.0+1.21.1`
-- Iris core shaders compat fix `iris_bonk-1.21.1-0.1.3-neoforge` (curseforge)
-- [Iris Shaders](https://modrinth.com/project/iris) `1.8.14-beta.1+1.21.1-neoforge`
 - [Jade Addons (Neo/Forge)](https://modrinth.com/project/jade-addons-forge) `6.1.2+neoforge`
 - [Jade Sable Compat](https://modrinth.com/project/jade-sable-compat) `1.3.0`
 - [Jade 🔍](https://modrinth.com/project/jade) `15.10.6+neoforge`
@@ -140,8 +138,8 @@
 - [TAA-Voxy Port](https://modrinth.com/project/taa-voxy-port) `1.4`
 - [Tree Physics](https://modrinth.com/project/tree-physics) `neoforge-2.4`
 - [Veil](https://modrinth.com/project/veil) `4.5.2`
-- Veil Bonk `veil_bonk-1.21.1-0.3.0-neoforge` (curseforge)
 - [vista](https://modrinth.com/project/vista_tv) `1.21.1-5.6.2`
+- [Void Water](https://modrinth.com/project/void-water) `1.0.2`
 - [voxy](https://modrinth.com/project/voxy) `0.2.16-beta`
 - [Voxygen](https://modrinth.com/project/voxy-worldgen) `2.4.2`
 - [WildSprout: Plains](https://modrinth.com/project/wildsprout-plains) `1.3.0`

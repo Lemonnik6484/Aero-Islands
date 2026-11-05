@@ -1,0 +1,14 @@
+{
+  "values": {
+    "kubejs:oil": {
+      "burnTime": 32,
+      "superHeat": true,
+      "amountConsumedPerTick": 1
+    },
+    "kubejs:flowing_oil": {
+      "burnTime": 32,
+      "superHeat": true,
+      "amountConsumedPerTick": 1
+    }
+  }
+}

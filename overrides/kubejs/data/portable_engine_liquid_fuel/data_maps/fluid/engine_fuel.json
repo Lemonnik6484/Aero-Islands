@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": {
+    "kubejs:oil": {
+      "burn_time": 20000
+    }
+  }
+}
