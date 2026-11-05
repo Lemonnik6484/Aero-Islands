@@ -701,6 +701,14 @@
       "sha1": "e3b64be4e4d635eaef5430a06d90a77600647477"
     },
     {
+      "path": "overrides/config/asyncparticles/asyncparticles-mixin.properties",
+      "sha1": "2618375b43a68a0795244614a6d3e464622571ab"
+    },
+    {
+      "path": "overrides/config/asyncparticles/asyncparticles.json",
+      "sha1": "4adefe8f8b78007d1af6610b5ce1332c3e95db2c"
+    },
+    {
       "path": "overrides/config/azimuth-client.toml",
       "sha1": "7ca01c7625d72b4870090c5e23dbea100ae26afc"
     },
@@ -1094,7 +1102,7 @@
     },
     {
       "path": "overrides/config/moonlight-client.toml",
-      "sha1": "92460613624ad8dbca5c2525971969b650f43bf1"
+      "sha1": "19f7d0b2a4b6010de875446aa41d51734fb31b40"
     },
     {
       "path": "overrides/config/moonlight-common.toml",
@@ -1135,6 +1143,10 @@
     {
       "path": "overrides/config/nuit-config.json",
       "sha1": "ef030b004b48e03bc41f6ef475ae5b2679203382"
+    },
+    {
+      "path": "overrides/config/obscuraspanoramica-client.properties",
+      "sha1": "670090d022eb2c9e5dd6757835b6a016dfdd37c3"
     },
     {
       "path": "overrides/config/obscuria/accents-common.toml",
@@ -1398,7 +1410,7 @@
     },
     {
       "path": "overrides/config/zfastnoise.mixin.properties",
-      "sha1": "c873a3057da6ac2c254c98a1f1269ca336316ad3"
+      "sha1": "c66d5c6d0195540a81bf6bc9986d6e4d1f72591c"
     },
     {
       "path": "overrides/datapacks/void_c.zip",
@@ -1538,11 +1550,15 @@
     },
     {
       "path": "overrides/options.txt",
-      "sha1": "6f33dffda8ca80ca9773fda289ed5330a5a9576d"
+      "sha1": "1c6f85d87bc69d8f5397d542b1982d5c0eea56b6"
     },
     {
       "path": "overrides/polytone_popup.json",
       "sha1": "d581eb302e9f00cd17f7fe39dae699d476142950"
+    },
+    {
+      "path": "overrides/resourcepacks/Panorama.zip",
+      "sha1": "2cf3a49c990dbf035b14dc8ebccb737f88881ab2"
     },
     {
       "path": "overrides/servers.dat",
