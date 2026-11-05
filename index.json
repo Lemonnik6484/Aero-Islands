@@ -910,11 +910,11 @@
     },
     {
       "path": "overrides/config/flyhigher.json",
-      "sha1": "688e09037da4453dd376f86b4dc3592bfa2338ce"
+      "sha1": "814a8577845841c23d76610055182d67295a6472"
     },
     {
       "path": "overrides/config/flyhigher_datapack/data/flyhigher/dimension_physics/overworld.json",
-      "sha1": "f1aa0ad094516a69341cf61b107c7b56cfb79c6c"
+      "sha1": "8cd89da11b8f2a3457129ddfec470430c0d897ae"
     },
     {
       "path": "overrides/config/flyhigher_datapack/pack.mcmeta",
@@ -1390,7 +1390,7 @@
     },
     {
       "path": "overrides/config/zfastnoise.mixin.properties",
-      "sha1": "030f6da73d70c9eafcb92da47c4a496a83e71806"
+      "sha1": "efe3914cc46cb4bfa8a8e2a440cf922674738c98"
     },
     {
       "path": "overrides/datapacks/void_c.zip",

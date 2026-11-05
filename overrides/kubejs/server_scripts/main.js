@@ -1,5 +1,3 @@
-// Server scripts for Aero Islands
-
 ServerEvents.tags('fluid', event => {
   event.add('c:crude_oil', 'kubejs:oil')
   event.add('c:crude_oil', 'kubejs:flowing_oil')

@@ -4,27 +4,27 @@
   "base_pressure": 1.0,
   "pressure_function": [
     {
-      "altitude": -191.0,
+      "altitude": -64.0,
       "value": 1.25,
-      "slope": -0.000984
+      "slope": -0.001969
     },
     {
       "altitude": 63.0,
       "value": 1.00,
-      "slope": -0.000381
+      "slope": -0.000761
     },
     {
-      "altitude": 1377.0,
+      "altitude": 720.0,
       "value": 0.50,
-      "slope": -0.000378
+      "slope": -0.000757
     },
     {
-      "altitude": 1985.0,
+      "altitude": 1024.0,
       "value": 0.27,
-      "slope": -0.000382
+      "slope": -0.000765
     },
     {
-      "altitude": 2665.0,
+      "altitude": 1364.0,
       "value": 0.01,
       "slope": 0.000000
     }

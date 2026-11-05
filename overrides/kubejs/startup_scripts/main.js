@@ -1,6 +1,3 @@
-// KubeJS startup scripts
-// Registers custom Oil fluid replicating Create: Diesel Generators' Crude Oil.
-
 StartupEvents.registry('fluid', event => {
   let oil = event.create('oil', 'thick')
     .displayName('Oil')
@@ -18,7 +15,6 @@ StartupEvents.registry('fluid', event => {
       .canDrown(true)
       .canExtinguish(false)
       .canConvertToSource(false)
-      // Dark, murky full-screen overlay while the player's eyes are in oil.
       .screenOverlayTexture('kubejs:misc/oil_overlay')
     )
 
