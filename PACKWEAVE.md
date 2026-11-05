@@ -1,6 +1,6 @@
 # Aero Islands
 
-**Minecraft 1.21.1 · NeoForge 21.1.265**, 139 mods (4 dependencies), 3 resource packs, 1 data pack
+**Minecraft 1.21.1 · NeoForge 21.1.265**, 141 mods (4 dependencies), 3 resource packs, 1 data pack
 
 ## Contents
 
@@ -17,6 +17,7 @@
 - [Antique Transport](https://modrinth.com/project/antique-transport) `1.3.0`
 - [AppleSkin](https://modrinth.com/project/appleskin) `3.0.9+mc1.21`
 - [Architectury API](https://modrinth.com/project/architectury-api) `13.0.11+neoforge`
+- [AsyncParticles](https://modrinth.com/project/asyncparticles) `21.1.4.10`
 - [Athena](https://modrinth.com/project/athena-ctm) `4.0.6`
 - [Azimuth API](https://modrinth.com/project/azimuth-api) `1.4.10`
 - [Balm](https://modrinth.com/project/balm) `21.0.67+neoforge-1.21.1`
@@ -95,6 +96,7 @@
 - [Moonlight Lib](https://modrinth.com/project/moonlight) `1.21.1-3.8.1`
 - [Mouse Tweaks](https://modrinth.com/project/mouse-tweaks) `1.21-2.26.1-neoforge`
 - [MRU](https://modrinth.com/project/mru) `1.0.41+1.21.1-neoforge`
+- [Neo Bee Fix](https://modrinth.com/project/neo-bee-fix) `2.0.1`
 - [NetherPortalFix](https://modrinth.com/project/netherportalfix) `21.1.1+neoforge-1.21.1`
 - [Nirvana](https://modrinth.com/project/nirvana-mod) `2.0.11`
 - [No Bat ❌](https://modrinth.com/project/no-bat) `1.0`

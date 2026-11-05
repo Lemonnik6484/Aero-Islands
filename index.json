@@ -61,6 +61,10 @@
       "sha1": "4c94aa358dc730c1d7af2e97122b2de01b60777c"
     },
     {
+      "path": "content/mods/asyncparticles.json",
+      "sha1": "31f0592a59bcf9addcab0444695c2ef895251d87"
+    },
+    {
       "path": "content/mods/athena-ctm.json",
       "sha1": "512e32f80fb889770224ab4db951a4839f4bfd41"
     },
@@ -118,7 +122,7 @@
     },
     {
       "path": "content/mods/cloth-config.json",
-      "sha1": "8ce1941e83cbc02efa2af1c15b822456bb1cbbc4"
+      "sha1": "753fc204eff2132788ed957ec20534872c4ea72f"
     },
     {
       "path": "content/mods/connector.json",
@@ -375,6 +379,10 @@
     {
       "path": "content/mods/mru.json",
       "sha1": "d1fbc0bdbe7769c242ff46d5087b57e1f8dcee55"
+    },
+    {
+      "path": "content/mods/neo-bee-fix.json",
+      "sha1": "98dcf010a41142c2a258b6eefbe9f39ebf29e866"
     },
     {
       "path": "content/mods/netherportalfix.json",
@@ -1519,6 +1527,10 @@
     {
       "path": "overrides/mods/fallthrough-1.0.0.jar",
       "sha1": "c85c57106deefdc7b016305539aa130a2495d541"
+    },
+    {
+      "path": "overrides/mods/fastback-neoforge-0.31.2+1.21.1-prerelease.jar",
+      "sha1": "fb1d6041ef21f454228a91ca422f1025309f7452"
     },
     {
       "path": "overrides/mods/skylight-1.0.0.jar",
