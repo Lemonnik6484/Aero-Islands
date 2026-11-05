@@ -1,6 +1,6 @@
 # Aero Islands
 
-**Minecraft 1.21.1 · neoforge 21.1.265**, 139 mods (5 dependencies), 3 resource packs, 1 data pack
+**Minecraft 1.21.1 · NeoForge 21.1.265**, 139 mods (4 dependencies), 3 resource packs, 1 data pack
 
 ## Contents
 
@@ -29,12 +29,12 @@
 - [Chunky](https://modrinth.com/project/chunky) `1.4.23`
 - [Clear Void](https://modrinth.com/project/clear-void) `1.3.1`
 - [Client Sort](https://modrinth.com/project/clientsort) `3.89.2+1.21.1`
-- Climbable Ropes for Create Aeronautics `[2.2.0] Climbable Ropes` (curseforge)
+- [Climbable Ropes for Create Aeronautics](https://www.curseforge.com/projects/1528764) `[2.2.0] Climbable Ropes`
 - [Cloth Config API](https://modrinth.com/project/cloth-config) `15.0.140+neoforge`
 - [Concurrent Chunk Management Engine (NeoForge)](https://modrinth.com/project/c2me-neoforge) `0.4.0-alpha.0.124+1.21.1`
 - [Controlling](https://modrinth.com/project/controlling) `19.0.5`
 - [CoroUtil](https://modrinth.com/project/coroutil) `1.21.0-1.3.8`
-- Cosmetic Armor Reworked `cosmeticarmorreworked-1.21.1-v1-neoforge.jar` (curseforge)
+- [Cosmetic Armor Reworked](https://www.curseforge.com/projects/237307) `cosmeticarmorreworked-1.21.1-v1-neoforge.jar`
 - [Create](https://modrinth.com/project/create) `6.0.10+mc1.21.1`
 - [Create Aeronautics](https://modrinth.com/project/create-aeronautics) `1.3.2+mc1.21.1`
 - [Create Aeronautics Lift Patch](https://modrinth.com/project/create-aeronautics-lift-patch) `1.1.0`
