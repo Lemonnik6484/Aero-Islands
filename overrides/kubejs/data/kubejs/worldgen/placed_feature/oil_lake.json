@@ -31,23 +31,6 @@
       }
     },
     {
-      "type": "minecraft:count",
-      "count": {
-        "type": "minecraft:uniform",
-        "min_inclusive": 10,
-        "max_inclusive": 36
-      }
-    },
-    {
-      "type": "minecraft:random_offset",
-      "xz_spread": {
-        "type": "minecraft:uniform",
-        "min_inclusive": -12,
-        "max_inclusive": 12
-      },
-      "y_spread": 0
-    },
-    {
       "type": "minecraft:biome"
     }
   ]

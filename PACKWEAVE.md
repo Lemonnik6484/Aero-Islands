@@ -1,6 +1,6 @@
 # Aero Islands
 
-**Minecraft 1.21.1 · neoforge 21.1.265**, 135 mods (5 dependencies), 3 resource packs, 1 shader, 1 data pack
+**Minecraft 1.21.1 · neoforge 21.1.265**, 138 mods (5 dependencies), 3 resource packs, 1 shader, 1 data pack
 
 ## Contents
 
@@ -38,6 +38,7 @@
 - [Create Aeronautics Lift Patch](https://modrinth.com/project/create-aeronautics-lift-patch) `1.1.0`
 - [Create Aeronautics: Gyro Stabilizers](https://modrinth.com/project/create-aeronautics-gyroscope-stabilizers) `1.2.2`
 - [Create Aeronautics: Portable Engine Liquid Fuel](https://modrinth.com/project/create-aeronautics-portable-engine-liquid-fuel) `2.0.0`
+- [Create Aeronautics: Throwable Rope Connector](https://modrinth.com/project/create-aeronautics-throwable-rope-connector) `0.4.3`
 - [Create Big Cannons](https://modrinth.com/project/create-big-cannons) `5.11.7`
 - [Create Smart Bounds](https://modrinth.com/project/create-smart-bounds) `1.0.0`
 - [Create: Connected](https://modrinth.com/project/create-connected) `1.3.3-mc1.21.1`
@@ -88,6 +89,7 @@
 - [LibJF](https://modrinth.com/project/libjf) `3.17.7+forge`
 - [Lithium](https://modrinth.com/project/lithium) `mc1.21.1-0.15.4-neoforge`
 - [Lithostitched](https://modrinth.com/project/lithostitched) `1.8.1-neoforge-21.1`
+- [Load My F***ing Tags](https://modrinth.com/project/lmft) `1.1.1+1.21.9`
 - [McQoy](https://modrinth.com/project/mcqoy) `0.4.1+neo-1.21`
 - [Moonlight Lib](https://modrinth.com/project/moonlight) `1.21.1-3.8.0`
 - [Mouse Tweaks](https://modrinth.com/project/mouse-tweaks) `1.21-2.26.1-neoforge`
@@ -98,6 +100,7 @@
 - [No Chat Reports](https://modrinth.com/project/no-chat-reports) `NeoForge-1.21.1-v2.9.1`
 - [No Man's Land](https://modrinth.com/project/no-mans-land) `1.6.3`
 - [Nuit](https://modrinth.com/project/nuit) `mc1.21.1-1.0.0-beta.6+neoforge`
+- [Offgrid](https://modrinth.com/project/offgrid) `1.0.4+1.21.1-neoforge`
 - [Paxi](https://modrinth.com/project/paxi) `1.21.1-NeoForge-5.1.3`
 - [Peaceful Nights](https://modrinth.com/project/peaceful-nights) `0.1.0`
 - [PolyLight -  Simple Colored Lights](https://modrinth.com/project/polylight) `1.6`

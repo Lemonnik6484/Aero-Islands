@@ -149,8 +149,12 @@
       "sha1": "8564f8f668ff2eeacaa93ac5cd4e8a4559eeb310"
     },
     {
+      "path": "content/mods/create-aeronautics-throwable-rope-connector.json",
+      "sha1": "be0bb28eb9b2b774ebb3f81cc612892d61dce179"
+    },
+    {
       "path": "content/mods/create-aeronautics.json",
-      "sha1": "4a50bdb44b4aca3b506bb8aa64d61a6681b49645"
+      "sha1": "2dd79a333de39efbd6a6e446a2796a9f2fc576ea"
     },
     {
       "path": "content/mods/create-big-cannons.json",
@@ -190,7 +194,7 @@
     },
     {
       "path": "content/mods/create.json",
-      "sha1": "31ab56b2050daf68913b6bd86838395a95491946"
+      "sha1": "2fe05bac310d10ce9f501387d8b67bdd626b0d34"
     },
     {
       "path": "content/mods/cubes-without-borders.json",
@@ -338,11 +342,15 @@
     },
     {
       "path": "content/mods/lithium.json",
-      "sha1": "51309bafcbab940efe3f2100171a6f673f901d90"
+      "sha1": "90a89d6f22d07d586c2987f15071a3034f5358b7"
     },
     {
       "path": "content/mods/lithostitched.json",
       "sha1": "97600a81312d33e0aa1aeae4a1d168b841668ae1"
+    },
+    {
+      "path": "content/mods/lmft.json",
+      "sha1": "0c8f8e9ef062126f686f2c6d1a056b1dbddeba17"
     },
     {
       "path": "content/mods/mcqoy.json",
@@ -383,6 +391,10 @@
     {
       "path": "content/mods/nuit.json",
       "sha1": "b5fa661760812d10280526e873706566c3d7ad21"
+    },
+    {
+      "path": "content/mods/offgrid.json",
+      "sha1": "891e50c451534b49846954f4e5ad32d642a1bc1c"
     },
     {
       "path": "content/mods/paxi.json",
@@ -466,7 +478,7 @@
     },
     {
       "path": "content/mods/sable.json",
-      "sha1": "eeeb17c87663686d69a8e7ed4fc85315ffddef75"
+      "sha1": "c1ae1df5f87cfe107489418556d5ca5bffe7120a"
     },
     {
       "path": "content/mods/screenshot-to-clipboard.json",
@@ -486,7 +498,7 @@
     },
     {
       "path": "content/mods/sodium.json",
-      "sha1": "8edab9b17fa1ff12bd4f100f4897479947f719f4"
+      "sha1": "5208431f8731f1373ef7ab1cc1ccc7336441844c"
     },
     {
       "path": "content/mods/sound-physics-aeronautics.json",
@@ -669,10 +681,6 @@
       "sha1": "e3b64be4e4d635eaef5430a06d90a77600647477"
     },
     {
-      "path": "overrides/config/async.toml",
-      "sha1": "bd653d949b91342f799197255e0cff22a583cf9d"
-    },
-    {
       "path": "overrides/config/azimuth-client.toml",
       "sha1": "7ca01c7625d72b4870090c5e23dbea100ae26afc"
     },
@@ -759,10 +767,6 @@
     {
       "path": "overrides/config/create-server.toml",
       "sha1": "440fd52a3691a245ffef990c365b926e60cb89f8"
-    },
-    {
-      "path": "overrides/config/create-stuff-additions.toml",
-      "sha1": "1b2c68f72955724f8377cb35c148a617b95eb851"
     },
     {
       "path": "overrides/config/create_connected-common.toml",
@@ -921,32 +925,12 @@
       "sha1": "e2e68b818b7201d1de665dcf3a757feabfc27c13"
     },
     {
-      "path": "overrides/config/improved_village_placement.json",
-      "sha1": "794041ae692c93b8d7c52605ac8176ec0975ed4c"
-    },
-    {
       "path": "overrides/config/inventorio.json",
       "sha1": "fb9cd885f3f90fa9a88679223206c105857206ee"
     },
     {
       "path": "overrides/config/inventorio_shared.json",
       "sha1": "e81a3e92806e17acb2bd97aa56e8cb8f0f52e30a"
-    },
-    {
-      "path": "overrides/config/iris-excluded.json",
-      "sha1": "20bd3420b5c911402ac289c154b56ac1dd8f84ba"
-    },
-    {
-      "path": "overrides/config/iris.properties",
-      "sha1": "8827df63c06f96c67dedbe0d1ff477accf80a25c"
-    },
-    {
-      "path": "overrides/config/iris_bonk-client.toml",
-      "sha1": "038813fbe0592c22b6f569155f67b9d36d5621a8"
-    },
-    {
-      "path": "overrides/config/iris_bonk.properties",
-      "sha1": "885107084c9ccd044167679c3c4179eb78e675dc"
     },
     {
       "path": "overrides/config/jade/hide-blocks.json",
@@ -1362,7 +1346,7 @@
     },
     {
       "path": "overrides/config/zfastnoise.mixin.properties",
-      "sha1": "97ebd5df7c90f680532885cb6582787a788303e6"
+      "sha1": "b7c305a43962494e79b61db751a8dc052d17765c"
     },
     {
       "path": "overrides/datapacks/void_c.zip",
@@ -1474,7 +1458,7 @@
     },
     {
       "path": "overrides/kubejs/data/kubejs/worldgen/placed_feature/oil_lake.json",
-      "sha1": "c69410d147a36f1a8e6b8165cfba9c2f2da31720"
+      "sha1": "b9887fadde7775a21b32d159ddebba020fbf36ad"
     },
     {
       "path": "overrides/kubejs/data/portable_engine_liquid_fuel/data_maps/fluid/engine_fuel.json",
@@ -1502,7 +1486,7 @@
     },
     {
       "path": "overrides/options.txt",
-      "sha1": "f489ff16fa879866941b116a974a36c794e017f1"
+      "sha1": "d1d152cad3090660a1b19d604f574193c464f2e3"
     },
     {
       "path": "overrides/polytone_popup.json",
