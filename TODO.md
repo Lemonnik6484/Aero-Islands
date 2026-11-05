@@ -2,7 +2,6 @@
 - [X] no monsters on surface
 - [X] double pressure
 - [X] void sea in overworld
-- [ ] rich ores & stones
 - [X] something with void
 - [X] fix village gen
 - [X] fewer lakes
