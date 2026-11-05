@@ -1,7 +1,7 @@
 {
   "config_button_clicked": true,
   "open_count": 1,
-  "support_bubble_shown": false,
-  "support_dismissed": false,
+  "support_bubble_shown": true,
+  "support_dismissed": true,
   "editor_button_clicked": true
 }
