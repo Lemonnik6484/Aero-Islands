@@ -18,9 +18,6 @@
     }
   },
   "dependents": [],
-  "optionalDependents": [
-    "CbCN2Azx"
-  ],
   "clientSide": "required",
   "serverSide": "unsupported"
 }

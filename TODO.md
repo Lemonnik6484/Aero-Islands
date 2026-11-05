@@ -3,7 +3,7 @@
 - [ ] double pressure
 - [X] void sea in overworld
 - [ ] rich ores & stones
-- [ ] something with void
+- [X] something with void
 - [X] ~~more spread islands & height~~
 - [X] fix village gen
 - [X] fewer lakes

@@ -27,7 +27,7 @@ items_open_world_map = true
 [requirements]
 	# Require an item to activate the minimap. This is the intended way to use the mod.
 	# default: true
-	require_item = true
+	require_item = false
 	# Require the item in hand.
 	# default: false
 	require_item_in_hand = false

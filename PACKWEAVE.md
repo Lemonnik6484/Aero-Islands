@@ -1,6 +1,6 @@
 # Aero Islands
 
-**Minecraft 1.21.1 · neoforge 21.1.265**, 138 mods (5 dependencies), 3 resource packs, 1 shader, 1 data pack
+**Minecraft 1.21.1 · neoforge 21.1.265**, 140 mods (5 dependencies), 3 resource packs, 1 data pack
 
 ## Contents
 
@@ -13,6 +13,9 @@
 - [All with You](https://modrinth.com/project/all-with-you) `1.3.2`
 - [Amendments](https://modrinth.com/project/amendments) `1.21-2.2.7`
 - [Analog Audio](https://modrinth.com/project/analog-audio) `0.1.5-hotfix.1+1.21.1`
+- [Antique Atlas 4](https://modrinth.com/project/antique-atlas-4) `3.1.2+1.21`
+- [Antique Atlas 4 Sky Islands Compat](https://modrinth.com/project/aa4-sky-islands) `1.0.12`
+- [Antique Transport](https://modrinth.com/project/antique-transport) `1.3.0`
 - [AppleSkin](https://modrinth.com/project/appleskin) `3.0.9+mc1.21`
 - [Architectury API](https://modrinth.com/project/architectury-api) `13.0.11+neoforge`
 - [Athena](https://modrinth.com/project/athena-ctm) `4.0.6`
@@ -71,8 +74,6 @@
 - [Fragmentum](https://modrinth.com/project/fragmentum) `5.4.0`
 - [Fzzy Config](https://modrinth.com/project/fzzy-config) `0.7.7+fix1+1.21+neoforge`
 - [Geckolib](https://modrinth.com/project/geckolib) `4.9.3`
-- [Hoofprint](https://modrinth.com/project/hoofprint) `1.3.0+1.21`
-- [Immersive Minimaps](https://modrinth.com/project/immersive-minimaps) `1.2.4+1.21.1-fabric`
 - [Immersive Overlays](https://modrinth.com/project/immersive-overlays) `1.8.6+1.21.1-neoforge`
 - [Inventorio](https://modrinth.com/project/inventorio) `1.11.0+1.21.1`
 - [Jade Addons (Neo/Forge)](https://modrinth.com/project/jade-addons-forge) `6.1.2+neoforge`
@@ -81,6 +82,7 @@
 - [JB Mono](https://modrinth.com/project/jb-mono) `1.0`
 - [Just Enough Items (JEI)](https://modrinth.com/project/jei) `19.70.0.469`
 - [Just Zoom](https://modrinth.com/project/just-zoom) `3.1.0-1.21.1-neoforge`
+- [Keybind Atlas](https://modrinth.com/project/keybind-atlas) `2.3.0`
 - [Konkrete](https://modrinth.com/project/konkrete) `1.9.9-1.21-neoforge`
 - [Kotlin for Forge](https://modrinth.com/project/kotlin-for-forge) `5.12.0`
 - [KubeJS](https://modrinth.com/project/kubejs) `2101.7.2-build.381`
@@ -138,7 +140,6 @@
 - [SuperMartijn642's Config Lib](https://modrinth.com/project/supermartijn642s-config-lib) `1.1.8-neoforge-mc1.21`
 - [Supplementaries](https://modrinth.com/project/supplementaries) `1.21.1-4.0.2`
 - [Surveyor Map Framework](https://modrinth.com/project/surveyor) `1.2.4+1.21`
-- [TAA-Voxy Port](https://modrinth.com/project/taa-voxy-port) `1.4`
 - [Tree Physics](https://modrinth.com/project/tree-physics) `neoforge-2.4`
 - [Veil](https://modrinth.com/project/veil) `4.5.2`
 - [vista](https://modrinth.com/project/vista_tv) `1.21.1-5.6.2`

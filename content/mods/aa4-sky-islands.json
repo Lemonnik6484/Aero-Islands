@@ -1,0 +1,23 @@
+{
+  "name": "Antique Atlas 4 Sky Islands Compat",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "I2xXWNEX",
+      "slug": "aa4-sky-islands",
+      "versionId": "yt1wAoRy",
+      "versionNumber": "1.0.12",
+      "filename": "aa4_sky_islands-1.0.12+1.21.1-neoforge.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/I2xXWNEX/versions/yt1wAoRy/aa4_sky_islands-1.0.12%2B1.21.1-neoforge.jar",
+      "sha1": "251dce53c1d3b06cdd019b312320df5bbc17b686",
+      "sha512": "d99dc09c8c329fca8332b38f1822061777e055079f420eccc52045336434b6a7fb4383d3969e19e6e55152eb622abccf8864198a5c7ce764f7bec1f8f4aba65f",
+      "fileSize": 47416
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}
