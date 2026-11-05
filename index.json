@@ -702,7 +702,7 @@
     },
     {
       "path": "overrides/config/asyncparticles/asyncparticles-mixin.properties",
-      "sha1": "2618375b43a68a0795244614a6d3e464622571ab"
+      "sha1": "d4b675ca2d693df4c90a3847fb469eb5948514e0"
     },
     {
       "path": "overrides/config/asyncparticles/asyncparticles.json",
@@ -1410,7 +1410,7 @@
     },
     {
       "path": "overrides/config/zfastnoise.mixin.properties",
-      "sha1": "c66d5c6d0195540a81bf6bc9986d6e4d1f72591c"
+      "sha1": "a1878942d3aef20809be2786ef1299fcff711815"
     },
     {
       "path": "overrides/datapacks/void_c.zip",
@@ -1550,7 +1550,7 @@
     },
     {
       "path": "overrides/options.txt",
-      "sha1": "1c6f85d87bc69d8f5397d542b1982d5c0eea56b6"
+      "sha1": "f287298376fa34c71a00146d1fde3823d65965ef"
     },
     {
       "path": "overrides/polytone_popup.json",
