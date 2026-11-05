@@ -2,7 +2,7 @@
   "files": [
     {
       "path": "TODO.md",
-      "sha1": "6bb26570bedb277e351e644196740b048bbd0d64"
+      "sha1": "5b5b04b495e6d4e15d3549c8d86aca1492a2c5ea"
     },
     {
       "path": "content/datapacks/no-bat.json",
@@ -19,10 +19,6 @@
     {
       "path": "content/mods/aero_cam_sync.json",
       "sha1": "7ab668d27fd312ffed480258d539456082e12a6a"
-    },
-    {
-      "path": "content/mods/aeronautics-delivery-quests.json",
-      "sha1": "6b0517e62a46e9000d745bcae4cb57ba060220b7"
     },
     {
       "path": "content/mods/aeronautics-propeller-blur.json",
@@ -161,12 +157,8 @@
       "sha1": "8564f8f668ff2eeacaa93ac5cd4e8a4559eeb310"
     },
     {
-      "path": "content/mods/create-aeronautics-throwable-rope-connector.json",
-      "sha1": "be0bb28eb9b2b774ebb3f81cc612892d61dce179"
-    },
-    {
       "path": "content/mods/create-aeronautics.json",
-      "sha1": "60962126cf20119a6436a829231165f6d24d5f3b"
+      "sha1": "5ac66f3fe536d546b3596a1a49dea8d1098990d1"
     },
     {
       "path": "content/mods/create-big-cannons.json",
@@ -206,7 +198,7 @@
     },
     {
       "path": "content/mods/create.json",
-      "sha1": "5f0e077e6adc309cbd0c0cf129658df684bf9132"
+      "sha1": "036594bfd4a949ade2e34d4402ef141dde8a8e9f"
     },
     {
       "path": "content/mods/cubes-without-borders.json",
@@ -271,6 +263,10 @@
     {
       "path": "content/mods/ferrite-core.json",
       "sha1": "29f87c9a4280abe96b7c7266488d2d4cf323be15"
+    },
+    {
+      "path": "content/mods/flyhigher.json",
+      "sha1": "c640e9e5d255df0412b92a4db1f4cc75e7084f7f"
     },
     {
       "path": "content/mods/forgified-fabric-api.json",
@@ -370,7 +366,7 @@
     },
     {
       "path": "content/mods/moonlight.json",
-      "sha1": "317f91d7a62c17874339f6da95863e92e3dd633c"
+      "sha1": "7bd705e306a655365ae0fc81ae167d1e1ecb3ec5"
     },
     {
       "path": "content/mods/mouse-tweaks.json",
@@ -625,6 +621,10 @@
       "sha1": "75d98286a0aa3e180708523c8f582a2d23e590b3"
     },
     {
+      "path": "overrides/config/aa4_sky_islands-client.toml",
+      "sha1": "2ffedbc4955c5fcde5b35818727ede0654597c27"
+    },
+    {
       "path": "overrides/config/aero_cam_sync-client.toml",
       "sha1": "347463c9de0e20742ecb9935ea2cf36b7d0ede51"
     },
@@ -679,6 +679,14 @@
     {
       "path": "overrides/config/analoglib/analoglib.client.toml",
       "sha1": "6767989a870805efce0a31e8c8698835fd7232fc"
+    },
+    {
+      "path": "overrides/config/antique-atlas.toml",
+      "sha1": "e09e72b30810de91fa6d146efba3426a21709ac9"
+    },
+    {
+      "path": "overrides/config/antique_transport.toml",
+      "sha1": "4ec44a05335fe4d382b378c9a254f1dfdf8a93cf"
     },
     {
       "path": "overrides/config/appleskin-client.toml",
@@ -897,6 +905,22 @@
       "sha1": "a8af962ea8f0698377dba96a722ce21dedcde8cc"
     },
     {
+      "path": "overrides/config/flyhigher-common.toml",
+      "sha1": "b1af5270e77ce7bf840ce36e11ab0f746d526a9f"
+    },
+    {
+      "path": "overrides/config/flyhigher.json",
+      "sha1": "688e09037da4453dd376f86b4dc3592bfa2338ce"
+    },
+    {
+      "path": "overrides/config/flyhigher_datapack/data/flyhigher/dimension_physics/overworld.json",
+      "sha1": "f1aa0ad094516a69341cf61b107c7b56cfb79c6c"
+    },
+    {
+      "path": "overrides/config/flyhigher_datapack/pack.mcmeta",
+      "sha1": "192393511c6af9a29fb2e3674cac41da5154482c"
+    },
+    {
       "path": "overrides/config/flywheel-client.toml",
       "sha1": "a6b8e074fa713616371da744b1c4d2ad19024ffc"
     },
@@ -991,6 +1015,10 @@
     {
       "path": "overrides/config/justzoom/config.json",
       "sha1": "0117035309cf2993781757f1ef30d61f8131f8a7"
+    },
+    {
+      "path": "overrides/config/keybindatlas-client.toml",
+      "sha1": "e5cafcaeaf6c919dc73470f21d6b6de77f4c654d"
     },
     {
       "path": "overrides/config/konkrete/locals/de_de.local",
@@ -1362,7 +1390,7 @@
     },
     {
       "path": "overrides/config/zfastnoise.mixin.properties",
-      "sha1": "8db9f8b588bda097519355bd65b2a41a507c23af"
+      "sha1": "030f6da73d70c9eafcb92da47c4a496a83e71806"
     },
     {
       "path": "overrides/datapacks/void_c.zip",
@@ -1415,6 +1443,10 @@
     {
       "path": "overrides/kubejs/assets/kubejs/textures/item/oil_bucket.png",
       "sha1": "ce6b9dab20801bfe29ac8582058d0a074cdb8e4f"
+    },
+    {
+      "path": "overrides/kubejs/assets/kubejs/textures/misc/oil_overlay.png",
+      "sha1": "587ae47788b433984026c5a0bd2cb6b2894ff443"
     },
     {
       "path": "overrides/kubejs/client_scripts/main.js",
@@ -1485,8 +1517,12 @@
       "sha1": "4576ab4ac5ebc77dfe85213d8aea6368f45fcb32"
     },
     {
+      "path": "overrides/kubejs/server_scripts/oil_effects.js",
+      "sha1": "41d4b8e54795f15743f0ccd30137a15787fef459"
+    },
+    {
       "path": "overrides/kubejs/startup_scripts/main.js",
-      "sha1": "82af51a4fdb652b246c20d608c937ef7cdc12f0f"
+      "sha1": "f422fcc2efa9770043fd76d62684199680973eb5"
     },
     {
       "path": "overrides/mods/coolpeplaero-1.1.3.jar",

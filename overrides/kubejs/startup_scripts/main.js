@@ -18,6 +18,8 @@ StartupEvents.registry('fluid', event => {
       .canDrown(true)
       .canExtinguish(false)
       .canConvertToSource(false)
+      // Dark, murky full-screen overlay while the player's eyes are in oil.
+      .screenOverlayTexture('kubejs:misc/oil_overlay')
     )
 
   oil.bucketItem

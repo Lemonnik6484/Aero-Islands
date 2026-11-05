@@ -1,0 +1,23 @@
+{
+  "name": "Create: FlyHigher-直上九霄",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "cePRJjRZ",
+      "slug": "flyhigher",
+      "versionId": "OzpXNl6w",
+      "versionNumber": "1.0.2",
+      "filename": "flyhigher-1.21.1-1.0.2.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/cePRJjRZ/versions/OzpXNl6w/flyhigher-1.21.1-1.0.2.jar",
+      "sha1": "454660ac9b6df0f1c35f46c55266157d3804e245",
+      "sha512": "902fede5c6154da1cff52bc85790dac8941ea7d33e927b3d305e7315ec838b4b8f1cb1f0c31970e906e2d8b64688d9f99f81d748004362c9d07cdf0fcdaa8f47",
+      "fileSize": 16171
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

@@ -1,0 +1,18 @@
+#Apply sky-island atlas tweaks when the world sea level is below the threshold.
+enabled = true
+#Activate when world sea level is below this value. Aero Islands uses -255. The End and Nether are never patched.
+# Default: 32
+# Range: -512 ~ 320
+seaLevelThreshold = 32
+#Use valley/ground biome tiles instead of peak/hill tiles for floating islands.
+flattenElevation = true
+#If a chunk has any land or water, ignore empty-air votes so island rims keep biome tiles and autotile edges.
+preferSurface = true
+#Columns below this Y are treated as empty sky.
+# Default: 64
+# Range: -64 ~ 320
+minSurfaceY = 64
+#Vote weight for empty/air columns in fully empty chunks. Antique Atlas 4 defaults to 16.
+# Default: 1
+# Range: 1 ~ 16
+emptyPriority = 1
