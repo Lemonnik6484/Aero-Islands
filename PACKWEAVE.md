@@ -94,7 +94,7 @@
 - [Lithostitched](https://modrinth.com/project/lithostitched) `1.8.1-neoforge-21.1`
 - [Load My F***ing Tags](https://modrinth.com/project/lmft) `1.1.1+1.21.9`
 - [McQoy](https://modrinth.com/project/mcqoy) `0.4.1+neo-1.21`
-- [Moonlight Lib](https://modrinth.com/project/moonlight) `1.21.1-3.8.1`
+- [Moonlight Lib](https://modrinth.com/project/moonlight) `1.21.1-3.8.2`
 - [Mouse Tweaks](https://modrinth.com/project/mouse-tweaks) `1.21-2.26.1-neoforge`
 - [MRU](https://modrinth.com/project/mru) `1.0.41+1.21.1-neoforge`
 - [Neo Bee Fix](https://modrinth.com/project/neo-bee-fix) `2.0.1`
