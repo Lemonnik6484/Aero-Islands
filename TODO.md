@@ -6,4 +6,9 @@
 - [X] fix village gen
 - [X] fewer lakes
 - [X] oil lakes
-- [X] super heat blazes with oil
+- [X] super heat blazes with oil.
+
+- [ ] cheap steering wheel recipe
+- [ ] cheap portable engine recipe
+- [ ] cheap wooden propeller recipe
+- [ ] cheap seat recipe

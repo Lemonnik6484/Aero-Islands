@@ -17,7 +17,9 @@
       "fileSize": 584734
     }
   },
-  "dependents": [],
+  "dependents": [
+    "SCAopByd"
+  ],
   "clientSide": "required",
   "serverSide": "required"
 }
