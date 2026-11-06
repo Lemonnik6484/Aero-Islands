@@ -24,5 +24,9 @@
   "showJeiToast": true,
   "showJeiChatMessages": true,
   "reloadAfterRemoval": false,
-  "blacklistedItems": []
+  "blacklistedItems": [
+    "create_simulated_additions:ckbgv_4_engine",
+    "create_simulated_additions:ckbg_mid_drive_engine",
+    "create_simulated_additions:ckb_redstone_computator"
+  ]
 }

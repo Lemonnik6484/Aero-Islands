@@ -1,6 +1,6 @@
 # Aero Islands
 
-**Minecraft 1.21.1 · NeoForge 21.1.265**, 142 mods (4 dependencies), 3 resource packs, 1 data pack
+**Minecraft 1.21.1 · NeoForge 21.1.265**, 143 mods (4 dependencies), 3 resource packs, 1 data pack
 
 ## Contents
 
@@ -42,6 +42,7 @@
 - [Create Aeronautics: Gyro Stabilizers](https://modrinth.com/project/create-aeronautics-gyroscope-stabilizers) `1.2.2`
 - [Create Aeronautics: Portable Engine Liquid Fuel](https://modrinth.com/project/create-aeronautics-portable-engine-liquid-fuel) `2.0.0`
 - [Create Big Cannons](https://modrinth.com/project/create-big-cannons) `5.11.7`
+- [Create Simulated Additions](https://modrinth.com/project/create-simulated-additions) `0.2.3`
 - [Create Smart Bounds](https://modrinth.com/project/create-smart-bounds) `1.0.0`
 - [Create: Connected](https://modrinth.com/project/create-connected) `1.3.3-mc1.21.1`
 - [Create: Copycats+](https://modrinth.com/project/copycats) `3.0.9+mc.1.21.1-neoforge`

@@ -1,0 +1,23 @@
+{
+  "name": "Create Simulated Additions",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "rlv7S1aF",
+      "slug": "create-simulated-additions",
+      "versionId": "tP7OCy3K",
+      "versionNumber": "0.2.3",
+      "filename": "create_simulated_additions-0.2.3-neoforge-1.21.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/rlv7S1aF/versions/tP7OCy3K/create_simulated_additions-0.2.3-neoforge-1.21.1.jar",
+      "sha1": "6f622a8fb81fdcfc0c6e9f692c089eb534f868d4",
+      "sha512": "b67e62a4e6e5e090e4aa668195a9d7feb3f16f72ebd1199e47dbcd52929de58a2456b2ab779c7f23f220f6858f92611995e6a0ea0a29995665ea98cf01209bc7",
+      "fileSize": 696072
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}
