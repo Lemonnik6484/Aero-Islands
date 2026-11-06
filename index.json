@@ -1062,7 +1062,7 @@
     },
     {
       "path": "overrides/config/lambdynlights.toml",
-      "sha1": "f1802304ca2baab1cf4018c25267c203846fe7c2"
+      "sha1": "71fc3b59e37b23eda4e3351a55befcefa3840878"
     },
     {
       "path": "overrides/config/ldfix-common.toml",
@@ -1406,7 +1406,7 @@
     },
     {
       "path": "overrides/config/voxy-config.json",
-      "sha1": "d2f24ad2ba00aaa6b52738db75d75bad196b0926"
+      "sha1": "9f26086e3d9b1c9791aeab2d3ed7e309863d1128"
     },
     {
       "path": "overrides/config/voxyworldgenv2.json",
@@ -1566,7 +1566,7 @@
     },
     {
       "path": "overrides/options.txt",
-      "sha1": "da41d0d4040f346a59cf886bf8c1d429d414d6c6"
+      "sha1": "096f3d0e20b2ee13367a3200ea99bf42308c780c"
     },
     {
       "path": "overrides/polytone_popup.json",
@@ -1574,11 +1574,11 @@
     },
     {
       "path": "overrides/resourcepacks/Panorama.zip",
-      "sha1": "b838080be9711b7f0a60fb0fab07e9e73ed6ec22"
+      "sha1": "49d8c37810802d4a865772c8b34098ab18265691"
     },
     {
       "path": "overrides/servers.dat",
-      "sha1": "cec83a683b02b6c239f9578f39516be27a373c94"
+      "sha1": "0daecf36b23597a4fa616dfa0a8a27fb90ef2e7a"
     }
   ]
 }
