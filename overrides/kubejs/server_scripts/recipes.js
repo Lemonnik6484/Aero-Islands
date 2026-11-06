@@ -1,28 +1,18 @@
 ServerEvents.recipes(event => {
-    event.shaped(
-        Item.of('create:brown_sail', 2),
-        [
-            'CS',
-            'SC',
-        ],
-        {
-            S: 'minecraft:stick',
-            C: 'farmersdelight:canvas'
-        }
-    )
+    event.remove({ output: 'aeronautics:wooden_propeller' })
 
-    event.remove({ mod: 'create', output: 'crate:white_sail' })
+    event.remove({ input: 'aeronautics:wooden_propeller', output: 'aeronautics:andesite_propeller' })
 
     event.shaped(
-        Item.of('create:white_sail', 2),
+        Item.of('aeronautics:wooden_propeller', 1),
         [
-            'WS',
-            'SA',
+            'WWW',
+            ' W ',
+            ' F '
         ],
         {
-        	W: 'minecraft:white_wool',
-            S: 'minecraft:stick',
-            A: 'create:andesite_alloy'
+        	W: '#minecraft:wooden_slabs',
+            F: '#minecraft:wooden_fences',
         }
     )
 })

@@ -525,6 +525,10 @@
       "sha1": "b879eaeff51979bf2cb0754458f163c4abd5d783"
     },
     {
+      "path": "content/mods/srdp.json",
+      "sha1": "4d68fc357f1bc66e47c180c955be06293039d81d"
+    },
+    {
       "path": "content/mods/structurify.json",
       "sha1": "fa54d1a6d04686f3a23ffaba101b51f5534382db"
     },
@@ -638,7 +642,7 @@
     },
     {
       "path": "overrides/config/aeronautics-server.toml",
-      "sha1": "427bd55fa8cea09a79f6d00947cbca9944a36dd5"
+      "sha1": "9ff9afc81d156c3f8db499ad667131646ce71e43"
     },
     {
       "path": "overrides/config/aeronautics_delivery_quests.toml",
@@ -702,7 +706,7 @@
     },
     {
       "path": "overrides/config/asyncparticles/asyncparticles-mixin.properties",
-      "sha1": "e2a15cbe8daf75103d0a33f37125e4f147d21f85"
+      "sha1": "e4beef0b0e0513260a0b2368ca7d2fc90e066033"
     },
     {
       "path": "overrides/config/asyncparticles/asyncparticles.json",
@@ -1414,7 +1418,7 @@
     },
     {
       "path": "overrides/config/zfastnoise.mixin.properties",
-      "sha1": "42fa3c160586665a3d02d6e7da9bcacae6566dec"
+      "sha1": "59e8fa8d2d63c4c4ed5a71bb91e3aa7174b0a580"
     },
     {
       "path": "overrides/datapacks/void_c.zip",
@@ -1534,15 +1538,15 @@
     },
     {
       "path": "overrides/kubejs/server_scripts/recipes.js",
-      "sha1": "422f8d3ec6bc7aae64edd458a01fac4631cfe921"
+      "sha1": "72aa01b8852053af6d769883e229d7a7c4955132"
     },
     {
       "path": "overrides/kubejs/startup_scripts/main.js",
       "sha1": "6a3f00760e2cfb8d858daf2d0287fb80d02d1012"
     },
     {
-      "path": "overrides/mods/coolpeplaero-1.2.3.jar",
-      "sha1": "2f875101a75afa6c246d85bb42fd3a75761be67c"
+      "path": "overrides/mods/coolpeplaero-1.3.3.jar",
+      "sha1": "c2b2586dc828afe07f356794db62f84f9c16bfe6"
     },
     {
       "path": "overrides/mods/fallthrough-1.0.0.jar",
@@ -1558,7 +1562,7 @@
     },
     {
       "path": "overrides/options.txt",
-      "sha1": "f287298376fa34c71a00146d1fde3823d65965ef"
+      "sha1": "da41d0d4040f346a59cf886bf8c1d429d414d6c6"
     },
     {
       "path": "overrides/polytone_popup.json",
