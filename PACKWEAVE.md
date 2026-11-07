@@ -1,6 +1,6 @@
 # Aero Islands
 
-**Minecraft 1.21.1 · NeoForge 21.1.265**, 143 mods (4 dependencies), 3 resource packs, 1 data pack
+**Minecraft 1.21.1 · NeoForge 21.1.265**, 148 mods (4 dependencies), 4 resource packs, 1 data pack
 
 ## Contents
 
@@ -22,8 +22,10 @@
 - [Azimuth API](https://modrinth.com/project/azimuth-api) `1.4.10`
 - [Balm](https://modrinth.com/project/balm) `21.0.67+neoforge-1.21.1`
 - [Barehanded](https://modrinth.com/project/barehanded) `1.6.6`
+- [Better Days](https://modrinth.com/project/betterdays) `1.21.1-3.3.6.3-NEOFORGE`
 - [Better ModList](https://modrinth.com/project/better-modlist) `21.1.5`
 - [Biolith](https://modrinth.com/project/biolith) `3.0.14`
+- [Blocky Leaves](https://modrinth.com/project/blocky-leaves) `1.0.0`
 - [Bookshelf](https://modrinth.com/project/bookshelf-lib) `21.1.81`
 - [Chat Heads](https://modrinth.com/project/chat-heads) `0.15.7`
 - [Chat Notify](https://modrinth.com/project/chatnotify) `2.6.9+1.21.1`
@@ -39,6 +41,7 @@
 - [Create](https://modrinth.com/project/create) `6.0.10+mc1.21.1`
 - [Create Aeronautics](https://modrinth.com/project/create-aeronautics) `1.3.2+mc1.21.1`
 - [Create Aeronautics Lift Patch](https://modrinth.com/project/create-aeronautics-lift-patch) `1.1.0`
+- [Create Aeronautics: burner fuel](https://modrinth.com/project/create-aeronautics-burner-fuel) `1.0.2`
 - [Create Aeronautics: Gyro Stabilizers](https://modrinth.com/project/create-aeronautics-gyroscope-stabilizers) `1.2.2`
 - [Create Aeronautics: Portable Engine Liquid Fuel](https://modrinth.com/project/create-aeronautics-portable-engine-liquid-fuel) `2.0.0`
 - [Create Big Cannons](https://modrinth.com/project/create-big-cannons) `5.11.7`
@@ -71,8 +74,10 @@
 - [Fast IP Ping](https://modrinth.com/project/fast-ip-ping) `v1.0.12-mc1.21.1-neoforge`
 - [Fast Noise](https://modrinth.com/project/zfastnoise) `1.0.13+1.21.1+neoforge`
 - [FerriteCore](https://modrinth.com/project/ferrite-core) `7.0.3-neoforge`
+- [Figura](https://modrinth.com/project/figura) `0.1.6+1.21.1`
 - [Forgified Fabric API](https://modrinth.com/project/forgified-fabric-api) `0.116.15+2.3.6+1.21.1`
 - [Fragmentum](https://modrinth.com/project/fragmentum) `5.4.0`
+- [Fusion (Connected Textures)](https://modrinth.com/project/fusion-connected-textures) `1.3.16-neoforge-mc1.21.1`
 - [Fzzy Config](https://modrinth.com/project/fzzy-config) `0.7.7+fix1+1.21+neoforge`
 - [Geckolib](https://modrinth.com/project/geckolib) `4.9.3`
 - [Immersive Overlays](https://modrinth.com/project/immersive-overlays) `1.8.6+1.21.1-neoforge`
@@ -93,6 +98,7 @@
 - [Lithium](https://modrinth.com/project/lithium) `mc1.21.1-0.15.4-neoforge`
 - [Lithostitched](https://modrinth.com/project/lithostitched) `1.8.1-neoforge-21.1`
 - [Load My F***ing Tags](https://modrinth.com/project/lmft) `1.1.1+1.21.9`
+- [Manual Labour](https://modrinth.com/project/manual-labour) `2.5.2-1.21.1`
 - [McQoy](https://modrinth.com/project/mcqoy) `0.4.1+neo-1.21`
 - [Moonlight Lib](https://modrinth.com/project/moonlight) `1.21.1-3.8.2`
 - [Mouse Tweaks](https://modrinth.com/project/mouse-tweaks) `1.21-2.26.1-neoforge`

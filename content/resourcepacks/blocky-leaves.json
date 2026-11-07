@@ -1,0 +1,23 @@
+{
+  "name": "Blocky Leaves",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "jRIyhWud",
+      "slug": "blocky-leaves",
+      "versionId": "a2f4lIhV",
+      "versionNumber": "1.0.0",
+      "filename": "Blocky-Leaves-1.0.0.zip",
+      "downloadUrl": "https://cdn.modrinth.com/data/jRIyhWud/versions/a2f4lIhV/Blocky-Leaves-1.0.0.zip",
+      "sha1": "2bb197322691636b7ca3e8afe12b980f29e3de5a",
+      "sha512": "51ae937a4d29b10c482bab9a36af4c954d769cd12f918b606c49282a2d91e22f5b17b18546b81fbdcfaa55c7ae29a93cd21b7cc33a165cd9c0a79747a36a21d4",
+      "fileSize": 240447
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

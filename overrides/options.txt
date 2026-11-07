@@ -207,6 +207,11 @@ key_key.voice_chat_adjust_volumes:key.keyboard.unknown
 key_key.immersiveoverlays.toggle:key.keyboard.unknown
 key_key.immersiveoverlays.settings:key.keyboard.unknown
 key_key.ponder.ponder:key.keyboard.w
+key_figura.config.action_wheel_button:key.keyboard.b
+key_figura.config.popup_button:key.keyboard.r
+key_figura.config.reload_button:key.keyboard.unknown
+key_figura.config.panic_button:key.keyboard.unknown
+key_figura.config.wardrobe_button:key.keyboard.unknown
 key_cos.key.opencosarmorinventory:key.keyboard.unknown
 key_key.nuit.toggle:key.keyboard.unknown
 key_key.nuit.toggle.debug_hud:key.keyboard.unknown
@@ -257,7 +262,7 @@ key_justzoom.keybinds.keybind.zoom_out:key.mouse.10
 key_justzoom.keybinds.keybind.open_options:key.keyboard.b
 key_key.presencefootsteps.settings:key.keyboard.f10
 key_key.entityculling.toggle:key.keyboard.unknown
-soundCategory_master:0.0
+soundCategory_master:0.5033112582781457
 soundCategory_music:0.0
 soundCategory_record:1.0
 soundCategory_weather:1.0

@@ -1,0 +1,23 @@
+{
+  "name": "Manual Labour",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "kCbtgaek",
+      "slug": "manual-labour",
+      "versionId": "JsdhWefE",
+      "versionNumber": "2.5.2-1.21.1",
+      "filename": "manual_labour-1.21.1-2.5.2.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/kCbtgaek/versions/JsdhWefE/manual_labour-1.21.1-2.5.2.jar",
+      "sha1": "93f419a9bb1b312c5a5705dcb2c2b7bb440b1b18",
+      "sha512": "871b9621570c6b7c38ee1f2158668347fff4080a8b1d734737f70fb35898e9555b9536f135798c1170f6ef979f7a10da314c3d68e3ef9b2ab3d1ba8040380593",
+      "fileSize": 2387905
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

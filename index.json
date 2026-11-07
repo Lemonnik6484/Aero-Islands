@@ -89,6 +89,10 @@
       "sha1": "ef3afa798c80d44767c2679fc73747559dfb5ee5"
     },
     {
+      "path": "content/mods/betterdays.json",
+      "sha1": "a71eb0c24bb48704449bca9f9b0aac883eb98b24"
+    },
+    {
       "path": "content/mods/biolith.json",
       "sha1": "222c22379d97a81fb12e9acb7bd49a700a9a0b14"
     },
@@ -145,6 +149,10 @@
       "sha1": "016ccc59043da7cc2d0acd66cc96b120b9110791"
     },
     {
+      "path": "content/mods/create-aeronautics-burner-fuel.json",
+      "sha1": "877227f3642361c6101f4700c0b1f10850d17593"
+    },
+    {
       "path": "content/mods/create-aeronautics-climbable-ropes.json",
       "sha1": "655a85cbf5d860e6ce5d5bf57169adcee21157e6"
     },
@@ -162,7 +170,7 @@
     },
     {
       "path": "content/mods/create-aeronautics.json",
-      "sha1": "971dfa8acd41d3fbe3e79954de20a63f3b9615cb"
+      "sha1": "2a9c7a0813191323ed65612c6bf2f4427f4377e5"
     },
     {
       "path": "content/mods/create-big-cannons.json",
@@ -206,7 +214,7 @@
     },
     {
       "path": "content/mods/create.json",
-      "sha1": "2888a020368393d97b7c55ceda73066f7ef067e7"
+      "sha1": "2e8ed6c54bdcbaea9513841bd82ab0b6487f50b1"
     },
     {
       "path": "content/mods/cubes-without-borders.json",
@@ -273,6 +281,10 @@
       "sha1": "29f87c9a4280abe96b7c7266488d2d4cf323be15"
     },
     {
+      "path": "content/mods/figura.json",
+      "sha1": "1627ef0a53c8e17a01bb5ec9c8e595edd86ffed8"
+    },
+    {
       "path": "content/mods/flyhigher.json",
       "sha1": "c640e9e5d255df0412b92a4db1f4cc75e7084f7f"
     },
@@ -283,6 +295,10 @@
     {
       "path": "content/mods/fragmentum.json",
       "sha1": "b241843fb31abe9c590ae0af2a070719b84d75e2"
+    },
+    {
+      "path": "content/mods/fusion-connected-textures.json",
+      "sha1": "6b0b968e1faef5a79e54983619f13c8fb2f182ad"
     },
     {
       "path": "content/mods/fzzy-config.json",
@@ -318,7 +334,7 @@
     },
     {
       "path": "content/mods/jei.json",
-      "sha1": "48f546bc66e6aba7cefb345893fe5e08c9373a59"
+      "sha1": "fbaff1bbf8f08c34559e56001ec9c6eac112c1e4"
     },
     {
       "path": "content/mods/just-zoom.json",
@@ -363,6 +379,10 @@
     {
       "path": "content/mods/lmft.json",
       "sha1": "0c8f8e9ef062126f686f2c6d1a056b1dbddeba17"
+    },
+    {
+      "path": "content/mods/manual-labour.json",
+      "sha1": "74f1ad87292c3b004703eb233a655adf887b5653"
     },
     {
       "path": "content/mods/mcqoy.json",
@@ -582,7 +602,7 @@
     },
     {
       "path": "content/mods/yacl.json",
-      "sha1": "340a82d606742bb389f194bc05dcb7ad225e42f3"
+      "sha1": "80584c4b9d59dd4c12c172fe152efdd7f5d7db4c"
     },
     {
       "path": "content/mods/yarrp.json",
@@ -597,6 +617,10 @@
       "sha1": "757320931c822e7a1e38edb991436e7f96d9123a"
     },
     {
+      "path": "content/resourcepacks/blocky-leaves.json",
+      "sha1": "4bc17ebd4d0b4afb2979336d276fe35944d286d8"
+    },
+    {
       "path": "content/resourcepacks/jb-mono.json",
       "sha1": "76d25e3edf7059fa3c75fdeb616a97f02da4441d"
     },
@@ -607,6 +631,10 @@
     {
       "path": "content/resourcepacks/sunbathing-godrays.json",
       "sha1": "6016d004076c9d4478fbfa93e7e744bd9353a672"
+    },
+    {
+      "path": "overrides/antique_transport/lucunix_com_1029/ships.dat",
+      "sha1": "8ed561497484baffda522c68afe45dde0d18dea5"
     },
     {
       "path": "overrides/config/CoroUtil/General.toml",
@@ -737,6 +765,14 @@
       "sha1": "02b1eb43cb55013ca0316287eb7f2f88eaacf4fb"
     },
     {
+      "path": "overrides/config/betterdays-client.toml",
+      "sha1": "d72d93679c7bf76249e3b24cb224ed4d5dddd22a"
+    },
+    {
+      "path": "overrides/config/betterdays-common.toml",
+      "sha1": "51370775aaaea39a93385fa114740ab163ca4891"
+    },
+    {
       "path": "overrides/config/c2me.toml",
       "sha1": "b739beb0c3ec32eda0b673fa42572fa69660b260"
     },
@@ -849,6 +885,10 @@
       "sha1": "4bf6eb6d04a58a4d82c6b74897e14fbcb9416e99"
     },
     {
+      "path": "overrides/config/createburnerfuel-common.toml",
+      "sha1": "708089d04cacf48440f4d7c67d8dee944ac1f71a"
+    },
+    {
       "path": "overrides/config/curios-client.toml",
       "sha1": "369717e89c75b58c3064fc0d1a408c60e9f17070"
     },
@@ -927,6 +967,10 @@
     {
       "path": "overrides/config/ferritecore-mixin.toml",
       "sha1": "a8af962ea8f0698377dba96a722ce21dedcde8cc"
+    },
+    {
+      "path": "overrides/config/figura.json",
+      "sha1": "dc0bcfc6c7589241a011f0c34ce298c409f650ff"
     },
     {
       "path": "overrides/config/flyhigher-common.toml",
@@ -1030,7 +1074,7 @@
     },
     {
       "path": "overrides/config/jei/client/recipe-category-sort-order.ini",
-      "sha1": "ca5e2c251107ae80492200dd8eed50b1357e2260"
+      "sha1": "9f87c38e43ed57405debaf349b8be5b16aabe9ba"
     },
     {
       "path": "overrides/config/jei/server/world/default/jei-server.ini",
@@ -1091,6 +1135,10 @@
     {
       "path": "overrides/config/lmft.json",
       "sha1": "35494e6c027e9b91ddea2de149b377b95e29951b"
+    },
+    {
+      "path": "overrides/config/manual_labour.json",
+      "sha1": "7591747e3d9489ec72a03b3dc93dd9af3576f567"
     },
     {
       "path": "overrides/config/mcqoy.toml",
@@ -1413,6 +1461,10 @@
       "sha1": "a793a7cc1b8bc0cb4730998b594fbaecda730409"
     },
     {
+      "path": "overrides/config/whitenoise-client.toml",
+      "sha1": "180751e56fb5890ee44d09edc2f91224ea80300f"
+    },
+    {
       "path": "overrides/config/wildsprout-plains_config.json",
       "sha1": "183940e7b158272e6986a686c4fd25a8232477fc"
     },
@@ -1549,8 +1601,8 @@
       "sha1": "6a3f00760e2cfb8d858daf2d0287fb80d02d1012"
     },
     {
-      "path": "overrides/mods/coolpeplaero-1.3.3.jar",
-      "sha1": "c2b2586dc828afe07f356794db62f84f9c16bfe6"
+      "path": "overrides/mods/coolpeplaero-1.4.0.jar",
+      "sha1": "8546ebdf8087a595288fadb44f3d04d1bacdd69b"
     },
     {
       "path": "overrides/mods/fallthrough-1.0.0.jar",
@@ -1566,7 +1618,7 @@
     },
     {
       "path": "overrides/options.txt",
-      "sha1": "096f3d0e20b2ee13367a3200ea99bf42308c780c"
+      "sha1": "873d2c4dd5ccb5929e8879760dbeebbc6a1cdfab"
     },
     {
       "path": "overrides/polytone_popup.json",

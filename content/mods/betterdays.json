@@ -1,0 +1,23 @@
+{
+  "name": "Better Days",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "tPLE214j",
+      "slug": "betterdays",
+      "versionId": "Ho93yCC3",
+      "versionNumber": "1.21.1-3.3.6.3-NEOFORGE",
+      "filename": "betterdays-1.21.1-3.3.6.3-NEOFORGE.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/tPLE214j/versions/Ho93yCC3/betterdays-1.21.1-3.3.6.3-NEOFORGE.jar",
+      "sha1": "0beeb796055f8abdebb9304fe26b655068a52a9c",
+      "sha512": "0eb11977abb06a0c36764019a9299347480bfc728233a2df4e968b368487626728d546ade45a2edcb0e620485189e440c22fc7a99671888a86367514551ac78d",
+      "fileSize": 585998
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

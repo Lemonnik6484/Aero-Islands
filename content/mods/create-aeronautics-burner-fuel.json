@@ -1,0 +1,23 @@
+{
+  "name": "Create Aeronautics: burner fuel",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "OizKjGJm",
+      "slug": "create-aeronautics-burner-fuel",
+      "versionId": "e0B0nsFU",
+      "versionNumber": "1.0.2",
+      "filename": "createburnerfuel-1.0.2.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/OizKjGJm/versions/e0B0nsFU/createburnerfuel-1.0.2.jar",
+      "sha1": "42f4f4d5865a4ccab78de1500ebe75151b79c90b",
+      "sha512": "17efa11a99eceb1ea7676c565820c703d140ddec09f1850b7791ae0d2762825d9942e6ca20e2e1e7cadf87bf3a9a77762660e4f866a291b9523ddb1af6a8b1e2",
+      "fileSize": 19565
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}
