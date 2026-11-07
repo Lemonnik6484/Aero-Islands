@@ -31,4 +31,18 @@ ServerEvents.recipes(event => {
             F: 'minecraft:furnace',
         }
     )
+
+    event.remove({ output: 'aeronautics:adjustable_burner' })
+    event.shaped(
+        Item.of('aeronautics:adjustable_burner', 1),
+        [
+            'ICI',
+            'IFI'
+        ],
+        {
+            I: 'create:iron_sheet',
+            F: 'minecraft:furnace',
+            C: '#minecraft:coals'
+        }
+    )
 })

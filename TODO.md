@@ -8,7 +8,9 @@
 - [X] oil lakes
 - [X] super heat blazes with oil.
 
-- [ ] cheap steering wheel recipe
-- [ ] cheap portable engine recipe
-- [ ] cheap wooden propeller recipe
-- [ ] cheap seat recipe
+- [X] cheap portable engine recipe
+- [X] cheap wooden propeller recipe
+- [X] cheap hot air burner recipe
+
+- [X] canvas sail
+- [X] canvas envelope
