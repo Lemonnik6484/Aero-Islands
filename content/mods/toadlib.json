@@ -1,0 +1,25 @@
+{
+  "name": "ToadLib",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "CYQ7VYrM",
+      "slug": "toadlib",
+      "versionId": "Ljldqqcx",
+      "versionNumber": "1.3.2-1.21-1.21.1-neo",
+      "filename": "Toadlib-1.3.2-1.21-1.21.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/CYQ7VYrM/versions/Ljldqqcx/Toadlib-1.3.2-1.21-1.21.1.jar",
+      "sha1": "6fae32263601a99da3e60e2a04dec70bc7c37d6a",
+      "sha512": "d5fe1eb3c493974cad7ac320fb6e481221d9a15ae2b7c4732989e955681cb8422eb95cc85766a84df1087914c10c14887af8ca5e6648fe316487b5fe4c149c89",
+      "fileSize": 472577
+    }
+  },
+  "dependents": [
+    "5CTSrY8X"
+  ],
+  "clientSide": "required",
+  "serverSide": "required"
+}

@@ -1,6 +1,6 @@
 # Aero Islands
 
-**Minecraft 1.21.1 · NeoForge 21.1.265**, 148 mods (4 dependencies), 4 resource packs, 1 data pack
+**Minecraft 1.21.1 · NeoForge 21.1.265**, 170 mods (4 dependencies), 4 resource packs, 1 data pack
 
 ## Contents
 
@@ -10,6 +10,7 @@
 - [Aeronautics Wind Sound](https://modrinth.com/project/aeronautics-wind-sound) `1.0.1`
 - [Aetherial Islands](https://modrinth.com/project/aetherial-islands) `2.0.2+mod`
 - [All with You](https://modrinth.com/project/all-with-you) `1.3.2`
+- [Ambient Environment](https://modrinth.com/project/ambient-environment) `18.0.0.2`
 - [Amendments](https://modrinth.com/project/amendments) `1.21-2.2.7`
 - [Analog Audio](https://modrinth.com/project/analog-audio) `0.1.5-hotfix.1+1.21.1`
 - [Antique Atlas 4](https://modrinth.com/project/antique-atlas-4) `3.1.2+1.21`
@@ -22,10 +23,14 @@
 - [Azimuth API](https://modrinth.com/project/azimuth-api) `1.4.10`
 - [Balm](https://modrinth.com/project/balm) `21.0.67+neoforge-1.21.1`
 - [Barehanded](https://modrinth.com/project/barehanded) `1.6.6`
+- [Bathymetry](https://modrinth.com/project/bathymetry) `1.0.4+1.21.1+neoforge`
+- [Better Clouds](https://modrinth.com/project/better-clouds) `1.13.11+1.21.1-neoforge-release`
 - [Better Days](https://modrinth.com/project/betterdays) `1.21.1-3.3.6.3-NEOFORGE`
 - [Better ModList](https://modrinth.com/project/better-modlist) `21.1.5`
+- [Better Smoke](https://modrinth.com/project/better-smoke) `0.1.2+1.21-1.21.8`
 - [Biolith](https://modrinth.com/project/biolith) `3.0.14`
 - [Blocky Leaves](https://modrinth.com/project/blocky-leaves) `1.0.0`
+- [Blueprint](https://modrinth.com/project/blueprint) `8.2.0`
 - [Bookshelf](https://modrinth.com/project/bookshelf-lib) `21.1.81`
 - [Chat Heads](https://modrinth.com/project/chat-heads) `0.15.7`
 - [Chat Notify](https://modrinth.com/project/chatnotify) `2.6.9+1.21.1`
@@ -35,6 +40,7 @@
 - [Climbable Ropes for Create Aeronautics](https://www.curseforge.com/projects/1528764) `[2.2.0] Climbable Ropes`
 - [Cloth Config API](https://modrinth.com/project/cloth-config) `15.0.140+neoforge`
 - [Concurrent Chunk Management Engine (NeoForge)](https://modrinth.com/project/c2me-neoforge) `0.4.0-alpha.0.124+1.21.1`
+- [Contraption Lights (Bi-directional Coloured Dynamic Lights)](https://modrinth.com/project/contraption-lights) `1.5.6`
 - [Controlling](https://modrinth.com/project/controlling) `19.0.5`
 - [CoroUtil](https://modrinth.com/project/coroutil) `1.21.0-1.3.8`
 - [Cosmetic Armor Reworked](https://www.curseforge.com/projects/237307) `cosmeticarmorreworked-1.21.1-v1-neoforge.jar`
@@ -56,11 +62,15 @@
 - [Create: Interiors](https://modrinth.com/project/interiors) `0.6.1`
 - [Create: Liquid Fuel](https://modrinth.com/project/create-liquid-fuel) `3.0.0-1.21.1`
 - [Create: Radars](https://modrinth.com/project/create-radars) `5.0.3-1.21.1`
+- [Create: Smoke & Buffers](https://modrinth.com/project/create-smoke-buffers) `0.1.0`
 - [Create: Tracks+](https://modrinth.com/project/create-tracks-plus) `1.0.6b7`
+- [CreateBetterFps](https://modrinth.com/project/createbetterfps) `1.1.5`
 - [Cubes Without Borders](https://modrinth.com/project/cubes-without-borders) `5.0.0+1.21.0.neoforge`
 - [Curios API](https://modrinth.com/project/curios) `9.5.1+1.21.1`
+- [Desire](https://modrinth.com/project/desiremod) `1.1.1-1.21.1`
 - [Diabolical Islands](https://modrinth.com/project/diabolical-islands) `1.0.0+mod`
 - [DragonLib](https://modrinth.com/project/dragonlib) `3.0.29+1.21.1-neoforge`
+- [Drizzleproof](https://modrinth.com/project/drizzleproof) `3.0.0`
 - [Durability Tooltip](https://modrinth.com/project/durability-tooltip) `1.2.0-neoforge-mc1.21`
 - [e4mc](https://modrinth.com/project/e4mc) `6.2.3-neoforge`
 - [EMI](https://modrinth.com/project/emi) `1.1.24+1.21.1+neoforge`
@@ -70,6 +80,7 @@
 - [Enchantment Descriptions](https://modrinth.com/project/enchantment-descriptions) `21.1.11`
 - [Entity Culling](https://modrinth.com/project/entityculling) `1.11.3`
 - [Exposure](https://modrinth.com/project/exposure) `1.9.19`
+- [FancyMenu](https://modrinth.com/project/fancymenu) `3.9.14-1.21.1-neoforge`
 - [Farmer's Delight](https://modrinth.com/project/farmers-delight) `1.21.1-1.3.4`
 - [Fast IP Ping](https://modrinth.com/project/fast-ip-ping) `v1.0.12-mc1.21.1-neoforge`
 - [Fast Noise](https://modrinth.com/project/zfastnoise) `1.0.13+1.21.1+neoforge`
@@ -80,12 +91,14 @@
 - [Fusion (Connected Textures)](https://modrinth.com/project/fusion-connected-textures) `1.3.16-neoforge-mc1.21.1`
 - [Fzzy Config](https://modrinth.com/project/fzzy-config) `0.7.7+fix1+1.21+neoforge`
 - [Geckolib](https://modrinth.com/project/geckolib) `4.9.3`
+- [GPUBooster](https://modrinth.com/project/gputape) `1.3.2-1.21-1.21.1-neo`
 - [Immersive Overlays](https://modrinth.com/project/immersive-overlays) `1.8.6+1.21.1-neoforge`
 - [Inventorio](https://modrinth.com/project/inventorio) `1.11.0+1.21.1`
 - [Jade Addons (Neo/Forge)](https://modrinth.com/project/jade-addons-forge) `6.1.2+neoforge`
 - [Jade Sable Compat](https://modrinth.com/project/jade-sable-compat) `1.3.0`
 - [Jade 🔍](https://modrinth.com/project/jade) `15.10.6+neoforge`
 - [JB Mono](https://modrinth.com/project/jb-mono) `1.0`
+- [Just Dandy](https://modrinth.com/project/just-dandy) `3.0.5`
 - [Just Enough Items (JEI)](https://modrinth.com/project/jei) `19.70.0.469`
 - [Just Zoom](https://modrinth.com/project/just-zoom) `3.1.0-1.21.1-neoforge`
 - [Keybind Atlas](https://modrinth.com/project/keybind-atlas) `2.3.0`
@@ -100,7 +113,9 @@
 - [Load My F***ing Tags](https://modrinth.com/project/lmft) `1.1.1+1.21.9`
 - [Manual Labour](https://modrinth.com/project/manual-labour) `2.5.2-1.21.1`
 - [McQoy](https://modrinth.com/project/mcqoy) `0.4.1+neo-1.21`
+- [Melody](https://modrinth.com/project/melody) `1.0.10-1.21-neoforge`
 - [Moonlight Lib](https://modrinth.com/project/moonlight) `1.21.1-3.8.2`
+- [MossyLib](https://modrinth.com/project/mossylib) `1.6.0+1.21.1+neoforge`
 - [Mouse Tweaks](https://modrinth.com/project/mouse-tweaks) `1.21-2.26.1-neoforge`
 - [MRU](https://modrinth.com/project/mru) `1.0.41+1.21.1-neoforge`
 - [Neo Bee Fix](https://modrinth.com/project/neo-bee-fix) `2.0.1`
@@ -110,6 +125,7 @@
 - [No Chat Reports](https://modrinth.com/project/no-chat-reports) `NeoForge-1.21.1-v2.9.1`
 - [No Man's Land](https://modrinth.com/project/no-mans-land) `1.6.3`
 - [Nuit](https://modrinth.com/project/nuit) `mc1.21.1-1.0.0-beta.6+neoforge`
+- [NumFlux](https://modrinth.com/project/numflux) `1.0.4.1-1.21.1-neo`
 - [Offgrid](https://modrinth.com/project/offgrid) `1.0.4+1.21.1-neoforge`
 - [Paxi](https://modrinth.com/project/paxi) `1.21.1-NeoForge-5.1.3`
 - [Peaceful Nights](https://modrinth.com/project/peaceful-nights) `0.1.0`
@@ -135,9 +151,11 @@
 - [Sable: Ragdolls](https://modrinth.com/project/sable-ragdolls) `0.7.5`
 - [Screenshot to Clipboard](https://modrinth.com/project/screenshot-to-clipboard) `1.0.10+neoforge`
 - [Searchables](https://modrinth.com/project/searchables) `1.0.2`
+- [Signs Faster](https://modrinth.com/project/sf-plus) `1.0.1`
 - [Simple Rich Discord Presence](https://modrinth.com/project/srdp) `88.0.1`
 - [Simple Voice Chat](https://modrinth.com/project/simple-voice-chat) `neoforge-1.21.1-2.6.27`
 - [Sinytra Connector](https://modrinth.com/project/connector) `2.0.0-beta.17+1.21.1`
+- [Sneaky Link](https://modrinth.com/project/sneaky-link) `3.0.0`
 - [Sodium](https://modrinth.com/project/sodium) `mc1.21.1-0.8.13-neoforge`
 - [Sodium Extra](https://modrinth.com/project/sodium-extra) `mc1.21.1-0.9.5+neoforge`
 - [Sound Physics Remastered](https://modrinth.com/project/sound-physics-remastered) `neoforge-1.21.1-1.5.2`
@@ -149,8 +167,12 @@
 - [SuperMartijn642's Config Lib](https://modrinth.com/project/supermartijn642s-config-lib) `1.1.8-neoforge-mc1.21`
 - [Supplementaries](https://modrinth.com/project/supplementaries) `1.21.1-4.0.2`
 - [Surveyor Map Framework](https://modrinth.com/project/surveyor) `1.2.4+1.21`
+- [Sweety's Garden](https://modrinth.com/project/sweety-garden) `1.0.3b`
+- [ToadLib](https://modrinth.com/project/toadlib) `1.3.2-1.21-1.21.1-neo`
 - [Tree Physics](https://modrinth.com/project/tree-physics) `neoforge-2.4`
+- [TT20 (TPS Fixer)](https://modrinth.com/project/tt20) `0.8.5`
 - [Veil](https://modrinth.com/project/veil) `4.5.2`
+- [Verdant](https://modrinth.com/project/verdant-mod) `1.21.1-0.2.0`
 - [vista](https://modrinth.com/project/vista_tv) `1.21.1-5.6.2`
 - [Void Water](https://modrinth.com/project/void-water) `1.0.2`
 - [voxy](https://modrinth.com/project/voxy) `0.2.16-beta`

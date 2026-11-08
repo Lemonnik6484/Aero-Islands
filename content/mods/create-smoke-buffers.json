@@ -1,0 +1,23 @@
+{
+  "name": "Create: Smoke & Buffers",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "AlV3A1Up",
+      "slug": "create-smoke-buffers",
+      "versionId": "oipoB236",
+      "versionNumber": "0.1.0",
+      "filename": "smokenbuffers-0.1.0.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/AlV3A1Up/versions/oipoB236/smokenbuffers-0.1.0.jar",
+      "sha1": "59ba5f683b80686e5afd04b290f967bfaee64843",
+      "sha512": "2b9e9b0e6e3d30a9ab43df0268c3ac88a7004002c7c0a558c99229cc92e66348fca56f1e6f15baa977d573d6e4bedf99c300b9002dffdedc33e7192f2d2d1ff5",
+      "fileSize": 98906
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

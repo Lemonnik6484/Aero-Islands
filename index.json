@@ -37,6 +37,10 @@
       "sha1": "a8fde8ed34e992ce7410ac6ed371bd313b47511a"
     },
     {
+      "path": "content/mods/ambient-environment.json",
+      "sha1": "477bbe6358e31b22b0498402b1745d7b5016cecf"
+    },
+    {
       "path": "content/mods/amendments.json",
       "sha1": "5b0a449655e3836aa68a07fdba61e0fefee03419"
     },
@@ -58,7 +62,7 @@
     },
     {
       "path": "content/mods/architectury-api.json",
-      "sha1": "537c145f377c5063061995b9bf55c49020779332"
+      "sha1": "d4a3b83b12997123d5af3486db6f7fc3db063c22"
     },
     {
       "path": "content/mods/asyncparticles.json",
@@ -81,12 +85,24 @@
       "sha1": "2d93bfc949669018dba3bd58abe433b20dfa9cea"
     },
     {
+      "path": "content/mods/bathymetry.json",
+      "sha1": "e3cefeec9211c0e75b2d33c9f8f2842e877a9595"
+    },
+    {
       "path": "content/mods/better-advanced-tooltips.json",
       "sha1": "219624a10fd5fac1e6b3bb6414af9353dc12ec34"
     },
     {
+      "path": "content/mods/better-clouds.json",
+      "sha1": "55a9604bf4d269e6650f10f7498576a56aead2e4"
+    },
+    {
       "path": "content/mods/better-modlist.json",
       "sha1": "ef3afa798c80d44767c2679fc73747559dfb5ee5"
+    },
+    {
+      "path": "content/mods/better-smoke.json",
+      "sha1": "43f0c0758af4ffc8c83fdfe011e8e29d5c7931f5"
     },
     {
       "path": "content/mods/betterdays.json",
@@ -95,6 +111,10 @@
     {
       "path": "content/mods/biolith.json",
       "sha1": "222c22379d97a81fb12e9acb7bd49a700a9a0b14"
+    },
+    {
+      "path": "content/mods/blueprint.json",
+      "sha1": "d386422518ac4c459685cf9959e6dc6bdb694bff"
     },
     {
       "path": "content/mods/bookshelf-lib.json",
@@ -131,6 +151,10 @@
     {
       "path": "content/mods/connector.json",
       "sha1": "fd4ec4312284d976c8c2c38040feb31afc1f44c3"
+    },
+    {
+      "path": "content/mods/contraption-lights.json",
+      "sha1": "76c4caf78df2497d20ee7c1b3ced615aef5c0f00"
     },
     {
       "path": "content/mods/controlling.json",
@@ -209,12 +233,20 @@
       "sha1": "0647dc0610f57da053a4317823514d9e675dd9f2"
     },
     {
+      "path": "content/mods/create-smoke-buffers.json",
+      "sha1": "3a0063a59adf39343407e81013cf7d9d6435629d"
+    },
+    {
       "path": "content/mods/create-tracks-plus.json",
       "sha1": "08d834ce95e7255968be9224b951c87ac5a7b0a1"
     },
     {
       "path": "content/mods/create.json",
-      "sha1": "2e8ed6c54bdcbaea9513841bd82ab0b6487f50b1"
+      "sha1": "7b14dcafed655fa6134f99e35b36f2b649e55217"
+    },
+    {
+      "path": "content/mods/createbetterfps.json",
+      "sha1": "844916473a5a74f86127650ca61d874906dbf524"
     },
     {
       "path": "content/mods/cubes-without-borders.json",
@@ -225,12 +257,20 @@
       "sha1": "d7004973488a50eb7c803aac3779a569ef60eeaf"
     },
     {
+      "path": "content/mods/desiremod.json",
+      "sha1": "76a75718a0d4972447f149d77f05a3bc9d49c33c"
+    },
+    {
       "path": "content/mods/diabolical-islands.json",
       "sha1": "b4d90a55e61aa6240c79fe80a66d956a0b081933"
     },
     {
       "path": "content/mods/dragonlib.json",
       "sha1": "79c7603edc553eea204292f5f8e6ed1b9e7edc07"
+    },
+    {
+      "path": "content/mods/drizzleproof.json",
+      "sha1": "8819dcb6e6851f22a52b86dbeab2bfa2e1cbf38b"
     },
     {
       "path": "content/mods/durability-tooltip.json",
@@ -267,6 +307,10 @@
     {
       "path": "content/mods/extra-mod-integrations.json",
       "sha1": "22b6d20b2d1b5b97c61cb9e22616372ac6ee0e2a"
+    },
+    {
+      "path": "content/mods/fancymenu.json",
+      "sha1": "d8effcc719c07a26054551f648b704083543a142"
     },
     {
       "path": "content/mods/farmers-delight.json",
@@ -309,6 +353,10 @@
       "sha1": "cefe889d88131eba34b41861df4f2127c54f5dc0"
     },
     {
+      "path": "content/mods/gputape.json",
+      "sha1": "eb9f46db9b20c144415225e87b429ef06aeadffb"
+    },
+    {
       "path": "content/mods/immersive-overlays.json",
       "sha1": "7c1ae8e24ba0d6720ccf88f64b157ca750d6fe2e"
     },
@@ -337,6 +385,10 @@
       "sha1": "fbaff1bbf8f08c34559e56001ec9c6eac112c1e4"
     },
     {
+      "path": "content/mods/just-dandy.json",
+      "sha1": "25a3f70a3939002e0414c05f40f83661a5274bf0"
+    },
+    {
       "path": "content/mods/just-zoom.json",
       "sha1": "5d152b8b1be1c4cfb7910537efa76c066a4cde6b"
     },
@@ -346,7 +398,7 @@
     },
     {
       "path": "content/mods/konkrete.json",
-      "sha1": "9961f0d12bb07e743b0608c140d526546756443e"
+      "sha1": "343723ed9a19e2bdc1d95ac73b50477aa353f4d0"
     },
     {
       "path": "content/mods/kotlin-for-forge.json",
@@ -358,7 +410,7 @@
     },
     {
       "path": "content/mods/lambdynamiclights.json",
-      "sha1": "cec10ce7221dbac2be6a9ce0283fdb8f1c103d4f"
+      "sha1": "f7af1f5cc8b1f8c82d8c9600ef0c0f7e0e90b331"
     },
     {
       "path": "content/mods/lever-drugster.json",
@@ -389,12 +441,20 @@
       "sha1": "46a5bf251723a3c1bce3149f339bf848910f3b95"
     },
     {
+      "path": "content/mods/melody.json",
+      "sha1": "b9b78748dc5b9f68533ff942280209979c99d17b"
+    },
+    {
       "path": "content/mods/mezzconfig.json",
       "sha1": "b50d190e7953d9eeccb43507316229dca284ef16"
     },
     {
       "path": "content/mods/moonlight.json",
-      "sha1": "4c7d9fac1cdd14508efa049e470083504bd67624"
+      "sha1": "751b66f5d25ca50995e173cb065ddc04ebead804"
+    },
+    {
+      "path": "content/mods/mossylib.json",
+      "sha1": "214bccfa1091763a1930cbc40c19836a45bf7127"
     },
     {
       "path": "content/mods/mouse-tweaks.json",
@@ -427,6 +487,10 @@
     {
       "path": "content/mods/nuit.json",
       "sha1": "b5fa661760812d10280526e873706566c3d7ad21"
+    },
+    {
+      "path": "content/mods/numflux.json",
+      "sha1": "3b0b21ab742b99a93719c5a7fde2fc1b2da3fbc3"
     },
     {
       "path": "content/mods/offgrid.json",
@@ -510,11 +574,11 @@
     },
     {
       "path": "content/mods/sable-ragdolls.json",
-      "sha1": "5f26997d27d3d285eb4c00f19e08fc189f9621b0"
+      "sha1": "1149dc094c8ba0f26a377aac65dde41dd6c7f827"
     },
     {
       "path": "content/mods/sable.json",
-      "sha1": "f52578ad6eb097425eda670599cc75883a4d3dbb"
+      "sha1": "05bf77fc2913feb5be6259ef4308647827fc6464"
     },
     {
       "path": "content/mods/screenshot-to-clipboard.json",
@@ -525,8 +589,16 @@
       "sha1": "edb3eb1708af83391dfaf0ac87dad0bf59632069"
     },
     {
+      "path": "content/mods/sf-plus.json",
+      "sha1": "1257c5a85921bd96568ada6957f95ea24429dff0"
+    },
+    {
       "path": "content/mods/simple-voice-chat.json",
       "sha1": "a9a984137d743d07ddb25b307f23cea5e303daf9"
+    },
+    {
+      "path": "content/mods/sneaky-link.json",
+      "sha1": "8b60ac672d340f036741d6364159b65276ba7253"
     },
     {
       "path": "content/mods/sodium-extra.json",
@@ -534,7 +606,7 @@
     },
     {
       "path": "content/mods/sodium.json",
-      "sha1": "5208431f8731f1373ef7ab1cc1ccc7336441844c"
+      "sha1": "4ac235f89c3fd5be3a996fe5e6dca41d199d9b43"
     },
     {
       "path": "content/mods/sound-physics-aeronautics.json",
@@ -566,19 +638,35 @@
     },
     {
       "path": "content/mods/supplementaries.json",
-      "sha1": "e0cb3f7249ef6b2a20450682b2b7235b41647274"
+      "sha1": "43f9fde01864cb5d68dfc512b6a85f6570a0f442"
     },
     {
       "path": "content/mods/surveyor.json",
       "sha1": "329624817d8bda330b21a11912a8d757651e3748"
     },
     {
+      "path": "content/mods/sweety-garden.json",
+      "sha1": "ef33681d399f09b35b8e426c77ed34465206d232"
+    },
+    {
+      "path": "content/mods/toadlib.json",
+      "sha1": "b3061456c32993849bb673895db23a45b7166125"
+    },
+    {
       "path": "content/mods/tree-physics.json",
       "sha1": "1b223658d0554da7ff01b486c29bfe043eeb92fd"
     },
     {
+      "path": "content/mods/tt20.json",
+      "sha1": "56893e5bc2c57ba4b91b9cb90b9bc04535766d18"
+    },
+    {
       "path": "content/mods/veil.json",
       "sha1": "0ab2fd9647f6473dbffef6d34bc92669d6b3f02e"
+    },
+    {
+      "path": "content/mods/verdant-mod.json",
+      "sha1": "c7210034fb9ac4067a300c9034d09183fe042365"
     },
     {
       "path": "content/mods/vista_tv.json",
@@ -602,7 +690,7 @@
     },
     {
       "path": "content/mods/yacl.json",
-      "sha1": "80584c4b9d59dd4c12c172fe152efdd7f5d7db4c"
+      "sha1": "538391485947cd81a0f76c4b879fe646a018c43d"
     },
     {
       "path": "content/mods/yarrp.json",
@@ -753,8 +841,16 @@
       "sha1": "e26a9e7c6ec6493fa4e277f1d85c53a09082fe61"
     },
     {
+      "path": "overrides/config/bathymetry.json5",
+      "sha1": "6136675b9bfe0e60d59086adccabca4337160a46"
+    },
+    {
       "path": "overrides/config/better-advanced-tooltips-client.toml",
       "sha1": "02b1eb43cb55013ca0316287eb7f2f88eaacf4fb"
+    },
+    {
+      "path": "overrides/config/betterclouds-v1.json",
+      "sha1": "1cc6d311e96ce2ae4c330b841dc0e364b65a7273"
     },
     {
       "path": "overrides/config/betterdays-client.toml",
@@ -763,6 +859,14 @@
     {
       "path": "overrides/config/betterdays-common.toml",
       "sha1": "51370775aaaea39a93385fa114740ab163ca4891"
+    },
+    {
+      "path": "overrides/config/blueprint-client.toml",
+      "sha1": "2bab8e61f7c200f2177cee32758a8a877b023ce6"
+    },
+    {
+      "path": "overrides/config/blueprint-common.toml",
+      "sha1": "4732623baf36bcf3091f3fd2a75f6d989aaeda87"
     },
     {
       "path": "overrides/config/c2me.toml",
@@ -799,6 +903,14 @@
     {
       "path": "overrides/config/connector.json",
       "sha1": "de7faf7cefdc6be41a7a828c2d39f15517cf58c0"
+    },
+    {
+      "path": "overrides/config/contraptionlights-client.toml",
+      "sha1": "3ad8da821ab3c22617a6e6507d582ceae5d293e2"
+    },
+    {
+      "path": "overrides/config/contraptionlights-server.toml",
+      "sha1": "bdd6e88fb2e8f3d45390ed01ed3389baf7536cfa"
     },
     {
       "path": "overrides/config/copycats-client.toml",
@@ -909,6 +1021,10 @@
       "sha1": "3f6165e771731c29a8489a40417d822df93ef73c"
     },
     {
+      "path": "overrides/config/drizzleproof-common.toml",
+      "sha1": "94ccd816667827562419a1712506cb6592b723ce"
+    },
+    {
       "path": "overrides/config/durabilitytooltip-common.toml",
       "sha1": "0efd392cbd285eff5c975000fe19bd543ccaee55"
     },
@@ -947,6 +1063,74 @@
     {
       "path": "overrides/config/fabric/indigo-renderer.properties",
       "sha1": "5c479c63ee8005428b804fae40919bc86258e784"
+    },
+    {
+      "path": "overrides/config/fancymenu/custom_gui_screens.txt",
+      "sha1": "50b4602527a4e3cfea6016ec001f3b68ace1d65c"
+    },
+    {
+      "path": "overrides/config/fancymenu/customizablemenus.txt",
+      "sha1": "a05d29f93cd9ab06ee8227b1d009f69f907c7f99"
+    },
+    {
+      "path": "overrides/config/fancymenu/customization/pause_screen_layout.txt",
+      "sha1": "45e3dc7faddf7b5936e108f325d5faf040c80fcd"
+    },
+    {
+      "path": "overrides/config/fancymenu/customization/title_screen_layout.txt",
+      "sha1": "382e26c7b86e9fdde69b5a06312d355007ce3d36"
+    },
+    {
+      "path": "overrides/config/fancymenu/layout_editor/widgets/element_layer_control.lewidget",
+      "sha1": "adc605cf794120522f34a402a4301baf4e59350d"
+    },
+    {
+      "path": "overrides/config/fancymenu/legacy_checklist.txt",
+      "sha1": "f1569161a6ad24cc61b02dece317ea16e351ff1e"
+    },
+    {
+      "path": "overrides/config/fancymenu/options.txt",
+      "sha1": "6efd901b4752fa54e7d7c62411dbfde662c8bfec"
+    },
+    {
+      "path": "overrides/config/fancymenu/ui_themes/cherry_blossom.json",
+      "sha1": "9a453a566f041ddbc39e17918acdac90f6eaed38"
+    },
+    {
+      "path": "overrides/config/fancymenu/ui_themes/cozy_campfire.json",
+      "sha1": "e7fbd4e11f3e969d20d7c713e61fa6d6cedd077e"
+    },
+    {
+      "path": "overrides/config/fancymenu/ui_themes/dark.json",
+      "sha1": "b8793f498fc95000ab68a7d6b45d8575ad45d558"
+    },
+    {
+      "path": "overrides/config/fancymenu/ui_themes/dark_high_contrast.json",
+      "sha1": "9583fa877b286337557aae3429f91d66682091b7"
+    },
+    {
+      "path": "overrides/config/fancymenu/ui_themes/light.json",
+      "sha1": "5b9e9bc9d4d683584c919bcdae3b75581ae42f60"
+    },
+    {
+      "path": "overrides/config/fancymenu/ui_themes/light_high_contrast.json",
+      "sha1": "8a290f6e1a0bdf2be972878e1c134a0c31f4a069"
+    },
+    {
+      "path": "overrides/config/fancymenu/ui_themes/pumpkin_soup.json",
+      "sha1": "39c96a61bdeb936b151e38d0050b70abb78e3620"
+    },
+    {
+      "path": "overrides/config/fancymenu/ui_themes/purple_void.json",
+      "sha1": "9e38ca299adfe6ab2ad331c6adb80e26ff823da8"
+    },
+    {
+      "path": "overrides/config/fancymenu/ui_themes/spooky_season.json",
+      "sha1": "9fa05d2794bdec26dee5224075c98bd7da9c1a0d"
+    },
+    {
+      "path": "overrides/config/fancymenu/user_variables.db",
+      "sha1": "b41f9d7688944b0d96eaa089a5a5bb74af28d258"
     },
     {
       "path": "overrides/config/farmersdelight-client.toml",
@@ -995,6 +1179,10 @@
     {
       "path": "overrides/config/galena_hats.json",
       "sha1": "812a1b5b12d79b7397d09c4722904a772ef0ec42"
+    },
+    {
+      "path": "overrides/config/gpu_booster_config.txt",
+      "sha1": "985f9e9d0c05aae029ff9f4fb3aef97ceb5581d0"
     },
     {
       "path": "overrides/config/gyro-client.toml",
@@ -1063,6 +1251,14 @@
     {
       "path": "overrides/config/jei/server/world/default/jei-server.ini",
       "sha1": "e8b195526ded143c1666adfab8f11f4015c5c911"
+    },
+    {
+      "path": "overrides/config/just_dandy-client.toml",
+      "sha1": "b8e88368a6f290e08a5f8ee93bdd42b9665d3416"
+    },
+    {
+      "path": "overrides/config/just_dandy-common.toml",
+      "sha1": "99578ff56d118721df58c5bfebcca32ed5b83a6b"
     },
     {
       "path": "overrides/config/justzoom/config.json",
@@ -1297,6 +1493,10 @@
       "sha1": "08f9caabfcee61dc06016d0f3713ea7cdffc949c"
     },
     {
+      "path": "overrides/config/sneaky_link-common.toml",
+      "sha1": "3fec38f4f543299de4fb23a5563f0d137970d0d0"
+    },
+    {
       "path": "overrides/config/sodium-extra-options.json",
       "sha1": "353428c5411f2bd9fa4063d545619f002d15bb22"
     },
@@ -1381,6 +1581,14 @@
       "sha1": "5aada439f8d0ed90d1960a6c2f855812b83341f1"
     },
     {
+      "path": "overrides/config/sweety-garden-config.toml",
+      "sha1": "9beee5a1388e1f85619951cc52dee02111d0e80f"
+    },
+    {
+      "path": "overrides/config/toadlib_config.txt",
+      "sha1": "f02c2691ddc3a58cbafd147aeceb0433b3556a11"
+    },
+    {
       "path": "overrides/config/tracks-server.toml",
       "sha1": "7094e1e0cef2963a6e8ac274903213453fa941d1"
     },
@@ -1399,6 +1607,22 @@
     {
       "path": "overrides/config/trender.json",
       "sha1": "1ecd2edb27bfbc69f24e0cd52d3a22f98bdce8f0"
+    },
+    {
+      "path": "overrides/config/tt20/block_entity_mask.json",
+      "sha1": "748eca32e260f7fab8bf3805a665add7a0108dec"
+    },
+    {
+      "path": "overrides/config/tt20/config.json",
+      "sha1": "f02605b9e5530fd68a9cfbaa900a4fb6cbb40ea3"
+    },
+    {
+      "path": "overrides/config/verdant-client.toml",
+      "sha1": "bcfea97ee5a844065cd619036f9df8062ff3b0f0"
+    },
+    {
+      "path": "overrides/config/verdant-common.toml",
+      "sha1": "2184f8e5ae74546b0dc49ae75ca0b2973d9dae12"
     },
     {
       "path": "overrides/config/vista-client.toml",
@@ -1426,7 +1650,7 @@
     },
     {
       "path": "overrides/config/voicechat/voicechat-client.properties",
-      "sha1": "f3734ddac85aeaf4337e800b80368af2f31b51f8"
+      "sha1": "4bc4e22a33991469985a5284eb0473e404c769a1"
     },
     {
       "path": "overrides/config/voicechat/voicechat-server.properties",
@@ -1602,7 +1826,7 @@
     },
     {
       "path": "overrides/options.txt",
-      "sha1": "873d2c4dd5ccb5929e8879760dbeebbc6a1cdfab"
+      "sha1": "ed6db9af9a7242561d8e71501e23e46777a6276a"
     },
     {
       "path": "overrides/polytone_popup.json",

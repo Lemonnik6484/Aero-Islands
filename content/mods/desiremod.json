@@ -1,0 +1,23 @@
+{
+  "name": "Desire",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "XQx4LD8f",
+      "slug": "desiremod",
+      "versionId": "irmg0pZP",
+      "versionNumber": "1.1.1-1.21.1",
+      "filename": "desire-1.1.1-1.21.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/XQx4LD8f/versions/irmg0pZP/desire-1.1.1-1.21.1.jar",
+      "sha1": "91a56827fc1ba03f234187d8801a6c171675f801",
+      "sha512": "bfc1c9b94179e444f5fe3502984239a229e8268d238c3a4cb820328d1339227145b07a123683f56c685aabb1d0ad4ba360a4956c4cb940c5381d50b2be1e4edc",
+      "fileSize": 1846995
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

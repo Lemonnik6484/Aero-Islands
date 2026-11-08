@@ -1,0 +1,23 @@
+{
+  "name": "Drizzleproof",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "BOFbTsjc",
+      "slug": "drizzleproof",
+      "versionId": "zoEqqc9L",
+      "versionNumber": "3.0.0",
+      "filename": "drizzleproof-1.21.1-3.0.0.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/BOFbTsjc/versions/zoEqqc9L/drizzleproof-1.21.1-3.0.0.jar",
+      "sha1": "2eceec29fd14e967ad9a027db42d2fbea0a8d5ee",
+      "sha512": "62ce86ec90581acf4972acb1de2aad7a47150e6d054781ab2d2f54e053be9af1d8a8090a3a40b09fd4dc99a39f06162ef39c018d9b3784c6831f723ef912f441",
+      "fileSize": 1875911
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Verdant",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "MGgL5dVc",
+      "slug": "verdant-mod",
+      "versionId": "JQW8lYvn",
+      "versionNumber": "1.21.1-0.2.0",
+      "filename": "verdant-neoforge-1.21.1-0.2.0.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/MGgL5dVc/versions/JQW8lYvn/verdant-neoforge-1.21.1-0.2.0.jar",
+      "sha1": "b79c96b494ea80f873435112b0f4452406cd9a94",
+      "sha512": "c120b4c19b5886ee281f969a002d46f06ea8f0df454861d7044fe8e7861ffe6683e04b48ff867b50ed0e87f146152e038f8a26ca59170e92a8d77be31c8508d2",
+      "fileSize": 958784
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

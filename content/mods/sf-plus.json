@@ -1,0 +1,23 @@
+{
+  "name": "Signs Faster",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "NqwetDY4",
+      "slug": "sf-plus",
+      "versionId": "jbTzhPX0",
+      "versionNumber": "1.0.1",
+      "filename": "Signs Faster (v1.0.0) - 1.21.1 (NeoForge).jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/NqwetDY4/versions/jbTzhPX0/Signs%20Faster%20%28v1.0.0%29%20-%201.21.1%20%28NeoForge%29.jar",
+      "sha1": "9f4321fe7e0f63137a4dc6fc005de703d14ac6ad",
+      "sha512": "ddbb8cdbb962e0dec00bdcd7ea3c7d566429d62ff547e5cf1f2438577152958279319d2672fb19ecb276c093849742b7f487ae4f1436c429b694c0f36e853d44",
+      "fileSize": 88010
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

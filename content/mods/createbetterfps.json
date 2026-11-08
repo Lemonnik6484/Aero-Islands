@@ -1,0 +1,23 @@
+{
+  "name": "CreateBetterFps",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "lMYIHZNH",
+      "slug": "createbetterfps",
+      "versionId": "dxmPYimo",
+      "versionNumber": "1.1.5",
+      "filename": "createbetterfps-1.21.1-1.1.5.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/lMYIHZNH/versions/dxmPYimo/createbetterfps-1.21.1-1.1.5.jar",
+      "sha1": "c06111569e30af58d1cec4b4ee4b545f0021172a",
+      "sha512": "d98deec79eefb8e0c8ddda7def8a46f4c66402a213da5242f8ff029f43b844e68914fa31af3c8aed646d131ee9bfac3a63032df399b1f76cc99b5c312f32df24",
+      "fileSize": 26542
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

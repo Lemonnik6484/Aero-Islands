@@ -1,0 +1,23 @@
+{
+  "name": "Sneaky Link",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "tah8XIYc",
+      "slug": "sneaky-link",
+      "versionId": "TgobBxWg",
+      "versionNumber": "3.0.0",
+      "filename": "sneaky_link-3.0.0.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/tah8XIYc/versions/TgobBxWg/sneaky_link-3.0.0.jar",
+      "sha1": "088f7d489f6b43ca6585c50997306368538a6f20",
+      "sha512": "77bc2f216f1ac30f8c0849d76361bd1bd6a1b77531e779fe002ccb689a61afce26d5f9499dc816c8fa3b7a3e40737c18772379393a13a118ce877dfe56b05b02",
+      "fileSize": 1905066
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

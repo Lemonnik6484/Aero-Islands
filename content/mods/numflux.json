@@ -1,0 +1,23 @@
+{
+  "name": "NumFlux",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "1Bm2WDXm",
+      "slug": "numflux",
+      "versionId": "eEcFmmcx",
+      "versionNumber": "1.0.4.1-1.21.1-neo",
+      "filename": "NumFlux-1.0.4.1-1.21.1-neo.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/1Bm2WDXm/versions/eEcFmmcx/NumFlux-1.0.4.1-1.21.1-neo.jar",
+      "sha1": "43d8fa83b5d9797cf4b19c4ad918e436ffeb3b78",
+      "sha512": "c3172b8861e02c285732164d602161080e58d64e4091e2252df97833939c69a71d5b012ad2bf8d50ad52297d4700a68e11b70c43fbf685d0f87f9ceb5899cb9a",
+      "fileSize": 203821
+    }
+  },
+  "dependents": [],
+  "clientSide": "unsupported",
+  "serverSide": "required"
+}
