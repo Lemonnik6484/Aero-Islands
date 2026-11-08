@@ -162,7 +162,7 @@
     },
     {
       "path": "content/mods/copycats.json",
-      "sha1": "656473e09a358b5ab11a46b17d800112cee94183"
+      "sha1": "7e8b0067c26f0ef193908d8f5dbcee5054b65b16"
     },
     {
       "path": "content/mods/coroutil.json",
@@ -178,7 +178,7 @@
     },
     {
       "path": "content/mods/create-aeronautics-climbable-ropes.json",
-      "sha1": "655a85cbf5d860e6ce5d5bf57169adcee21157e6"
+      "sha1": "a68eae524ffb1bbb1be18f4f55c7b149824361c8"
     },
     {
       "path": "content/mods/create-aeronautics-gyroscope-stabilizers.json",
@@ -378,7 +378,7 @@
     },
     {
       "path": "content/mods/jade.json",
-      "sha1": "6c9a723bb1be4ad66bdd8af0d0cc902b49440f71"
+      "sha1": "bf24cc0e122336ba9a0c0dae3732a8692c9baef1"
     },
     {
       "path": "content/mods/jei.json",
@@ -494,7 +494,7 @@
     },
     {
       "path": "content/mods/offgrid.json",
-      "sha1": "891e50c451534b49846954f4e5ad32d642a1bc1c"
+      "sha1": "f62bdcb1749ff769f434635c6ab3f154f35bfbd6"
     },
     {
       "path": "content/mods/paxi.json",
@@ -514,7 +514,7 @@
     },
     {
       "path": "content/mods/polytone.json",
-      "sha1": "9162bec6c5e08b2d97d7cfab9ee8936e7d2afa1d"
+      "sha1": "0a31396c68ef261541aecdd80da2ca2b61dc0eac"
     },
     {
       "path": "content/mods/presence-footsteps-x-sable.json",
@@ -670,7 +670,7 @@
     },
     {
       "path": "content/mods/vista_tv.json",
-      "sha1": "038d9ecc44a57880f5967d3e304ec47a9cba0f26"
+      "sha1": "85d7d1c9f1e04a2a17cca737451696fb9d68073f"
     },
     {
       "path": "content/mods/void-water.json",
@@ -1006,7 +1006,7 @@
     },
     {
       "path": "overrides/config/cwb.json",
-      "sha1": "a6055990c58d09e2719426959c538fa8969edd8e"
+      "sha1": "83c2dc9449016e750c976f2c430fa96b41060be4"
     },
     {
       "path": "overrides/config/dndecor-server.toml",
@@ -1822,7 +1822,8 @@
     },
     {
       "path": "overrides/mods/skylight-1.0.0.jar",
-      "sha1": "4afe8879f5daf0c099ce08104c5c3f36a2a08b5a"
+      "sha1": "4afe8879f5daf0c099ce08104c5c3f36a2a08b5a",
+      "side": "client"
     },
     {
       "path": "overrides/options.txt",

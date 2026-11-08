@@ -6,5 +6,10 @@
   "loaderVersion": "21.1.265",
   "channel": "release",
   "datapacks": "datapacks",
+  "overrideSides": {
+    "mods/coolpeplaero-1.4.0.jar": "both",
+    "mods/fallthrough-1.0.0.jar": "both",
+    "mods/skylight-1.0.0.jar": "client"
+  },
   "formatVersion": 1
 }

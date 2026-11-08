@@ -37,7 +37,7 @@
 - [Chunky](https://modrinth.com/project/chunky) `1.4.23`
 - [Clear Void](https://modrinth.com/project/clear-void) `1.3.1`
 - [Client Sort](https://modrinth.com/project/clientsort) `3.89.2+1.21.1`
-- [Climbable Ropes for Create Aeronautics](https://www.curseforge.com/projects/1528764) `[2.2.0] Climbable Ropes`
+- [Climbable Ropes for Create Aeronautics](https://www.curseforge.com/projects/1528764) `[2.2.1] Climbable Ropes`
 - [Cloth Config API](https://modrinth.com/project/cloth-config) `15.0.140+neoforge`
 - [Concurrent Chunk Management Engine (NeoForge)](https://modrinth.com/project/c2me-neoforge) `0.4.0-alpha.0.124+1.21.1`
 - [Contraption Lights (Bi-directional Coloured Dynamic Lights)](https://modrinth.com/project/contraption-lights) `1.5.6`
@@ -54,7 +54,7 @@
 - [Create Simulated Additions](https://modrinth.com/project/create-simulated-additions) `0.2.3`
 - [Create Smart Bounds](https://modrinth.com/project/create-smart-bounds) `1.0.0`
 - [Create: Connected](https://modrinth.com/project/create-connected) `1.3.3-mc1.21.1`
-- [Create: Copycats+](https://modrinth.com/project/copycats) `3.0.9+mc.1.21.1-neoforge`
+- [Create: Copycats+](https://modrinth.com/project/copycats) `3.0.11+mc.1.21.1-neoforge`
 - [Create: Design n' Decor](https://modrinth.com/project/create-design-n-decor) `2.2b`
 - [Create: Dragons Plus](https://modrinth.com/project/create-dragons-plus) `1.11.9`
 - [Create: FlyHigher-直上九霄](https://modrinth.com/project/flyhigher) `1.0.2`
@@ -126,12 +126,12 @@
 - [No Man's Land](https://modrinth.com/project/no-mans-land) `1.6.3`
 - [Nuit](https://modrinth.com/project/nuit) `mc1.21.1-1.0.0-beta.6+neoforge`
 - [NumFlux](https://modrinth.com/project/numflux) `1.0.4.1-1.21.1-neo`
-- [Offgrid](https://modrinth.com/project/offgrid) `1.0.4+1.21.1-neoforge`
+- [Offgrid](https://modrinth.com/project/offgrid) `1.0.5+1.21.1-neoforge`
 - [Paxi](https://modrinth.com/project/paxi) `1.21.1-NeoForge-5.1.3`
 - [Peaceful Nights](https://modrinth.com/project/peaceful-nights) `0.1.0`
 - [PolyLight -  Simple Colored Lights](https://modrinth.com/project/polylight) `1.6`
 - [Polymorph](https://modrinth.com/project/polymorph) `1.2.0+1.21.1`
-- [Polytone](https://modrinth.com/project/polytone) `1.21-5.3.4`
+- [Polytone](https://modrinth.com/project/polytone) `1.21-5.3.6`
 - [Presence Footsteps (NeoForge)](https://modrinth.com/project/pf-neoforge) `1.21.1-1.12.0-beta.1`
 - [Presence Footsteps x Sable (Aeronautics Compat)](https://modrinth.com/project/presence-footsteps-x-sable) `1.0`
 - [Prickle](https://modrinth.com/project/prickle) `21.1.11`
@@ -173,7 +173,7 @@
 - [TT20 (TPS Fixer)](https://modrinth.com/project/tt20) `0.8.5`
 - [Veil](https://modrinth.com/project/veil) `4.5.2`
 - [Verdant](https://modrinth.com/project/verdant-mod) `1.21.1-0.2.0`
-- [vista](https://modrinth.com/project/vista_tv) `1.21.1-5.6.2`
+- [vista](https://modrinth.com/project/vista_tv) `1.21.1-5.6.5`
 - [Void Water](https://modrinth.com/project/void-water) `1.0.2`
 - [voxy](https://modrinth.com/project/voxy) `0.2.16-beta`
 - [Voxygen](https://modrinth.com/project/voxy-worldgen) `2.4.2`
