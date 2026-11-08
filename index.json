@@ -677,14 +677,6 @@
       "sha1": "9ff9afc81d156c3f8db499ad667131646ce71e43"
     },
     {
-      "path": "overrides/config/aeronautics_delivery_quests.toml",
-      "sha1": "d98804633778350f1f77d38e786330cdedb9c257"
-    },
-    {
-      "path": "overrides/config/aeronautics_delivery_quests/custom_quests.json",
-      "sha1": "1f8780e23d5d800732c3267b5fd1f872504ee14c"
-    },
-    {
       "path": "overrides/config/aeronautics_windsound-client.toml",
       "sha1": "7d5404a1f11aefdcda9b067d8dd2e3468b835662"
     },
@@ -1011,14 +1003,6 @@
     {
       "path": "overrides/config/gyro-common.toml",
       "sha1": "766b78de08f1c1ea01f66df381f0d671a787c507"
-    },
-    {
-      "path": "overrides/config/hoofprint.toml",
-      "sha1": "09ae5422590fe547936a678215bc35d98fdcff92"
-    },
-    {
-      "path": "overrides/config/immersiveminimaps.toml",
-      "sha1": "25f14db0dbd5fe9abe8368a3737ae0a03e096865"
     },
     {
       "path": "overrides/config/immersiveoverlays.json",
