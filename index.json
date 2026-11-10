@@ -1821,10 +1821,6 @@
       "sha1": "8546ebdf8087a595288fadb44f3d04d1bacdd69b"
     },
     {
-      "path": "overrides/mods/fallthrough-1.0.0.jar",
-      "sha1": "c85c57106deefdc7b016305539aa130a2495d541"
-    },
-    {
       "path": "overrides/mods/fastback-neoforge-0.31.2+1.21.1-prerelease.jar",
       "sha1": "fb1d6041ef21f454228a91ca422f1025309f7452"
     },
