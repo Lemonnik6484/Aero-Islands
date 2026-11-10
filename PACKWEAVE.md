@@ -40,7 +40,7 @@
 - [Climbable Ropes for Create Aeronautics](https://www.curseforge.com/projects/1528764) `[2.2.2] Climbable Ropes`
 - [Cloth Config API](https://modrinth.com/project/cloth-config) `15.0.140+neoforge`
 - [Concurrent Chunk Management Engine (NeoForge)](https://modrinth.com/project/c2me-neoforge) `0.4.0-alpha.0.124+1.21.1`
-- [Contraption Lights (Bi-directional Coloured Dynamic Lights)](https://modrinth.com/project/contraption-lights) `1.5.6`
+- [Contraption Lights (Bi-directional Coloured Dynamic Lights)](https://modrinth.com/project/contraption-lights) `1.6.0`
 - [Controlling](https://modrinth.com/project/controlling) `19.0.5`
 - [CoroUtil](https://modrinth.com/project/coroutil) `1.21.0-1.3.8`
 - [Cosmetic Armor Reworked](https://www.curseforge.com/projects/237307) `cosmeticarmorreworked-1.21.1-v1-neoforge.jar`
