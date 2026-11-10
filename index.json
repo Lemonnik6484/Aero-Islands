@@ -1842,6 +1842,10 @@
       "sha1": "ed6db9af9a7242561d8e71501e23e46777a6276a"
     },
     {
+      "path": "overrides/packweaver.jar",
+      "sha1": "1a353c36e230b309dfaa261e8f4f722275ca4892"
+    },
+    {
       "path": "overrides/polytone_popup.json",
       "sha1": "d581eb302e9f00cd17f7fe39dae699d476142950"
     },
