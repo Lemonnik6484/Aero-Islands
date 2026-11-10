@@ -1,10 +1,10 @@
 {
   "name": "Aero Islands",
-  "version": "1.0.0",
+  "version": "0.2.1",
   "minecraft": "1.21.1",
   "loader": "neoforge",
   "loaderVersion": "21.1.265",
-  "channel": "release",
+  "channel": "beta",
   "datapacks": "datapacks",
   "overrideSides": {
     "mods/coolpeplaero-1.4.0.jar": "both",
