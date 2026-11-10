@@ -66,7 +66,7 @@
     },
     {
       "path": "content/mods/asyncparticles.json",
-      "sha1": "31f0592a59bcf9addcab0444695c2ef895251d87"
+      "sha1": "979029665d4173e0f4c6ff42ad88a944a6b8e096"
     },
     {
       "path": "content/mods/athena-ctm.json",
@@ -173,10 +173,6 @@
       "sha1": "016ccc59043da7cc2d0acd66cc96b120b9110791"
     },
     {
-      "path": "content/mods/create-aeronautics-burner-fuel.json",
-      "sha1": "877227f3642361c6101f4700c0b1f10850d17593"
-    },
-    {
       "path": "content/mods/create-aeronautics-climbable-ropes.json",
       "sha1": "7c295c9431644afcd431767d9ec02b41881600ed"
     },
@@ -194,7 +190,7 @@
     },
     {
       "path": "content/mods/create-aeronautics.json",
-      "sha1": "626b5f9ed5e3181f323caf9881f25edbe7230ba8"
+      "sha1": "4a26562cc7cf23eb81153d27a49e0eb206cb03cc"
     },
     {
       "path": "content/mods/create-big-cannons.json",
@@ -454,7 +450,7 @@
     },
     {
       "path": "content/mods/mezzconfig.json",
-      "sha1": "b50d190e7953d9eeccb43507316229dca284ef16"
+      "sha1": "fb58b0741eef006a3ad14d138fbd271bdc04046c"
     },
     {
       "path": "content/mods/moonlight.json",

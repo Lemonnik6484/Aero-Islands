@@ -1,6 +1,6 @@
 # Aero Islands
 
-**Minecraft 1.21.1 · NeoForge 21.1.265**, 172 mods (4 dependencies), 4 resource packs, 1 data pack
+**Minecraft 1.21.1 · NeoForge 21.1.265**, 171 mods (4 dependencies), 4 resource packs, 1 data pack
 
 ## Contents
 
@@ -18,7 +18,7 @@
 - [Antique Transport](https://modrinth.com/project/antique-transport) `1.3.0`
 - [AppleSkin](https://modrinth.com/project/appleskin) `3.0.9+mc1.21`
 - [Architectury API](https://modrinth.com/project/architectury-api) `13.0.11+neoforge`
-- [AsyncParticles](https://modrinth.com/project/asyncparticles) `21.1.4.10`
+- [AsyncParticles](https://modrinth.com/project/asyncparticles) `21.1.5.0-beta.1`
 - [Athena](https://modrinth.com/project/athena-ctm) `4.0.6`
 - [Azimuth API](https://modrinth.com/project/azimuth-api) `1.4.10`
 - [Balm](https://modrinth.com/project/balm) `21.0.67+neoforge-1.21.1`
@@ -47,7 +47,6 @@
 - [Create](https://modrinth.com/project/create) `6.0.10+mc1.21.1`
 - [Create Aeronautics](https://modrinth.com/project/create-aeronautics) `1.3.2+mc1.21.1`
 - [Create Aeronautics Lift Patch](https://modrinth.com/project/create-aeronautics-lift-patch) `1.1.0`
-- [Create Aeronautics: burner fuel](https://modrinth.com/project/create-aeronautics-burner-fuel) `1.0.2`
 - [Create Aeronautics: Gyro Stabilizers](https://modrinth.com/project/create-aeronautics-gyroscope-stabilizers) `1.2.2`
 - [Create Aeronautics: Portable Engine Liquid Fuel](https://modrinth.com/project/create-aeronautics-portable-engine-liquid-fuel) `2.0.0`
 - [Create Big Cannons](https://modrinth.com/project/create-big-cannons) `5.11.7`
