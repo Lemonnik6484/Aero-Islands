@@ -1,6 +1,6 @@
 # Aero Islands
 
-**Minecraft 1.21.1 · NeoForge 21.1.265**, 170 mods (4 dependencies), 4 resource packs, 1 data pack
+**Minecraft 1.21.1 · NeoForge 21.1.265**, 172 mods (4 dependencies), 4 resource packs, 1 data pack
 
 ## Contents
 
@@ -37,7 +37,7 @@
 - [Chunky](https://modrinth.com/project/chunky) `1.4.23`
 - [Clear Void](https://modrinth.com/project/clear-void) `1.3.1`
 - [Client Sort](https://modrinth.com/project/clientsort) `3.89.2+1.21.1`
-- [Climbable Ropes for Create Aeronautics](https://www.curseforge.com/projects/1528764) `[2.2.1] Climbable Ropes`
+- [Climbable Ropes for Create Aeronautics](https://www.curseforge.com/projects/1528764) `[2.2.2] Climbable Ropes`
 - [Cloth Config API](https://modrinth.com/project/cloth-config) `15.0.140+neoforge`
 - [Concurrent Chunk Management Engine (NeoForge)](https://modrinth.com/project/c2me-neoforge) `0.4.0-alpha.0.124+1.21.1`
 - [Contraption Lights (Bi-directional Coloured Dynamic Lights)](https://modrinth.com/project/contraption-lights) `1.5.6`
@@ -60,6 +60,7 @@
 - [Create: FlyHigher-直上九霄](https://modrinth.com/project/flyhigher) `1.0.2`
 - [Create: Framed](https://modrinth.com/project/create-framed) `1.8.2+1.21.1`
 - [Create: Interiors](https://modrinth.com/project/interiors) `0.6.1`
+- [Create: Linear Bearing](https://modrinth.com/project/linear-bearing) `1.3.5`
 - [Create: Liquid Fuel](https://modrinth.com/project/create-liquid-fuel) `3.0.0-1.21.1`
 - [Create: Radars](https://modrinth.com/project/create-radars) `5.0.3-1.21.1`
 - [Create: Smoke & Buffers](https://modrinth.com/project/create-smoke-buffers) `0.1.0`
@@ -79,8 +80,8 @@
 - [EMI: Create Schematics](https://modrinth.com/project/emi-create-schematics) `1.1.0`
 - [Enchantment Descriptions](https://modrinth.com/project/enchantment-descriptions) `21.1.11`
 - [Entity Culling](https://modrinth.com/project/entityculling) `1.11.3`
-- [Exposure](https://modrinth.com/project/exposure) `1.9.19`
-- [FancyMenu](https://modrinth.com/project/fancymenu) `3.9.14-1.21.1-neoforge`
+- [Exposure](https://modrinth.com/project/exposure) `1.9.21`
+- [FancyMenu](https://modrinth.com/project/fancymenu) `3.10.0-1.21.1-neoforge`
 - [Farmer's Delight](https://modrinth.com/project/farmers-delight) `1.21.1-1.3.4`
 - [Fast IP Ping](https://modrinth.com/project/fast-ip-ping) `v1.0.12-mc1.21.1-neoforge`
 - [Fast Noise](https://modrinth.com/project/zfastnoise) `1.0.13+1.21.1+neoforge`
@@ -108,13 +109,14 @@
 - [LambDynamicLights - Dynamic Lights](https://modrinth.com/project/lambdynamiclights) `4.8.11+1.21.1`
 - [Lever drugster](https://modrinth.com/project/lever-drugster) `1.8.8`
 - [LibJF](https://modrinth.com/project/libjf) `3.17.7+forge`
+- [Linear Bearings Fix](https://modrinth.com/project/linear-bearings-fix) `1.0.3`
 - [Lithium](https://modrinth.com/project/lithium) `mc1.21.1-0.15.4-neoforge`
 - [Lithostitched](https://modrinth.com/project/lithostitched) `1.8.1-neoforge-21.1`
 - [Load My F***ing Tags](https://modrinth.com/project/lmft) `1.1.1+1.21.9`
 - [Manual Labour](https://modrinth.com/project/manual-labour) `2.5.2-1.21.1`
 - [McQoy](https://modrinth.com/project/mcqoy) `0.4.1+neo-1.21`
 - [Melody](https://modrinth.com/project/melody) `1.0.10-1.21-neoforge`
-- [Moonlight Lib](https://modrinth.com/project/moonlight) `1.21.1-3.8.2`
+- [Moonlight Lib](https://modrinth.com/project/moonlight) `1.21.1-3.8.3`
 - [MossyLib](https://modrinth.com/project/mossylib) `1.6.0+1.21.1+neoforge`
 - [Mouse Tweaks](https://modrinth.com/project/mouse-tweaks) `1.21-2.26.1-neoforge`
 - [MRU](https://modrinth.com/project/mru) `1.0.41+1.21.1-neoforge`
@@ -126,12 +128,12 @@
 - [No Man's Land](https://modrinth.com/project/no-mans-land) `1.6.3`
 - [Nuit](https://modrinth.com/project/nuit) `mc1.21.1-1.0.0-beta.6+neoforge`
 - [NumFlux](https://modrinth.com/project/numflux) `1.0.4.1-1.21.1-neo`
-- [Offgrid](https://modrinth.com/project/offgrid) `1.0.5+1.21.1-neoforge`
+- [Offgrid](https://modrinth.com/project/offgrid) `1.0.6+1.21.1-neoforge`
 - [Paxi](https://modrinth.com/project/paxi) `1.21.1-NeoForge-5.1.3`
 - [Peaceful Nights](https://modrinth.com/project/peaceful-nights) `0.1.0`
 - [PolyLight -  Simple Colored Lights](https://modrinth.com/project/polylight) `1.6`
 - [Polymorph](https://modrinth.com/project/polymorph) `1.2.0+1.21.1`
-- [Polytone](https://modrinth.com/project/polytone) `1.21-5.3.6`
+- [Polytone](https://modrinth.com/project/polytone) `1.21-5.3.8`
 - [Presence Footsteps (NeoForge)](https://modrinth.com/project/pf-neoforge) `1.21.1-1.12.0-beta.1`
 - [Presence Footsteps x Sable (Aeronautics Compat)](https://modrinth.com/project/presence-footsteps-x-sable) `1.0`
 - [Prickle](https://modrinth.com/project/prickle) `21.1.11`
@@ -173,7 +175,7 @@
 - [TT20 (TPS Fixer)](https://modrinth.com/project/tt20) `0.8.5`
 - [Veil](https://modrinth.com/project/veil) `4.5.2`
 - [Verdant](https://modrinth.com/project/verdant-mod) `1.21.1-0.2.0`
-- [vista](https://modrinth.com/project/vista_tv) `1.21.1-5.6.5`
+- [vista](https://modrinth.com/project/vista_tv) `1.21.1-5.6.8`
 - [Void Water](https://modrinth.com/project/void-water) `1.0.2`
 - [voxy](https://modrinth.com/project/voxy) `0.2.16-beta`
 - [Voxygen](https://modrinth.com/project/voxy-worldgen) `2.4.2`

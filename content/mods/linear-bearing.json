@@ -1,0 +1,23 @@
+{
+  "name": "Create: Linear Bearing",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "ZTwCjE7O",
+      "slug": "linear-bearing",
+      "versionId": "8SJdnoXS",
+      "versionNumber": "1.3.5",
+      "filename": "linearbearing-1.3.5.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/ZTwCjE7O/versions/8SJdnoXS/linearbearing-1.3.5.jar",
+      "sha1": "eea526a9e5b22ef1482f3f6f739d65a53681f1f0",
+      "sha512": "c9862f34cac34c09109dec8257056f88228d0d751cf1c4f57627eff4cecfecae4c6685f8a06786b7a17f6ed21164a285b4b7242fd68dba0e22d2ad53d35eed78",
+      "fileSize": 203626
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

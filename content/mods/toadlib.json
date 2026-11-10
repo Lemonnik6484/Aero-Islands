@@ -1,6 +1,6 @@
 {
   "name": "ToadLib",
-  "side": "auto",
+  "side": "client",
   "explicit": true,
   "disabled": false,
   "preferred": "modrinth",
@@ -21,5 +21,5 @@
     "5CTSrY8X"
   ],
   "clientSide": "required",
-  "serverSide": "required"
+  "serverSide": "unsupported"
 }

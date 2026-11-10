@@ -8,23 +8,23 @@
     "modrinth": {
       "id": "jImqv1M5",
       "slug": "create-aeronautics-climbable-rope",
-      "versionId": "HmIHKOOs",
-      "versionNumber": "2.2.1",
-      "filename": "climbable_ropes-2.2.1.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/jImqv1M5/versions/HmIHKOOs/climbable_ropes-2.2.1.jar",
-      "sha1": "5c35a9746780af66575e1a93cb9db78cf71171d8",
-      "sha512": "d061ea3dc2f7da7c5dc9e8f47c7d959b905c13ba6ee78a9afe22443b9c2d94bd5516567f5c94b5df276dffb68c60c4c5d9b8bd7ebbfa58f58640750bc0bd68aa",
-      "fileSize": 103098
+      "versionId": "1r3CmpkA",
+      "versionNumber": "2.2.2",
+      "filename": "climbable_ropes-2.2.2.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/jImqv1M5/versions/1r3CmpkA/climbable_ropes-2.2.2.jar",
+      "sha1": "5788f0263f701b56e7689c1da914ee537f5c3d23",
+      "sha512": "829486044689c04d56528e3593a2d4fad60fe8693ea71af38bf5f2b4bb0b08258fabd7235af69731195fd5322a747804bcc898dbe50cab56850c05d16cc95ded",
+      "fileSize": 104082
     },
     "curseforge": {
       "id": "1528764",
       "slug": "create-aeronautics-climbable-ropes",
-      "versionId": "9511062",
-      "versionNumber": "[2.2.1] Climbable Ropes",
-      "filename": "climbable_ropes-2.2.1.jar",
-      "downloadUrl": "https://edge.forgecdn.net/files/9511/62/climbable_ropes-2.2.1.jar",
-      "sha1": "5c35a9746780af66575e1a93cb9db78cf71171d8",
-      "fileSize": 103098
+      "versionId": "9529382",
+      "versionNumber": "[2.2.2] Climbable Ropes",
+      "filename": "climbable_ropes-2.2.2.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/9529/382/climbable_ropes-2.2.2.jar",
+      "sha1": "5788f0263f701b56e7689c1da914ee537f5c3d23",
+      "fileSize": 104082
     }
   },
   "dependents": [],
