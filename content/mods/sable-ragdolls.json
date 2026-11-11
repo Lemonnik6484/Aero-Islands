@@ -8,13 +8,13 @@
     "modrinth": {
       "id": "I3mWDgfy",
       "slug": "sable-ragdolls",
-      "versionId": "CyKh8XSr",
-      "versionNumber": "0.7.5",
-      "filename": "sable_player_ragdoll-1.21.1-0.7.5.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/I3mWDgfy/versions/CyKh8XSr/sable_player_ragdoll-1.21.1-0.7.5.jar",
-      "sha1": "114a953a830673ebfe2af154f5a1ce535fc4d90c",
-      "sha512": "c986f58bc4a4b0d47081e586a9d9c281096abf9c77bcde45f6ae1488e8120e71b79e019d2145ff0a392c5c168f5a8fb2b38907b1f5c6ab9d892622c55dac0ef9",
-      "fileSize": 1466748
+      "versionId": "7VQ9pGev",
+      "versionNumber": "0.8.1",
+      "filename": "sable_player_ragdoll-1.21.1-0.8.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/I3mWDgfy/versions/7VQ9pGev/sable_player_ragdoll-1.21.1-0.8.1.jar",
+      "sha1": "bfb37d0d38b7a1fab249dd4c7b044f80c8aee802",
+      "sha512": "3cb14194cd5fac318cd0933a059442463a6a620926bdccb04d44d81e7c9fb0578f7a95f494f37f9b70ee32fac1e2f18e81203a2acc52f4d264897f1a691f8b85",
+      "fileSize": 1529122
     }
   },
   "dependents": [

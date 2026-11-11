@@ -153,8 +153,8 @@
 - [Sable CleanUp](https://modrinth.com/project/sable-cleanup) `0.3.0`
 - [Sable Pathfinder](https://modrinth.com/project/sable-pathfinder) `1.4.0`
 - [Sable: Far and Wide (Create Aeronautics)](https://modrinth.com/project/sable-far-and-wide) `1.0.0`
-- [Sable: Ragdoll Corpse](https://modrinth.com/project/sable-ragdoll-corpse) `0.3.0`
-- [Sable: Ragdolls](https://modrinth.com/project/sable-ragdolls) `0.7.5`
+- [Sable: Ragdoll Corpse](https://modrinth.com/project/sable-ragdoll-corpse) `0.4.0`
+- [Sable: Ragdolls](https://modrinth.com/project/sable-ragdolls) `0.8.1`
 - [Screenshot to Clipboard](https://modrinth.com/project/screenshot-to-clipboard) `1.0.10+neoforge`
 - [Searchables](https://modrinth.com/project/searchables) `1.0.2`
 - [Signs Faster](https://modrinth.com/project/sf-plus) `1.0.1`
