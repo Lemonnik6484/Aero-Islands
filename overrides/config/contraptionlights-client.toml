@@ -23,7 +23,7 @@
 	enableContraptionDynamicLight = true
 	#Cast light from the blocks a moving Sable sub-level carries, including a carried beacon's beam.
 	enableSubLevelDynamicLight = true
-	#Seal off closed rooms inside a Sable sub-level. Light does not cross the walls in either direction, so a lantern outside leaves the room dark and a lamp inside does not shine out.
+	#Light does not pass through the walls of a Sable sub-level in either direction. It only gets out of or into a room through its openings, dimmer for the longer way, and a closed room is sealed off completely.
 	enableSubLevelOcclusion = true
 
 #Light cast onto a moving structure by nearby world sources.
@@ -52,11 +52,13 @@
 	#Let a resource pack give a block a colour that cycles, such as a rainbow lamp. Off holds every such light at the average of its colours.
 	animatedLightColors = true
 
-#Fixes for how Sable sub-levels look under Iris. Need Sable, Iris and Veil installed.
-[sableIrisFixes]
-	#Shade the faces of a Sable sub-level by their direction, so it is not flat and too bright.
+#Fixes and improvements for other mods.
+[fixesAndImprovements]
+	#Solid blocks stop moving light, so a held torch or a passing lantern does not shine through a wall into the next room, but still reaches round corners and through doorways. Needs LambDynamicLights.
+	worldWallsBlockLight = true
+	#Shade the faces of a Sable sub-level by their direction under Iris, so it is not flat and too bright. Needs Sable, Iris and Veil.
 	fixSubLevelShading = true
-	#Match a Sable sub-level's sky light to the world's at its position, so a build goes dark underground.
+	#Match a Sable sub-level's sky light to the world's at its position under Iris, so a build goes dark underground. Needs Sable, Iris and Veil.
 	fixSubLevelSkyLight = true
-	#Shade the corners and recesses of a Sable sub-level the way the shaderpack shades the world's. Needs a shaderpack.
+	#Shade the corners and recesses of a Sable sub-level the way the shaderpack shades the world's. Needs Sable, Iris, Veil and a shaderpack.
 	fixSubLevelAmbientOcclusion = true

@@ -1,0 +1,23 @@
+{
+  "name": "Reliable Recount",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "KZ2nVYZL",
+      "slug": "o123456789-backport",
+      "versionId": "ZRrnmwsV",
+      "versionNumber": "2.0.3-1.21.1-neoforge",
+      "filename": "reliable_recount-neoforge-1.21.1-2.0.3.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/KZ2nVYZL/versions/ZRrnmwsV/reliable_recount-neoforge-1.21.1-2.0.3.jar",
+      "sha1": "b3535e65a2906bd5ff1709765749a641b5f12e08",
+      "sha512": "d3bcb3508da6735d4ea073c5178a85407e1f98398a3f139f149e2c32999be2a6b9a13396dc1cdba70de700e4e41e8e5b9d810956aecc047e9517b95b386b8c8c",
+      "fileSize": 49785
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

@@ -26,6 +26,9 @@
 	# Default: 3
 	# Range: 1 ~ 20
 	maxUnhoveredAssignments = 3
+	selectedControllerSet = ""
+	controllerLayout = "PLAYSTATION"
+	radialHelpVisible = true
 
 [layout]
 	#Scales the box width limit. Text still determines the actual width.

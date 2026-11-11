@@ -12,7 +12,7 @@ darknessEffectScale:1.0
 glintSpeed:0.5
 glintStrength:0.75
 prioritizeChunkUpdates:0
-fullscreen:true
+fullscreen:false
 gamma:0.5
 graphicsMode:1
 guiScale:4
@@ -58,7 +58,7 @@ chatLineSpacing:0.0
 textBackgroundOpacity:0.5
 backgroundForChatOnly:true
 hideServerAddress:false
-advancedItemTooltips:true
+advancedItemTooltips:false
 pauseOnLostFocus:true
 overrideWidth:0
 overrideHeight:0
@@ -137,6 +137,8 @@ key_key.clientsort.op.matchTransfer:key.keyboard.unknown
 key_key.clientsort.op.transfer:key.keyboard.unknown
 key_key.keybindatlas.open_keyboard:key.keyboard.k
 key_key.keybindatlas.cycle_sets:key.keyboard.k:ALT
+key_key.keybindatlas.open_controller:key.keyboard.unknown
+key_key.keybindatlas.cycle_controller_sets:key.keyboard.unknown
 key_key.exposure.camera_controls:key.keyboard.unknown
 key_supplementaries.keybind.quiver:key.keyboard.v
 key_key.curios.open.desc:key.keyboard.g
@@ -182,6 +184,7 @@ key_key.jei.previousCategory:key.keyboard.page.up:SHIFT
 key_key.jei.nextCategory:key.keyboard.page.down:SHIFT
 key_key.jei.closeRecipeGui:key.keyboard.escape
 key_key.jei.copy.recipe.id:key.keyboard.unknown
+key_key.reliable_gliders.deploy:key.keyboard.unknown
 key_key.analogleverdrag.increase_signal:key.keyboard.up
 key_key.analogleverdrag.decrease_signal:key.keyboard.down
 key_key.analogleverdrag.gear_1:key.keyboard.1

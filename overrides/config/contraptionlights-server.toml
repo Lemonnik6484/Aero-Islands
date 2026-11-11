@@ -2,7 +2,7 @@
 enableContraptionLightBlock = false
 #Place real light blocks as a Sable sub-level moves, so every player sees the light.
 enableSubLevelLightBlock = false
-#A light inside a sealed room on a Sable sub-level places no light block in the world outside.
+#Walls of a Sable sub-level block its light blocks: a light in a sealed room places none, and a light in a partly open space places its light blocks at the openings instead.
 enableSubLevelLightBlockOcclusion = true
 #Only place a light block for sources at least this bright.
 # Default: 1

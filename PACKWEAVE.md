@@ -1,6 +1,6 @@
 # Aero Islands
 
-**Minecraft 1.21.1 · NeoForge 21.1.265**, 171 mods (4 dependencies), 4 resource packs, 1 data pack
+**Minecraft 1.21.1 · NeoForge 21.1.265**, 176 mods (4 dependencies), 4 resource packs, 1 data pack
 
 ## Contents
 
@@ -61,6 +61,7 @@
 - [Create: Interiors](https://modrinth.com/project/interiors) `0.6.1`
 - [Create: Linear Bearing](https://modrinth.com/project/linear-bearing) `1.3.5`
 - [Create: Liquid Fuel](https://modrinth.com/project/create-liquid-fuel) `3.0.0-1.21.1`
+- [Create: Nowheel](https://modrinth.com/project/create-nowheel) `2.1.1+1.21.1neoforge`
 - [Create: Radars](https://modrinth.com/project/create-radars) `5.0.3-1.21.1`
 - [Create: Smoke & Buffers](https://modrinth.com/project/create-smoke-buffers) `0.1.0`
 - [Create: Tracks+](https://modrinth.com/project/create-tracks-plus) `1.0.6b7`
@@ -101,7 +102,7 @@
 - [Just Dandy](https://modrinth.com/project/just-dandy) `3.0.5`
 - [Just Enough Items (JEI)](https://modrinth.com/project/jei) `19.70.0.469`
 - [Just Zoom](https://modrinth.com/project/just-zoom) `3.1.0-1.21.1-neoforge`
-- [Keybind Atlas](https://modrinth.com/project/keybind-atlas) `2.3.0`
+- [Keybind Atlas](https://modrinth.com/project/keybind-atlas) `3.0.0`
 - [Konkrete](https://modrinth.com/project/konkrete) `1.9.9-1.21-neoforge`
 - [Kotlin for Forge](https://modrinth.com/project/kotlin-for-forge) `5.12.0`
 - [KubeJS](https://modrinth.com/project/kubejs) `2101.7.2-build.381`
@@ -137,7 +138,11 @@
 - [Presence Footsteps x Sable (Aeronautics Compat)](https://modrinth.com/project/presence-footsteps-x-sable) `1.0`
 - [Prickle](https://modrinth.com/project/prickle) `21.1.11`
 - [Reese's Sodium Options](https://modrinth.com/project/reeses-sodium-options) `mc1.21.1-2.2.4+neoforge`
+- [Reliable Advancements](https://modrinth.com/project/reliable-advancements) `6.3.3+1.21.1-neoforge`
+- [Reliable EMI (REMI)](https://modrinth.com/project/reliable-emi) `4.8.1-1.21.1-neoforge`
+- [Reliable Gliders](https://modrinth.com/project/reliable-gliders) `2.1.0+1.21.1-neoforge`
 - [Reliable Recipes](https://modrinth.com/project/reliable-recipes) `3.8.3+1.21.1-neoforge`
+- [Reliable Recount](https://modrinth.com/project/o123456789-backport) `2.0.3-1.21.1-neoforge`
 - [Reliable Remover](https://modrinth.com/project/reliable-remover) `3.8.4+1.21.1-neoforge`
 - [Resourceful Lib](https://modrinth.com/project/resourceful-lib) `3.0.12`
 - [Respackopts](https://modrinth.com/project/respackopts) `4.14.0+1.21.1.forge.4`
