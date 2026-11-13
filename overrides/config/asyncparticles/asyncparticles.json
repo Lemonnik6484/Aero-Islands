@@ -35,21 +35,13 @@
     "fixParticleLights": true
   },
   "sable": {
-    "fixParticleLights": true,
-    "simplifyParticleSkyLight": true
+    "fixParticleLights": true
   },
   "polytone": {
     "takeover": true,
     "asyncTick": true,
     "gpuOnlyAsyncTick": false,
     "gpuRendering": true
-  },
-  "particleStorm": {
-    "gpuRendering": true
-  },
-  "opalLight": {
-    "gpuRenderingCompatibility": true,
-    "destructionColorPrediction": true
   },
   "create": {
     "rainEffect": "ALWAYS",

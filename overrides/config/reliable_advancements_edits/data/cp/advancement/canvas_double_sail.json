@@ -1,0 +1,32 @@
+{
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "coolpeplaero:canvas_symmetric_sail",
+            "count": 1
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "impossible"
+    ]
+  ],
+  "parent": "cp:canvas_sail",
+  "display": {
+    "icon": {
+      "id": "coolpeplaero:canvas_symmetric_sail"
+    },
+    "title": "Chicken tail",
+    "description": "Still not as good as normal symmetric sails, but still good-enough",
+    "frame": "task"
+  },
+  "parents": [
+    "cp:canvas_sail"
+  ]
+}

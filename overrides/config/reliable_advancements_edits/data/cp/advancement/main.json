@@ -1,0 +1,22 @@
+{
+  "criteria": {
+    "tick": {
+      "trigger": "minecraft:tick"
+    }
+  },
+  "requirements": [
+    [
+      "tick"
+    ]
+  ],
+  "display": {
+    "frame": "challenge",
+    "icon": {
+      "id": "coolpeplaero:icon"
+    },
+    "title": "Welcome aboard!",
+    "description": "Join the cool pepl server",
+    "background": "minecraft:textures/gui/advancements/backgrounds/stone.png"
+  },
+  "reliable_advancements:tab_member": true
+}

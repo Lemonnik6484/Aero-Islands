@@ -1,7 +1,1007 @@
 {
   "version": 1,
-  "tabs": {},
-  "deleted_advancements": {},
+  "tabs": {
+    "aeronautics:root": {
+      "positions": {
+        "aeronautics:head_in_the_clouds": [
+          -79,
+          -10
+        ],
+        "aeronautics:for_every_action": [
+          -62,
+          -75
+        ],
+        "aeronautics:in_thrust_we_trust": [
+          -89,
+          -124
+        ],
+        "aeronautics:song_of_the_sky": [
+          -198,
+          -26
+        ],
+        "aeronautics:now_available_in_pink": [
+          63,
+          23
+        ],
+        "aeronautics:root": [
+          -83,
+          48
+        ],
+        "aeronautics:heavier_artillery": [
+          -151,
+          96
+        ],
+        "aeronautics:high_fashion": [
+          -25,
+          118
+        ],
+        "aeronautics:ghostbuster": [
+          -219,
+          112
+        ],
+        "aeronautics:unidentified_floating_object": [
+          -8,
+          1
+        ]
+      }
+    },
+    "minecraft:end/root": {
+      "positions": {
+        "minecraft:end/kill_dragon": [
+          36,
+          22
+        ],
+        "minecraft:end/dragon_breath": [
+          65,
+          -42
+        ],
+        "minecraft:end/dragon_egg": [
+          117,
+          -2
+        ],
+        "minecraft:end/find_end_city": [
+          164,
+          104
+        ],
+        "minecraft:end/elytra": [
+          219,
+          49
+        ],
+        "minecraft:end/levitate": [
+          214,
+          154
+        ],
+        "minecraft:end/enter_end_gateway": [
+          118,
+          60
+        ],
+        "minecraft:end/respawn_dragon": [
+          50,
+          102
+        ],
+        "minecraft:end/root": [
+          -37,
+          -3
+        ]
+      }
+    },
+    "minecraft:nether/root": {
+      "positions": {
+        "minecraft:nether/root": [
+          -74,
+          112
+        ],
+        "minecraft:nether/find_fortress": [
+          -116,
+          59
+        ],
+        "minecraft:nether/get_wither_skull": [
+          -134,
+          -3
+        ],
+        "minecraft:nether/summon_wither": [
+          -171,
+          -61
+        ],
+        "minecraft:nether/create_beacon": [
+          -106,
+          -107
+        ],
+        "minecraft:nether/create_full_beacon": [
+          -23,
+          -131
+        ],
+        "minecraft:nether/obtain_ancient_debris": [
+          -164,
+          180
+        ],
+        "minecraft:nether/use_lodestone": [
+          -194,
+          257
+        ],
+        "minecraft:nether/netherite_armor": [
+          -235,
+          200
+        ],
+        "minecraft:nether/obtain_blaze_rod": [
+          -179,
+          97
+        ],
+        "minecraft:nether/brew_potion": [
+          -240,
+          115
+        ],
+        "minecraft:nether/all_potions": [
+          -258,
+          59
+        ],
+        "supplementaries:nether/goblet": [
+          -280,
+          155
+        ],
+        "minecraft:nether/all_effects": [
+          -232,
+          6
+        ],
+        "minecraft:nether/obtain_crying_obsidian": [
+          -21,
+          201
+        ],
+        "minecraft:nether/return_to_sender": [
+          -97,
+          213
+        ],
+        "minecraft:nether/uneasy_alliance": [
+          -120,
+          263
+        ],
+        "minecraft:nether/charge_respawn_anchor": [
+          35,
+          236
+        ],
+        "minecraft:nether/ride_strider": [
+          53,
+          131
+        ],
+        "minecraft:nether/explore_nether": [
+          120,
+          98
+        ],
+        "minecraft:nether/ride_strider_in_overworld_lava": [
+          105,
+          198
+        ],
+        "minecraft:nether/find_bastion": [
+          -10,
+          45
+        ],
+        "minecraft:nether/fast_travel": [
+          48,
+          83
+        ],
+        "minecraft:nether/distract_piglin": [
+          -56,
+          13
+        ],
+        "minecraft:nether/loot_bastion": [
+          109,
+          17
+        ]
+      }
+    },
+    "reliable_advancements:new_tab": {
+      "title": "Cool Pepl",
+      "icon": "coolpeplaero:icon",
+      "background": "nomansland:textures/block/building/faded_stone_bricks_2.png",
+      "index": 5,
+      "roots": [
+        "minecraft:new_advancement",
+        "cp:main"
+      ],
+      "positions": {
+        "minecraft:new_advancement": [
+          -23,
+          5
+        ],
+        "cp:main": [
+          -23,
+          5
+        ],
+        "cp:canvas": [
+          27,
+          -41
+        ],
+        "cp:engine": [
+          17,
+          48
+        ],
+        "cp:propeller": [
+          28,
+          98
+        ],
+        "cp:canvas_envelope": [
+          64,
+          -91
+        ],
+        "cp:canvas_sail": [
+          6,
+          -106
+        ],
+        "cp:canvas_double_sail": [
+          -36,
+          -152
+        ]
+      }
+    },
+    "simulated:root": {
+      "positions": {
+        "simulated:applied_kinematics": [
+          -50,
+          224
+        ],
+        "simulated:no_pressure": [
+          -71,
+          150
+        ],
+        "simulated:can_we_get_much_higher": [
+          -115,
+          3
+        ],
+        "simulated:convoluted_circumvolutions": [
+          -119,
+          106
+        ],
+        "simulated:nearsighted": [
+          -68,
+          -35
+        ],
+        "simulated:speed_is_key": [
+          -126,
+          187
+        ],
+        "simulated:thataway": [
+          -225,
+          167
+        ],
+        "simulated:the_definition_of_up": [
+          -165,
+          53
+        ],
+        "linearbearing:gyro_gearbox": [
+          -197,
+          116
+        ],
+        "simulated:far_from_home": [
+          -285,
+          136
+        ],
+        "simulated:root": [
+          43,
+          268
+        ],
+        "simulated:not_gonna_sugarcoat_it": [
+          -38,
+          282
+        ],
+        "simulated:measure_once_build_twice": [
+          -90,
+          305
+        ],
+        "simulated:opposite_attract": [
+          -131,
+          273
+        ],
+        "simulated:a_calculated_connection": [
+          -195,
+          295
+        ],
+        "simulated:you_spin_me_right_round": [
+          60,
+          177
+        ],
+        "simulated:i_declare_thee": [
+          -7,
+          339
+        ],
+        "simulated:learning_the_ropes": [
+          9,
+          124
+        ],
+        "simulated:get_a_grip": [
+          159,
+          241
+        ],
+        "simulated:big_beam": [
+          -44,
+          31
+        ],
+        "simulated:stuck_together": [
+          66,
+          74
+        ],
+        "simulated:my_eye": [
+          33,
+          7
+        ],
+        "simulated:rewind_time": [
+          246,
+          272
+        ],
+        "simulated:what_goes_down": [
+          229,
+          218
+        ],
+        "simulated:must_come_up": [
+          280,
+          199
+        ],
+        "simulated:steamless_engine": [
+          193,
+          344
+        ],
+        "simulated:got_a_grip": [
+          183,
+          172
+        ],
+        "simulated:call_of_the_void": [
+          -211,
+          224
+        ],
+        "simulated:unpowered_steering": [
+          144,
+          310
+        ],
+        "simulated:that_should_do_for_now": [
+          268,
+          344
+        ],
+        "simulated:i_paid_for_the_whole_typewriter": [
+          134,
+          70
+        ]
+      }
+    },
+    "create_connected:root": {
+      "background": "create:textures/gui/advancements.png",
+      "index": 5,
+      "deleted": true,
+      "roots": [
+        "create_connected:root"
+      ]
+    },
+    "minecraft:adventure/root": {
+      "positions": {
+        "minecraft:adventure/crafters_crafting_crafters": [
+          -36,
+          447
+        ],
+        "minecraft:adventure/root": [
+          -98,
+          494
+        ],
+        "minecraft:adventure/ol_betsy": [
+          -192,
+          388
+        ],
+        "minecraft:adventure/arbalistic": [
+          -180,
+          328
+        ],
+        "minecraft:adventure/two_birds_one_arrow": [
+          -252,
+          352
+        ],
+        "minecraft:adventure/whos_the_pillager_now": [
+          -215,
+          443
+        ],
+        "minecraft:adventure/minecraft_trials_edition": [
+          -75,
+          390
+        ],
+        "minecraft:adventure/lighten_up": [
+          -119,
+          351
+        ],
+        "minecraft:adventure/blowback": [
+          -86,
+          284
+        ],
+        "minecraft:adventure/overoverkill": [
+          -37,
+          338
+        ],
+        "minecraft:adventure/under_lock_and_key": [
+          -11,
+          400
+        ],
+        "minecraft:adventure/revaulting": [
+          75,
+          387
+        ],
+        "minecraft:adventure/who_needs_rockets": [
+          -116,
+          413
+        ],
+        "minecraft:adventure/avoid_vibration": [
+          57,
+          469
+        ],
+        "minecraft:adventure/brush_armadillo": [
+          111,
+          504
+        ]
+      }
+    },
+    "cp:main": {
+      "background": "minecraft:textures/gui/advancements/backgrounds/stone.png",
+      "index": 5,
+      "deleted": true,
+      "positions": {
+        "cp:main": [
+          466,
+          -315
+        ]
+      }
+    },
+    "create:root": {
+      "background": "create:textures/gui/advancements.png",
+      "index": 5,
+      "roots": [
+        "create:root"
+      ],
+      "positions": {
+        "create:andesite_alloy": [
+          37,
+          171
+        ],
+        "create:andesite_casing": [
+          42,
+          104
+        ],
+        "create:mechanical_press": [
+          -10,
+          47
+        ],
+        "create:encased_fan": [
+          31,
+          3
+        ],
+        "create:water_wheel": [
+          100,
+          135
+        ],
+        "create:fan_processing": [
+          97,
+          -19
+        ],
+        "create:saw_processing": [
+          162,
+          -5
+        ],
+        "create:compacting": [
+          232,
+          19
+        ],
+        "create:belt": [
+          292,
+          -9
+        ],
+        "create:funnel": [
+          355,
+          16
+        ],
+        "create:chute": [
+          422,
+          -26
+        ],
+        "create:mechanical_mixer": [
+          487,
+          -42
+        ],
+        "create:cardboard": [
+          560,
+          -78
+        ],
+        "create:packager": [
+          632,
+          -98
+        ],
+        "create:steam_whistle": [
+          953,
+          -10
+        ],
+        "createframed:pulp_block": [
+          573,
+          -27
+        ],
+        "createframed:dyed_cardboard": [
+          642,
+          -44
+        ],
+        "createframed:karpboard": [
+          714,
+          -24
+        ],
+        "create:foods": [
+          757,
+          164
+        ],
+        "create:table_cloth_shop": [
+          837,
+          -64
+        ],
+        "create:frogport": [
+          774,
+          -97
+        ],
+        "create:stock_ticker": [
+          702,
+          -80
+        ],
+        "create:factory_gauge": [
+          907,
+          -90
+        ],
+        "create:cardboard_armor": [
+          966,
+          -121
+        ],
+        "create:cardboard_armor_trim": [
+          1052,
+          -158
+        ],
+        "create:package_chute_throw": [
+          1027,
+          -74
+        ],
+        "create:musical_arm": [
+          1586,
+          90
+        ],
+        "create:fist_bump": [
+          1645,
+          106
+        ],
+        "create:hand_crank_000": [
+          421,
+          -80
+        ],
+        "create:wrench_goggles": [
+          439,
+          120
+        ],
+        "create:red_signal": [
+          1882,
+          528
+        ],
+        "create:track_signal": [
+          1798,
+          512
+        ],
+        "create:super_glue": [
+          298,
+          83
+        ],
+        "create:extendo_grip": [
+          1517,
+          64
+        ],
+        "create:cross_streams": [
+          1075,
+          117
+        ],
+        "create:train_portal": [
+          1924,
+          352
+        ],
+        "create:portable_storage_interface": [
+          390,
+          138
+        ],
+        "create:glass_pipe": [
+          704,
+          80
+        ],
+        "create:conductor": [
+          1706,
+          471
+        ],
+        "create:self_deploying": [
+          1400,
+          157
+        ],
+        "create:display_link": [
+          1379,
+          -21
+        ],
+        "create:ejector_maxed": [
+          107,
+          243
+        ],
+        "create:brass": [
+          1165,
+          82
+        ],
+        "create:mechanical_pump_0": [
+          636,
+          61
+        ],
+        "create:cart_pickup": [
+          225,
+          173
+        ],
+        "create:potato_cannon_collide": [
+          1418,
+          82
+        ],
+        "create:burner": [
+          512,
+          -2
+        ],
+        "create:precision_mechanism": [
+          1404,
+          203
+        ],
+        "create:contraption_actors": [
+          339,
+          120
+        ],
+        "create:hose_pulley": [
+          859,
+          64
+        ],
+        "create:windmill": [
+          120,
+          68
+        ],
+        "create:rose_quartz": [
+          1267,
+          163
+        ],
+        "create:diving_suit": [
+          1097,
+          51
+        ],
+        "create:hose_pulley_lava": [
+          595,
+          112
+        ],
+        "create:train_crash": [
+          1837,
+          580
+        ],
+        "create:shifting_gears": [
+          178,
+          86
+        ],
+        "create:train_casing_00": [
+          1648,
+          369
+        ],
+        "create:long_travel": [
+          1829,
+          248
+        ],
+        "create:steam_engine_maxed": [
+          668,
+          152
+        ],
+        "create:clockwork_bearing": [
+          1301,
+          -6
+        ],
+        "create:root": [
+          0,
+          189
+        ],
+        "create:stressometer_maxed": [
+          464,
+          -117
+        ],
+        "create:train_crash_backwards": [
+          1848,
+          460
+        ],
+        "create:track_crafting_factory": [
+          1729,
+          271
+        ],
+        "create:display_board_0": [
+          1776,
+          416
+        ],
+        "create:long_train": [
+          1770,
+          228
+        ],
+        "create:deployer": [
+          1343,
+          156
+        ],
+        "create:diving_suit_lava": [
+          856,
+          145
+        ],
+        "create:arm_blaze_burner": [
+          1651,
+          -10
+        ],
+        "create:cuckoo_clock": [
+          537,
+          102
+        ],
+        "create:backtank": [
+          1037,
+          -24
+        ],
+        "create:copper": [
+          571,
+          39
+        ],
+        "create:anvil_plough": [
+          308,
+          197
+        ],
+        "create:steam_engine": [
+          895,
+          22
+        ],
+        "create:mechanical_arm": [
+          1538,
+          144
+        ],
+        "create:extendo_grip_dual": [
+          1715,
+          194
+        ],
+        "create:crafter_lazy_000": [
+          1692,
+          142
+        ],
+        "create:stressometer": [
+          483,
+          75
+        ],
+        "create:potato_cannon": [
+          1449,
+          24
+        ],
+        "create:copper_casing": [
+          655,
+          5
+        ],
+        "create:mechanical_crafter": [
+          1592,
+          210
+        ],
+        "create:windmill_maxed": [
+          60,
+          221
+        ],
+        "create:sturdy_sheet": [
+          1668,
+          312
+        ],
+        "create:lava_wheel_00000": [
+          512,
+          -139
+        ],
+        "create:speed_controller": [
+          1481,
+          178
+        ],
+        "create:train": [
+          1674,
+          425
+        ],
+        "create:track_0": [
+          1756,
+          340
+        ],
+        "create:chained_drain": [
+          1129,
+          -46
+        ],
+        "create:drain": [
+          807,
+          12
+        ],
+        "create:haunted_bell": [
+          1229,
+          56
+        ],
+        "create:spout": [
+          739,
+          24
+        ],
+        "create:millstone": [
+          237,
+          65
+        ],
+        "create:honey_drain": [
+          1012,
+          43
+        ],
+        "create:pipe_organ": [
+          1174,
+          20
+        ],
+        "create:belt_funnel_kiss": [
+          446,
+          23
+        ],
+        "create:crushing_wheel": [
+          1634,
+          267
+        ],
+        "create:train_whistle": [
+          1841,
+          367
+        ],
+        "create:linked_controller": [
+          1578,
+          17
+        ],
+        "create:arm_many_targets": [
+          1350,
+          48
+        ],
+        "create:train_roadkill": [
+          1743,
+          535
+        ],
+        "create:pulley_maxed": [
+          153,
+          206
+        ],
+        "create:crusher_maxed_0000": [
+          1274,
+          101
+        ],
+        "create:water_supply": [
+          774,
+          89
+        ],
+        "create:brass_casing": [
+          1196,
+          133
+        ],
+        "create:chocolate_bucket": [
+          943,
+          82
+        ]
+      }
+    },
+    "minecraft:story/root": {
+      "positions": {
+        "minecraft:story/root": [
+          -37,
+          45
+        ],
+        "minecraft:story/mine_stone": [
+          22,
+          32
+        ],
+        "minecraft:story/upgrade_tools": [
+          79,
+          13
+        ],
+        "minecraft:story/smelt_iron": [
+          140,
+          49
+        ],
+        "minecraft:story/iron_tools": [
+          200,
+          -14
+        ],
+        "minecraft:story/mine_diamond": [
+          297,
+          -42
+        ],
+        "minecraft:story/lava_bucket": [
+          223,
+          67
+        ],
+        "minecraft:story/obtain_armor": [
+          161,
+          110
+        ],
+        "minecraft:story/form_obsidian": [
+          290,
+          89
+        ],
+        "minecraft:story/deflect_arrow": [
+          206,
+          159
+        ],
+        "minecraft:story/enter_the_nether": [
+          355,
+          69
+        ],
+        "minecraft:story/follow_ender_eye": [
+          376,
+          132
+        ],
+        "minecraft:story/cure_zombie_villager": [
+          423,
+          45
+        ],
+        "minecraft:story/enter_the_end": [
+          443,
+          184
+        ],
+        "minecraft:story/shiny_gear": [
+          375,
+          -75
+        ],
+        "minecraft:story/enchant_item": [
+          318,
+          12
+        ],
+        "supplementaries:story/unenchanter": [
+          391,
+          -7
+        ]
+      }
+    }
+  },
+  "deleted_advancements": {
+    "create_connected:root": {
+      "owner": "create_connected:root",
+      "tab": "create_connected:root",
+      "title": "{\"translate\":\"advancement.create_connected.root\"}",
+      "icon": "create_connected:parallel_gearbox"
+    },
+    "create_connected:brass_gearbox": {
+      "owner": "create_connected:root",
+      "tab": "create_connected:root",
+      "title": "{\"translate\":\"advancement.create_connected.brass_gearbox\"}",
+      "icon": "create_connected:brass_gearbox"
+    },
+    "create_connected:shear_pin": {
+      "owner": "create_connected:root",
+      "tab": "create_connected:root",
+      "title": "{\"translate\":\"advancement.create_connected.shear_pin\"}",
+      "icon": "create_connected:shear_pin"
+    },
+    "create_connected:overpowered_brake_0": {
+      "owner": "create_connected:root",
+      "tab": "create_connected:root",
+      "title": "{\"translate\":\"advancement.create_connected.overpowered_brake_0\"}",
+      "icon": "create_connected:brake"
+    },
+    "create_connected:kinetic_battery": {
+      "owner": "create_connected:root",
+      "tab": "create_connected:root",
+      "title": "{\"translate\":\"advancement.create_connected.kinetic_battery\"}",
+      "icon": "create_connected:kinetic_battery"
+    },
+    "create_connected:control_chip": {
+      "owner": "create_connected:root",
+      "tab": "create_connected:root",
+      "title": "{\"translate\":\"advancement.create_connected.control_chip\"}",
+      "icon": "create_connected:control_chip"
+    },
+    "create_connected:overstress_clutch": {
+      "owner": "create_connected:root",
+      "tab": "create_connected:root",
+      "title": "{\"translate\":\"advancement.create_connected.overstress_clutch\"}",
+      "icon": "create_connected:overstress_clutch"
+    },
+    "create_connected:sequenced_pulse_generator": {
+      "owner": "create_connected:root",
+      "tab": "create_connected:root",
+      "title": "{\"translate\":\"advancement.create_connected.sequenced_pulse_generator\"}",
+      "icon": "create_connected:sequenced_pulse_generator"
+    },
+    "create_connected:pulse_generator_infinite_loop": {
+      "owner": "create_connected:root",
+      "tab": "create_connected:root",
+      "title": "{\"translate\":\"advancement.create_connected.pulse_generator_infinite_loop\"}",
+      "icon": "create_connected:incomplete_control_chip"
+    }
+  },
   "derived_presentation": {
     "minecraft:husbandry/root": {
       "title": "Husbandry",
@@ -52,6 +1052,19 @@
       "title": "The End",
       "icon": "minecraft:end_stone",
       "background": "minecraft:textures/gui/advancements/backgrounds/end.png"
+    },
+    "loconautics:root": {
+      "title": "Create: Loconautics",
+      "icon": "loconautics:bearing_axle",
+      "background": "loconautics:textures/gui/advancements/background.png"
+    },
+    "minecraft:new_advancement": {
+      "title": "New Advancement",
+      "icon": "minecraft:stone"
+    },
+    "cp:main": {
+      "title": "Welcome aboard!",
+      "icon": "minecraft:stone"
     }
   }
 }

@@ -21,6 +21,10 @@
       "sha1": "7ab668d27fd312ffed480258d539456082e12a6a"
     },
     {
+      "path": "content/mods/aeronautics-dupe-fix.json",
+      "sha1": "a0c4848439f810e01e468d2d15be417ca88ae2ce"
+    },
+    {
       "path": "content/mods/aeronautics-propeller-blur.json",
       "sha1": "dece9202a373f249577b47e126a261a5074a806f"
     },
@@ -66,7 +70,7 @@
     },
     {
       "path": "content/mods/asyncparticles.json",
-      "sha1": "979029665d4173e0f4c6ff42ad88a944a6b8e096"
+      "sha1": "2c498ff7e91aef99e948d2d27a5274b8ada29e5d"
     },
     {
       "path": "content/mods/athena-ctm.json",
@@ -190,7 +194,7 @@
     },
     {
       "path": "content/mods/create-aeronautics.json",
-      "sha1": "4a26562cc7cf23eb81153d27a49e0eb206cb03cc"
+      "sha1": "6b4456a5b3b173850b266b95124453b22a56d5cb"
     },
     {
       "path": "content/mods/create-big-cannons.json",
@@ -242,7 +246,7 @@
     },
     {
       "path": "content/mods/create.json",
-      "sha1": "7981658c3c493ee7e406f1bfdb4aef56f2a18baf"
+      "sha1": "b24a427b85d6cefde3f3ae7dbd112e864b24a1bc"
     },
     {
       "path": "content/mods/createbetterfps.json",
@@ -298,7 +302,7 @@
     },
     {
       "path": "content/mods/entityculling.json",
-      "sha1": "6da25559ca6a5dbc1d9543df4642c99a552c1a32"
+      "sha1": "71b74535ea6b0407b546ca6be927ce4394ba24fb"
     },
     {
       "path": "content/mods/exposure.json",
@@ -358,7 +362,7 @@
     },
     {
       "path": "content/mods/immersive-overlays.json",
-      "sha1": "7c1ae8e24ba0d6720ccf88f64b157ca750d6fe2e"
+      "sha1": "72d7a25515ca0da9dd1c6eeff6b5f43fa76f6eda"
     },
     {
       "path": "content/mods/interiors.json",
@@ -546,7 +550,7 @@
     },
     {
       "path": "content/mods/reliable-emi.json",
-      "sha1": "e91cfb7d6de3959cbaebc3aa91b7647de625c1c7"
+      "sha1": "2b4670674f6b39d3f86ddd38cf00435c623efe0f"
     },
     {
       "path": "content/mods/reliable-gliders.json",
@@ -554,11 +558,11 @@
     },
     {
       "path": "content/mods/reliable-recipes.json",
-      "sha1": "5f80d26a49378c58e7eecd053e8b07ec1f63c1ed"
+      "sha1": "3e6993cdedf4a2ab543fcc3f6d3c510b05362c5e"
     },
     {
       "path": "content/mods/reliable-remover.json",
-      "sha1": "b14136965954fa0a634bcb878b1790de521a930b"
+      "sha1": "4b6ac241f28a5f46aead1d7b2ff6d6ad2e7f5b7e"
     },
     {
       "path": "content/mods/resourceful-lib.json",
@@ -602,7 +606,7 @@
     },
     {
       "path": "content/mods/sable.json",
-      "sha1": "e5e064e5700742394a393bf316b792bc657a257c"
+      "sha1": "783565b0ba81973e154578a1a43bfac529bdfe03"
     },
     {
       "path": "content/mods/screenshot-to-clipboard.json",
@@ -662,7 +666,7 @@
     },
     {
       "path": "content/mods/supplementaries.json",
-      "sha1": "43f9fde01864cb5d68dfc512b6a85f6570a0f442"
+      "sha1": "766605ee8f12032c5b9160f15fc81038dd7b2b76"
     },
     {
       "path": "content/mods/surveyor.json",
@@ -842,11 +846,11 @@
     },
     {
       "path": "overrides/config/asyncparticles/asyncparticles-mixin.properties",
-      "sha1": "ac42c33998c34105c0f90e8a0dc5fe5e83f7928e"
+      "sha1": "d56c826ad995177f5a7ee9db4dfca74aff3b9017"
     },
     {
       "path": "overrides/config/asyncparticles/asyncparticles.json",
-      "sha1": "3243321baae686fc61fd171b2a4e82b85fef91cc"
+      "sha1": "4adefe8f8b78007d1af6610b5ce1332c3e95db2c"
     },
     {
       "path": "overrides/config/azimuth-client.toml",
@@ -1030,7 +1034,7 @@
     },
     {
       "path": "overrides/config/cwb.json",
-      "sha1": "83c2dc9449016e750c976f2c430fa96b41060be4"
+      "sha1": "a6055990c58d09e2719426959c538fa8969edd8e"
     },
     {
       "path": "overrides/config/dndecor-server.toml",
@@ -1194,7 +1198,7 @@
     },
     {
       "path": "overrides/config/fml.toml",
-      "sha1": "eca992ddb87e4dbd772cb816c0bc842d0f8f0106"
+      "sha1": "e8f8399177075e6803da0d084864a2b1231b517b"
     },
     {
       "path": "overrides/config/fzzy_config/keybinds.toml",
@@ -1341,6 +1345,18 @@
       "sha1": "35494e6c027e9b91ddea2de149b377b95e29951b"
     },
     {
+      "path": "overrides/config/loconautics-client.toml",
+      "sha1": "3b408c628361ecafe18a29f41048285ebbf1d698"
+    },
+    {
+      "path": "overrides/config/loconautics-experimental.toml",
+      "sha1": "5580cb5b42410fbf9a1155ecf0535dd093330682"
+    },
+    {
+      "path": "overrides/config/loconautics-server.toml",
+      "sha1": "eda2165cb61177be2486e781e147a97a700b95c7"
+    },
+    {
       "path": "overrides/config/manual_labour.json",
       "sha1": "7591747e3d9489ec72a03b3dc93dd9af3576f567"
     },
@@ -1457,12 +1473,40 @@
       "sha1": "b5877de2fd123ea7392e041dfee34b357cb71be1"
     },
     {
+      "path": "overrides/config/reliable_advancements_edits/data/cp/advancement/canvas.json",
+      "sha1": "9607f79c6d44b3f785683bea26cd7b5580811b0a"
+    },
+    {
+      "path": "overrides/config/reliable_advancements_edits/data/cp/advancement/canvas_double_sail.json",
+      "sha1": "1e785a4cd0fd4019411336d9a9d6621c35c699cf"
+    },
+    {
+      "path": "overrides/config/reliable_advancements_edits/data/cp/advancement/canvas_envelope.json",
+      "sha1": "936ec9c129ba20d38fa19dda38b81fd96c4b8253"
+    },
+    {
+      "path": "overrides/config/reliable_advancements_edits/data/cp/advancement/canvas_sail.json",
+      "sha1": "75076ae2494ca2b32af356efc7225b7e036e06fc"
+    },
+    {
+      "path": "overrides/config/reliable_advancements_edits/data/cp/advancement/engine.json",
+      "sha1": "5adc77bfc2d15ef19811b649eb041aa7301c77ce"
+    },
+    {
+      "path": "overrides/config/reliable_advancements_edits/data/cp/advancement/main.json",
+      "sha1": "1d0c147153b249afcd7d675d6223888596a9010d"
+    },
+    {
+      "path": "overrides/config/reliable_advancements_edits/data/cp/advancement/propeller.json",
+      "sha1": "eea77cdc26d7e9fa0a3877dc2a5fb6d2ad0e5cd9"
+    },
+    {
       "path": "overrides/config/reliable_advancements_edits/tabs.json",
-      "sha1": "5223caae189dbb31583f39164aea1088726c17dc"
+      "sha1": "ddfe5d12ab7f27eec8a9f47c605885dae44e91d0"
     },
     {
       "path": "overrides/config/reliable_advancements_layout.json",
-      "sha1": "2520b4faca00b58e7297e12d5327cc0d541ce976"
+      "sha1": "89d25326c8eb7567d2fea5c0d3cd8a639c2f5cfa"
     },
     {
       "path": "overrides/config/reliable_gliders.json",
@@ -1526,7 +1570,7 @@
     },
     {
       "path": "overrides/config/sable_player_ragdoll-server.toml",
-      "sha1": "86c84d19d60df04dbd8f8fd67d4b7a69e5e5afa1"
+      "sha1": "c44a8c864ed8c4cc61ea6ac482178f403f1ffa9e"
     },
     {
       "path": "overrides/config/sablecleanup-client.toml",
@@ -1630,11 +1674,11 @@
     },
     {
       "path": "overrides/config/supplementaries-client.toml",
-      "sha1": "a2229fda11749beda7dfe9fbe4725135c2eff762"
+      "sha1": "d9474d389eae15ebbd942a9cd95bc49f2206b7c7"
     },
     {
       "path": "overrides/config/supplementaries-common.toml",
-      "sha1": "3b32112ce623058616a70046ceb45a642556a811"
+      "sha1": "56f0bcdd11c6e0a24d7093e8fded49f9e89ac243"
     },
     {
       "path": "overrides/config/surveyor.toml",
@@ -1742,7 +1786,7 @@
     },
     {
       "path": "overrides/config/zfastnoise.mixin.properties",
-      "sha1": "830563fa85cbea963e58f610564d28b5732dc28d"
+      "sha1": "4f9164fef3f5650ffcd83894e3509e5b4db3a390"
     },
     {
       "path": "overrides/datapacks/void_c.zip",
@@ -1873,8 +1917,8 @@
       "sha1": "6a3f00760e2cfb8d858daf2d0287fb80d02d1012"
     },
     {
-      "path": "overrides/mods/coolpeplaero-1.4.0.jar",
-      "sha1": "8546ebdf8087a595288fadb44f3d04d1bacdd69b"
+      "path": "overrides/mods/coolpeplaero-1.4.1.jar",
+      "sha1": "d724c3cd0eb23ca31cf3140d2009bee2e1154543"
     },
     {
       "path": "overrides/mods/fastback-neoforge-0.31.2+1.21.1-prerelease.jar",

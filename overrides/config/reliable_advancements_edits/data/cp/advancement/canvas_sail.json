@@ -1,0 +1,37 @@
+{
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "coolpeplaero:canvas_sail",
+            "count": 1
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "impossible"
+    ]
+  ],
+  "parent": "cp:canvas",
+  "display": {
+    "icon": {
+      "id": "coolpeplaero:canvas_sail"
+    },
+    "title": "Chicken wings",
+    "description": "Canvas sail is not as good as normal sails, but it\u0027s good-enough",
+    "frame": "task"
+  },
+  "rewards": {
+    "recipes": [
+      "coolpeplaero:item/canvas_symmetric_sail"
+    ]
+  },
+  "parents": [
+    "cp:canvas"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "aeronautics:wooden_propeller",
+            "count": 1
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "impossible"
+    ]
+  ],
+  "parent": "cp:engine",
+  "display": {
+    "icon": {
+      "id": "aeronautics:wooden_propeller"
+    },
+    "title": "Whatever rows yout boat",
+    "description": "Make a wooden propeller to *try* to move your builds",
+    "frame": "task"
+  },
+  "parents": [
+    "cp:engine"
+  ]
+}

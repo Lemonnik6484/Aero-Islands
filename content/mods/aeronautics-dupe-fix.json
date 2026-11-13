@@ -1,0 +1,23 @@
+{
+  "name": "Aeronautics: Dupe fix",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "ni9xFqn7",
+      "slug": "aeronautics-dupe-fix",
+      "versionId": "Zudm72ec",
+      "versionNumber": "1.3.0",
+      "filename": "dupefix-1.21.1-1.3.0.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/ni9xFqn7/versions/Zudm72ec/dupefix-1.21.1-1.3.0.jar",
+      "sha1": "732f5f45970f746e6760713246d55448922f0d8e",
+      "sha512": "42a43b45bb1c34b2b2c80d7330e9265e5a7f1d3c94e3f73d20786dffbf09d73ae25d9970531c42772dd8fb6a7189f251fd88467d1eb935d825e7d934737f08ab",
+      "fileSize": 3039
+    }
+  },
+  "dependents": [],
+  "clientSide": "unsupported",
+  "serverSide": "required"
+}

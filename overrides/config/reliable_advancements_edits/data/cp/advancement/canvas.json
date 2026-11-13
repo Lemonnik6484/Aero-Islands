@@ -1,0 +1,38 @@
+{
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "farmersdelight:canvas",
+            "count": 1
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "impossible"
+    ]
+  ],
+  "parent": "cp:main",
+  "display": {
+    "icon": {
+      "id": "farmersdelight:canvas"
+    },
+    "title": "Tacky fabric",
+    "description": "Obtain some canvas, it\u0027s a useful material for early contraptions",
+    "frame": "task"
+  },
+  "rewards": {
+    "recipes": [
+      "coolpeplaero:item/canvas_envelope",
+      "coolpeplaero:item/canvas_sail"
+    ]
+  },
+  "parents": [
+    "cp:main"
+  ]
+}

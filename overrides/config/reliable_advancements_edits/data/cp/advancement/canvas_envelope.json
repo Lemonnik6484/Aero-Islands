@@ -1,0 +1,32 @@
+{
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "coolpeplaero:canvas_envelope",
+            "count": 1
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "impossible"
+    ]
+  ],
+  "parent": "cp:canvas",
+  "display": {
+    "icon": {
+      "id": "coolpeplaero:canvas_envelope"
+    },
+    "title": "Grass balloon",
+    "description": "Early game envelope for flying things, doesn\u0027t drop if broken",
+    "frame": "task"
+  },
+  "parents": [
+    "cp:canvas"
+  ]
+}

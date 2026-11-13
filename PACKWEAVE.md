@@ -1,6 +1,6 @@
 # Aero Islands
 
-**Minecraft 1.21.1 · NeoForge 21.1.265**, 176 mods (4 dependencies), 4 resource packs, 1 data pack
+**Minecraft 1.21.1 · NeoForge 21.1.265**, 177 mods (4 dependencies), 4 resource packs, 1 data pack
 
 ## Contents
 
@@ -8,6 +8,7 @@
 - [Aeronautics Camera Sync](https://modrinth.com/project/aero_cam_sync) `1.4.0`
 - [Aeronautics Propeller Blur](https://modrinth.com/project/aeronautics-propeller-blur) `1.0a`
 - [Aeronautics Wind Sound](https://modrinth.com/project/aeronautics-wind-sound) `1.0.1`
+- [Aeronautics: Dupe fix](https://modrinth.com/project/aeronautics-dupe-fix) `1.3.0`
 - [Aetherial Islands](https://modrinth.com/project/aetherial-islands) `2.0.2+mod`
 - [All with You](https://modrinth.com/project/all-with-you) `1.3.2`
 - [Ambient Environment](https://modrinth.com/project/ambient-environment) `18.0.0.2`
@@ -18,7 +19,7 @@
 - [Antique Transport](https://modrinth.com/project/antique-transport) `1.3.0`
 - [AppleSkin](https://modrinth.com/project/appleskin) `3.0.9+mc1.21`
 - [Architectury API](https://modrinth.com/project/architectury-api) `13.0.11+neoforge`
-- [AsyncParticles](https://modrinth.com/project/asyncparticles) `21.1.5.0-beta.1`
+- [AsyncParticles](https://modrinth.com/project/asyncparticles) `21.1.4.11`
 - [Athena](https://modrinth.com/project/athena-ctm) `4.0.6`
 - [Azimuth API](https://modrinth.com/project/azimuth-api) `1.4.10`
 - [Balm](https://modrinth.com/project/balm) `21.0.67+neoforge-1.21.1`
@@ -79,7 +80,7 @@
 - [EMI++](https://modrinth.com/project/emixx) `2.1.0`
 - [EMI: Create Schematics](https://modrinth.com/project/emi-create-schematics) `1.1.0`
 - [Enchantment Descriptions](https://modrinth.com/project/enchantment-descriptions) `21.1.11`
-- [Entity Culling](https://modrinth.com/project/entityculling) `1.11.3`
+- [Entity Culling](https://modrinth.com/project/entityculling) `1.12.1`
 - [Exposure](https://modrinth.com/project/exposure) `1.9.21`
 - [FancyMenu](https://modrinth.com/project/fancymenu) `3.10.0-1.21.1-neoforge`
 - [Farmer's Delight](https://modrinth.com/project/farmers-delight) `1.21.1-1.3.4`
@@ -93,7 +94,7 @@
 - [Fzzy Config](https://modrinth.com/project/fzzy-config) `0.7.7+fix1+1.21+neoforge`
 - [Geckolib](https://modrinth.com/project/geckolib) `4.9.3`
 - [GPUBooster](https://modrinth.com/project/gputape) `1.3.2-1.21-1.21.1-neo`
-- [Immersive Overlays](https://modrinth.com/project/immersive-overlays) `1.8.6+1.21.1-neoforge`
+- [Immersive Overlays](https://modrinth.com/project/immersive-overlays) `1.8.7+1.21.1-neoforge`
 - [Inventorio](https://modrinth.com/project/inventorio) `1.11.0+1.21.1`
 - [Jade Addons (Neo/Forge)](https://modrinth.com/project/jade-addons-forge) `6.1.2+neoforge`
 - [Jade Sable Compat](https://modrinth.com/project/jade-sable-compat) `1.3.0`
@@ -139,11 +140,11 @@
 - [Prickle](https://modrinth.com/project/prickle) `21.1.11`
 - [Reese's Sodium Options](https://modrinth.com/project/reeses-sodium-options) `mc1.21.1-2.2.4+neoforge`
 - [Reliable Advancements](https://modrinth.com/project/reliable-advancements) `6.3.3+1.21.1-neoforge`
-- [Reliable EMI (REMI)](https://modrinth.com/project/reliable-emi) `4.8.1-1.21.1-neoforge`
+- [Reliable EMI (REMI)](https://modrinth.com/project/reliable-emi) `4.8.4-1.21.1-neoforge`
 - [Reliable Gliders](https://modrinth.com/project/reliable-gliders) `2.1.0+1.21.1-neoforge`
-- [Reliable Recipes](https://modrinth.com/project/reliable-recipes) `3.8.3+1.21.1-neoforge`
+- [Reliable Recipes](https://modrinth.com/project/reliable-recipes) `3.9.0+1.21.1-neoforge`
 - [Reliable Recount](https://modrinth.com/project/o123456789-backport) `2.0.3-1.21.1-neoforge`
-- [Reliable Remover](https://modrinth.com/project/reliable-remover) `3.8.4+1.21.1-neoforge`
+- [Reliable Remover](https://modrinth.com/project/reliable-remover) `3.9.1+1.21.1-neoforge`
 - [Resourceful Lib](https://modrinth.com/project/resourceful-lib) `3.0.12`
 - [Respackopts](https://modrinth.com/project/respackopts) `4.14.0+1.21.1.forge.4`
 - [Rhino](https://modrinth.com/project/rhino) `2101.2.8-build.91+Rhino-1.21`
@@ -171,7 +172,7 @@
 - [Strut Your Stuff (Struts)](https://modrinth.com/project/strut-your-stuff) `1.3.1`
 - [Sunbathing Godrays](https://modrinth.com/project/sunbathing-godrays) `1.11`
 - [SuperMartijn642's Config Lib](https://modrinth.com/project/supermartijn642s-config-lib) `1.1.8-neoforge-mc1.21`
-- [Supplementaries](https://modrinth.com/project/supplementaries) `1.21.1-4.0.2`
+- [Supplementaries](https://modrinth.com/project/supplementaries) `1.21.1-4.1.1`
 - [Surveyor Map Framework](https://modrinth.com/project/surveyor) `1.2.4+1.21`
 - [Sweety's Garden](https://modrinth.com/project/sweety-garden) `1.0.3b`
 - [ToadLib](https://modrinth.com/project/toadlib) `1.3.2-1.21-1.21.1-neo`

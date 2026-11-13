@@ -1,0 +1,32 @@
+{
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "create_simulated_additions:ckbgi_2_engine",
+            "count": 1
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "impossible"
+    ]
+  ],
+  "parent": "cp:main",
+  "display": {
+    "icon": {
+      "id": "create_simulated_additions:ckbgi_2_engine"
+    },
+    "title": "If it works - it works",
+    "description": "Make an I2 engine to power small contraptions",
+    "frame": "task"
+  },
+  "parents": [
+    "cp:main"
+  ]
+}
