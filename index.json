@@ -66,11 +66,11 @@
     },
     {
       "path": "content/mods/architectury-api.json",
-      "sha1": "d4a3b83b12997123d5af3486db6f7fc3db063c22"
+      "sha1": "e299d0cb7b9e87dbc2e205fca623987ae2602f24"
     },
     {
       "path": "content/mods/asyncparticles.json",
-      "sha1": "2c498ff7e91aef99e948d2d27a5274b8ada29e5d"
+      "sha1": "88580932bdcdfe1240cd67e1a68e790a0dd6786c"
     },
     {
       "path": "content/mods/athena-ctm.json",
@@ -198,7 +198,7 @@
     },
     {
       "path": "content/mods/create-aeronautics.json",
-      "sha1": "6b4456a5b3b173850b266b95124453b22a56d5cb"
+      "sha1": "3dea36ba1bd4dbdebf72c0fd56e7394b56c6356f"
     },
     {
       "path": "content/mods/create-big-cannons.json",
@@ -230,7 +230,7 @@
     },
     {
       "path": "content/mods/create-radars.json",
-      "sha1": "a007dc72bb9f31fd456993e3d677b92cf2be4fc5"
+      "sha1": "cdcd7eeabda7302f8e1affb7c43a9d2cfb72ef76"
     },
     {
       "path": "content/mods/create-simulated-additions.json",
@@ -338,7 +338,7 @@
     },
     {
       "path": "content/mods/flyhigher.json",
-      "sha1": "c640e9e5d255df0412b92a4db1f4cc75e7084f7f"
+      "sha1": "063d9753bd0d88f1a28e9d8cb6f1997efead788a"
     },
     {
       "path": "content/mods/forgified-fabric-api.json",
@@ -614,7 +614,7 @@
     },
     {
       "path": "content/mods/sable.json",
-      "sha1": "9ffa9e21a89ad44944c6533ec3cf0ecbd54b3c1c"
+      "sha1": "3c5095d08a1e883c32747faae3bd759f1543a338"
     },
     {
       "path": "content/mods/screenshot-to-clipboard.json",

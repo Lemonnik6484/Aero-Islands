@@ -18,8 +18,8 @@
 - [Antique Atlas 4 Sky Islands Compat](https://modrinth.com/project/aa4-sky-islands) `1.0.12`
 - [Antique Transport](https://modrinth.com/project/antique-transport) `1.3.0`
 - [AppleSkin](https://modrinth.com/project/appleskin) `3.0.9+mc1.21`
-- [Architectury API](https://modrinth.com/project/architectury-api) `13.0.11+neoforge`
-- [AsyncParticles](https://modrinth.com/project/asyncparticles) `21.1.4.11`
+- [Architectury API](https://modrinth.com/project/architectury-api) `13.0.12+neoforge`
+- [AsyncParticles](https://modrinth.com/project/asyncparticles) `21.1.4.12`
 - [Athena](https://modrinth.com/project/athena-ctm) `4.0.6`
 - [Azimuth API](https://modrinth.com/project/azimuth-api) `1.4.10`
 - [Balm](https://modrinth.com/project/balm) `21.0.67+neoforge-1.21.1`
@@ -57,13 +57,13 @@
 - [Create: Copycats+](https://modrinth.com/project/copycats) `3.0.11+mc.1.21.1-neoforge`
 - [Create: Design n' Decor](https://modrinth.com/project/create-design-n-decor) `2.2b`
 - [Create: Dragons Plus](https://modrinth.com/project/create-dragons-plus) `1.11.9`
-- [Create: FlyHigher-直上九霄](https://modrinth.com/project/flyhigher) `1.0.2`
+- [Create: FlyHigher-直上九霄](https://modrinth.com/project/flyhigher) `1.1.0`
 - [Create: Framed](https://modrinth.com/project/create-framed) `1.8.2+1.21.1`
 - [Create: Interiors](https://modrinth.com/project/interiors) `0.6.1`
 - [Create: Linear Bearing](https://modrinth.com/project/linear-bearing) `1.3.5`
 - [Create: Liquid Fuel](https://modrinth.com/project/create-liquid-fuel) `3.0.0-1.21.1`
 - [Create: Nowheel](https://modrinth.com/project/create-nowheel) `2.1.1+1.21.1neoforge`
-- [Create: Radars](https://modrinth.com/project/create-radars) `5.0.3-1.21.1`
+- [Create: Radars](https://modrinth.com/project/create-radars) `5.1.0-1.21.1`
 - [Create: Smoke & Buffers](https://modrinth.com/project/create-smoke-buffers) `0.1.0`
 - [Create: Tracks+](https://modrinth.com/project/create-tracks-plus) `1.0.6b7`
 - [CreateBetterFps](https://modrinth.com/project/createbetterfps) `1.1.5`

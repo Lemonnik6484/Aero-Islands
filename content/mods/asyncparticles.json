@@ -8,13 +8,13 @@
     "modrinth": {
       "id": "c3onkd5k",
       "slug": "asyncparticles",
-      "versionId": "ZCHsCohA",
-      "versionNumber": "21.1.4.11",
-      "filename": "AsyncParticles-21.1.4.11+1.21.1.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/c3onkd5k/versions/ZCHsCohA/AsyncParticles-21.1.4.11%2B1.21.1.jar",
-      "sha1": "7424480de43f2f69003f732febf85733d6de442d",
-      "sha512": "8fbd338b4f1237b161581e4b57cb0aaa93fd91f2c5aae4c5d37786f357af50e7ba97eadd2b044778c839416c01bfed12b5ce0775f7c98b468ab157ffc9ee367f",
-      "fileSize": 1312408
+      "versionId": "fGzGRj1M",
+      "versionNumber": "21.1.4.12",
+      "filename": "AsyncParticles-21.1.4.12+1.21.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/c3onkd5k/versions/fGzGRj1M/AsyncParticles-21.1.4.12%2B1.21.1.jar",
+      "sha1": "9f37fd042ba4c29d2d74744fd6f771b04c52a5b5",
+      "sha512": "781ddee6c8bd6aa61d449e336d12c00bbc23dd2e7a0ca9a0f83fde46cee4239cbda655fe682ddc4793613223e22d20f5b7614fb62fc46d6c36a95181c40fa236",
+      "fileSize": 1331328
     }
   },
   "dependents": [],
