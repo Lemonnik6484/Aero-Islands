@@ -965,10 +965,6 @@
       "sha1": "440fd52a3691a245ffef990c365b926e60cb89f8"
     },
     {
-      "path": "overrides/config/create_aeronautics_throwable_rope_connector-common.toml",
-      "sha1": "4a485029d9a7f9d03e8a9715911a71be99b07fe8"
-    },
-    {
       "path": "overrides/config/create_connected-common.toml",
       "sha1": "0db83d6d67c43bf777278f91ca949f962579f7c9"
     },
@@ -1011,10 +1007,6 @@
     {
       "path": "overrides/config/createbigcannons-server.toml",
       "sha1": "4bf6eb6d04a58a4d82c6b74897e14fbcb9416e99"
-    },
-    {
-      "path": "overrides/config/createburnerfuel-common.toml",
-      "sha1": "708089d04cacf48440f4d7c67d8dee944ac1f71a"
     },
     {
       "path": "overrides/config/curios-client.toml",
@@ -1341,18 +1333,6 @@
       "sha1": "35494e6c027e9b91ddea2de149b377b95e29951b"
     },
     {
-      "path": "overrides/config/loconautics-client.toml",
-      "sha1": "3b408c628361ecafe18a29f41048285ebbf1d698"
-    },
-    {
-      "path": "overrides/config/loconautics-experimental.toml",
-      "sha1": "5580cb5b42410fbf9a1155ecf0535dd093330682"
-    },
-    {
-      "path": "overrides/config/loconautics-server.toml",
-      "sha1": "eda2165cb61177be2486e781e147a97a700b95c7"
-    },
-    {
       "path": "overrides/config/lss-client-config.yaml",
       "sha1": "7a8e5cba672fe0838b09d42ed931118f7b24527f"
     },
@@ -1382,7 +1362,7 @@
     },
     {
       "path": "overrides/config/moonlight-client.toml",
-      "sha1": "38a0f11a8d670f19f26e4c2d8f9f69c9ac1fe291"
+      "sha1": "19f7d0b2a4b6010de875446aa41d51734fb31b40"
     },
     {
       "path": "overrides/config/moonlight-common.toml",
@@ -1427,10 +1407,6 @@
     {
       "path": "overrides/config/nuit-config.json",
       "sha1": "ef030b004b48e03bc41f6ef475ae5b2679203382"
-    },
-    {
-      "path": "overrides/config/obscuraspanoramica-client.properties",
-      "sha1": "670090d022eb2c9e5dd6757835b6a016dfdd37c3"
     },
     {
       "path": "overrides/config/obscuria/accents-common.toml",
@@ -1489,10 +1465,6 @@
       "sha1": "fda09cd85f8148fd39d1501caac59e849aedb1d7"
     },
     {
-      "path": "overrides/config/ragdoll_reactions-server.toml",
-      "sha1": "092a707e18d2cbb1b258d307bdedd91677cc1487"
-    },
-    {
       "path": "overrides/config/reliable_advancements.json",
       "sha1": "b5877de2fd123ea7392e041dfee34b357cb71be1"
     },
@@ -1526,7 +1498,7 @@
     },
     {
       "path": "overrides/config/reliable_advancements_edits/tabs.json",
-      "sha1": "ddfe5d12ab7f27eec8a9f47c605885dae44e91d0"
+      "sha1": "044edfc8c51aede91f7a616018d9f8bb3b44f4e1"
     },
     {
       "path": "overrides/config/reliable_advancements_layout.json",
@@ -1555,10 +1527,6 @@
     {
       "path": "overrides/config/reliable_remover/removal_example.json.disabled",
       "sha1": "c24a0c8204ebf3f29a475b8157416b0fb233f1ba"
-    },
-    {
-      "path": "overrides/config/reliable_requiem.json",
-      "sha1": "6ba9f835457525014903c69fb1f1f357f0059df0"
     },
     {
       "path": "overrides/config/remi/remi.json",
@@ -1658,7 +1626,7 @@
     },
     {
       "path": "overrides/config/sound_physics_aeronautics/sound_rates.properties",
-      "sha1": "ad806eecc0e05dbd53ad72eb88f7437baff2c6ea"
+      "sha1": "af0a188385bff23ead5746ded866cbb77ef6c023"
     },
     {
       "path": "overrides/config/sound_physics_aeronautics/soundphysics.properties",
@@ -1791,14 +1759,6 @@
     {
       "path": "overrides/config/voxy-config.json",
       "sha1": "9f26086e3d9b1c9791aeab2d3ed7e309863d1128"
-    },
-    {
-      "path": "overrides/config/voxyseedgen.json",
-      "sha1": "3a00021c890aaf7c037ac687ecc2099300c76da8"
-    },
-    {
-      "path": "overrides/config/voxyworldgenv2.json",
-      "sha1": "a793a7cc1b8bc0cb4730998b594fbaecda730409"
     },
     {
       "path": "overrides/config/whitenoise-client.toml",

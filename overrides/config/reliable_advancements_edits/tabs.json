@@ -1053,11 +1053,6 @@
       "icon": "minecraft:end_stone",
       "background": "minecraft:textures/gui/advancements/backgrounds/end.png"
     },
-    "loconautics:root": {
-      "title": "Create: Loconautics",
-      "icon": "loconautics:bearing_axle",
-      "background": "loconautics:textures/gui/advancements/background.png"
-    },
     "minecraft:new_advancement": {
       "title": "New Advancement",
       "icon": "minecraft:stone"
