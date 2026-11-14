@@ -1,6 +1,6 @@
 # Aero Islands
 
-**Minecraft 1.21.1 · NeoForge 21.1.265**, 179 mods (4 dependencies), 1 resource pack, 1 data pack
+**Minecraft 1.21.1 · NeoForge 21.1.265**, 180 mods (4 dependencies), 1 resource pack, 1 data pack
 
 ## Contents
 
@@ -71,6 +71,7 @@
 - [Curios API](https://modrinth.com/project/curios) `9.5.1+1.21.1`
 - [Desire](https://modrinth.com/project/desiremod) `1.1.1-1.21.1`
 - [Diabolical Islands](https://modrinth.com/project/diabolical-islands) `1.0.0+mod`
+- [Distant Horizons](https://modrinth.com/project/distanthorizons) `3.3.3-1.21.1`
 - [DragonLib](https://modrinth.com/project/dragonlib) `3.0.29+1.21.1-neoforge`
 - [Drizzleproof](https://modrinth.com/project/drizzleproof) `3.0.0`
 - [Durability Tooltip](https://modrinth.com/project/durability-tooltip) `1.2.0-neoforge-mc1.21`
