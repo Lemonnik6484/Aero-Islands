@@ -475,3 +475,10 @@ binocularRange = 512
 	#.
 	#Determines if the guided fuze can seek its target before it has began to fall
 	guidedFuzeSeekBeforeApex = false
+
+#.
+#Sable cannon aim selection
+[sableCannonTargetingConfig]
+	#.
+	#When enabled, cannon targeting avoids blocks that are unbreakable.
+	damageableBlocksOnly = true

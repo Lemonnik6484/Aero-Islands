@@ -1,0 +1,23 @@
+{
+  "name": "Create Dupe Fix",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "JJRflpvX",
+      "slug": "create-dup-fix",
+      "versionId": "P4L6py91",
+      "versionNumber": "1.21.1-1.2",
+      "filename": "create_dupe_fix-1.21.1-1.2.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/JJRflpvX/versions/P4L6py91/create_dupe_fix-1.21.1-1.2.jar",
+      "sha1": "492b60e03f182faad3f0f19987d7593781c1dfe4",
+      "sha512": "e1192af1f9fe357c429debc0844e19d5e934ddd48654cb7a7a61d85b3d3f14305f158f129105ca8a9f709a7db41e9f52a4083bdbcad76d74d2379587928a650b",
+      "fileSize": 228965
+    }
+  },
+  "dependents": [],
+  "clientSide": "unsupported",
+  "serverSide": "required"
+}

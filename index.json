@@ -21,10 +21,6 @@
       "sha1": "7ab668d27fd312ffed480258d539456082e12a6a"
     },
     {
-      "path": "content/mods/aeronautics-dupe-fix.json",
-      "sha1": "a0c4848439f810e01e468d2d15be417ca88ae2ce"
-    },
-    {
       "path": "content/mods/aeronautics-propeller-blur.json",
       "sha1": "dece9202a373f249577b47e126a261a5074a806f"
     },
@@ -102,7 +98,7 @@
     },
     {
       "path": "content/mods/better-modlist.json",
-      "sha1": "ef3afa798c80d44767c2679fc73747559dfb5ee5"
+      "sha1": "b54b3ed7c38b2495197d567b8d160d8b40f45ca6"
     },
     {
       "path": "content/mods/better-smoke.json",
@@ -150,7 +146,7 @@
     },
     {
       "path": "content/mods/cloth-config.json",
-      "sha1": "493fed27935cf95995c6fadaeeb7e8a5b39d4b78"
+      "sha1": "b18f58f5d514afadaa9ee2dbd3c29e6ff17d2124"
     },
     {
       "path": "content/mods/connector.json",
@@ -198,7 +194,7 @@
     },
     {
       "path": "content/mods/create-aeronautics.json",
-      "sha1": "3dea36ba1bd4dbdebf72c0fd56e7394b56c6356f"
+      "sha1": "efceec19850485480f9e474d7c2a36011724c3ff"
     },
     {
       "path": "content/mods/create-big-cannons.json",
@@ -215,6 +211,10 @@
     {
       "path": "content/mods/create-dragons-plus.json",
       "sha1": "e9c2c4066019273052e245623ddb39dac655121c"
+    },
+    {
+      "path": "content/mods/create-dup-fix.json",
+      "sha1": "dc5c87b362f65454245e460306964fcee80fdcf6"
     },
     {
       "path": "content/mods/create-framed.json",
@@ -250,7 +250,7 @@
     },
     {
       "path": "content/mods/create.json",
-      "sha1": "51751d20049a75a4056875bbeab2a90e923d13c2"
+      "sha1": "fd6e5eab4e8a2475fdf9d42ccbf5e1915cbad29e"
     },
     {
       "path": "content/mods/createbetterfps.json",
@@ -449,6 +449,10 @@
       "sha1": "0c8f8e9ef062126f686f2c6d1a056b1dbddeba17"
     },
     {
+      "path": "content/mods/lod-server-support.json",
+      "sha1": "0dac10aa636b881075d2efe5596ccc85569a2907"
+    },
+    {
       "path": "content/mods/manual-labour.json",
       "sha1": "74f1ad87292c3b004703eb233a655adf887b5653"
     },
@@ -614,7 +618,7 @@
     },
     {
       "path": "content/mods/sable.json",
-      "sha1": "3c5095d08a1e883c32747faae3bd759f1543a338"
+      "sha1": "1d43e521ba460affbf8f65a737d8b07d49fbad2a"
     },
     {
       "path": "content/mods/screenshot-to-clipboard.json",
@@ -711,10 +715,6 @@
     {
       "path": "content/mods/void-water.json",
       "sha1": "2e72f0bf22f75ef71cbbe41cc65248ba4d0b6ac0"
-    },
-    {
-      "path": "content/mods/voxy-worldgen.json",
-      "sha1": "e0f9aec040e35e321dcecf1214ae9c559b9f7fe9"
     },
     {
       "path": "content/mods/voxy.json",
@@ -838,7 +838,7 @@
     },
     {
       "path": "overrides/config/asyncparticles/asyncparticles-mixin.properties",
-      "sha1": "ed0716200cfa9ed243b124437e660fe590a7a5f9"
+      "sha1": "adb87498473d71d865e9ce61743a9cc02099bf88"
     },
     {
       "path": "overrides/config/asyncparticles/asyncparticles.json",
@@ -993,12 +993,16 @@
       "sha1": "826cbf510b974d9f40e2c699dc14c6e5520995e2"
     },
     {
+      "path": "overrides/config/create_dupe_fix.json",
+      "sha1": "c8fc2f557a53e65683f8a268c1027ac28ba50941"
+    },
+    {
       "path": "overrides/config/create_radar-client.toml",
       "sha1": "0c62cba62d20cef1925bbe901e67d685482d649b"
     },
     {
       "path": "overrides/config/create_radar-server.toml",
-      "sha1": "272fb9cd840fc934a22ad169554a5bb65bbc9967"
+      "sha1": "9f515b8789a3575248d85a0452dbc1b5f7f158a1"
     },
     {
       "path": "overrides/config/createbigcannons-client.toml",
@@ -1349,6 +1353,14 @@
       "sha1": "eda2165cb61177be2486e781e147a97a700b95c7"
     },
     {
+      "path": "overrides/config/lss-client-config.yaml",
+      "sha1": "7a8e5cba672fe0838b09d42ed931118f7b24527f"
+    },
+    {
+      "path": "overrides/config/lss-server-config.yaml",
+      "sha1": "d17cd810a560af8a0b47d1c03b9ae16ed867ebdd"
+    },
+    {
       "path": "overrides/config/manual_labour.json",
       "sha1": "7591747e3d9489ec72a03b3dc93dd9af3576f567"
     },
@@ -1554,7 +1566,7 @@
     },
     {
       "path": "overrides/config/respackopts/_respackopts.conf",
-      "sha1": "a0704fa06f4228bbead03d2925fed5ca88d4d84d"
+      "sha1": "2f86c375605ccaaa40e96eb3c959f75a41454326"
     },
     {
       "path": "overrides/config/ritchiesprojectilelib-server.toml",
@@ -1781,6 +1793,10 @@
       "sha1": "9f26086e3d9b1c9791aeab2d3ed7e309863d1128"
     },
     {
+      "path": "overrides/config/voxyseedgen.json",
+      "sha1": "3a00021c890aaf7c037ac687ecc2099300c76da8"
+    },
+    {
       "path": "overrides/config/voxyworldgenv2.json",
       "sha1": "a793a7cc1b8bc0cb4730998b594fbaecda730409"
     },
@@ -1798,7 +1814,7 @@
     },
     {
       "path": "overrides/config/zfastnoise.mixin.properties",
-      "sha1": "f7e8531dc990f1c6e98643264a443d2232900361"
+      "sha1": "491d1441c5d89ee008671aa38f56a3c63df76084"
     },
     {
       "path": "overrides/datapacks/void_c.zip",
@@ -1940,6 +1956,10 @@
       "path": "overrides/mods/skylight-1.0.0.jar",
       "sha1": "4afe8879f5daf0c099ce08104c5c3f36a2a08b5a",
       "side": "client"
+    },
+    {
+      "path": "overrides/packweaver.jar",
+      "sha1": "1a353c36e230b309dfaa261e8f4f722275ca4892"
     },
     {
       "path": "overrides/polytone_popup.json",

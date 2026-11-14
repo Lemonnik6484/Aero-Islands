@@ -1,0 +1,23 @@
+{
+  "name": "LOD Server Support",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "lKiXKLvv",
+      "slug": "lod-server-support",
+      "versionId": "GrgVoMsO",
+      "versionNumber": "v0.22.0-beta.1+neoforge+mc1.21.1",
+      "filename": "lod-server-support-neoforge-0.22.0-beta.1+1.21.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/lKiXKLvv/versions/GrgVoMsO/lod-server-support-neoforge-0.22.0-beta.1%2B1.21.1.jar",
+      "sha1": "35106d754fc691b4fa643ebcc6cec055601be921",
+      "sha512": "01fb955248e35f2b73021735a54c0356642d47bf9f8093aea5bfb2507b145d6ce0e220728796b5571d4b57f18e8965d1974b2033e12065ac916722486ef51d3d",
+      "fileSize": 14611696
+    }
+  },
+  "dependents": [],
+  "clientSide": "optional",
+  "serverSide": "optional"
+}

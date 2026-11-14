@@ -8,7 +8,6 @@
 - [Aeronautics Camera Sync](https://modrinth.com/project/aero_cam_sync) `1.4.0`
 - [Aeronautics Propeller Blur](https://modrinth.com/project/aeronautics-propeller-blur) `1.0a`
 - [Aeronautics Wind Sound](https://modrinth.com/project/aeronautics-wind-sound) `1.0.1`
-- [Aeronautics: Dupe fix](https://modrinth.com/project/aeronautics-dupe-fix) `1.3.0`
 - [Aetherial Islands](https://modrinth.com/project/aetherial-islands) `2.0.2+mod`
 - [All with You](https://modrinth.com/project/all-with-you) `1.3.2`
 - [Ambient Environment](https://modrinth.com/project/ambient-environment) `18.0.0.2`
@@ -51,6 +50,7 @@
 - [Create Aeronautics: Gyro Stabilizers](https://modrinth.com/project/create-aeronautics-gyroscope-stabilizers) `1.2.2`
 - [Create Aeronautics: Portable Engine Liquid Fuel](https://modrinth.com/project/create-aeronautics-portable-engine-liquid-fuel) `2.0.0`
 - [Create Big Cannons](https://modrinth.com/project/create-big-cannons) `5.11.7`
+- [Create Dupe Fix](https://modrinth.com/project/create-dup-fix) `1.21.1-1.2`
 - [Create Simulated Additions](https://modrinth.com/project/create-simulated-additions) `0.2.3`
 - [Create Smart Bounds](https://modrinth.com/project/create-smart-bounds) `1.0.0`
 - [Create: Connected](https://modrinth.com/project/create-connected) `1.3.3-mc1.21.1`
@@ -114,6 +114,7 @@
 - [Lithium](https://modrinth.com/project/lithium) `mc1.21.1-0.15.4-neoforge`
 - [Lithostitched](https://modrinth.com/project/lithostitched) `1.8.1-neoforge-21.1`
 - [Load My F***ing Tags](https://modrinth.com/project/lmft) `1.1.1+1.21.9`
+- [LOD Server Support](https://modrinth.com/project/lod-server-support) `v0.22.0-beta.1+neoforge+mc1.21.1`
 - [Manual Labour](https://modrinth.com/project/manual-labour) `2.5.2-1.21.1`
 - [McQoy](https://modrinth.com/project/mcqoy) `0.4.1+neo-1.21`
 - [Melody](https://modrinth.com/project/melody) `1.0.10-1.21-neoforge`
@@ -182,7 +183,6 @@
 - [vista](https://modrinth.com/project/vista_tv) `1.21.1-5.6.8`
 - [Void Water](https://modrinth.com/project/void-water) `1.0.2`
 - [voxy](https://modrinth.com/project/voxy) `0.2.16-beta`
-- [Voxygen](https://modrinth.com/project/voxy-worldgen) `2.4.2`
 - [WildSprout: Plains](https://modrinth.com/project/wildsprout-plains) `1.3.0`
 - [YetAnotherConfigLib (YACL)](https://modrinth.com/project/yacl) `3.8.2+1.21.1-neoforge`
 
