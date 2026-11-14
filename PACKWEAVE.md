@@ -180,7 +180,7 @@
 - [TT20 (TPS Fixer)](https://modrinth.com/project/tt20) `0.8.5`
 - [Veil](https://modrinth.com/project/veil) `4.5.2`
 - [Verdant](https://modrinth.com/project/verdant-mod) `1.21.1-0.2.0`
-- [vista](https://modrinth.com/project/vista_tv) `1.21.1-5.6.8`
+- [vista](https://modrinth.com/project/vista_tv) `1.21.1-5.6.9`
 - [Void Water](https://modrinth.com/project/void-water) `1.0.2`
 - [voxy](https://modrinth.com/project/voxy) `0.2.16-beta`
 - [WildSprout: Plains](https://modrinth.com/project/wildsprout-plains) `1.3.0`
