@@ -745,10 +745,6 @@
       "sha1": "76d25e3edf7059fa3c75fdeb616a97f02da4441d"
     },
     {
-      "path": "overrides/antique_transport/lucunix_com_1029/ships.dat",
-      "sha1": "8ed561497484baffda522c68afe45dde0d18dea5"
-    },
-    {
       "path": "overrides/config/CoroUtil/General.toml",
       "sha1": "3bd7d98616d2c4ff4ee7c8e12257bf7e5891d955"
     },
@@ -1944,14 +1940,6 @@
       "path": "overrides/mods/skylight-1.0.0.jar",
       "sha1": "4afe8879f5daf0c099ce08104c5c3f36a2a08b5a",
       "side": "client"
-    },
-    {
-      "path": "overrides/options.txt",
-      "sha1": "7ee348cdfd6d75a4f7d086b2c78eb53a4d53d9a1"
-    },
-    {
-      "path": "overrides/packweaver.jar",
-      "sha1": "1a353c36e230b309dfaa261e8f4f722275ca4892"
     },
     {
       "path": "overrides/polytone_popup.json",
