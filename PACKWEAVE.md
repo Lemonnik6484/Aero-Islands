@@ -1,6 +1,6 @@
 # Aero Islands
 
-**Minecraft 1.21.1 · NeoForge 21.1.265**, 180 mods (4 dependencies), 1 resource pack, 1 data pack
+**Minecraft 1.21.1 · NeoForge 21.1.265**, 179 mods (4 dependencies), 1 resource pack, 1 data pack
 
 ## Contents
 
@@ -33,7 +33,6 @@
 - [Bookshelf](https://modrinth.com/project/bookshelf-lib) `21.1.81`
 - [Chat Heads](https://modrinth.com/project/chat-heads) `0.15.7`
 - [Chat Notify](https://modrinth.com/project/chatnotify) `2.6.9+1.21.1`
-- [Chunky](https://modrinth.com/project/chunky) `1.4.23`
 - [Clear Void](https://modrinth.com/project/clear-void) `1.3.1`
 - [Client Sort](https://modrinth.com/project/clientsort) `3.89.2+1.21.1`
 - [Climbable Ropes for Create Aeronautics](https://www.curseforge.com/projects/1528764) `[2.2.2] Climbable Ropes`
