@@ -1,6 +1,6 @@
 # Aero Islands
 
-**Minecraft 1.21.1 · NeoForge 21.1.265**, 177 mods (4 dependencies), 4 resource packs, 1 data pack
+**Minecraft 1.21.1 · NeoForge 21.1.265**, 179 mods (4 dependencies), 1 resource pack, 1 data pack
 
 ## Contents
 
@@ -30,7 +30,6 @@
 - [Better ModList](https://modrinth.com/project/better-modlist) `21.1.5`
 - [Better Smoke](https://modrinth.com/project/better-smoke) `0.1.2+1.21-1.21.8`
 - [Biolith](https://modrinth.com/project/biolith) `3.0.14`
-- [Blocky Leaves](https://modrinth.com/project/blocky-leaves) `1.0.0`
 - [Blueprint](https://modrinth.com/project/blueprint) `8.2.0`
 - [Bookshelf](https://modrinth.com/project/bookshelf-lib) `21.1.81`
 - [Chat Heads](https://modrinth.com/project/chat-heads) `0.15.7`
@@ -43,6 +42,7 @@
 - [Concurrent Chunk Management Engine (NeoForge)](https://modrinth.com/project/c2me-neoforge) `0.4.0-alpha.0.124+1.21.1`
 - [Contraption Lights (Bi-directional Coloured Dynamic Lights)](https://modrinth.com/project/contraption-lights) `1.6.0`
 - [Controlling](https://modrinth.com/project/controlling) `19.0.5`
+- [Cool Rain Reforged](https://modrinth.com/project/cool-rain-reforged) `1.0.2`
 - [CoroUtil](https://modrinth.com/project/coroutil) `1.21.0-1.3.8`
 - [Cosmetic Armor Reworked](https://www.curseforge.com/projects/237307) `cosmeticarmorreworked-1.21.1-v1-neoforge.jar`
 - [Create](https://modrinth.com/project/create) `6.0.10+mc1.21.1`
@@ -132,7 +132,6 @@
 - [Offgrid](https://modrinth.com/project/offgrid) `1.0.6+1.21.1-neoforge`
 - [Paxi](https://modrinth.com/project/paxi) `1.21.1-NeoForge-5.1.3`
 - [Peaceful Nights](https://modrinth.com/project/peaceful-nights) `0.1.0`
-- [PolyLight -  Simple Colored Lights](https://modrinth.com/project/polylight) `1.6`
 - [Polymorph](https://modrinth.com/project/polymorph) `1.2.0+1.21.1`
 - [Polytone](https://modrinth.com/project/polytone) `1.21-5.3.8`
 - [Presence Footsteps (NeoForge)](https://modrinth.com/project/pf-neoforge) `1.21.1-1.12.0-beta.1`
@@ -153,6 +152,7 @@
 - [Sable](https://modrinth.com/project/sable) `2.0.6+mc1.21.1`
 - [Sable CleanUp](https://modrinth.com/project/sable-cleanup) `0.3.0`
 - [Sable Pathfinder](https://modrinth.com/project/sable-pathfinder) `1.4.0`
+- [Sable: Cool Rain](https://modrinth.com/project/sable-cool-rain) `1.0.1+1.21.1+neoforge`
 - [Sable: Far and Wide (Create Aeronautics)](https://modrinth.com/project/sable-far-and-wide) `1.0.0`
 - [Sable: Ragdoll Corpse](https://modrinth.com/project/sable-ragdoll-corpse) `0.4.0`
 - [Sable: Ragdolls](https://modrinth.com/project/sable-ragdolls) `0.8.1`
@@ -170,7 +170,6 @@
 - [spark](https://modrinth.com/project/spark) `1.10.124-neoforge-1.21.1`
 - [Structurify - Structure Control](https://modrinth.com/project/structurify) `neoforge-2.0.43+mc1.21.1`
 - [Strut Your Stuff (Struts)](https://modrinth.com/project/strut-your-stuff) `1.3.1`
-- [Sunbathing Godrays](https://modrinth.com/project/sunbathing-godrays) `1.11`
 - [SuperMartijn642's Config Lib](https://modrinth.com/project/supermartijn642s-config-lib) `1.1.8-neoforge-mc1.21`
 - [Supplementaries](https://modrinth.com/project/supplementaries) `1.21.1-4.1.1`
 - [Surveyor Map Framework](https://modrinth.com/project/surveyor) `1.2.4+1.21`

@@ -165,8 +165,12 @@
       "sha1": "8186006ede3e1d54e6b01519383fa47e31a8e0bd"
     },
     {
+      "path": "content/mods/cool-rain-reforged.json",
+      "sha1": "54894aebc0f205a883917efd108ee9f504bade46"
+    },
+    {
       "path": "content/mods/copycats.json",
-      "sha1": "7e8b0067c26f0ef193908d8f5dbcee5054b65b16"
+      "sha1": "c1bc39de9b7cfb5afb7cf4d3aaa60ea15fcf285b"
     },
     {
       "path": "content/mods/coroutil.json",
@@ -246,7 +250,7 @@
     },
     {
       "path": "content/mods/create.json",
-      "sha1": "b24a427b85d6cefde3f3ae7dbd112e864b24a1bc"
+      "sha1": "51751d20049a75a4056875bbeab2a90e923d13c2"
     },
     {
       "path": "content/mods/createbetterfps.json",
@@ -346,7 +350,7 @@
     },
     {
       "path": "content/mods/fusion-connected-textures.json",
-      "sha1": "6b0b968e1faef5a79e54983619f13c8fb2f182ad"
+      "sha1": "9b7b41251d9a9bd24045603227b7db85c631e52d"
     },
     {
       "path": "content/mods/fzzy-config.json",
@@ -589,6 +593,10 @@
       "sha1": "481b871a288b0245879a5d076ad35a74b0d621d5"
     },
     {
+      "path": "content/mods/sable-cool-rain.json",
+      "sha1": "efb9835b44880dac0a5bb9b8606d8fc15093c245"
+    },
+    {
       "path": "content/mods/sable-far-and-wide.json",
       "sha1": "14ec2bc9b2813f5f631c53350caecbd1e5b9d456"
     },
@@ -606,7 +614,7 @@
     },
     {
       "path": "content/mods/sable.json",
-      "sha1": "783565b0ba81973e154578a1a43bfac529bdfe03"
+      "sha1": "9ffa9e21a89ad44944c6533ec3cf0ecbd54b3c1c"
     },
     {
       "path": "content/mods/screenshot-to-clipboard.json",
@@ -733,20 +741,8 @@
       "sha1": "757320931c822e7a1e38edb991436e7f96d9123a"
     },
     {
-      "path": "content/resourcepacks/blocky-leaves.json",
-      "sha1": "4bc17ebd4d0b4afb2979336d276fe35944d286d8"
-    },
-    {
       "path": "content/resourcepacks/jb-mono.json",
       "sha1": "76d25e3edf7059fa3c75fdeb616a97f02da4441d"
-    },
-    {
-      "path": "content/resourcepacks/polylight.json",
-      "sha1": "7e6dddc686375bfacfe4c3c557ca427138291735"
-    },
-    {
-      "path": "content/resourcepacks/sunbathing-godrays.json",
-      "sha1": "6016d004076c9d4478fbfa93e7e744bd9353a672"
     },
     {
       "path": "overrides/antique_transport/lucunix_com_1029/ships.dat",
@@ -846,7 +842,7 @@
     },
     {
       "path": "overrides/config/asyncparticles/asyncparticles-mixin.properties",
-      "sha1": "d56c826ad995177f5a7ee9db4dfca74aff3b9017"
+      "sha1": "7f0aa474460de5b47abdbfa1c0479f98b2b05389"
     },
     {
       "path": "overrides/config/asyncparticles/asyncparticles.json",
@@ -1034,7 +1030,7 @@
     },
     {
       "path": "overrides/config/cwb.json",
-      "sha1": "a6055990c58d09e2719426959c538fa8969edd8e"
+      "sha1": "83c2dc9449016e750c976f2c430fa96b41060be4"
     },
     {
       "path": "overrides/config/dndecor-server.toml",
@@ -1453,6 +1449,26 @@
       "sha1": "6aff9afed05022c305c8ef2a81a7bb8208144068"
     },
     {
+      "path": "overrides/config/paxi/resourcepacks/Blocky-Leaves-1.0.0.zip",
+      "sha1": "2bb197322691636b7ca3e8afe12b980f29e3de5a"
+    },
+    {
+      "path": "overrides/config/paxi/resourcepacks/Light Rain.zip",
+      "sha1": "9abf6217cb7c4bcdebc0921e57b6eb34f350020b"
+    },
+    {
+      "path": "overrides/config/paxi/resourcepacks/Panorama.zip",
+      "sha1": "49d8c37810802d4a865772c8b34098ab18265691"
+    },
+    {
+      "path": "overrides/config/paxi/resourcepacks/colored_lights-v1.6.zip",
+      "sha1": "cbe496ae369187f0b8d93eed78a8e0e01b411e8c"
+    },
+    {
+      "path": "overrides/config/paxi/resourcepacks/sunbathing-v1.11.zip",
+      "sha1": "f4710fd00269ab017282edcbe8872f22d565765e"
+    },
+    {
       "path": "overrides/config/ponder-client.toml",
       "sha1": "deddc6f67e212577af0151dd6e0ddf7830a65d3e"
     },
@@ -1506,7 +1522,7 @@
     },
     {
       "path": "overrides/config/reliable_advancements_layout.json",
-      "sha1": "89d25326c8eb7567d2fea5c0d3cd8a639c2f5cfa"
+      "sha1": "c716f7a83c228cacae1a807b2530996d58c9650c"
     },
     {
       "path": "overrides/config/reliable_gliders.json",
@@ -1562,7 +1578,7 @@
     },
     {
       "path": "overrides/config/sable-server.toml",
-      "sha1": "2ae72c8b6392b27c338bb2392ecf00733f032fe1"
+      "sha1": "1af9ea6f5431d09b99034a82bda5771523b528c9"
     },
     {
       "path": "overrides/config/sable_player_ragdoll-client.toml",
@@ -1786,7 +1802,7 @@
     },
     {
       "path": "overrides/config/zfastnoise.mixin.properties",
-      "sha1": "4f9164fef3f5650ffcd83894e3509e5b4db3a390"
+      "sha1": "8e2c99824deaa895ef4e07eb4973036500f0b7c4"
     },
     {
       "path": "overrides/datapacks/void_c.zip",
@@ -1931,7 +1947,7 @@
     },
     {
       "path": "overrides/options.txt",
-      "sha1": "c8a68cd8f04a263141f0921f6fc68393267a02d9"
+      "sha1": "7ee348cdfd6d75a4f7d086b2c78eb53a4d53d9a1"
     },
     {
       "path": "overrides/packweaver.jar",
@@ -1940,10 +1956,6 @@
     {
       "path": "overrides/polytone_popup.json",
       "sha1": "d581eb302e9f00cd17f7fe39dae699d476142950"
-    },
-    {
-      "path": "overrides/resourcepacks/Panorama.zip",
-      "sha1": "49d8c37810802d4a865772c8b34098ab18265691"
     },
     {
       "path": "overrides/server.properties",

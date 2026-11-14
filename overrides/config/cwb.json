@@ -1,5 +1,5 @@
 {
-  "fullscreenMode": "BORDERLESS",
+  "fullscreenMode": "OFF",
   "preferredFullscreenMode": "BORDERLESS",
   "useDelayedFullscreen": true,
   "useScaledFramebuffer": true,
