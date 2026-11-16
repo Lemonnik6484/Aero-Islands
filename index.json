@@ -450,7 +450,7 @@
     },
     {
       "path": "content/mods/lod-server-support.json",
-      "sha1": "0dac10aa636b881075d2efe5596ccc85569a2907"
+      "sha1": "df418f0ffea38681521359dbbaae0281823a32eb"
     },
     {
       "path": "content/mods/manual-labour.json",
@@ -554,7 +554,7 @@
     },
     {
       "path": "content/mods/reliable-advancements.json",
-      "sha1": "16417479fa631579c4192f398ab645a0921e4a67"
+      "sha1": "deb22c27b97dd499d4dade194f9ae1678125ba6f"
     },
     {
       "path": "content/mods/reliable-emi.json",
@@ -570,7 +570,7 @@
     },
     {
       "path": "content/mods/reliable-remover.json",
-      "sha1": "4b6ac241f28a5f46aead1d7b2ff6d6ad2e7f5b7e"
+      "sha1": "6292a9e4397c8360cd336c3b1a16014be12160cb"
     },
     {
       "path": "content/mods/resourceful-lib.json",
@@ -698,7 +698,7 @@
     },
     {
       "path": "content/mods/tt20.json",
-      "sha1": "56893e5bc2c57ba4b91b9cb90b9bc04535766d18"
+      "sha1": "367f8c5ec1c21fc3d5e14c21c8f8d607d2d445a7"
     },
     {
       "path": "content/mods/veil.json",
@@ -1905,8 +1905,8 @@
       "sha1": "6a3f00760e2cfb8d858daf2d0287fb80d02d1012"
     },
     {
-      "path": "overrides/mods/coolpeplaero-1.4.1.jar",
-      "sha1": "d724c3cd0eb23ca31cf3140d2009bee2e1154543"
+      "path": "overrides/mods/coolpeplaero-1.5.2.jar",
+      "sha1": "16cf71184af53f16cbbaa8bd428ad4002ba4df9d"
     },
     {
       "path": "overrides/mods/fastback-neoforge-0.31.2+1.21.1-prerelease.jar",

@@ -114,7 +114,7 @@
 - [Lithium](https://modrinth.com/project/lithium) `mc1.21.1-0.15.4-neoforge`
 - [Lithostitched](https://modrinth.com/project/lithostitched) `1.8.1-neoforge-21.1`
 - [Load My F***ing Tags](https://modrinth.com/project/lmft) `1.1.1+1.21.9`
-- [LOD Server Support](https://modrinth.com/project/lod-server-support) `v0.22.0-beta.1+neoforge+mc1.21.1`
+- [LOD Server Support](https://modrinth.com/project/lod-server-support) `v0.23.0-beta.1+neoforge+mc1.21.1`
 - [Manual Labour](https://modrinth.com/project/manual-labour) `2.5.2-1.21.1`
 - [McQoy](https://modrinth.com/project/mcqoy) `0.4.1+neo-1.21`
 - [Melody](https://modrinth.com/project/melody) `1.0.10-1.21-neoforge`
@@ -139,12 +139,12 @@
 - [Presence Footsteps x Sable (Aeronautics Compat)](https://modrinth.com/project/presence-footsteps-x-sable) `1.0`
 - [Prickle](https://modrinth.com/project/prickle) `21.1.11`
 - [Reese's Sodium Options](https://modrinth.com/project/reeses-sodium-options) `mc1.21.1-2.2.4+neoforge`
-- [Reliable Advancements](https://modrinth.com/project/reliable-advancements) `6.3.3+1.21.1-neoforge`
+- [Reliable Advancements](https://modrinth.com/project/reliable-advancements) `6.3.4+1.21.1-neoforge`
 - [Reliable EMI (REMI)](https://modrinth.com/project/reliable-emi) `4.8.4-1.21.1-neoforge`
 - [Reliable Gliders](https://modrinth.com/project/reliable-gliders) `2.1.0+1.21.1-neoforge`
 - [Reliable Recipes](https://modrinth.com/project/reliable-recipes) `3.9.0+1.21.1-neoforge`
 - [Reliable Recount](https://modrinth.com/project/o123456789-backport) `2.0.3-1.21.1-neoforge`
-- [Reliable Remover](https://modrinth.com/project/reliable-remover) `3.9.1+1.21.1-neoforge`
+- [Reliable Remover](https://modrinth.com/project/reliable-remover) `3.9.2+1.21.1-neoforge`
 - [Resourceful Lib](https://modrinth.com/project/resourceful-lib) `3.0.12`
 - [Respackopts](https://modrinth.com/project/respackopts) `4.14.0+1.21.1.forge.4`
 - [Rhino](https://modrinth.com/project/rhino) `2101.2.8-build.91+Rhino-1.21`
@@ -177,7 +177,7 @@
 - [Sweety's Garden](https://modrinth.com/project/sweety-garden) `1.0.3b`
 - [ToadLib](https://modrinth.com/project/toadlib) `1.3.2-1.21-1.21.1-neo`
 - [Tree Physics](https://modrinth.com/project/tree-physics) `neoforge-2.4`
-- [TT20 (TPS Fixer)](https://modrinth.com/project/tt20) `0.8.5`
+- [TT20 (TPS Fixer)](https://modrinth.com/project/tt20) `0.9.1`
 - [Veil](https://modrinth.com/project/veil) `4.5.2`
 - [Verdant](https://modrinth.com/project/verdant-mod) `1.21.1-0.2.0`
 - [vista](https://modrinth.com/project/vista_tv) `1.21.1-5.6.9`
