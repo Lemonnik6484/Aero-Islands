@@ -1,6 +1,6 @@
 # Aero Islands
 
-**Minecraft 1.21.1 · NeoForge 21.1.265**, 179 mods (4 dependencies), 1 resource pack, 1 data pack
+**Minecraft 1.21.1 · NeoForge 21.1.265**, 181 mods (4 dependencies), 1 resource pack, 1 data pack
 
 ## Contents
 
@@ -18,7 +18,7 @@
 - [Antique Transport](https://modrinth.com/project/antique-transport) `1.3.0`
 - [AppleSkin](https://modrinth.com/project/appleskin) `3.0.9+mc1.21`
 - [Architectury API](https://modrinth.com/project/architectury-api) `13.0.12+neoforge`
-- [AsyncParticles](https://modrinth.com/project/asyncparticles) `21.1.4.12`
+- [AsyncParticles](https://modrinth.com/project/asyncparticles) `21.1.4.13`
 - [Athena](https://modrinth.com/project/athena-ctm) `4.0.6`
 - [Azimuth API](https://modrinth.com/project/azimuth-api) `1.4.10`
 - [Balm](https://modrinth.com/project/balm) `21.0.67+neoforge-1.21.1`
@@ -62,7 +62,7 @@
 - [Create: Linear Bearing](https://modrinth.com/project/linear-bearing) `1.3.5`
 - [Create: Liquid Fuel](https://modrinth.com/project/create-liquid-fuel) `3.0.0-1.21.1`
 - [Create: Nowheel](https://modrinth.com/project/create-nowheel) `2.1.1+1.21.1neoforge`
-- [Create: Radars](https://modrinth.com/project/create-radars) `5.1.0-1.21.1`
+- [Create: Radars](https://modrinth.com/project/create-radars) `5.1.1-1.21.1`
 - [Create: Smoke & Buffers](https://modrinth.com/project/create-smoke-buffers) `0.1.0`
 - [Create: Tracks+](https://modrinth.com/project/create-tracks-plus) `1.0.6b7`
 - [CreateBetterFps](https://modrinth.com/project/createbetterfps) `1.1.5`
@@ -88,6 +88,8 @@
 - [Fast Noise](https://modrinth.com/project/zfastnoise) `1.0.13+1.21.1+neoforge`
 - [FerriteCore](https://modrinth.com/project/ferrite-core) `7.0.3-neoforge`
 - [Figura](https://modrinth.com/project/figura) `0.1.6+1.21.1`
+- [Flashback](https://modrinth.com/project/flashback) `0.39.10`
+- [Flashback Neoforge Fixed](https://modrinth.com/project/flashback-neoforge-fixed) `1.0.18`
 - [Forgified Fabric API](https://modrinth.com/project/forgified-fabric-api) `0.116.15+2.3.6+1.21.1`
 - [Fragmentum](https://modrinth.com/project/fragmentum) `5.4.0`
 - [Fusion (Connected Textures)](https://modrinth.com/project/fusion-connected-textures) `1.3.16-neoforge-mc1.21.1`
@@ -105,7 +107,7 @@
 - [Just Zoom](https://modrinth.com/project/just-zoom) `3.1.0-1.21.1-neoforge`
 - [Keybind Atlas](https://modrinth.com/project/keybind-atlas) `3.0.0`
 - [Konkrete](https://modrinth.com/project/konkrete) `1.9.9-1.21-neoforge`
-- [Kotlin for Forge](https://modrinth.com/project/kotlin-for-forge) `5.12.0`
+- [Kotlin for Forge](https://modrinth.com/project/kotlin-for-forge) `5.13.0`
 - [KubeJS](https://modrinth.com/project/kubejs) `2101.7.2-build.381`
 - [LambDynamicLights - Dynamic Lights](https://modrinth.com/project/lambdynamiclights) `4.8.11+1.21.1`
 - [Lever drugster](https://modrinth.com/project/lever-drugster) `1.8.8`
@@ -115,7 +117,7 @@
 - [Lithostitched](https://modrinth.com/project/lithostitched) `1.8.1-neoforge-21.1`
 - [Load My F***ing Tags](https://modrinth.com/project/lmft) `1.1.1+1.21.9`
 - [LOD Server Support](https://modrinth.com/project/lod-server-support) `v0.23.0-beta.1+neoforge+mc1.21.1`
-- [Manual Labour](https://modrinth.com/project/manual-labour) `2.5.2-1.21.1`
+- [Manual Labour](https://modrinth.com/project/manual-labour) `2.6.0-1.21.1`
 - [McQoy](https://modrinth.com/project/mcqoy) `0.4.1+neo-1.21`
 - [Melody](https://modrinth.com/project/melody) `1.0.10-1.21-neoforge`
 - [Moonlight Lib](https://modrinth.com/project/moonlight) `1.21.1-3.8.3`
@@ -139,19 +141,19 @@
 - [Presence Footsteps x Sable (Aeronautics Compat)](https://modrinth.com/project/presence-footsteps-x-sable) `1.0`
 - [Prickle](https://modrinth.com/project/prickle) `21.1.11`
 - [Reese's Sodium Options](https://modrinth.com/project/reeses-sodium-options) `mc1.21.1-2.2.4+neoforge`
-- [Reliable Advancements](https://modrinth.com/project/reliable-advancements) `6.3.4+1.21.1-neoforge`
-- [Reliable EMI (REMI)](https://modrinth.com/project/reliable-emi) `4.8.4-1.21.1-neoforge`
+- [Reliable Advancements](https://modrinth.com/project/reliable-advancements) `6.3.5+1.21.1-neoforge`
+- [Reliable EMI (REMI)](https://modrinth.com/project/reliable-emi) `4.9.0-1.21.1-neoforge`
 - [Reliable Gliders](https://modrinth.com/project/reliable-gliders) `2.1.0+1.21.1-neoforge`
 - [Reliable Recipes](https://modrinth.com/project/reliable-recipes) `3.9.0+1.21.1-neoforge`
 - [Reliable Recount](https://modrinth.com/project/o123456789-backport) `2.0.3-1.21.1-neoforge`
-- [Reliable Remover](https://modrinth.com/project/reliable-remover) `3.9.2+1.21.1-neoforge`
+- [Reliable Remover](https://modrinth.com/project/reliable-remover) `3.9.3+1.21.1-neoforge`
 - [Resourceful Lib](https://modrinth.com/project/resourceful-lib) `3.0.12`
 - [Respackopts](https://modrinth.com/project/respackopts) `4.14.0+1.21.1.forge.4`
 - [Rhino](https://modrinth.com/project/rhino) `2101.2.8-build.91+Rhino-1.21`
 - [Ritchie's Projectile Library](https://modrinth.com/project/rpl) `2.1.2`
 - [Roxy](https://modrinth.com/project/roxy) `0.4.1-neoforge+mc1.21.1`
 - [Sable](https://modrinth.com/project/sable) `2.0.6+mc1.21.1`
-- [Sable CleanUp](https://modrinth.com/project/sable-cleanup) `0.3.0`
+- [Sable CleanUp](https://modrinth.com/project/sable-cleanup) `0.4.0`
 - [Sable Pathfinder](https://modrinth.com/project/sable-pathfinder) `1.4.0`
 - [Sable: Cool Rain](https://modrinth.com/project/sable-cool-rain) `1.0.1+1.21.1+neoforge`
 - [Sable: Far and Wide (Create Aeronautics)](https://modrinth.com/project/sable-far-and-wide) `1.0.0`
@@ -177,7 +179,7 @@
 - [Sweety's Garden](https://modrinth.com/project/sweety-garden) `1.0.3b`
 - [ToadLib](https://modrinth.com/project/toadlib) `1.3.2-1.21-1.21.1-neo`
 - [Tree Physics](https://modrinth.com/project/tree-physics) `neoforge-2.4`
-- [TT20 (TPS Fixer)](https://modrinth.com/project/tt20) `0.9.1`
+- [TT20 (TPS Fixer)](https://modrinth.com/project/tt20) `0.9.3`
 - [Veil](https://modrinth.com/project/veil) `4.5.2`
 - [Verdant](https://modrinth.com/project/verdant-mod) `1.21.1-0.2.0`
 - [vista](https://modrinth.com/project/vista_tv) `1.21.1-5.6.9`

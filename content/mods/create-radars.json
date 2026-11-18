@@ -8,13 +8,13 @@
     "modrinth": {
       "id": "BLu2Yqfq",
       "slug": "create-radars",
-      "versionId": "5ct6srlD",
-      "versionNumber": "5.1.0-1.21.1",
-      "filename": "create_radar-5.1.0-1.21.1.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/BLu2Yqfq/versions/5ct6srlD/create_radar-5.1.0-1.21.1.jar",
-      "sha1": "2185e139f9e1291b90e391cf824f2a7a890463dd",
-      "sha512": "bc5a9abc88e4799fd91d727a9d480ef7178781c270969cf48aabab47708b977734920a5846b0865f6fc343de5af0c0e9b818d0ae15388fcbe2ecc389a8fa448f",
-      "fileSize": 5729065
+      "versionId": "ES5qa3pY",
+      "versionNumber": "5.1.1-1.21.1",
+      "filename": "create_radar-5.1.1-1.21.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/BLu2Yqfq/versions/ES5qa3pY/create_radar-5.1.1-1.21.1.jar",
+      "sha1": "b33c9c8ae355cc42167afb0647ed72a25f391ca0",
+      "sha512": "4480f1c1e369e55cb0a8b26eb508ac92089946bbf099fc4d18a42886186e81eddd699b89bec3ed6ec954893e11d9a05584044e5cfe93add7fd964378ee25eba1",
+      "fileSize": 5729658
     }
   },
   "dependents": [],

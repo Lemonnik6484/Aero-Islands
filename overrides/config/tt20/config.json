@@ -16,5 +16,8 @@
   "mob-timer-acceleration": true,
   "tnt-acceleration": false,
   "vanilla-lagback": true,
-  "automatic-updater": true
+  "automatic-updater": true,
+  "warden-acceleration": true,
+  "shrieker-acceleration": true,
+  "iframe-acceleration": true
 }

@@ -1,0 +1,23 @@
+{
+  "name": "Flashback Neoforge Fixed",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "QaOcZcLU",
+      "slug": "flashback-neoforge-fixed",
+      "versionId": "6lI0Ig17",
+      "versionNumber": "1.0.18",
+      "filename": "flashback_neoforge_fixed-1.0.18.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/QaOcZcLU/versions/6lI0Ig17/flashback_neoforge_fixed-1.0.18.jar",
+      "sha1": "ad87bc7b599ede4575933093e30c2e4c1a8f8f43",
+      "sha512": "dea893742d4b61fa457785b52533ac39edb24d74f7edb036ff5fed7f1fe56d46d0f9211584add48769d028bcd655f0f4c5f254698db403ed3fec46c4695bfe9b",
+      "fileSize": 264036
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

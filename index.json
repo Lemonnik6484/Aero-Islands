@@ -66,7 +66,7 @@
     },
     {
       "path": "content/mods/asyncparticles.json",
-      "sha1": "88580932bdcdfe1240cd67e1a68e790a0dd6786c"
+      "sha1": "8d47a63026c0d803cec06cbf3bee17d18d775161"
     },
     {
       "path": "content/mods/athena-ctm.json",
@@ -226,7 +226,7 @@
     },
     {
       "path": "content/mods/create-radars.json",
-      "sha1": "cdcd7eeabda7302f8e1affb7c43a9d2cfb72ef76"
+      "sha1": "f1beddfd3007213abfa3426e3261110669debdb4"
     },
     {
       "path": "content/mods/create-simulated-additions.json",
@@ -246,7 +246,7 @@
     },
     {
       "path": "content/mods/create.json",
-      "sha1": "fd6e5eab4e8a2475fdf9d42ccbf5e1915cbad29e"
+      "sha1": "b8dbeb9e68ff759ff0c5ee40e3d4c0245d38b0eb"
     },
     {
       "path": "content/mods/createbetterfps.json",
@@ -337,6 +337,14 @@
       "sha1": "1627ef0a53c8e17a01bb5ec9c8e595edd86ffed8"
     },
     {
+      "path": "content/mods/flashback-neoforge-fixed.json",
+      "sha1": "0ed51bf122f8ffb2280bdcd2095d1117f3a50d2d"
+    },
+    {
+      "path": "content/mods/flashback.json",
+      "sha1": "6890256fadd0efe6eec8a9ae23ded8b213f588f8"
+    },
+    {
       "path": "content/mods/flyhigher.json",
       "sha1": "063d9753bd0d88f1a28e9d8cb6f1997efead788a"
     },
@@ -410,7 +418,7 @@
     },
     {
       "path": "content/mods/kotlin-for-forge.json",
-      "sha1": "8426442f66a18d4f03a29c0b2a2b652e60bb29cb"
+      "sha1": "fc708abb481feee12b0873b584bab8de9cea43c6"
     },
     {
       "path": "content/mods/kubejs.json",
@@ -454,7 +462,7 @@
     },
     {
       "path": "content/mods/manual-labour.json",
-      "sha1": "74f1ad87292c3b004703eb233a655adf887b5653"
+      "sha1": "7a32deb125c1325ac3088a9fad1810e548c001b3"
     },
     {
       "path": "content/mods/mcqoy.json",
@@ -554,11 +562,11 @@
     },
     {
       "path": "content/mods/reliable-advancements.json",
-      "sha1": "deb22c27b97dd499d4dade194f9ae1678125ba6f"
+      "sha1": "ae689a50881aa044ba3db61a98181b359402606c"
     },
     {
       "path": "content/mods/reliable-emi.json",
-      "sha1": "2b4670674f6b39d3f86ddd38cf00435c623efe0f"
+      "sha1": "8a3af73b37b30150c109d7a864edaf41a86c213b"
     },
     {
       "path": "content/mods/reliable-gliders.json",
@@ -570,7 +578,7 @@
     },
     {
       "path": "content/mods/reliable-remover.json",
-      "sha1": "6292a9e4397c8360cd336c3b1a16014be12160cb"
+      "sha1": "5940b7dde4f7d7a00458ac988d934ff4596d2cb3"
     },
     {
       "path": "content/mods/resourceful-lib.json",
@@ -594,7 +602,7 @@
     },
     {
       "path": "content/mods/sable-cleanup.json",
-      "sha1": "481b871a288b0245879a5d076ad35a74b0d621d5"
+      "sha1": "e7e728e06cc1355ccb2e5b450346f610b074f2df"
     },
     {
       "path": "content/mods/sable-cool-rain.json",
@@ -698,7 +706,7 @@
     },
     {
       "path": "content/mods/tt20.json",
-      "sha1": "367f8c5ec1c21fc3d5e14c21c8f8d607d2d445a7"
+      "sha1": "a98b8829bdb0a4531816d6d54a3e3157ed1dddec"
     },
     {
       "path": "content/mods/veil.json",
@@ -747,6 +755,10 @@
     {
       "path": "overrides/config/CoroUtil/General.toml",
       "sha1": "3bd7d98616d2c4ff4ee7c8e12257bf7e5891d955"
+    },
+    {
+      "path": "overrides/config/DistantHorizons.toml",
+      "sha1": "4c4c0a4f107e3c6719f455e55d272aa844b74dda"
     },
     {
       "path": "overrides/config/MouseTweaks.cfg",
@@ -838,7 +850,7 @@
     },
     {
       "path": "overrides/config/asyncparticles/asyncparticles-mixin.properties",
-      "sha1": "adb87498473d71d865e9ce61743a9cc02099bf88"
+      "sha1": "7821ec3da4afd7903f36fa1777df44eac1944b36"
     },
     {
       "path": "overrides/config/asyncparticles/asyncparticles.json",
@@ -1534,7 +1546,7 @@
     },
     {
       "path": "overrides/config/respackopts/_respackopts.conf",
-      "sha1": "2f86c375605ccaaa40e96eb3c959f75a41454326"
+      "sha1": "a0704fa06f4228bbead03d2925fed5ca88d4d84d"
     },
     {
       "path": "overrides/config/ritchiesprojectilelib-server.toml",
@@ -1606,7 +1618,7 @@
     },
     {
       "path": "overrides/config/sodium-options.json",
-      "sha1": "f94c57d0a992e4201e71401c82e2de166bb9bd48"
+      "sha1": "d765f2ae5a5f66d8959683081dcb56142cf861fa"
     },
     {
       "path": "overrides/config/sound_physics_aeronautics/.spra-config-schema.properties",
@@ -1710,7 +1722,7 @@
     },
     {
       "path": "overrides/config/tt20/config.json",
-      "sha1": "f02605b9e5530fd68a9cfbaa900a4fb6cbb40ea3"
+      "sha1": "c0ea1a46d5601d8141870da99cf7a8a9a27eacbf"
     },
     {
       "path": "overrides/config/verdant-client.toml",
@@ -1774,7 +1786,7 @@
     },
     {
       "path": "overrides/config/zfastnoise.mixin.properties",
-      "sha1": "491d1441c5d89ee008671aa38f56a3c63df76084"
+      "sha1": "2e93455697f8257a115820e707b6cbd7cc0bc2ca"
     },
     {
       "path": "overrides/datapacks/void_c.zip",

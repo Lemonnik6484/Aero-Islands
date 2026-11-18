@@ -8,13 +8,13 @@
     "modrinth": {
       "id": "xVwaUG1g",
       "slug": "reliable-advancements",
-      "versionId": "nclal0ZS",
-      "versionNumber": "6.3.4+1.21.1-neoforge",
-      "filename": "reliable_advancements-6.3.4+1.21.1-neoforge.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/xVwaUG1g/versions/nclal0ZS/reliable_advancements-6.3.4%2B1.21.1-neoforge.jar",
-      "sha1": "b5b878651d4bde9b25e75ef1ba94373e2bca3f8d",
-      "sha512": "a6f6864eb9bcb8512cf0f744d4fc5b06addb10e50d04862f3638942306251e27c82a58e93001317439d0b3a25c398ee62f3d6fc119bf875776b84dfb3e881ae3",
-      "fileSize": 731354
+      "versionId": "a1hQr2o8",
+      "versionNumber": "6.3.5+1.21.1-neoforge",
+      "filename": "reliable_advancements-6.3.5+1.21.1-neoforge.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/xVwaUG1g/versions/a1hQr2o8/reliable_advancements-6.3.5%2B1.21.1-neoforge.jar",
+      "sha1": "af6e35b9d5a44f4adf4d4370b02c4f85d32cfeaf",
+      "sha512": "54c4ef35d47f8954de9919237a0b1f1f84c92c21a844f7a2e5a32f355b3d7f1863c073f2cb76758b531f4f8404d5253406060dccb21f15350bbb9e261fb98b26",
+      "fileSize": 731605
     }
   },
   "dependents": [],
