@@ -850,7 +850,7 @@
     },
     {
       "path": "overrides/config/asyncparticles/asyncparticles-mixin.properties",
-      "sha1": "7821ec3da4afd7903f36fa1777df44eac1944b36"
+      "sha1": "7ad8c81d5f1fa483219c7ae5b03535319ccdc2d5"
     },
     {
       "path": "overrides/config/asyncparticles/asyncparticles.json",
@@ -1478,7 +1478,7 @@
     },
     {
       "path": "overrides/config/reliable_advancements.json",
-      "sha1": "b5877de2fd123ea7392e041dfee34b357cb71be1"
+      "sha1": "6f07274f14e90332b7ef43f73a2f825a7e1b105f"
     },
     {
       "path": "overrides/config/reliable_advancements_edits/data/cp/advancement/canvas.json",
@@ -1578,7 +1578,11 @@
     },
     {
       "path": "overrides/config/sablecleanup-client.toml",
-      "sha1": "a986931a1ee29a36c074b37dedd5b8efba8fa553"
+      "sha1": "c53f16976c6c19b062f6027fbbaea0cc0ea92c50"
+    },
+    {
+      "path": "overrides/config/sablecleanup-startup.toml",
+      "sha1": "1c434dd7635515b63104d0dfbc94407111afda09"
     },
     {
       "path": "overrides/config/sablejade-client.toml",
@@ -1722,7 +1726,7 @@
     },
     {
       "path": "overrides/config/tt20/config.json",
-      "sha1": "c0ea1a46d5601d8141870da99cf7a8a9a27eacbf"
+      "sha1": "fb298632ae299efea5bb876e8602ad5f2a329f4c"
     },
     {
       "path": "overrides/config/verdant-client.toml",
@@ -1786,7 +1790,7 @@
     },
     {
       "path": "overrides/config/zfastnoise.mixin.properties",
-      "sha1": "2e93455697f8257a115820e707b6cbd7cc0bc2ca"
+      "sha1": "0c460dd49a81df8179f8c5953d1fc5e0f8c42144"
     },
     {
       "path": "overrides/datapacks/void_c.zip",

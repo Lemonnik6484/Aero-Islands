@@ -19,5 +19,6 @@
   "automatic-updater": true,
   "warden-acceleration": true,
   "shrieker-acceleration": true,
-  "iframe-acceleration": true
+  "iframe-acceleration": true,
+  "item-cooldown-acceleration": true
 }
