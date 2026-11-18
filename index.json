@@ -758,7 +758,7 @@
     },
     {
       "path": "overrides/config/DistantHorizons.toml",
-      "sha1": "4c4c0a4f107e3c6719f455e55d272aa844b74dda"
+      "sha1": "e99b2f1df1cc7b65ff4f26a6c3b30cca50d800ba"
     },
     {
       "path": "overrides/config/MouseTweaks.cfg",
@@ -1546,7 +1546,7 @@
     },
     {
       "path": "overrides/config/respackopts/_respackopts.conf",
-      "sha1": "a0704fa06f4228bbead03d2925fed5ca88d4d84d"
+      "sha1": "2f86c375605ccaaa40e96eb3c959f75a41454326"
     },
     {
       "path": "overrides/config/ritchiesprojectilelib-server.toml",
