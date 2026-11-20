@@ -1,0 +1,22 @@
+{
+  "name": "Create: Sky",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "curseforge",
+  "sources": {
+    "curseforge": {
+      "id": "1809901",
+      "slug": "create-sky",
+      "versionId": "9647228",
+      "versionNumber": "createsky-0.1.0.jar",
+      "filename": "createskys-0.1.0.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/9647/228/createskys-0.1.0.jar",
+      "sha1": "4096d1f79b89c20dc828d0833739e9400e6e955a",
+      "fileSize": 108544
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

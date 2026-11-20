@@ -1,6 +1,6 @@
 # Aero Islands
 
-**Minecraft 1.21.1 · NeoForge 21.1.265**, 180 mods (4 dependencies), 1 resource pack, 1 data pack
+**Minecraft 1.21.1 · NeoForge 21.1.267**, 180 mods (4 dependencies), 1 resource pack, 1 data pack
 
 ## Contents
 
@@ -24,7 +24,6 @@
 - [Balm](https://modrinth.com/project/balm) `21.0.67+neoforge-1.21.1`
 - [Barehanded](https://modrinth.com/project/barehanded) `1.6.6`
 - [Bathymetry](https://modrinth.com/project/bathymetry) `1.0.4+1.21.1+neoforge`
-- [Better Clouds](https://modrinth.com/project/better-clouds) `1.13.11+1.21.1-neoforge-release`
 - [Better Days](https://modrinth.com/project/betterdays) `1.21.1-3.3.6.3-NEOFORGE`
 - [Better ModList](https://modrinth.com/project/better-modlist) `21.1.5`
 - [Better Smoke](https://modrinth.com/project/better-smoke) `0.1.2+1.21-1.21.8`
@@ -63,6 +62,7 @@
 - [Create: Liquid Fuel](https://modrinth.com/project/create-liquid-fuel) `3.0.0-1.21.1`
 - [Create: Nowheel](https://modrinth.com/project/create-nowheel) `2.1.1+1.21.1neoforge`
 - [Create: Radars](https://modrinth.com/project/create-radars) `5.1.1-1.21.1`
+- [Create: Sky](https://www.curseforge.com/projects/1809901) `createsky-0.1.0.jar`
 - [Create: Smoke & Buffers](https://modrinth.com/project/create-smoke-buffers) `0.1.0`
 - [Create: Tracks+](https://modrinth.com/project/create-tracks-plus) `1.0.6b7`
 - [CreateBetterFps](https://modrinth.com/project/createbetterfps) `1.1.5`
