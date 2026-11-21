@@ -75,3 +75,4 @@ overrides/config/fabric/indigo-renderer.properties
 /overrides/tacz_backup/
 /overrides/XaeroWaypoints_BACKUP240807/
 overrides/options.txt
+overrides/config/Discord-Integration.toml

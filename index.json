@@ -761,10 +761,6 @@
       "sha1": "3bd7d98616d2c4ff4ee7c8e12257bf7e5891d955"
     },
     {
-      "path": "overrides/config/Discord-Integration.toml",
-      "sha1": "f4283c07977bc36a0fe2d71f88030147eba80525"
-    },
-    {
       "path": "overrides/config/DistantHorizons.toml",
       "sha1": "e99b2f1df1cc7b65ff4f26a6c3b30cca50d800ba"
     },
