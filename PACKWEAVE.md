@@ -1,6 +1,6 @@
 # Aero Islands
 
-**Minecraft 1.21.1 · NeoForge 21.1.267**, 184 mods (4 dependencies), 1 resource pack, 1 data pack
+**Minecraft 1.21.1 · NeoForge 21.1.267**, 182 mods (4 dependencies), 1 resource pack, 1 data pack
 
 ## Contents
 
@@ -73,7 +73,6 @@
 - [DragonLib](https://modrinth.com/project/dragonlib) `3.0.29+1.21.1-neoforge`
 - [Drizzleproof](https://modrinth.com/project/drizzleproof) `3.0.0`
 - [Durability Tooltip](https://modrinth.com/project/durability-tooltip) `1.2.0-neoforge-mc1.21`
-- [e4mc](https://modrinth.com/project/e4mc) `6.2.3-neoforge`
 - [EMI](https://modrinth.com/project/emi) `1.1.24+1.21.1+neoforge`
 - [EMI Addon: Extra Mod Integrations](https://modrinth.com/project/extra-mod-integrations) `1.0.3+1.21.1.neoforge`
 - [EMI++](https://modrinth.com/project/emixx) `2.1.0`
@@ -117,7 +116,6 @@
 - [Lithostitched](https://modrinth.com/project/lithostitched) `1.8.1-neoforge-21.1`
 - [Load My F***ing Tags](https://modrinth.com/project/lmft) `1.1.1+1.21.9`
 - [Manual Labour](https://modrinth.com/project/manual-labour) `2.6.0-1.21.1`
-- [McQoy](https://modrinth.com/project/mcqoy) `0.4.1+neo-1.21`
 - [Melody](https://modrinth.com/project/melody) `1.0.10-1.21-neoforge`
 - [Moonlight Lib](https://modrinth.com/project/moonlight) `1.21.1-3.8.3`
 - [MossyLib](https://modrinth.com/project/mossylib) `2.0.0+1.21.1+neoforge`
@@ -131,7 +129,7 @@
 - [No Man's Land](https://modrinth.com/project/no-mans-land) `1.6.3`
 - [Nuit](https://modrinth.com/project/nuit) `mc1.21.1-1.0.0-beta.6+neoforge`
 - [NumFlux](https://modrinth.com/project/numflux) `1.0.4.1-1.21.1-neo`
-- [Offgrid](https://modrinth.com/project/offgrid) `1.0.6+1.21.1-neoforge`
+- [Offgrid](https://modrinth.com/project/offgrid) `1.0.7+1.21.1-neoforge`
 - [Paxi](https://modrinth.com/project/paxi) `1.21.1-NeoForge-5.1.3`
 - [Peaceful Nights](https://modrinth.com/project/peaceful-nights) `0.1.0`
 - [Polymorph](https://modrinth.com/project/polymorph) `1.2.0+1.21.1`

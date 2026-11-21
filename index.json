@@ -281,10 +281,6 @@
       "sha1": "6f9ff5b08af8c022b19221ea41d6f324183b910d"
     },
     {
-      "path": "content/mods/e4mc.json",
-      "sha1": "0649c9995afbc2be1c784b3f6bfa9ff0f440f0c5"
-    },
-    {
       "path": "content/mods/emi-create-schematics.json",
       "sha1": "1c928f1539b9adf3169e06dff22e5809540ad10f"
     },
@@ -461,10 +457,6 @@
       "sha1": "7a32deb125c1325ac3088a9fad1810e548c001b3"
     },
     {
-      "path": "content/mods/mcqoy.json",
-      "sha1": "4e5b30d2400a680bb76fb82d4b5f8b344be648f0"
-    },
-    {
       "path": "content/mods/melody.json",
       "sha1": "b9b78748dc5b9f68533ff942280209979c99d17b"
     },
@@ -522,7 +514,7 @@
     },
     {
       "path": "content/mods/offgrid.json",
-      "sha1": "c79e5aaac7a29b6635306f43bd3977b59364daeb"
+      "sha1": "d15c8144e43fa11e6bae20665dd9b809aa0f168b"
     },
     {
       "path": "content/mods/paxi.json",
@@ -542,7 +534,7 @@
     },
     {
       "path": "content/mods/polytone.json",
-      "sha1": "0eaefb04c68e5951bd4a57c6894665429f5dac5f"
+      "sha1": "78b9ead6b321bdc52fdf4b68a5c85eed39b4ef1c"
     },
     {
       "path": "content/mods/presence-footsteps-x-sable.json",
@@ -746,7 +738,7 @@
     },
     {
       "path": "content/mods/yacl.json",
-      "sha1": "d0a4d13b0c62852b77902ff9a03b5fa79016c4b8"
+      "sha1": "f95bab793446f8d51deff72fb214c185557d2b75"
     },
     {
       "path": "content/mods/yarrp.json",
