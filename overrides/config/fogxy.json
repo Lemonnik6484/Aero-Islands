@@ -1,0 +1,15 @@
+{
+  "enabled": true,
+  "fog_start": 0.5,
+  "fog_end": 1.0,
+  "smooth": 16,
+  "slope": 64,
+  "hole_reach": 64,
+  "hole_fade": 128,
+  "levels": 2,
+  "hole_fill": true,
+  "fill_top": 96,
+  "sky_fog": false,
+  "debug_gradient": false,
+  "debug_edges": false
+}

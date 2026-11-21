@@ -693,6 +693,10 @@
       "sha1": "ef33681d399f09b35b8e426c77ed34465206d232"
     },
     {
+      "path": "content/mods/swinging-lanterns.json",
+      "sha1": "292314aebb51f25e9d01463c7f66045113dbf5d5"
+    },
+    {
       "path": "content/mods/toadlib.json",
       "sha1": "34afbaedd3327afb839b5e65278df26db5725e64"
     },
@@ -719,10 +723,6 @@
     {
       "path": "content/mods/void-water.json",
       "sha1": "2e72f0bf22f75ef71cbbe41cc65248ba4d0b6ac0"
-    },
-    {
-      "path": "content/mods/voxy-fog-addon-neoforge.json",
-      "sha1": "dc1542c3492018e87efbfbf76a9248db69791f56"
     },
     {
       "path": "content/mods/voxy-worldgen.json",
@@ -858,7 +858,7 @@
     },
     {
       "path": "overrides/config/asyncparticles/asyncparticles-mixin.properties",
-      "sha1": "ca1260500bc4e6bb102cedc07b31111de12a74f3"
+      "sha1": "9eff6673050e2d3eb4820940ffddcd2d263d1fa7"
     },
     {
       "path": "overrides/config/asyncparticles/asyncparticles.json",
@@ -1198,11 +1198,11 @@
     },
     {
       "path": "overrides/config/flyhigher.json",
-      "sha1": "688e09037da4453dd376f86b4dc3592bfa2338ce"
+      "sha1": "814a8577845841c23d76610055182d67295a6472"
     },
     {
       "path": "overrides/config/flyhigher_datapack/data/flyhigher/dimension_physics/overworld.json",
-      "sha1": "f1aa0ad094516a69341cf61b107c7b56cfb79c6c"
+      "sha1": "8cd89da11b8f2a3457129ddfec470430c0d897ae"
     },
     {
       "path": "overrides/config/flyhigher_datapack/pack.mcmeta",
@@ -1210,11 +1210,15 @@
     },
     {
       "path": "overrides/config/flywheel-client.toml",
-      "sha1": "a6b8e074fa713616371da744b1c4d2ad19024ffc"
+      "sha1": "786667815fd55c5677959bad403690652de777f2"
     },
     {
       "path": "overrides/config/fml.toml",
       "sha1": "e8f8399177075e6803da0d084864a2b1231b517b"
+    },
+    {
+      "path": "overrides/config/fogxy.json",
+      "sha1": "f7736a32862954a0b4b0392219185851c111bd18"
     },
     {
       "path": "overrides/config/fzzy_config/keybinds.toml",
@@ -1558,7 +1562,7 @@
     },
     {
       "path": "overrides/config/respackopts/_respackopts.conf",
-      "sha1": "2f86c375605ccaaa40e96eb3c959f75a41454326"
+      "sha1": "a0704fa06f4228bbead03d2925fed5ca88d4d84d"
     },
     {
       "path": "overrides/config/ritchiesprojectilelib-server.toml",
@@ -1729,6 +1733,22 @@
       "sha1": "9beee5a1388e1f85619951cc52dee02111d0e80f"
     },
     {
+      "path": "overrides/config/swinginglanterns/README.txt",
+      "sha1": "cbe05c97cb28de490b87fedfb0bf0f0a837a4dc6"
+    },
+    {
+      "path": "overrides/config/swinginglanterns/lantern_overrides.json",
+      "sha1": "f723fce14763c3b5200c2e5b26c4d4edaa453ccc"
+    },
+    {
+      "path": "overrides/config/swinginglanterns/raycast_ignored_blocks.json",
+      "sha1": "6de5505e7be64b11f4d2e11424e0bf3321952f42"
+    },
+    {
+      "path": "overrides/config/swinginglanterns/swinginglanterns.json",
+      "sha1": "b9e4c32e117df6f60e1ca5e3b8ebc739f27e744f"
+    },
+    {
       "path": "overrides/config/toadlib_config.txt",
       "sha1": "f02c2691ddc3a58cbafd147aeceb0433b3556a11"
     },
@@ -1809,10 +1829,6 @@
       "sha1": "9f26086e3d9b1c9791aeab2d3ed7e309863d1128"
     },
     {
-      "path": "overrides/config/voxyfog-common.toml",
-      "sha1": "53e66d786f3a972ee6570328be3af69e2fa34e42"
-    },
-    {
       "path": "overrides/config/voxyworldgenv2.json",
       "sha1": "a793a7cc1b8bc0cb4730998b594fbaecda730409"
     },
@@ -1830,7 +1846,7 @@
     },
     {
       "path": "overrides/config/zfastnoise.mixin.properties",
-      "sha1": "e6ea4a4b7a0f833937e66e1056db6adc31fa79ab"
+      "sha1": "6bf78acc38ee9ed5e36abbe09e9a6cdeae32e095"
     },
     {
       "path": "overrides/datapacks/void_c.zip",

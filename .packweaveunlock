@@ -10,3 +10,4 @@
 # !config/somemod.toml#client.debug
 options.txt
 servers.dat
+config/flywheel-client.toml

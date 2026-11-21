@@ -1,0 +1,23 @@
+{
+  "name": "Swinging Lanterns",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "3IOcW74j",
+      "slug": "swinging-lanterns",
+      "versionId": "wKAcUxnv",
+      "versionNumber": "1.21.1-2.1.1",
+      "filename": "swinginglanterns-neoforge-1.21.1-2.1.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/3IOcW74j/versions/wKAcUxnv/swinginglanterns-neoforge-1.21.1-2.1.1.jar",
+      "sha1": "dbb6e12103a2b0a0b77b21abe61e0055eabd1995",
+      "sha512": "e7ebaad6315e8f5bff0d1d98bf257e155e2677580498ce214b68e6d33338886f1c0b0a6628ef2fb3fb64d1704dd4b16c8d4f8c0f40032b364f4c8526da474ba4",
+      "fileSize": 2117169
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

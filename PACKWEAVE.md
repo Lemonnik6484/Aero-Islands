@@ -176,6 +176,7 @@
 - [Supplementaries](https://modrinth.com/project/supplementaries) `1.21.1-4.1.4`
 - [Surveyor Map Framework](https://modrinth.com/project/surveyor) `1.2.4+1.21`
 - [Sweety's Garden](https://modrinth.com/project/sweety-garden) `1.0.3b`
+- [Swinging Lanterns](https://modrinth.com/project/swinging-lanterns) `1.21.1-2.1.1`
 - [ToadLib](https://modrinth.com/project/toadlib) `1.3.2-1.21-1.21.1-neo`
 - [Tree Physics](https://modrinth.com/project/tree-physics) `neoforge-2.4`
 - [TT20 (TPS Fixer)](https://modrinth.com/project/tt20) `0.9.3`
@@ -184,7 +185,6 @@
 - [vista](https://modrinth.com/project/vista_tv) `1.21.1-5.6.9`
 - [Void Water](https://modrinth.com/project/void-water) `1.0.2`
 - [voxy](https://modrinth.com/project/voxy) `0.2.16-beta`
-- [Voxy Fog Addon Neoforge](https://modrinth.com/project/voxy-fog-addon-neoforge) `1.1.1`
 - [Voxygen](https://modrinth.com/project/voxy-worldgen) `2.4.2`
 - [WildSprout: Plains](https://modrinth.com/project/wildsprout-plains) `1.3.0`
 - [YetAnotherConfigLib (YACL)](https://modrinth.com/project/yacl) `3.8.2+1.21.1-neoforge`
