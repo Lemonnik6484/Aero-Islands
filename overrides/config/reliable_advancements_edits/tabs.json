@@ -230,6 +230,14 @@
         "cp:canvas_double_sail": [
           -36,
           -152
+        ],
+        "cp:backpack": [
+          -84,
+          -57
+        ],
+        "cp:glider": [
+          111,
+          -18
         ]
       }
     },

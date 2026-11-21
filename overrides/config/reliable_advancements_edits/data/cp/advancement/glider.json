@@ -1,0 +1,32 @@
+{
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "reliable_gliders:glider",
+            "count": 1
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "impossible"
+    ]
+  ],
+  "parent": "cp:canvas",
+  "display": {
+    "icon": {
+      "id": "reliable_gliders:glider"
+    },
+    "title": "Sky here I come!",
+    "description": "Get yourself a glider: primitive flying device",
+    "frame": "task"
+  },
+  "parents": [
+    "cp:canvas"
+  ]
+}

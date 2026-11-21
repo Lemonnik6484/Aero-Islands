@@ -45,4 +45,10 @@ ServerEvents.recipes(event => {
             C: '#minecraft:coals'
         }
     )
+
+    event.replaceInput(
+      { output: 'reliable_gliders:glider' },
+      'minecraft:phantom_membrane',
+      Ingredient.of('farmersdelight:canvas')
+    )
 })
