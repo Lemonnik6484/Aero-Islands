@@ -70,6 +70,7 @@
 - [Curios API](https://modrinth.com/project/curios) `9.6.0+1.21.1`
 - [Desire](https://modrinth.com/project/desiremod) `1.1.1-1.21.1`
 - [Diabolical Islands](https://modrinth.com/project/diabolical-islands) `1.0.0+mod`
+- [Discord Integration](https://modrinth.com/project/dcintegration) `3.0.7-1.21`
 - [DragonLib](https://modrinth.com/project/dragonlib) `3.0.29+1.21.1-neoforge`
 - [Drizzleproof](https://modrinth.com/project/drizzleproof) `3.0.0`
 - [Durability Tooltip](https://modrinth.com/project/durability-tooltip) `1.2.0-neoforge-mc1.21`
@@ -160,7 +161,6 @@
 - [SeeU](https://modrinth.com/project/seeu) `0.9.6`
 - [Separate Sable Render Distance (Create Aeronautics Addon)](https://modrinth.com/project/ssrd) `1.8.8`
 - [Signs Faster](https://modrinth.com/project/sf-plus) `1.0.1`
-- [Simple Rich Discord Presence](https://modrinth.com/project/srdp) `88.0.1`
 - [Simple Voice Chat](https://modrinth.com/project/simple-voice-chat) `neoforge-1.21.1-2.6.27`
 - [Sinytra Connector](https://modrinth.com/project/connector) `2.0.0-beta.17+1.21.1`
 - [Sneaky Link](https://modrinth.com/project/sneaky-link) `3.0.0`

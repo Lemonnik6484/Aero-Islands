@@ -50,7 +50,7 @@
     },
     {
       "path": "content/mods/architectury-api.json",
-      "sha1": "e299d0cb7b9e87dbc2e205fca623987ae2602f24"
+      "sha1": "834738a8389d73753b226dd6bd6b24774d54d8d7"
     },
     {
       "path": "content/mods/asyncparticles.json",
@@ -126,7 +126,7 @@
     },
     {
       "path": "content/mods/cloth-config.json",
-      "sha1": "493fed27935cf95995c6fadaeeb7e8a5b39d4b78"
+      "sha1": "4d8c0f1ab2f4c6d8f09b4fb3a981580155017346"
     },
     {
       "path": "content/mods/connector.json",
@@ -259,6 +259,10 @@
     {
       "path": "content/mods/curios.json",
       "sha1": "4c9aba7e30a8fa493d6d5322ebcfc493f7660bfb"
+    },
+    {
+      "path": "content/mods/dcintegration.json",
+      "sha1": "dff6fe3e5b45c3edbe596f588a7b7775aa8c3bf3"
     },
     {
       "path": "content/mods/desiremod.json",
@@ -657,10 +661,6 @@
       "sha1": "b879eaeff51979bf2cb0754458f163c4abd5d783"
     },
     {
-      "path": "content/mods/srdp.json",
-      "sha1": "4d68fc357f1bc66e47c180c955be06293039d81d"
-    },
-    {
       "path": "content/mods/ssrd.json",
       "sha1": "8c7c7c04bb94943f7aeb71922776e850fee157ca"
     },
@@ -759,6 +759,10 @@
     {
       "path": "overrides/config/CoroUtil/General.toml",
       "sha1": "3bd7d98616d2c4ff4ee7c8e12257bf7e5891d955"
+    },
+    {
+      "path": "overrides/config/Discord-Integration.toml",
+      "sha1": "f4283c07977bc36a0fe2d71f88030147eba80525"
     },
     {
       "path": "overrides/config/DistantHorizons.toml",

@@ -18,8 +18,7 @@
     }
   },
   "dependents": [
-    "1Bm2WDXm",
-    "SCAopByd"
+    "1Bm2WDXm"
   ],
   "clientSide": "required",
   "serverSide": "required"

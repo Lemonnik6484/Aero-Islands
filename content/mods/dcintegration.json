@@ -1,0 +1,23 @@
+{
+  "name": "Discord Integration",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "rbJ7eS5V",
+      "slug": "dcintegration",
+      "versionId": "Tvnxofx4",
+      "versionNumber": "3.0.7-1.21",
+      "filename": "dcintegration-neoforge-3.0.7-1.21.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/rbJ7eS5V/versions/Tvnxofx4/dcintegration-neoforge-3.0.7-1.21.jar",
+      "sha1": "8ca3d7391a2f5e63afa485819f588d8d35c7d36c",
+      "sha512": "d3236f5f5e6403e1251aac74b8947672a9247125c67d6834e17e2a34c9b1f91e6a50657251423a6e75e466e043b30d7c47831572aac884631140d83f0b34bd04",
+      "fileSize": 16223287
+    }
+  },
+  "dependents": [],
+  "clientSide": "unsupported",
+  "serverSide": "required"
+}
