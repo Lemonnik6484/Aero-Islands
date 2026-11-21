@@ -4,7 +4,7 @@
   "minecraft": "1.21.1",
   "loader": "neoforge",
   "loaderVersion": "21.1.267",
-  "channel": "beta",
+  "channel": "release",
   "datapacks": "datapacks",
   "overrideSides": {
     "mods/coolpeplaero-1.4.0.jar": "both",
