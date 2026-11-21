@@ -2073,10 +2073,6 @@
       "sha1": "b4b587cbd3fb0eb40cc1d182781aabbc178757cf"
     },
     {
-      "path": "overrides/mods/fastback-neoforge-0.31.2+1.21.1-prerelease.jar",
-      "sha1": "fb1d6041ef21f454228a91ca422f1025309f7452"
-    },
-    {
       "path": "overrides/mods/skylight-1.0.0.jar",
       "sha1": "4afe8879f5daf0c099ce08104c5c3f36a2a08b5a",
       "side": "client"
