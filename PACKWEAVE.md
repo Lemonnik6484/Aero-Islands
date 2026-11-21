@@ -1,6 +1,6 @@
 # Aero Islands
 
-**Minecraft 1.21.1 · NeoForge 21.1.267**, 182 mods (4 dependencies), 1 resource pack, 1 data pack
+**Minecraft 1.21.1 · NeoForge 21.1.267**, 184 mods (4 dependencies), 1 resource pack, 1 data pack
 
 ## Contents
 
@@ -13,9 +13,6 @@
 - [Ambient Environment](https://modrinth.com/project/ambient-environment) `18.0.0.2`
 - [Amendments](https://modrinth.com/project/amendments) `1.21-2.2.7`
 - [Analog Audio](https://modrinth.com/project/analog-audio) `0.1.5-hotfix.1+1.21.1`
-- [Antique Atlas 4](https://modrinth.com/project/antique-atlas-4) `3.1.2+1.21`
-- [Antique Atlas 4 Sky Islands Compat](https://modrinth.com/project/aa4-sky-islands) `1.0.12`
-- [Antique Transport](https://modrinth.com/project/antique-transport) `1.3.0`
 - [AppleSkin](https://modrinth.com/project/appleskin) `3.0.9+mc1.21`
 - [Architectury API](https://modrinth.com/project/architectury-api) `13.0.12+neoforge`
 - [AsyncParticles](https://modrinth.com/project/asyncparticles) `21.1.4.13`
@@ -34,7 +31,7 @@
 - [Chat Notify](https://modrinth.com/project/chatnotify) `2.6.9+1.21.1`
 - [Clear Void](https://modrinth.com/project/clear-void) `1.3.1`
 - [Client Sort](https://modrinth.com/project/clientsort) `3.89.2+1.21.1`
-- [Climbable Ropes for Create Aeronautics](https://www.curseforge.com/projects/1528764) `[2.2.2] Climbable Ropes`
+- [Climbable Ropes for Create Aeronautics](https://modrinth.com/project/create-aeronautics-climbable-rope) `2.2.3`
 - [Cloth Config API](https://modrinth.com/project/cloth-config) `15.0.140+neoforge`
 - [Concurrent Chunk Management Engine (NeoForge)](https://modrinth.com/project/c2me-neoforge) `0.4.0-alpha.0.124+1.21.1`
 - [Contraption Lights (Bi-directional Coloured Dynamic Lights)](https://modrinth.com/project/contraption-lights) `1.6.0`
@@ -43,6 +40,7 @@
 - [CoroUtil](https://modrinth.com/project/coroutil) `1.21.0-1.3.8`
 - [Cosmetic Armor Reworked](https://www.curseforge.com/projects/237307) `cosmeticarmorreworked-1.21.1-v1-neoforge.jar`
 - [Create](https://modrinth.com/project/create) `6.0.10+mc1.21.1`
+- [Create - Xaero's map](https://modrinth.com/project/create-xaeros-map) `1.4.2`
 - [Create Aeronautics](https://modrinth.com/project/create-aeronautics) `1.3.3+mc1.21.1`
 - [Create Aeronautics Lift Patch](https://modrinth.com/project/create-aeronautics-lift-patch) `1.1.0`
 - [Create Aeronautics: Gyro Stabilizers](https://modrinth.com/project/create-aeronautics-gyroscope-stabilizers) `1.2.2`
@@ -61,10 +59,12 @@
 - [Create: Linear Bearing](https://modrinth.com/project/linear-bearing) `1.3.5`
 - [Create: Liquid Fuel](https://modrinth.com/project/create-liquid-fuel) `3.0.0-1.21.1`
 - [Create: Nowheel](https://modrinth.com/project/create-nowheel) `2.1.1+1.21.1neoforge`
+- [Create: Oxidation](https://www.curseforge.com/projects/1810413) `Create: Oxidation - NeoForge - 1.21.1 - 1.0.0`
 - [Create: Radars](https://modrinth.com/project/create-radars) `5.1.1-1.21.1`
 - [Create: Sky](https://www.curseforge.com/projects/1809901) `createsky-0.1.0.jar`
 - [Create: Smoke & Buffers](https://modrinth.com/project/create-smoke-buffers) `0.1.0`
 - [Create: Tracks+](https://modrinth.com/project/create-tracks-plus) `1.0.6b7`
+- [Create: Waxed Up](https://www.curseforge.com/projects/1812731) `Create: Waxed Up - 1.21.1 - NeoForge - V1`
 - [CreateBetterFps](https://modrinth.com/project/createbetterfps) `1.1.5`
 - [Cubes Without Borders](https://modrinth.com/project/cubes-without-borders) `5.0.0+1.21.0.neoforge`
 - [Curios API](https://modrinth.com/project/curios) `9.6.0+1.21.1`
@@ -159,6 +159,7 @@
 - [Sable: Ragdolls](https://modrinth.com/project/sable-ragdolls) `0.8.1`
 - [Screenshot to Clipboard](https://modrinth.com/project/screenshot-to-clipboard) `1.0.10+neoforge`
 - [Searchables](https://modrinth.com/project/searchables) `1.0.2`
+- [SeeU](https://modrinth.com/project/seeu) `0.9.6`
 - [Separate Sable Render Distance (Create Aeronautics Addon)](https://modrinth.com/project/ssrd) `1.8.8`
 - [Signs Faster](https://modrinth.com/project/sf-plus) `1.0.1`
 - [Simple Rich Discord Presence](https://modrinth.com/project/srdp) `88.0.1`
@@ -174,7 +175,6 @@
 - [Strut Your Stuff (Struts)](https://modrinth.com/project/strut-your-stuff) `1.3.1`
 - [SuperMartijn642's Config Lib](https://modrinth.com/project/supermartijn642s-config-lib) `1.1.8-neoforge-mc1.21`
 - [Supplementaries](https://modrinth.com/project/supplementaries) `1.21.1-4.1.4`
-- [Surveyor Map Framework](https://modrinth.com/project/surveyor) `1.2.4+1.21`
 - [Sweety's Garden](https://modrinth.com/project/sweety-garden) `1.0.3b`
 - [Swinging Lanterns](https://modrinth.com/project/swinging-lanterns) `1.21.1-2.1.1`
 - [ToadLib](https://modrinth.com/project/toadlib) `1.3.2-1.21-1.21.1-neo`
@@ -187,6 +187,8 @@
 - [voxy](https://modrinth.com/project/voxy) `0.2.16-beta`
 - [Voxygen](https://modrinth.com/project/voxy-worldgen) `2.4.2`
 - [WildSprout: Plains](https://modrinth.com/project/wildsprout-plains) `1.3.0`
+- [Xaero's Minimap](https://modrinth.com/project/xaeros-minimap) `neoforge-1.21.1-26.6.0`
+- [Xaero's World Map](https://modrinth.com/project/xaeros-world-map) `neoforge-1.21.1-1.47.0`
 - [YetAnotherConfigLib (YACL)](https://modrinth.com/project/yacl) `3.8.2+1.21.1-neoforge`
 
 _Generated by packweave._

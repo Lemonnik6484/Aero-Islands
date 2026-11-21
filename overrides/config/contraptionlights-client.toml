@@ -40,7 +40,7 @@
 #Light takes the colour of the block it comes from.
 [coloredLight]
 	#Give every light-emitting block a colour, and blend those colours where lights overlap.
-	enableColoredLight = false
+	enableColoredLight = true
 	#How far a light's colour departs from white. 1.0 is the block's own colour, lower washes towards white, higher deepens it.
 	# Default: 1.0
 	# Range: 0.0 ~ 2.0

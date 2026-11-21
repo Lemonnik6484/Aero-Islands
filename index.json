@@ -9,10 +9,6 @@
       "sha1": "f41eaa65597ff2b1660da94a55e8015ec49632b1"
     },
     {
-      "path": "content/mods/aa4-sky-islands.json",
-      "sha1": "a424f3325b23dccee175a4e7ba734e5291233ca5"
-    },
-    {
       "path": "content/mods/accents.json",
       "sha1": "924a52e521edd1e93abbeab4d35795d8c9c8b7ca"
     },
@@ -47,14 +43,6 @@
     {
       "path": "content/mods/analog-audio.json",
       "sha1": "c4e59f953cda09e28623b20fac8d6babdfa95e72"
-    },
-    {
-      "path": "content/mods/antique-atlas-4.json",
-      "sha1": "3c03bcc17bae69bd960955e88fd2d0a1e73e110e"
-    },
-    {
-      "path": "content/mods/antique-transport.json",
-      "sha1": "beb44a4bffe06a8d44110fb9056c7d1b2755a121"
     },
     {
       "path": "content/mods/appleskin.json",
@@ -142,7 +130,7 @@
     },
     {
       "path": "content/mods/connector.json",
-      "sha1": "fd4ec4312284d976c8c2c38040feb31afc1f44c3"
+      "sha1": "4c2d0bc9ece109616e240ad12cae9c669c7d51b1"
     },
     {
       "path": "content/mods/contraption-lights.json",
@@ -170,7 +158,7 @@
     },
     {
       "path": "content/mods/create-aeronautics-climbable-ropes.json",
-      "sha1": "7c295c9431644afcd431767d9ec02b41881600ed"
+      "sha1": "a2e49f6af9bd03be06abcd9deebef67904ada854"
     },
     {
       "path": "content/mods/create-aeronautics-gyroscope-stabilizers.json",
@@ -186,7 +174,7 @@
     },
     {
       "path": "content/mods/create-aeronautics.json",
-      "sha1": "01c2942bc64d736438e9e1b20367617784421dcd"
+      "sha1": "dc305f0c375e3d10ebca3cc14f218198ec135ce0"
     },
     {
       "path": "content/mods/create-big-cannons.json",
@@ -221,6 +209,10 @@
       "sha1": "31609254edd38b3e79bf01e41114c1e1257149b5"
     },
     {
+      "path": "content/mods/create-oxidation.json",
+      "sha1": "f17515a1e1fe420d27fa6271fe09e3ff8f25aa49"
+    },
+    {
       "path": "content/mods/create-radars.json",
       "sha1": "f1beddfd3007213abfa3426e3261110669debdb4"
     },
@@ -245,8 +237,16 @@
       "sha1": "08d834ce95e7255968be9224b951c87ac5a7b0a1"
     },
     {
+      "path": "content/mods/create-waxed-up.json",
+      "sha1": "3e6ce781cfb5e59c745c706a037e5fc5ca670886"
+    },
+    {
+      "path": "content/mods/create-xaeros-map.json",
+      "sha1": "ec142ad3c61e1eb921bae1d0564110c2b25c8c12"
+    },
+    {
       "path": "content/mods/create.json",
-      "sha1": "b8dbeb9e68ff759ff0c5ee40e3d4c0245d38b0eb"
+      "sha1": "b1855a9319daeb29f1bc2f333aef71b32db81093"
     },
     {
       "path": "content/mods/createbetterfps.json",
@@ -346,7 +346,7 @@
     },
     {
       "path": "content/mods/forgified-fabric-api.json",
-      "sha1": "e95c0bb0166dc0c355cc3b4986e81b24e577deec"
+      "sha1": "741571b1ed66b7f4ce6ae29eb20973b1aa83c1a3"
     },
     {
       "path": "content/mods/fragmentum.json",
@@ -462,7 +462,7 @@
     },
     {
       "path": "content/mods/mcqoy.json",
-      "sha1": "46a5bf251723a3c1bce3149f339bf848910f3b95"
+      "sha1": "4e5b30d2400a680bb76fb82d4b5f8b344be648f0"
     },
     {
       "path": "content/mods/melody.json",
@@ -618,7 +618,7 @@
     },
     {
       "path": "content/mods/sable.json",
-      "sha1": "a437573ec02124af5e74e458818ad29f0fd92259"
+      "sha1": "0248911f68d6109379f59694760a9e24bb52647a"
     },
     {
       "path": "content/mods/screenshot-to-clipboard.json",
@@ -627,6 +627,10 @@
     {
       "path": "content/mods/searchables.json",
       "sha1": "edb3eb1708af83391dfaf0ac87dad0bf59632069"
+    },
+    {
+      "path": "content/mods/seeu.json",
+      "sha1": "d809e064d213e703b80da3649012a7fd55db7813"
     },
     {
       "path": "content/mods/sf-plus.json",
@@ -685,10 +689,6 @@
       "sha1": "8a3fb58e66f9380de5eb5abc06615264b7954176"
     },
     {
-      "path": "content/mods/surveyor.json",
-      "sha1": "329624817d8bda330b21a11912a8d757651e3748"
-    },
-    {
       "path": "content/mods/sweety-garden.json",
       "sha1": "ef33681d399f09b35b8e426c77ed34465206d232"
     },
@@ -710,7 +710,7 @@
     },
     {
       "path": "content/mods/veil.json",
-      "sha1": "0ab2fd9647f6473dbffef6d34bc92669d6b3f02e"
+      "sha1": "6b445cd9e6c725e13c339c8de389ce076dc60755"
     },
     {
       "path": "content/mods/verdant-mod.json",
@@ -737,8 +737,16 @@
       "sha1": "db80c5032907296ecf50566e1116fd362b6cf2e7"
     },
     {
+      "path": "content/mods/xaeros-minimap.json",
+      "sha1": "1b13e2f1961c715ee8498afa8bebe6319ea4cbef"
+    },
+    {
+      "path": "content/mods/xaeros-world-map.json",
+      "sha1": "76dbbf4b247c9ebdf50705cc8427a5bad03012dd"
+    },
+    {
       "path": "content/mods/yacl.json",
-      "sha1": "66fe5931d0ffecc3bd1a6e079767c89ec378c313"
+      "sha1": "d0a4d13b0c62852b77902ff9a03b5fa79016c4b8"
     },
     {
       "path": "content/mods/yarrp.json",
@@ -858,7 +866,7 @@
     },
     {
       "path": "overrides/config/asyncparticles/asyncparticles-mixin.properties",
-      "sha1": "9eff6673050e2d3eb4820940ffddcd2d263d1fa7"
+      "sha1": "a5f266848e5e8ca8ab33e8a4ba9428b4f9b6edbf"
     },
     {
       "path": "overrides/config/asyncparticles/asyncparticles.json",
@@ -946,7 +954,7 @@
     },
     {
       "path": "overrides/config/contraptionlights-client.toml",
-      "sha1": "41be958bc5e6c5683f5aba3af6fa0ce1f9cfe4a7"
+      "sha1": "6b3f01064e8d2f373ab7162e84736d6e8d30be24"
     },
     {
       "path": "overrides/config/contraptionlights-server.toml",
@@ -1027,6 +1035,10 @@
     {
       "path": "overrides/config/createbigcannons-server.toml",
       "sha1": "4bf6eb6d04a58a4d82c6b74897e14fbcb9416e99"
+    },
+    {
+      "path": "overrides/config/createoxidized-common.toml",
+      "sha1": "bb6162380590e748f8093eecd45a598d1863b01c"
     },
     {
       "path": "overrides/config/createskys-client.toml",
@@ -1562,7 +1574,7 @@
     },
     {
       "path": "overrides/config/respackopts/_respackopts.conf",
-      "sha1": "a0704fa06f4228bbead03d2925fed5ca88d4d84d"
+      "sha1": "2f86c375605ccaaa40e96eb3c959f75a41454326"
     },
     {
       "path": "overrides/config/ritchiesprojectilelib-server.toml",
@@ -1625,6 +1637,14 @@
       "sha1": "23785c5e1dcff145ede092ad5d8914578c5491a4"
     },
     {
+      "path": "overrides/config/seeu-client.json",
+      "sha1": "db3f78eaafbc854339182a9cb5155076f248d2e0"
+    },
+    {
+      "path": "overrides/config/seeu-server.json",
+      "sha1": "aa4b563aaae1fe970f35dea9c2096fd7a48c96e8"
+    },
+    {
       "path": "overrides/config/simulated-client.toml",
       "sha1": "5ecd38c0dc2dc7245bbbb7ad0187a1196f816d2f"
     },
@@ -1642,7 +1662,7 @@
     },
     {
       "path": "overrides/config/sodium-extra-options.json",
-      "sha1": "353428c5411f2bd9fa4063d545619f002d15bb22"
+      "sha1": "85a2661a4039440c10e35cf864f2b1a189c4db8f"
     },
     {
       "path": "overrides/config/sodium-extra.properties",
@@ -1654,7 +1674,7 @@
     },
     {
       "path": "overrides/config/sodium-options.json",
-      "sha1": "d765f2ae5a5f66d8959683081dcb56142cf861fa"
+      "sha1": "f94c57d0a992e4201e71401c82e2de166bb9bd48"
     },
     {
       "path": "overrides/config/sound_physics_aeronautics/.spra-config-schema.properties",
@@ -1833,6 +1853,10 @@
       "sha1": "a793a7cc1b8bc0cb4730998b594fbaecda730409"
     },
     {
+      "path": "overrides/config/waxedup-common.toml",
+      "sha1": "8c5b7ba8c131bf76d1183ce748ca4527f251fdcd"
+    },
+    {
       "path": "overrides/config/whitenoise-client.toml",
       "sha1": "180751e56fb5890ee44d09edc2f91224ea80300f"
     },
@@ -1841,12 +1865,80 @@
       "sha1": "183940e7b158272e6986a686c4fd25a8232477fc"
     },
     {
+      "path": "overrides/config/xaero/lib/client.cfg",
+      "sha1": "45cccfb3eb8a7a784bd4c29539e5558445f90bcf"
+    },
+    {
+      "path": "overrides/config/xaero/lib/common.cfg",
+      "sha1": "8ae8d6ea0330bec2c0db28b109a12443708f1e7b"
+    },
+    {
+      "path": "overrides/config/xaero/lib/profiles/default.cfg",
+      "sha1": "253bac0f5181c8db8e488832c46a8d40018650cf"
+    },
+    {
+      "path": "overrides/config/xaero/lib/server_profiles/default.cfg",
+      "sha1": "8efdb5a6c4f4f41a36b531d54592321012491fb2"
+    },
+    {
+      "path": "overrides/config/xaero/minimap/client.cfg",
+      "sha1": "a18a4a75d6f033c35ecde56c14306760715a3a19"
+    },
+    {
+      "path": "overrides/config/xaero/minimap/common.cfg",
+      "sha1": "de09f45b29b264432b80d34bb0c336bd552fb9ee"
+    },
+    {
+      "path": "overrides/config/xaero/minimap/default_radar_categories_client.json",
+      "sha1": "e058f3dfac7d6a3441196628f1aa93616721ecce"
+    },
+    {
+      "path": "overrides/config/xaero/minimap/default_radar_categories_server.json",
+      "sha1": "c247867b018103357eb4015059fe209cc562de51"
+    },
+    {
+      "path": "overrides/config/xaero/minimap/profiles/default.cfg",
+      "sha1": "f2f6ac1fbc53ce3a08e002735fefd93bed2db8ab"
+    },
+    {
+      "path": "overrides/config/xaero/minimap/profiles/info_display_config/default.cfg.txt",
+      "sha1": "2b8d12369471b57bfa6426254b2170bc8e6b3b88"
+    },
+    {
+      "path": "overrides/config/xaero/minimap/server_profiles/default.cfg",
+      "sha1": "8efdb5a6c4f4f41a36b531d54592321012491fb2"
+    },
+    {
+      "path": "overrides/config/xaero/world-map/client.cfg",
+      "sha1": "27b70648a1bccd0561ae94c0a1a978f283893dea"
+    },
+    {
+      "path": "overrides/config/xaero/world-map/common.cfg",
+      "sha1": "c3c64f24c8d33940264147473e4a1c8ba5c219ff"
+    },
+    {
+      "path": "overrides/config/xaero/world-map/profiles/default.cfg",
+      "sha1": "2f1680b1a14bf8cc756c5911c9b9f90e119a365e"
+    },
+    {
+      "path": "overrides/config/xaero/world-map/server_profiles/default.cfg",
+      "sha1": "8efdb5a6c4f4f41a36b531d54592321012491fb2"
+    },
+    {
+      "path": "overrides/config/xaerohud.txt",
+      "sha1": "7235e01cb97f766d1411ce97cdf65329297093c2"
+    },
+    {
+      "path": "overrides/config/xaeropatreon.txt",
+      "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
       "path": "overrides/config/yacl.json5",
       "sha1": "622920f29084efcd3a8d0b2a0ea0756fece182d2"
     },
     {
       "path": "overrides/config/zfastnoise.mixin.properties",
-      "sha1": "6bf78acc38ee9ed5e36abbe09e9a6cdeae32e095"
+      "sha1": "0ed1f4c96bcdfe61337fceecb62ca2766f098fe9"
     },
     {
       "path": "overrides/datapacks/void_c.zip",
@@ -1862,7 +1954,7 @@
     },
     {
       "path": "overrides/icon.png",
-      "sha1": "31bcc47fbc1725a6b4312c22e4d210f50cf82a01"
+      "sha1": "5a72150d4f7f30503eb3acc4c246ef6207bf4008"
     },
     {
       "path": "overrides/kubejs/README.txt",
@@ -1977,8 +2069,8 @@
       "sha1": "6a3f00760e2cfb8d858daf2d0287fb80d02d1012"
     },
     {
-      "path": "overrides/mods/coolpeplaero-1.5.2.jar",
-      "sha1": "16cf71184af53f16cbbaa8bd428ad4002ba4df9d"
+      "path": "overrides/mods/coolpeplaero-1.5.4.jar",
+      "sha1": "b4b587cbd3fb0eb40cc1d182781aabbc178757cf"
     },
     {
       "path": "overrides/mods/fastback-neoforge-0.31.2+1.21.1-prerelease.jar",

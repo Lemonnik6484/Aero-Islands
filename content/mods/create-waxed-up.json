@@ -1,0 +1,22 @@
+{
+  "name": "Create: Waxed Up",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "curseforge",
+  "sources": {
+    "curseforge": {
+      "id": "1812731",
+      "slug": "create-waxed-up",
+      "versionId": "9673868",
+      "versionNumber": "Create: Waxed Up - 1.21.1 - NeoForge - V1",
+      "filename": "create-waxed-up-1.21.1-neoforge-1.0.0.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/9673/868/create-waxed-up-1.21.1-neoforge-1.0.0.jar",
+      "sha1": "f8e8522e38bc0d03bff059270afc83b393fcfe50",
+      "fileSize": 39973
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

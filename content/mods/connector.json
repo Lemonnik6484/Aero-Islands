@@ -18,9 +18,7 @@
     }
   },
   "dependents": [
-    "3g5zxVME",
-    "I2xXWNEX",
-    "KW2DN49D"
+    "3g5zxVME"
   ],
   "clientSide": "optional",
   "serverSide": "optional"

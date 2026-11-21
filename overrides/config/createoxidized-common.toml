@@ -1,0 +1,10 @@
+#copper items were always a meme and a cheap way of saying 'i added 9000 items', so if you (understandably) dont like every oxidised pipe variant in history plus the waxed ones in your inventory, consider setting thsi to true. Every oxidised part simply drops as its original state.
+clutterReducer3000 = false
+
+[oxidation]
+	#Master switch for Create-part oxidation, waxing, scraping, and lightning cleaning.
+	enabled = true
+	#Multiplier for vanilla copper's oxidation attempt rate. 0 stops aging; 1 is vanilla speed.
+	# Default: 1.0
+	# Range: 0.0 ~ 100.0
+	speedFactor = 1.0

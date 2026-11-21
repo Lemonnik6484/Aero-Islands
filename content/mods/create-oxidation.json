@@ -1,0 +1,22 @@
+{
+  "name": "Create: Oxidation",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "curseforge",
+  "sources": {
+    "curseforge": {
+      "id": "1810413",
+      "slug": "create-oxidation",
+      "versionId": "9682933",
+      "versionNumber": "Create: Oxidation - NeoForge - 1.21.1 - 1.0.0",
+      "filename": "createoxidized-neoforge-1.21.1-1.0.0.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/9682/933/createoxidized-neoforge-1.21.1-1.0.0.jar",
+      "sha1": "bfe8d72417ac2269f328c19e000993b8768069c7",
+      "fileSize": 819014
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

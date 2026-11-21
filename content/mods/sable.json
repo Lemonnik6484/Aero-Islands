@@ -18,7 +18,6 @@
     }
   },
   "dependents": [
-    "1528764",
     "AYL8Vuuk",
     "AlVH5pr8",
     "E8eHF2Yl",
@@ -29,6 +28,7 @@
     "ZTwCjE7O",
     "cePRJjRZ",
     "fJ183v3D",
+    "jImqv1M5",
     "nUwwB5kx",
     "oWaK0Q19",
     "uetGbPKW",
@@ -37,7 +37,6 @@
   ],
   "optionalDependents": [
     "BLu2Yqfq",
-    "KW2DN49D",
     "gUdYw8o3",
     "iMAVG2nH",
     "vvgTqF0n"
