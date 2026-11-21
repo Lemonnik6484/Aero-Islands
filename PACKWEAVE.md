@@ -1,6 +1,6 @@
 # Aero Islands
 
-**Minecraft 1.21.1 · NeoForge 21.1.267**, 180 mods (4 dependencies), 1 resource pack, 1 data pack
+**Minecraft 1.21.1 · NeoForge 21.1.267**, 181 mods (4 dependencies), 1 resource pack, 1 data pack
 
 ## Contents
 
@@ -43,7 +43,7 @@
 - [CoroUtil](https://modrinth.com/project/coroutil) `1.21.0-1.3.8`
 - [Cosmetic Armor Reworked](https://www.curseforge.com/projects/237307) `cosmeticarmorreworked-1.21.1-v1-neoforge.jar`
 - [Create](https://modrinth.com/project/create) `6.0.10+mc1.21.1`
-- [Create Aeronautics](https://modrinth.com/project/create-aeronautics) `1.3.2+mc1.21.1`
+- [Create Aeronautics](https://modrinth.com/project/create-aeronautics) `1.3.3+mc1.21.1`
 - [Create Aeronautics Lift Patch](https://modrinth.com/project/create-aeronautics-lift-patch) `1.1.0`
 - [Create Aeronautics: Gyro Stabilizers](https://modrinth.com/project/create-aeronautics-gyroscope-stabilizers) `1.2.2`
 - [Create Aeronautics: Portable Engine Liquid Fuel](https://modrinth.com/project/create-aeronautics-portable-engine-liquid-fuel) `2.0.0`
@@ -67,7 +67,7 @@
 - [Create: Tracks+](https://modrinth.com/project/create-tracks-plus) `1.0.6b7`
 - [CreateBetterFps](https://modrinth.com/project/createbetterfps) `1.1.5`
 - [Cubes Without Borders](https://modrinth.com/project/cubes-without-borders) `5.0.0+1.21.0.neoforge`
-- [Curios API](https://modrinth.com/project/curios) `9.5.1+1.21.1`
+- [Curios API](https://modrinth.com/project/curios) `9.6.0+1.21.1`
 - [Desire](https://modrinth.com/project/desiremod) `1.1.1-1.21.1`
 - [Diabolical Islands](https://modrinth.com/project/diabolical-islands) `1.0.0+mod`
 - [DragonLib](https://modrinth.com/project/dragonlib) `3.0.29+1.21.1-neoforge`
@@ -88,12 +88,13 @@
 - [FerriteCore](https://modrinth.com/project/ferrite-core) `7.0.3-neoforge`
 - [Figura](https://modrinth.com/project/figura) `0.1.6+1.21.1`
 - [Flashback](https://modrinth.com/project/flashback) `0.39.10`
-- [Flashback Neoforge Fixed](https://modrinth.com/project/flashback-neoforge-fixed) `1.0.18`
+- [Flashback Neoforge Fixed](https://modrinth.com/project/flashback-neoforge-fixed) `1.0.19`
 - [Forgified Fabric API](https://modrinth.com/project/forgified-fabric-api) `0.116.15+2.3.6+1.21.1`
 - [Fragmentum](https://modrinth.com/project/fragmentum) `5.4.0`
 - [Fusion (Connected Textures)](https://modrinth.com/project/fusion-connected-textures) `1.3.16-neoforge-mc1.21.1`
 - [Fzzy Config](https://modrinth.com/project/fzzy-config) `0.7.7+fix1+1.21+neoforge`
 - [Geckolib](https://modrinth.com/project/geckolib) `4.9.3`
+- [GLA](https://modrinth.com/project/gla) `1.0.0`
 - [GPUBooster](https://modrinth.com/project/gputape) `1.3.2-1.21-1.21.1-neo`
 - [Immersive Overlays](https://modrinth.com/project/immersive-overlays) `1.8.7+1.21.1-neoforge`
 - [Inventorio](https://modrinth.com/project/inventorio) `1.11.0+1.21.1`
@@ -102,7 +103,7 @@
 - [Jade 🔍](https://modrinth.com/project/jade) `15.10.6+neoforge`
 - [JB Mono](https://modrinth.com/project/jb-mono) `1.0`
 - [Just Dandy](https://modrinth.com/project/just-dandy) `3.0.5`
-- [Just Enough Items (JEI)](https://modrinth.com/project/jei) `19.70.0.469`
+- [Just Enough Items (JEI)](https://modrinth.com/project/jei) `19.71.0.475`
 - [Just Zoom](https://modrinth.com/project/just-zoom) `3.1.0-1.21.1-neoforge`
 - [Keybind Atlas](https://modrinth.com/project/keybind-atlas) `3.0.0`
 - [Konkrete](https://modrinth.com/project/konkrete) `1.9.9-1.21-neoforge`
@@ -115,12 +116,11 @@
 - [Lithium](https://modrinth.com/project/lithium) `mc1.21.1-0.15.4-neoforge`
 - [Lithostitched](https://modrinth.com/project/lithostitched) `1.8.1-neoforge-21.1`
 - [Load My F***ing Tags](https://modrinth.com/project/lmft) `1.1.1+1.21.9`
-- [LOD Server Support](https://modrinth.com/project/lod-server-support) `v0.23.0-beta.1+neoforge+mc1.21.1`
 - [Manual Labour](https://modrinth.com/project/manual-labour) `2.6.0-1.21.1`
 - [McQoy](https://modrinth.com/project/mcqoy) `0.4.1+neo-1.21`
 - [Melody](https://modrinth.com/project/melody) `1.0.10-1.21-neoforge`
 - [Moonlight Lib](https://modrinth.com/project/moonlight) `1.21.1-3.8.3`
-- [MossyLib](https://modrinth.com/project/mossylib) `1.6.0+1.21.1+neoforge`
+- [MossyLib](https://modrinth.com/project/mossylib) `2.0.0+1.21.1+neoforge`
 - [Mouse Tweaks](https://modrinth.com/project/mouse-tweaks) `1.21-2.26.1-neoforge`
 - [MRU](https://modrinth.com/project/mru) `1.0.41+1.21.1-neoforge`
 - [Neo Bee Fix](https://modrinth.com/project/neo-bee-fix) `2.0.1`
@@ -140,7 +140,7 @@
 - [Presence Footsteps x Sable (Aeronautics Compat)](https://modrinth.com/project/presence-footsteps-x-sable) `1.0`
 - [Prickle](https://modrinth.com/project/prickle) `21.1.11`
 - [Reese's Sodium Options](https://modrinth.com/project/reeses-sodium-options) `mc1.21.1-2.2.4+neoforge`
-- [Reliable Advancements](https://modrinth.com/project/reliable-advancements) `6.3.5+1.21.1-neoforge`
+- [Reliable Advancements](https://modrinth.com/project/reliable-advancements) `6.4.0+1.21.1-neoforge`
 - [Reliable EMI (REMI)](https://modrinth.com/project/reliable-emi) `4.9.0-1.21.1-neoforge`
 - [Reliable Gliders](https://modrinth.com/project/reliable-gliders) `2.1.0+1.21.1-neoforge`
 - [Reliable Recipes](https://modrinth.com/project/reliable-recipes) `3.9.0+1.21.1-neoforge`
@@ -150,7 +150,7 @@
 - [Respackopts](https://modrinth.com/project/respackopts) `4.14.0+1.21.1.forge.4`
 - [Rhino](https://modrinth.com/project/rhino) `2101.2.8-build.91+Rhino-1.21`
 - [Ritchie's Projectile Library](https://modrinth.com/project/rpl) `2.1.2`
-- [Roxy](https://modrinth.com/project/roxy) `0.4.1-neoforge+mc1.21.1`
+- [Roxy](https://modrinth.com/project/roxy) `0.4.2-neoforge+mc1.21.1`
 - [Sable](https://modrinth.com/project/sable) `2.0.6+mc1.21.1`
 - [Sable CleanUp](https://modrinth.com/project/sable-cleanup) `0.4.0`
 - [Sable Pathfinder](https://modrinth.com/project/sable-pathfinder) `1.4.0`
@@ -173,7 +173,7 @@
 - [Structurify - Structure Control](https://modrinth.com/project/structurify) `neoforge-2.0.43+mc1.21.1`
 - [Strut Your Stuff (Struts)](https://modrinth.com/project/strut-your-stuff) `1.3.1`
 - [SuperMartijn642's Config Lib](https://modrinth.com/project/supermartijn642s-config-lib) `1.1.8-neoforge-mc1.21`
-- [Supplementaries](https://modrinth.com/project/supplementaries) `1.21.1-4.1.1`
+- [Supplementaries](https://modrinth.com/project/supplementaries) `1.21.1-4.1.4`
 - [Surveyor Map Framework](https://modrinth.com/project/surveyor) `1.2.4+1.21`
 - [Sweety's Garden](https://modrinth.com/project/sweety-garden) `1.0.3b`
 - [ToadLib](https://modrinth.com/project/toadlib) `1.3.2-1.21-1.21.1-neo`
@@ -184,6 +184,7 @@
 - [vista](https://modrinth.com/project/vista_tv) `1.21.1-5.6.9`
 - [Void Water](https://modrinth.com/project/void-water) `1.0.2`
 - [voxy](https://modrinth.com/project/voxy) `0.2.16-beta`
+- [Voxygen](https://modrinth.com/project/voxy-worldgen) `2.4.2`
 - [WildSprout: Plains](https://modrinth.com/project/wildsprout-plains) `1.3.0`
 - [YetAnotherConfigLib (YACL)](https://modrinth.com/project/yacl) `3.8.2+1.21.1-neoforge`
 

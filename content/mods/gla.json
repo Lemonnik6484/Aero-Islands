@@ -1,0 +1,23 @@
+{
+  "name": "GLA",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "I8Eiesvj",
+      "slug": "gla",
+      "versionId": "fiNiIJEn",
+      "versionNumber": "1.0.0",
+      "filename": "gla-1.0.0.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/I8Eiesvj/versions/fiNiIJEn/gla-1.0.0.jar",
+      "sha1": "e4447958989b34df53965e5b189b2e8c25a43fb5",
+      "sha512": "7155be18e62bf6cfadff99474da3db80bc2da1cd67b13c8f6dcf63a0833789cb3f76d27bb9dda711e9249b95d8a5dac394f0004be66bbd5e782f9233ca862cf8",
+      "fileSize": 3902932
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

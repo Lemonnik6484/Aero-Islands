@@ -8,13 +8,13 @@
     "modrinth": {
       "id": "QaOcZcLU",
       "slug": "flashback-neoforge-fixed",
-      "versionId": "6lI0Ig17",
-      "versionNumber": "1.0.18",
-      "filename": "flashback_neoforge_fixed-1.0.18.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/QaOcZcLU/versions/6lI0Ig17/flashback_neoforge_fixed-1.0.18.jar",
-      "sha1": "ad87bc7b599ede4575933093e30c2e4c1a8f8f43",
-      "sha512": "dea893742d4b61fa457785b52533ac39edb24d74f7edb036ff5fed7f1fe56d46d0f9211584add48769d028bcd655f0f4c5f254698db403ed3fec46c4695bfe9b",
-      "fileSize": 264036
+      "versionId": "Fglj63ER",
+      "versionNumber": "1.0.19",
+      "filename": "flashback_neoforge_fixed-1.0.19.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/QaOcZcLU/versions/Fglj63ER/flashback_neoforge_fixed-1.0.19.jar",
+      "sha1": "4b881b4f6be3f3b6a38c01c63fd5a5b87bf42274",
+      "sha512": "61e59bfe229bbc7d5bbeee64ce499cab6739220e60e31d2d9aa13dd043c3e1dd456c7601731816710794a242a427191bddede733293bf976f4afa3a34bed50e2",
+      "fileSize": 265105
     }
   },
   "dependents": [],
