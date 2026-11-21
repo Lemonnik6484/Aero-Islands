@@ -20,6 +20,9 @@
   "dependents": [
     "Ap78bKTp"
   ],
+  "optionalDependents": [
+    "fJ183v3D"
+  ],
   "clientSide": "required",
   "serverSide": "unsupported"
 }

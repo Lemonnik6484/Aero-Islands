@@ -605,10 +605,6 @@
       "sha1": "efb9835b44880dac0a5bb9b8606d8fc15093c245"
     },
     {
-      "path": "content/mods/sable-far-and-wide.json",
-      "sha1": "14ec2bc9b2813f5f631c53350caecbd1e5b9d456"
-    },
-    {
       "path": "content/mods/sable-pathfinder.json",
       "sha1": "7f948e436a7b411f2e8f28d47e63abdae42b5b81"
     },
@@ -622,7 +618,7 @@
     },
     {
       "path": "content/mods/sable.json",
-      "sha1": "1d43e521ba460affbf8f65a737d8b07d49fbad2a"
+      "sha1": "a437573ec02124af5e74e458818ad29f0fd92259"
     },
     {
       "path": "content/mods/screenshot-to-clipboard.json",
@@ -650,7 +646,7 @@
     },
     {
       "path": "content/mods/sodium.json",
-      "sha1": "848d40aa0e6fe9a3accb052f6f5753a49ab4ce1e"
+      "sha1": "891871a6e35e61659570a19f5f88ba97f12fad64"
     },
     {
       "path": "content/mods/sound-physics-aeronautics.json",
@@ -667,6 +663,10 @@
     {
       "path": "content/mods/srdp.json",
       "sha1": "4d68fc357f1bc66e47c180c955be06293039d81d"
+    },
+    {
+      "path": "content/mods/ssrd.json",
+      "sha1": "8c7c7c04bb94943f7aeb71922776e850fee157ca"
     },
     {
       "path": "content/mods/structurify.json",
@@ -721,12 +721,16 @@
       "sha1": "2e72f0bf22f75ef71cbbe41cc65248ba4d0b6ac0"
     },
     {
+      "path": "content/mods/voxy-fog-addon-neoforge.json",
+      "sha1": "dc1542c3492018e87efbfbf76a9248db69791f56"
+    },
+    {
       "path": "content/mods/voxy-worldgen.json",
       "sha1": "e0f9aec040e35e321dcecf1214ae9c559b9f7fe9"
     },
     {
       "path": "content/mods/voxy.json",
-      "sha1": "26de1813fd3089fb7f64deb93bcaf0e2c595fbfd"
+      "sha1": "61d7ba5c2fdb866e19f368e9334eac5366657dfe"
     },
     {
       "path": "content/mods/wildsprout-plains.json",
@@ -793,6 +797,10 @@
       "sha1": "347463c9de0e20742ecb9935ea2cf36b7d0ede51"
     },
     {
+      "path": "overrides/config/aeronautics-client.toml",
+      "sha1": "bfeef9cdbcd934c4bbce58f3e25dd303845de5ee"
+    },
+    {
       "path": "overrides/config/aeronautics-server.toml",
       "sha1": "9ff9afc81d156c3f8db499ad667131646ce71e43"
     },
@@ -850,7 +858,7 @@
     },
     {
       "path": "overrides/config/asyncparticles/asyncparticles-mixin.properties",
-      "sha1": "ee65efb2ca28b5a1e137bcf7ed62b8704dac885b"
+      "sha1": "e89f084a0c278cffb00d2509f106348ce369a731"
     },
     {
       "path": "overrides/config/asyncparticles/asyncparticles.json",
@@ -1381,6 +1389,10 @@
       "sha1": "4d66f0f9b463792e9ed36780928d349421ff9ab2"
     },
     {
+      "path": "overrides/config/mossylib.json5",
+      "sha1": "9436c155551058d7c2dd51ce355b5498e827851c"
+    },
+    {
       "path": "overrides/config/neoforge-client.toml",
       "sha1": "90754349a7bc416f9242df9a24b821d8beccc15d"
     },
@@ -1534,7 +1546,7 @@
     },
     {
       "path": "overrides/config/reliable_remover.json",
-      "sha1": "948d4bebee8e159d61b87485f9329a46227c7a15"
+      "sha1": "87ade67be449eea3a02a9e8fd78cb82bd1ed4d13"
     },
     {
       "path": "overrides/config/reliable_remover/removal_example.json.disabled",
@@ -1542,7 +1554,7 @@
     },
     {
       "path": "overrides/config/remi/remi.json",
-      "sha1": "80592a5070d0823c6dd7f630023be8d764f41e98"
+      "sha1": "d4da22a86bdf3839c13e693b54430960ac03549f"
     },
     {
       "path": "overrides/config/respackopts/_respackopts.conf",
@@ -1551,6 +1563,10 @@
     {
       "path": "overrides/config/ritchiesprojectilelib-server.toml",
       "sha1": "0ae8dc559b5cbec7cfa6a6a37359c4ced780cc26"
+    },
+    {
+      "path": "overrides/config/roxy-compat.json",
+      "sha1": "84f4035371b43affb3087d438ab4a6c1e4570d74"
     },
     {
       "path": "overrides/config/roxy-warning-screen.json",
@@ -1669,12 +1685,12 @@
       "sha1": "4b398e9c25b22a4612d63df48f7468e9eeaa0df2"
     },
     {
-      "path": "overrides/config/structurify.json",
-      "sha1": "3e26e8c0dc56f9378d46256435a3239360fa4d13"
+      "path": "overrides/config/ssrd-common.toml",
+      "sha1": "2e155ce6ed86ca3558a92c408be57a54d349eba1"
     },
     {
-      "path": "overrides/config/structurify/structurify_backup_2026-11-03_23-32-33.json",
-      "sha1": "5933945a685ba4c2952a5d4f5d03fdc2332c5c7b"
+      "path": "overrides/config/structurify.json",
+      "sha1": "488cb8a9937472734e76c119ac12ac464d7a1d01"
     },
     {
       "path": "overrides/config/structurify/structurify_backup_2026-11-03_23-32-43.json",
@@ -1691,6 +1707,10 @@
     {
       "path": "overrides/config/structurify/structurify_backup_2026-11-04_22-02-28.json",
       "sha1": "813d30d6343a9835104ea5a904acc3c823892692"
+    },
+    {
+      "path": "overrides/config/structurify/structurify_backup_2026-11-21_14-05-07.json",
+      "sha1": "3e26e8c0dc56f9378d46256435a3239360fa4d13"
     },
     {
       "path": "overrides/config/supplementaries-client.toml",
@@ -1789,6 +1809,14 @@
       "sha1": "9f26086e3d9b1c9791aeab2d3ed7e309863d1128"
     },
     {
+      "path": "overrides/config/voxyfog-common.toml",
+      "sha1": "53e66d786f3a972ee6570328be3af69e2fa34e42"
+    },
+    {
+      "path": "overrides/config/voxyworldgenv2.json",
+      "sha1": "a793a7cc1b8bc0cb4730998b594fbaecda730409"
+    },
+    {
       "path": "overrides/config/whitenoise-client.toml",
       "sha1": "180751e56fb5890ee44d09edc2f91224ea80300f"
     },
@@ -1802,7 +1830,7 @@
     },
     {
       "path": "overrides/config/zfastnoise.mixin.properties",
-      "sha1": "c09eeaf64fc6d8e6b037881a6d6e67ee23f7e04c"
+      "sha1": "bf2efa5b09e1e6c47ed5484a51ef22b2a797b5f1"
     },
     {
       "path": "overrides/datapacks/void_c.zip",

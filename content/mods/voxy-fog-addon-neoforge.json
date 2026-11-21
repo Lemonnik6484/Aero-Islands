@@ -1,0 +1,23 @@
+{
+  "name": "Voxy Fog Addon Neoforge",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "lrtCTD1d",
+      "slug": "voxy-fog-addon-neoforge",
+      "versionId": "rpcyXCcP",
+      "versionNumber": "1.1.1",
+      "filename": "voxyfog-1.1.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/lrtCTD1d/versions/rpcyXCcP/voxyfog-1.1.1.jar",
+      "sha1": "105b9cdcce10994af6d1bbb80ee0e2e7168fc870",
+      "sha512": "4e718b2b0fdfce77cdf3ef1833436d86d2bb0077a91c9bd8f49e2f76367b9c5b8acfa8baccc012eab8136fb92fc1aabf03f409bb0acbf535a0cc98497901e859",
+      "fileSize": 196902
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

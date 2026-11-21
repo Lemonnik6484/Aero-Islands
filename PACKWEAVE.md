@@ -1,6 +1,6 @@
 # Aero Islands
 
-**Minecraft 1.21.1 · NeoForge 21.1.267**, 181 mods (4 dependencies), 1 resource pack, 1 data pack
+**Minecraft 1.21.1 · NeoForge 21.1.267**, 182 mods (4 dependencies), 1 resource pack, 1 data pack
 
 ## Contents
 
@@ -155,11 +155,11 @@
 - [Sable CleanUp](https://modrinth.com/project/sable-cleanup) `0.4.0`
 - [Sable Pathfinder](https://modrinth.com/project/sable-pathfinder) `1.4.0`
 - [Sable: Cool Rain](https://modrinth.com/project/sable-cool-rain) `1.0.1+1.21.1+neoforge`
-- [Sable: Far and Wide (Create Aeronautics)](https://modrinth.com/project/sable-far-and-wide) `1.0.0`
 - [Sable: Ragdoll Corpse](https://modrinth.com/project/sable-ragdoll-corpse) `0.4.0`
 - [Sable: Ragdolls](https://modrinth.com/project/sable-ragdolls) `0.8.1`
 - [Screenshot to Clipboard](https://modrinth.com/project/screenshot-to-clipboard) `1.0.10+neoforge`
 - [Searchables](https://modrinth.com/project/searchables) `1.0.2`
+- [Separate Sable Render Distance (Create Aeronautics Addon)](https://modrinth.com/project/ssrd) `1.8.8`
 - [Signs Faster](https://modrinth.com/project/sf-plus) `1.0.1`
 - [Simple Rich Discord Presence](https://modrinth.com/project/srdp) `88.0.1`
 - [Simple Voice Chat](https://modrinth.com/project/simple-voice-chat) `neoforge-1.21.1-2.6.27`
@@ -184,6 +184,7 @@
 - [vista](https://modrinth.com/project/vista_tv) `1.21.1-5.6.9`
 - [Void Water](https://modrinth.com/project/void-water) `1.0.2`
 - [voxy](https://modrinth.com/project/voxy) `0.2.16-beta`
+- [Voxy Fog Addon Neoforge](https://modrinth.com/project/voxy-fog-addon-neoforge) `1.1.1`
 - [Voxygen](https://modrinth.com/project/voxy-worldgen) `2.4.2`
 - [WildSprout: Plains](https://modrinth.com/project/wildsprout-plains) `1.3.0`
 - [YetAnotherConfigLib (YACL)](https://modrinth.com/project/yacl) `3.8.2+1.21.1-neoforge`

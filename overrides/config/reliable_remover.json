@@ -27,6 +27,17 @@
   "blacklistedItems": [
     "create_simulated_additions:ckbgv_4_engine",
     "create_simulated_additions:ckbg_mid_drive_engine",
-    "create_simulated_additions:ckb_redstone_computator"
-  ]
-}
+    "create_simulated_additions:ckb_redstone_computator",
+  	"copycats:copycat_vertical_slope",
+  	"copycats:copycat_slope",
+  	"copycats:copycat_slope_layer",
+  	"copycats:copycat_fence_gate",
+  	"copycats:copycat_wooden_pressure_plate",
+  	"copycats:copycat_stone_pressure_plate",
+  	"copycats:copycat_light_weighted_pressure_plate",
+  	"copycats:copycat_ladder",
+  	"copycats:copycat_heavy_weighted_pressure_plate",
+  	"copycats:copycat_large_cogwheel",
+  	"copycats:copycat_cogwheel",
+  	"copycats:copycat_shaft"
+]
