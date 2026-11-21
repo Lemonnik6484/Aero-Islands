@@ -1353,14 +1353,6 @@
       "sha1": "35494e6c027e9b91ddea2de149b377b95e29951b"
     },
     {
-      "path": "overrides/config/lss-client-config.yaml",
-      "sha1": "7a8e5cba672fe0838b09d42ed931118f7b24527f"
-    },
-    {
-      "path": "overrides/config/lss-server-config.yaml",
-      "sha1": "d17cd810a560af8a0b47d1c03b9ae16ed867ebdd"
-    },
-    {
       "path": "overrides/config/manual_labour.json",
       "sha1": "7591747e3d9489ec72a03b3dc93dd9af3576f567"
     },
