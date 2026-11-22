@@ -866,7 +866,7 @@
     },
     {
       "path": "overrides/config/asyncparticles/asyncparticles-mixin.properties",
-      "sha1": "72583bfbf24ad536646b55da1db67100cccbbd09"
+      "sha1": "e364d0e8539cf1a5dd8df7841b39c1be618a17d4"
     },
     {
       "path": "overrides/config/asyncparticles/asyncparticles.json",
@@ -1073,8 +1073,12 @@
       "sha1": "b3f504a9f9810fea1fa4e6837cbb9e922137b537"
     },
     {
+      "path": "overrides/config/dragonlib-client.toml",
+      "sha1": "9aaf3a769a464973e1fbd20b6bd6ffd08ede5eb6"
+    },
+    {
       "path": "overrides/config/dragonlib-common.toml",
-      "sha1": "3faf5cef1a2b2ccadb1eb9b8e70f97efb3b1e54e"
+      "sha1": "d84475ee65622c4c07908bd9e16f19da736c035b"
     },
     {
       "path": "overrides/config/dragonlib-server.toml",
@@ -1850,7 +1854,7 @@
     },
     {
       "path": "overrides/config/voicechat/voicechat-client.properties",
-      "sha1": "f3734ddac85aeaf4337e800b80368af2f31b51f8"
+      "sha1": "4bc4e22a33991469985a5284eb0473e404c769a1"
     },
     {
       "path": "overrides/config/voicechat/voicechat-server.properties",
@@ -1954,7 +1958,7 @@
     },
     {
       "path": "overrides/config/zfastnoise.mixin.properties",
-      "sha1": "12ffd306a2a35407c22748bcd8dc50a004ba8c15"
+      "sha1": "718866402d8fe065978f8d87aff86c25bbb8b5a3"
     },
     {
       "path": "overrides/datapacks/void_c.zip",
@@ -2085,8 +2089,8 @@
       "sha1": "6a3f00760e2cfb8d858daf2d0287fb80d02d1012"
     },
     {
-      "path": "overrides/mods/coolpeplaero-1.5.5.jar",
-      "sha1": "d75ec5c942c23240a1c303f5084508391c053822"
+      "path": "overrides/mods/coolpeplaero-1.5.6.jar",
+      "sha1": "1a015a1b386f3e6478f5571991bcfc7ae75616e8"
     },
     {
       "path": "overrides/mods/skylight-1.0.0.jar",

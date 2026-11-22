@@ -1,0 +1,4 @@
+	[dragonlib_client_config.experimental]
+		#EXPERIMENTAL: When enabled, text is rendered with smooth edges, which improves readability with small font sizes or at far distances and reduces visual noise. PLEASE NOTE: Turn this option OFF, if it is causing issues with text rendering. (Default: AUTO, AUTO = Disabled when using shader packs)
+		#Allowed Values: AUTO, ON, OFF
+		smooth_text = "AUTO"
