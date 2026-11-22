@@ -1,0 +1,23 @@
+{
+  "name": "LOD Server Support",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "lKiXKLvv",
+      "slug": "lod-server-support",
+      "versionId": "PEnoUn7P",
+      "versionNumber": "v0.23.0-beta.1+neoforge+mc1.21.1",
+      "filename": "lod-server-support-neoforge-0.23.0-beta.1+1.21.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/lKiXKLvv/versions/PEnoUn7P/lod-server-support-neoforge-0.23.0-beta.1%2B1.21.1.jar",
+      "sha1": "4dda86cbe5f30a0712c17c8e377521e1e083549e",
+      "sha512": "f9bd1d00818b9245cf0d6871965c351d46c13f3047c02fac924f878b85accfae4af3576e48357a4d84ceae64480eb8564a34dfa9f74a00aee42e8e72c6fa6e82",
+      "fileSize": 14640572
+    }
+  },
+  "dependents": [],
+  "clientSide": "optional",
+  "serverSide": "optional"
+}

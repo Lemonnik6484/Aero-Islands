@@ -38,7 +38,7 @@
     },
     {
       "path": "content/mods/amendments.json",
-      "sha1": "5b0a449655e3836aa68a07fdba61e0fefee03419"
+      "sha1": "ef857e078a33980212813ab505de33a6f54ff6ae"
     },
     {
       "path": "content/mods/analog-audio.json",
@@ -82,7 +82,7 @@
     },
     {
       "path": "content/mods/better-modlist.json",
-      "sha1": "ef3afa798c80d44767c2679fc73747559dfb5ee5"
+      "sha1": "b54b3ed7c38b2495197d567b8d160d8b40f45ca6"
     },
     {
       "path": "content/mods/better-smoke.json",
@@ -126,7 +126,7 @@
     },
     {
       "path": "content/mods/cloth-config.json",
-      "sha1": "4d8c0f1ab2f4c6d8f09b4fb3a981580155017346"
+      "sha1": "7421485218971e90088bb496ec3166846a85e4da"
     },
     {
       "path": "content/mods/connector.json",
@@ -273,6 +273,10 @@
       "sha1": "b4d90a55e61aa6240c79fe80a66d956a0b081933"
     },
     {
+      "path": "content/mods/distanthorizons.json",
+      "sha1": "33be7776a5e4d732e90c973ae7c0b52a28e20686"
+    },
+    {
       "path": "content/mods/dragonlib.json",
       "sha1": "734c409ab4890f9f3c6c830236e330b1e46acbb8"
     },
@@ -302,7 +306,7 @@
     },
     {
       "path": "content/mods/entityculling.json",
-      "sha1": "71b74535ea6b0407b546ca6be927ce4394ba24fb"
+      "sha1": "ba443ffdabaed0d2eecf5e72710ccf4265be1874"
     },
     {
       "path": "content/mods/exposure.json",
@@ -362,7 +366,7 @@
     },
     {
       "path": "content/mods/geckolib.json",
-      "sha1": "cefe889d88131eba34b41861df4f2127c54f5dc0"
+      "sha1": "d68a33550ad6527ee74f0ec206cc03d96f5b4990"
     },
     {
       "path": "content/mods/gla.json",
@@ -455,6 +459,10 @@
     {
       "path": "content/mods/lmft.json",
       "sha1": "0c8f8e9ef062126f686f2c6d1a056b1dbddeba17"
+    },
+    {
+      "path": "content/mods/lod-server-support.json",
+      "sha1": "df418f0ffea38681521359dbbaae0281823a32eb"
     },
     {
       "path": "content/mods/manual-labour.json",
@@ -721,10 +729,6 @@
       "sha1": "2e72f0bf22f75ef71cbbe41cc65248ba4d0b6ac0"
     },
     {
-      "path": "content/mods/voxy-worldgen.json",
-      "sha1": "e0f9aec040e35e321dcecf1214ae9c559b9f7fe9"
-    },
-    {
       "path": "content/mods/voxy.json",
       "sha1": "61d7ba5c2fdb866e19f368e9334eac5366657dfe"
     },
@@ -770,7 +774,7 @@
     },
     {
       "path": "overrides/config/DistantHorizons.toml",
-      "sha1": "e99b2f1df1cc7b65ff4f26a6c3b30cca50d800ba"
+      "sha1": "0f65a7dcad6e1a417182a841b113d4f13b2b0b18"
     },
     {
       "path": "overrides/config/MouseTweaks.cfg",
@@ -822,11 +826,11 @@
     },
     {
       "path": "overrides/config/amendments-client.toml",
-      "sha1": "93a629638998542dad070e1e3835d19cb2a193df"
+      "sha1": "d92a6f3987a36970b108dc06a25b368c301c13fe"
     },
     {
       "path": "overrides/config/amendments-common.toml",
-      "sha1": "416240fe58cbde05826bbfade3868f609835d238"
+      "sha1": "4e7803c17066d379da857ddc6a0d550526dc525e"
     },
     {
       "path": "overrides/config/analogaudio/analogaudio.client.toml",
@@ -866,7 +870,7 @@
     },
     {
       "path": "overrides/config/asyncparticles/asyncparticles-mixin.properties",
-      "sha1": "e364d0e8539cf1a5dd8df7841b39c1be618a17d4"
+      "sha1": "986dd419dcba2155334eea7e7d0f2cc1bf82bdfa"
     },
     {
       "path": "overrides/config/asyncparticles/asyncparticles.json",
@@ -1385,6 +1389,10 @@
       "sha1": "35494e6c027e9b91ddea2de149b377b95e29951b"
     },
     {
+      "path": "overrides/config/lss-client-config.yaml",
+      "sha1": "7a8e5cba672fe0838b09d42ed931118f7b24527f"
+    },
+    {
       "path": "overrides/config/manual_labour.json",
       "sha1": "7591747e3d9489ec72a03b3dc93dd9af3576f567"
     },
@@ -1594,7 +1602,7 @@
     },
     {
       "path": "overrides/config/respackopts/_respackopts.conf",
-      "sha1": "2f86c375605ccaaa40e96eb3c959f75a41454326"
+      "sha1": "a0704fa06f4228bbead03d2925fed5ca88d4d84d"
     },
     {
       "path": "overrides/config/ritchiesprojectilelib-server.toml",
@@ -1958,7 +1966,7 @@
     },
     {
       "path": "overrides/config/zfastnoise.mixin.properties",
-      "sha1": "718866402d8fe065978f8d87aff86c25bbb8b5a3"
+      "sha1": "4b6d176bdf40928b477ba4431cc0deefbef71c62"
     },
     {
       "path": "overrides/datapacks/void_c.zip",

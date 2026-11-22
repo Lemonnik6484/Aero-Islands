@@ -1,6 +1,6 @@
 # Aero Islands
 
-**Minecraft 1.21.1 · NeoForge 21.1.267**, 183 mods (4 dependencies), 1 resource pack, 1 data pack
+**Minecraft 1.21.1 · NeoForge 21.1.267**, 184 mods (4 dependencies), 1 resource pack, 1 data pack
 
 ## Contents
 
@@ -11,7 +11,7 @@
 - [Aetherial Islands](https://modrinth.com/project/aetherial-islands) `2.0.2+mod`
 - [All with You](https://modrinth.com/project/all-with-you) `1.3.2`
 - [Ambient Environment](https://modrinth.com/project/ambient-environment) `18.0.0.2`
-- [Amendments](https://modrinth.com/project/amendments) `1.21-2.2.7`
+- [Amendments](https://modrinth.com/project/amendments) `1.21-2.3.0`
 - [Analog Audio](https://modrinth.com/project/analog-audio) `0.1.5-hotfix.1+1.21.1`
 - [AppleSkin](https://modrinth.com/project/appleskin) `3.0.9+mc1.21`
 - [Architectury API](https://modrinth.com/project/architectury-api) `13.0.12+neoforge`
@@ -71,6 +71,7 @@
 - [Desire](https://modrinth.com/project/desiremod) `1.1.1-1.21.1`
 - [Diabolical Islands](https://modrinth.com/project/diabolical-islands) `1.0.0+mod`
 - [Discord Integration](https://modrinth.com/project/dcintegration) `3.0.7-1.21`
+- [Distant Horizons](https://modrinth.com/project/distanthorizons) `3.3.3-1.21.1`
 - [DragonLib](https://modrinth.com/project/dragonlib) `3.1.0-beta.1+1.21.1-neoforge`
 - [Drizzleproof](https://modrinth.com/project/drizzleproof) `3.0.0`
 - [Durability Tooltip](https://modrinth.com/project/durability-tooltip) `1.2.0-neoforge-mc1.21`
@@ -79,7 +80,7 @@
 - [EMI++](https://modrinth.com/project/emixx) `2.1.0`
 - [EMI: Create Schematics](https://modrinth.com/project/emi-create-schematics) `1.1.0`
 - [Enchantment Descriptions](https://modrinth.com/project/enchantment-descriptions) `21.1.11`
-- [Entity Culling](https://modrinth.com/project/entityculling) `1.12.1`
+- [Entity Culling](https://modrinth.com/project/entityculling) `1.12.2`
 - [Exposure](https://modrinth.com/project/exposure) `1.9.21`
 - [FancyMenu](https://modrinth.com/project/fancymenu) `3.10.0-1.21.1-neoforge`
 - [Farmer's Delight](https://modrinth.com/project/farmers-delight) `1.21.1-1.3.4`
@@ -93,7 +94,7 @@
 - [Fragmentum](https://modrinth.com/project/fragmentum) `5.4.0`
 - [Fusion (Connected Textures)](https://modrinth.com/project/fusion-connected-textures) `1.3.16-neoforge-mc1.21.1`
 - [Fzzy Config](https://modrinth.com/project/fzzy-config) `0.7.7+fix1+1.21+neoforge`
-- [Geckolib](https://modrinth.com/project/geckolib) `4.9.3`
+- [Geckolib](https://modrinth.com/project/geckolib) `4.9.4`
 - [GLA](https://modrinth.com/project/gla) `1.0.0`
 - [GPUBooster](https://modrinth.com/project/gputape) `1.3.2-1.21-1.21.1-neo`
 - [Immersive Overlays](https://modrinth.com/project/immersive-overlays) `1.8.7+1.21.1-neoforge`
@@ -116,6 +117,7 @@
 - [Lithium](https://modrinth.com/project/lithium) `mc1.21.1-0.15.4-neoforge`
 - [Lithostitched](https://modrinth.com/project/lithostitched) `1.8.1-neoforge-21.1`
 - [Load My F***ing Tags](https://modrinth.com/project/lmft) `1.1.1+1.21.9`
+- [LOD Server Support](https://modrinth.com/project/lod-server-support) `v0.23.0-beta.1+neoforge+mc1.21.1`
 - [Manual Labour](https://modrinth.com/project/manual-labour) `2.6.1-1.21.1`
 - [Melody](https://modrinth.com/project/melody) `1.0.10-1.21-neoforge`
 - [Moonlight Lib](https://modrinth.com/project/moonlight) `1.21.1-3.8.3`
@@ -184,7 +186,6 @@
 - [vista](https://modrinth.com/project/vista_tv) `1.21.1-5.6.10`
 - [Void Water](https://modrinth.com/project/void-water) `1.0.2`
 - [voxy](https://modrinth.com/project/voxy) `0.2.16-beta`
-- [Voxygen](https://modrinth.com/project/voxy-worldgen) `2.4.2`
 - [WildSprout: Plains](https://modrinth.com/project/wildsprout-plains) `1.3.0`
 - [Xaero's Minimap](https://modrinth.com/project/xaeros-minimap) `neoforge-1.21.1-26.6.0`
 - [Xaero's World Map](https://modrinth.com/project/xaeros-world-map) `neoforge-1.21.1-1.47.0`

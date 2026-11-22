@@ -11,3 +11,5 @@
 options.txt
 servers.dat
 config/flywheel-client.toml
+config/DistantHorizons.toml
+config/roxy-warning-screen.json
