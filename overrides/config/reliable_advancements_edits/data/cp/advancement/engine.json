@@ -5,8 +5,7 @@
       "conditions": {
         "items": [
           {
-            "items": "create_simulated_additions:ckbgi_2_engine",
-            "count": 1
+            "items": "create_simulated_additions:ckbgi_2_engine"
           }
         ]
       }

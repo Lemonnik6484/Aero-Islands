@@ -1,6 +1,6 @@
 # Aero Islands
 
-**Minecraft 1.21.1 · NeoForge 21.1.267**, 182 mods (4 dependencies), 1 resource pack, 1 data pack
+**Minecraft 1.21.1 · NeoForge 21.1.267**, 183 mods (4 dependencies), 1 resource pack, 1 data pack
 
 ## Contents
 
@@ -71,7 +71,7 @@
 - [Desire](https://modrinth.com/project/desiremod) `1.1.1-1.21.1`
 - [Diabolical Islands](https://modrinth.com/project/diabolical-islands) `1.0.0+mod`
 - [Discord Integration](https://modrinth.com/project/dcintegration) `3.0.7-1.21`
-- [DragonLib](https://modrinth.com/project/dragonlib) `3.0.29+1.21.1-neoforge`
+- [DragonLib](https://modrinth.com/project/dragonlib) `3.1.0-beta.1+1.21.1-neoforge`
 - [Drizzleproof](https://modrinth.com/project/drizzleproof) `3.0.0`
 - [Durability Tooltip](https://modrinth.com/project/durability-tooltip) `1.2.0-neoforge-mc1.21`
 - [EMI](https://modrinth.com/project/emi) `1.1.24+1.21.1+neoforge`
@@ -103,7 +103,7 @@
 - [Jade 🔍](https://modrinth.com/project/jade) `15.10.6+neoforge`
 - [JB Mono](https://modrinth.com/project/jb-mono) `1.0`
 - [Just Dandy](https://modrinth.com/project/just-dandy) `3.0.5`
-- [Just Enough Items (JEI)](https://modrinth.com/project/jei) `19.71.0.475`
+- [Just Enough Items (JEI)](https://modrinth.com/project/jei) `19.76.1.478`
 - [Just Zoom](https://modrinth.com/project/just-zoom) `3.1.0-1.21.1-neoforge`
 - [Keybind Atlas](https://modrinth.com/project/keybind-atlas) `3.0.0`
 - [Konkrete](https://modrinth.com/project/konkrete) `1.9.9-1.21-neoforge`
@@ -116,7 +116,7 @@
 - [Lithium](https://modrinth.com/project/lithium) `mc1.21.1-0.15.4-neoforge`
 - [Lithostitched](https://modrinth.com/project/lithostitched) `1.8.1-neoforge-21.1`
 - [Load My F***ing Tags](https://modrinth.com/project/lmft) `1.1.1+1.21.9`
-- [Manual Labour](https://modrinth.com/project/manual-labour) `2.6.0-1.21.1`
+- [Manual Labour](https://modrinth.com/project/manual-labour) `2.6.1-1.21.1`
 - [Melody](https://modrinth.com/project/melody) `1.0.10-1.21-neoforge`
 - [Moonlight Lib](https://modrinth.com/project/moonlight) `1.21.1-3.8.3`
 - [MossyLib](https://modrinth.com/project/mossylib) `2.0.0+1.21.1+neoforge`
@@ -131,6 +131,7 @@
 - [Nuit](https://modrinth.com/project/nuit) `mc1.21.1-1.0.0-beta.6+neoforge`
 - [NumFlux](https://modrinth.com/project/numflux) `1.0.4.1-1.21.1-neo`
 - [Offgrid](https://modrinth.com/project/offgrid) `1.0.7+1.21.1-neoforge`
+- [Onion Onion](https://modrinth.com/project/onion-onion) `3.1.0`
 - [Paxi](https://modrinth.com/project/paxi) `1.21.1-NeoForge-5.1.3`
 - [Peaceful Nights](https://modrinth.com/project/peaceful-nights) `0.1.0`
 - [Polymorph](https://modrinth.com/project/polymorph) `1.2.0+1.21.1`
@@ -138,7 +139,7 @@
 - [Presence Footsteps (NeoForge)](https://modrinth.com/project/pf-neoforge) `1.21.1-1.12.0-beta.1`
 - [Presence Footsteps x Sable (Aeronautics Compat)](https://modrinth.com/project/presence-footsteps-x-sable) `1.0`
 - [Prickle](https://modrinth.com/project/prickle) `21.1.11`
-- [Reese's Sodium Options](https://modrinth.com/project/reeses-sodium-options) `mc1.21.1-2.2.4+neoforge`
+- [Reese's Sodium Options](https://modrinth.com/project/reeses-sodium-options) `mc1.21.1-2.2.6+neoforge`
 - [Reliable Advancements](https://modrinth.com/project/reliable-advancements) `6.4.0+1.21.1-neoforge`
 - [Reliable EMI (REMI)](https://modrinth.com/project/reliable-emi) `4.9.0-1.21.1-neoforge`
 - [Reliable Gliders](https://modrinth.com/project/reliable-gliders) `2.1.0+1.21.1-neoforge`
@@ -149,7 +150,7 @@
 - [Respackopts](https://modrinth.com/project/respackopts) `4.14.0+1.21.1.forge.4`
 - [Rhino](https://modrinth.com/project/rhino) `2101.2.8-build.91+Rhino-1.21`
 - [Ritchie's Projectile Library](https://modrinth.com/project/rpl) `2.1.2`
-- [Roxy](https://modrinth.com/project/roxy) `0.4.2-neoforge+mc1.21.1`
+- [Roxy](https://modrinth.com/project/roxy) `0.4.2.1-neoforge+mc1.21.1`
 - [Sable](https://modrinth.com/project/sable) `2.0.6+mc1.21.1`
 - [Sable CleanUp](https://modrinth.com/project/sable-cleanup) `0.4.0`
 - [Sable Pathfinder](https://modrinth.com/project/sable-pathfinder) `1.4.0`
@@ -180,7 +181,7 @@
 - [TT20 (TPS Fixer)](https://modrinth.com/project/tt20) `0.9.3`
 - [Veil](https://modrinth.com/project/veil) `4.5.2`
 - [Verdant](https://modrinth.com/project/verdant-mod) `1.21.1-0.2.0`
-- [vista](https://modrinth.com/project/vista_tv) `1.21.1-5.6.9`
+- [vista](https://modrinth.com/project/vista_tv) `1.21.1-5.6.10`
 - [Void Water](https://modrinth.com/project/void-water) `1.0.2`
 - [voxy](https://modrinth.com/project/voxy) `0.2.16-beta`
 - [Voxygen](https://modrinth.com/project/voxy-worldgen) `2.4.2`

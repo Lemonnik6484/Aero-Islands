@@ -5,8 +5,7 @@
       "conditions": {
         "items": [
           {
-            "items": "aeronautics:wooden_propeller",
-            "count": 1
+            "items": "aeronautics:wooden_propeller"
           }
         ]
       }

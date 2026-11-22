@@ -1,4 +1,22 @@
 {
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "all_with_you:backpack"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "impossible"
+    ]
+  ],
+  "parent": "cp:main",
   "display": {
     "icon": {
       "id": "all_with_you:backpack"
@@ -7,26 +25,7 @@
     "description": "Get yourself a backpack",
     "frame": "task"
   },
-  "criteria": {
-    "impossible": {
-      "trigger": "minecraft:inventory_changed",
-      "conditions": {
-        "items": [
-          {
-            "items": "all_with_you:backpack",
-            "count": 1
-          }
-        ]
-      }
-    }
-  },
-  "parent": "cp:main",
   "parents": [
     "cp:main"
-  ],
-  "requirements": [
-    [
-      "impossible"
-    ]
   ]
 }

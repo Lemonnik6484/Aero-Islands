@@ -8,13 +8,13 @@
     "modrinth": {
       "id": "kCbtgaek",
       "slug": "manual-labour",
-      "versionId": "olpyERjC",
-      "versionNumber": "2.6.0-1.21.1",
-      "filename": "manual_labour-1.21.1-2.6.0.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/kCbtgaek/versions/olpyERjC/manual_labour-1.21.1-2.6.0.jar",
-      "sha1": "f514988053eca1a40ddac4d6b3e028acbeb6881c",
-      "sha512": "96c5f01c04552c6f592951887949174bbafa38788d8aa467ddafe367a2ed656cbb81a5480b9ebd5afc536e226f44b3f8b482d33d049b7809ad782af118003ea8",
-      "fileSize": 2395159
+      "versionId": "LtQ3RH9g",
+      "versionNumber": "2.6.1-1.21.1",
+      "filename": "manual_labour-1.21.1-2.6.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/kCbtgaek/versions/LtQ3RH9g/manual_labour-1.21.1-2.6.1.jar",
+      "sha1": "9f35bcbe603a10b5033273f39397dc67622357eb",
+      "sha512": "9b5d2617403d62a912166755d69e8ad7a777402b4bce5d509c4208a8ef99625854ebe8af93bf39c23e9e944690c926caca5bff2de19d9431dc430bd59e293454",
+      "fileSize": 2395334
     }
   },
   "dependents": [],

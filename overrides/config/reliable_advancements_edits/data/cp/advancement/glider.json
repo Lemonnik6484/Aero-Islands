@@ -5,8 +5,7 @@
       "conditions": {
         "items": [
           {
-            "items": "reliable_gliders:glider",
-            "count": 1
+            "items": "reliable_gliders:glider"
           }
         ]
       }

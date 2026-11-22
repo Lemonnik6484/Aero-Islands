@@ -1,0 +1,23 @@
+{
+  "name": "Onion Onion",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "vC6rKlKN",
+      "slug": "onion-onion",
+      "versionId": "P0cjFqM9",
+      "versionNumber": "3.1.0",
+      "filename": "oniononion-3.1.0+1.21.1-neoforge.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/vC6rKlKN/versions/P0cjFqM9/oniononion-3.1.0%2B1.21.1-neoforge.jar",
+      "sha1": "42896beba17e5776483581385e7c1ef3024465c7",
+      "sha512": "08d07b2355c71601bf46379a5c6555856de86011ed3c332fcbf55dcca9e8b37ae49f08142b3ee4e7d4318cd6d113b2a9ac7381bc6de1a6b349e576d588fd1ae3",
+      "fileSize": 1777754
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

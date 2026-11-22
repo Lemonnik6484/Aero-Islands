@@ -5,8 +5,7 @@
       "conditions": {
         "items": [
           {
-            "items": "farmersdelight:canvas",
-            "count": 1
+            "items": "farmersdelight:canvas"
           }
         ]
       }

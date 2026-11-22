@@ -8,13 +8,13 @@
     "modrinth": {
       "id": "Bh37bMuy",
       "slug": "reeses-sodium-options",
-      "versionId": "XjF2IkL8",
-      "versionNumber": "mc1.21.1-2.2.4+neoforge",
-      "filename": "reeses-sodium-options-neoforge-2.2.4+mc1.21.1.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/Bh37bMuy/versions/XjF2IkL8/reeses-sodium-options-neoforge-2.2.4%2Bmc1.21.1.jar",
-      "sha1": "e9e6d101b31acb51539141937ad5b069ff2ccc4d",
-      "sha512": "a99d41a41ca83376c4fa29ed22a99e98288a7e9a4749fbf6d3724b9804b8e66648e267c6851a53d040069fdc2d889f8205cbb444bee10a35be840d13fc9ed477",
-      "fileSize": 258894
+      "versionId": "nRS0RBpc",
+      "versionNumber": "mc1.21.1-2.2.6+neoforge",
+      "filename": "reeses-sodium-options-neoforge-2.2.6+mc1.21.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/Bh37bMuy/versions/nRS0RBpc/reeses-sodium-options-neoforge-2.2.6%2Bmc1.21.1.jar",
+      "sha1": "2222aa3ad9aa9688b63f7640a6015467c06691c1",
+      "sha512": "1b01b52e26739a0584c805c9cbcbdb12b6fe26f5925c76564ec8319ca9985651d766881a1e1eb8de12ab8cfed54d83d1a751877e6aece0beec67003713c3402c",
+      "fileSize": 266738
     }
   },
   "dependents": [],

@@ -5,8 +5,7 @@
       "conditions": {
         "items": [
           {
-            "items": "coolpeplaero:canvas_envelope",
-            "count": 1
+            "items": "coolpeplaero:canvas_envelope"
           }
         ]
       }
